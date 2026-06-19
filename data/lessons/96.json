@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Festival",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Dead",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "held",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Japan.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -67,107 +67,107 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "festival",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cheerful",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "occasion,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "day,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dead",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "return",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "homes",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "welcomed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "living.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -179,71 +179,71 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "expected",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hungry",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "journey,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "food",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "laid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -255,63 +255,63 @@
       "tokens": [
         {
           "text": "Specially-made",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lanterns",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hung",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "each",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "help",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "dead",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "way.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -323,31 +323,31 @@
       "tokens": [
         {
           "text": "All",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "night",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dance",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sing.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -359,139 +359,139 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "morning,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "food",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "laid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "dead",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "thrown",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "river",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sea",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "considered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "unlucky",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "anyone",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "living",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "eat",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -503,123 +503,123 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "towns",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sea,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tiny",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lanterns",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hung",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "streets",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "night",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "before,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "placed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "water",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "festival",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "over.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -631,79 +631,79 @@
       "tokens": [
         {
           "text": "Thousands",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "lanterns",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "slowly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "drift",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sea",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "guiding",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dead",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "return",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "journey",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -715,103 +715,103 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "moving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "spectacle,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "crowds",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "stand",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shore",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "watching",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lanterns",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drifting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "away",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "seen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

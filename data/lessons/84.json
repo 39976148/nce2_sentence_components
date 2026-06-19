@@ -11,39 +11,39 @@
       "tokens": [
         {
           "text": "Busmen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "decided",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "go",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "strike",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "week.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -55,35 +55,35 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "strike",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "due",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "begin",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Tuesday.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -95,35 +95,35 @@
       "tokens": [
         {
           "text": "No",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "knows",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "last.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -135,79 +135,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "busmen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "stated",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "strike",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "continue",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "general",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "agreement",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "reached",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "pay",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "working",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "conditions.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -219,55 +219,55 @@
       "tokens": [
         {
           "text": "Most",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "believe",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "strike",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "least",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "week.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -279,75 +279,75 @@
       "tokens": [
         {
           "text": "Many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "owners",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "private",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "offer",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'free",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rides'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "work.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -359,43 +359,43 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "relieve",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pressure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "trains",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "extent.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -407,63 +407,63 @@
       "tokens": [
         {
           "text": "Meanwhile,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "number",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "university",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "volunteered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "buses",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "strike",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lasts.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -475,91 +475,91 @@
       "tokens": [
         {
           "text": "All",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "expert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drivers,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "buses,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pass",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "test.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -571,51 +571,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "test",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "days'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -627,55 +627,55 @@
       "tokens": [
         {
           "text": "Even",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "so,",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "difficult",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "work.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -687,71 +687,71 @@
       "tokens": [
         {
           "text": "But",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "far,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "public",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "expressed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gratitude",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "letters",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Press.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -763,59 +763,59 @@
       "tokens": [
         {
           "text": "Only",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "objected",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "too",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "fast!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

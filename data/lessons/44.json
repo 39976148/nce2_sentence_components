@@ -11,87 +11,87 @@
       "tokens": [
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Anne",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sterling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "think",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "risk",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "taking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ran",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "forest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "men.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -103,111 +103,111 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rushed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "having",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "picnic",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "edge",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "forest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "tried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "steal",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "handbag.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -219,83 +219,83 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "struggle,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "strap",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "broke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and,",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bag",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "possession,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "both",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "started",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "running",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "trees.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -307,43 +307,43 @@
       "tokens": [
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Sterling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "angry",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ran",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -355,47 +355,47 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "breath,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "continued",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "run.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -407,115 +407,115 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "caught",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sat",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "contents",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bag,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ran",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "straight",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "them.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -527,59 +527,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "such",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fright",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dropped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bag",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "ran",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -591,59 +591,59 @@
       "tokens": [
         {
           "text": "'The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "strap",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "needs",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mending,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sterling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "later,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'but",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "steal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anything.'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

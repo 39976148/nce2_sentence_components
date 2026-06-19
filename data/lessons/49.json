@@ -11,83 +11,83 @@
       "tokens": [
         {
           "text": "Tired",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sleeping",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "floor,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Teheran",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "saved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "buy",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "real",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bed.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -99,87 +99,87 @@
       "tokens": [
         {
           "text": "For",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "life,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "became",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "proud",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "owner",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "springs",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mattress.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,71 +191,71 @@
       "tokens": [
         {
           "text": "Because",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "weather",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "hot,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "carried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "roof",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "house.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -267,75 +267,75 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "slept",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "well",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "nights,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "third",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "night,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "storm",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "blew",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -347,75 +347,75 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "gust",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wind",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "swept",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "roof",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crashing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "courtyard",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "below.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -427,59 +427,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "wake",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "struck",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ground.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -491,51 +491,51 @@
       "tokens": [
         {
           "text": "Although",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "smashed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pieces,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "miraculously",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "unhurt.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -547,43 +547,43 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mattress.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -595,103 +595,103 @@
       "tokens": [
         {
           "text": "Glancing",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bits",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wood",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "metal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "lay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "around",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sadly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "picked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "mattress",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "carried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -703,59 +703,59 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "floor,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "promptly",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sleep",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "again.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

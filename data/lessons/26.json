@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "art",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "student",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "paint",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "lot",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pictures.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -67,35 +67,35 @@
       "tokens": [
         {
           "text": "Many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pretend",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "understand",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "art.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -107,39 +107,39 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "picture",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'about'.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -151,35 +151,35 @@
       "tokens": [
         {
           "text": "Of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "course,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "pictures",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'about'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anything.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -191,23 +191,23 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pretty",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "patterns.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -219,55 +219,55 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pretty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "curtain",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "material.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -279,55 +279,55 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "think",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "appreciate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pictures",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "better",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anyone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "else.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -339,15 +339,15 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "notice",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -359,71 +359,71 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sister",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "seven,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "tells",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "whether",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pictures",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "good",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "not.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -435,27 +435,27 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "room",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "yesterday.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -467,27 +467,27 @@
       "tokens": [
         {
           "text": "'What",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "doing?'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -499,43 +499,43 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "hanging",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "picture",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wall,'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -547,23 +547,23 @@
       "tokens": [
         {
           "text": "'it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "one.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -575,51 +575,51 @@
       "tokens": [
         {
           "text": "Do",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it?'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "She",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "critically",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "moment.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -631,71 +631,71 @@
       "tokens": [
         {
           "text": "'it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "right,'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "said,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'but",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "upside",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "down?'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "again.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -707,15 +707,15 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "right!",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -727,11 +727,11 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was!",
-          "role": ""
+          "role": "系动词"
         }
       ]
     }

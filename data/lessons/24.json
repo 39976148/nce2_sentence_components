@@ -11,39 +11,39 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "entered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hotel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "manager's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "office",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sat",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "down.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -55,43 +55,43 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lost",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "$50",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "felt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "upset.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -103,99 +103,99 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "left",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "room,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'and",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "now.'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "The",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "manager",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sympathetic,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "nothing.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -207,31 +207,31 @@
       "tokens": [
         {
           "text": "'Everyone's",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "losing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "these",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "days,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -243,71 +243,71 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "started",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "complain",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wicked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "interrupted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "knock",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "door.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -319,47 +319,47 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "girl",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "envelope",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "desk.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -371,15 +371,15 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "contained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "$50.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -391,39 +391,39 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gentleman's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "room,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -435,59 +435,59 @@
       "tokens": [
         {
           "text": "'Well,'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "manager,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'there",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "honesty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world!'",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

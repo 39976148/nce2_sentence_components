@@ -11,43 +11,43 @@
       "tokens": [
         {
           "text": "Our",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "neighbour,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Captain",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Charles",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Alison,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sail",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Portsmouth",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tomorrow.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -59,47 +59,47 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "meet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "harbour",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "morning.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -111,35 +111,35 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boat,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Topsail.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -151,27 +151,27 @@
       "tokens": [
         {
           "text": "Topsail",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "famous",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "little",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "boat.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -183,35 +183,35 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sailed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Atlantic",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "times.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -223,63 +223,63 @@
       "tokens": [
         {
           "text": "Captain",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Alison",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "eight",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "o'clock,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "plenty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -291,55 +291,55 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "say",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "goodbye",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -351,31 +351,31 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "away",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "months.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -387,27 +387,27 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "proud",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -419,47 +419,47 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "part",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "important",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Atlantic.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

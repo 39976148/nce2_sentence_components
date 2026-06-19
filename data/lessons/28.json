@@ -11,55 +11,55 @@
       "tokens": [
         {
           "text": "Jasper",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "White",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "those",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "rare",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "believes",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ancient",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "myths.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -71,103 +71,103 @@
       "tokens": [
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "city,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "since",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "moved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trouble",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "owners.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -179,75 +179,75 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "returns",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "night,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "finds",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "someone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "parked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -259,75 +259,75 @@
       "tokens": [
         {
           "text": "Because",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "own",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garage",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "once.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -339,71 +339,71 @@
       "tokens": [
         {
           "text": "Jasper",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "'No",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Parking'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "signs",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "gate,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "these",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "effect.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -415,47 +415,47 @@
       "tokens": [
         {
           "text": "Now",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ugly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "head",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -467,47 +467,47 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ugliest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "faces",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "seen.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -519,67 +519,67 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Medusa,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gorgon.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -591,51 +591,51 @@
       "tokens": [
         {
           "text": "jasper",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "hopes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "turn",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "owners",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stone.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -647,43 +647,43 @@
       "tokens": [
         {
           "text": "But",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "none",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stone",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "yet!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

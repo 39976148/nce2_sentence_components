@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Wayle",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "river",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "cuts",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "park",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "home.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -75,39 +75,39 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sitting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Wayle",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "fine",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "afternoons.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -119,67 +119,67 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "warm",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Sunday,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sat",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "river",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bank",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "usual.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -191,71 +191,71 @@
       "tokens": [
         {
           "text": "Some",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "playing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "games",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bank",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rowing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "river.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -267,71 +267,71 @@
       "tokens": [
         {
           "text": "Suddenly,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "kicked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ball",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "towards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "boat.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -343,79 +343,79 @@
       "tokens": [
         {
           "text": "Some",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bank",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boat,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hear",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "them.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -427,55 +427,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "ball",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "struck",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "nearly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fell",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "water.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -487,79 +487,79 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "look",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "children,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sight:",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "run",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -571,39 +571,39 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "laughed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "realized",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "happened.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -615,59 +615,59 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "threw",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ball",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bank.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

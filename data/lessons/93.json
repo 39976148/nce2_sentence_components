@@ -11,123 +11,123 @@
       "tokens": [
         {
           "text": "One",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "famous",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "monuments",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Statue",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Liberty,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "presented",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "United",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "States",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "America",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "nineteenth",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "century",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "France.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -139,67 +139,67 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "statue,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "designed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sculptor",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Auguste",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Bartholdi,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ten",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "complete.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -211,79 +211,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "actual",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "figure",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "copper",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "supported",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "metal",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "framework",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "especially",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "constructed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Eiffel.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -295,99 +295,99 @@
       "tokens": [
         {
           "text": "Before",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "transported",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "United",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "States,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "site",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pedestal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "built.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -399,55 +399,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "site",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "chosen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "island",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "entrance",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "New",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "York",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Harbour.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -459,59 +459,59 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "1884,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "statue",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "151",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "feet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tall",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "erected",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Paris.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -523,51 +523,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "following",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "year,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "taken",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pieces",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "America.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -579,99 +579,99 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "October",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "1886,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "statue",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "together",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "again",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "officially",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "presented",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "American",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Bartholdi.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -683,123 +683,123 @@
       "tokens": [
         {
           "text": "Ever",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "since",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "monument",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "symbol",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "liberty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "millions",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "passed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "New",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "York",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Harbour",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "make",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "homes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "America.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

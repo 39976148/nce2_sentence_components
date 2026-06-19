@@ -11,47 +11,47 @@
       "tokens": [
         {
           "text": "Six",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trapped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mine",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "seventeen",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hours.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -63,59 +63,59 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "brought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "surface",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "may",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lives.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -127,27 +127,27 @@
       "tokens": [
         {
           "text": "However,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "rescue",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operations",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "proving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "difficult.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -159,59 +159,59 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "explosives",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "used,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "vibrations",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cause",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "roof",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mine",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "collapse.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -223,59 +223,59 @@
       "tokens": [
         {
           "text": "Rescue",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "workers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "therefore",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drilling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "north",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "side",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "mine.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -287,47 +287,47 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "intend",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bring",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "capsule.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -339,95 +339,95 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "layer",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rock",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "beneath",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "soil,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "completed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "job",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hours.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -439,79 +439,79 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "drilling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sixteen",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "go.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -523,99 +523,99 @@
       "tokens": [
         {
           "text": "Meanwhile,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "microphone,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lowered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mine",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "enabled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "keep",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "touch",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "closest",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "relatives.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -627,87 +627,87 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "running",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "food",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "drink,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cheerful",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "confident",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "soon.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -719,43 +719,43 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "rescue",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operations",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "progressing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "smoothly.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -767,71 +767,71 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "knew",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "difficult",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drill",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rock,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "heart.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

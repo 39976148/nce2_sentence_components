@@ -11,43 +11,43 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "received",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "brother,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Tim.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -59,19 +59,19 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Australia.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -83,31 +83,31 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "six",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "months.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -119,19 +119,19 @@
       "tokens": [
         {
           "text": "Tim",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "engineer.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -143,83 +143,83 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "working",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "firm",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "already",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "visited",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "number",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "different",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "places",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Australia.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -231,87 +231,87 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Australian",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Alice",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "springs,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "town",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "centre",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Australia.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -323,23 +323,23 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "visit",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Darwin.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -351,31 +351,31 @@
       "tokens": [
         {
           "text": "From",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "there,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "fly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Perth.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -387,63 +387,63 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "brother",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "abroad",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "fending",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trip",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "exciting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     }

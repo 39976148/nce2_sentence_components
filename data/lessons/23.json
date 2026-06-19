@@ -11,35 +11,35 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sister",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "yesterday.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -51,19 +51,19 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lives",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Nigeria.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -75,55 +75,55 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "letter,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "come",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "year.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -135,35 +135,35 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "comes,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "surprise.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -175,51 +175,51 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "living",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "beautiful",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "country.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -231,39 +231,39 @@
       "tokens": [
         {
           "text": "Work",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "begun",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sister",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "left.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -275,31 +275,31 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "completed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "five",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "months",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "ago.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -311,51 +311,51 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "letter,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "us.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -367,51 +367,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rooms",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lovely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garden.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -423,55 +423,55 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "house,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "looks",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "strange",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "people.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -483,43 +483,43 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "district.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

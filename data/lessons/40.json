@@ -11,67 +11,67 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "week",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "dinner",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "party,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hostess",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sit",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Rumbold.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -83,51 +83,51 @@
       "tokens": [
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Rumbold",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "unsmiling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lady",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tight",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "black",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "dress.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -139,55 +139,55 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "look",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "beside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "her.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -199,67 +199,67 @@
       "tokens": [
         {
           "text": "Her",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "eyes",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "fixed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "plate",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "busy",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "eating.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -271,23 +271,23 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "make",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "conversation.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -299,47 +299,47 @@
       "tokens": [
         {
           "text": "'A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "\"The",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Globe\"",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "soon,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -351,35 +351,35 @@
       "tokens": [
         {
           "text": "'Will",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "seeing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it?'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'No,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -391,47 +391,47 @@
       "tokens": [
         {
           "text": "'Will",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "spending",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "holidays",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "abroad",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "year?'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -443,15 +443,15 @@
       "tokens": [
         {
           "text": "'No,'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -463,35 +463,35 @@
       "tokens": [
         {
           "text": "'Will",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "staying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England?'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -503,15 +503,15 @@
       "tokens": [
         {
           "text": "'No,'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -523,47 +523,47 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "despair,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whether",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "enjoying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dinner.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -575,71 +575,71 @@
       "tokens": [
         {
           "text": "'Young",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "man,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'if",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "talked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "less,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "both",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "enjoy",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dinner!\"",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

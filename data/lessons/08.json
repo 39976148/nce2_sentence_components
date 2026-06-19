@@ -11,43 +11,43 @@
       "tokens": [
         {
           "text": "Joe",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Sanders",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "beautiful",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "town.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -59,63 +59,63 @@
       "tokens": [
         {
           "text": "Nearly",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "everybody",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "enters",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "'The",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Nicest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Garden",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Competition'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "each",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "year,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Joe",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wins",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "every",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -127,31 +127,31 @@
       "tokens": [
         {
           "text": "Bill",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Frith's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "larger",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Joe's.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -163,71 +163,71 @@
       "tokens": [
         {
           "text": "Bill",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "works",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "harder",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Joe",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "grows",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "flowers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "vegetables,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Joe's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "interesting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -239,59 +239,59 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "neat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "paths",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "built",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wooden",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bridge",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pool.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -303,47 +303,47 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gardens",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "too,",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "work.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -355,95 +355,95 @@
       "tokens": [
         {
           "text": "Every",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "enter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "competition",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "too,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "win",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "little",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "prize",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "worst",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "town!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

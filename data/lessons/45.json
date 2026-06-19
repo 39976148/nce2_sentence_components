@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "learnt",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sum",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lost.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -75,71 +75,71 @@
       "tokens": [
         {
           "text": "Sam",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Benton,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "local",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "butcher,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lost",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wallet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "taking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "savings",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "post",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "office.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -151,91 +151,91 @@
       "tokens": [
         {
           "text": "Sam",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "sure",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wallet",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "villagers,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "returned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -247,63 +247,63 @@
       "tokens": [
         {
           "text": "Three",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "months",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passed,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "morning,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Sam",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wallet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "front",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "door.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -315,255 +315,255 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "wrapped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "newspaper",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "contained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "half",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lost,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "together",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "note",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "said:",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'A",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thief,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "yes,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "50",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thief!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "months",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Sam",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "note:",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'Only",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "25",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thief",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "now!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "In",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sam's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "paid",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -575,47 +575,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "note",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "said:",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "100",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "honest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "now!'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

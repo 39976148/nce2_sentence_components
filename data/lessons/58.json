@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tiny",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Frinley",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "possess",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'cursed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "tree'.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -67,71 +67,71 @@
       "tokens": [
         {
           "text": "Because",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "mentioned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "newspaper,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "number",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "visitors",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Frinley",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "increased.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -143,99 +143,99 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "planted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "church",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fifty",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "recent",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "evil",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "reputation.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -247,91 +247,91 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "anyone",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "touches",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "tree,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bad",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "luck;",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "picks",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "leaf,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "die.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -343,55 +343,55 @@
       "tokens": [
         {
           "text": "Many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "villagers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "believe",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "already",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "claimed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "number",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "victims.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -403,71 +403,71 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "vicar",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cut",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "down,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "far",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "refused.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -479,63 +479,63 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pointed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cut",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "down,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "far",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "refused.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -547,111 +547,111 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pointed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tree",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "useful",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "source",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "income,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "tourists",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "parts",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "country",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -663,87 +663,87 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "spite",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "said,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tourists",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "picking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "leaves",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "cutting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "names",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tree-trunk.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -755,55 +755,55 @@
       "tokens": [
         {
           "text": "So",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "far,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "struck",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sudden",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "death!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

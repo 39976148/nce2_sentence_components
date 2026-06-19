@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "firemen",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "forest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "California.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -67,55 +67,55 @@
       "tokens": [
         {
           "text": "Since",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "began.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -127,71 +127,71 @@
       "tokens": [
         {
           "text": "Forest",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fires",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "caused",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "broken",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "glass",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cigarette",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ends",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "carelessly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "throw",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -203,67 +203,67 @@
       "tokens": [
         {
           "text": "Yesterday",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "firemen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "examined",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ground",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "carefully,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "broken",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "glass.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -275,59 +275,59 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "also",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "quite",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "sure",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "cigarette",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "start",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "fire.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -339,39 +339,39 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "morning,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "firemen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "accidentally",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "discovered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cause.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -383,79 +383,79 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "remains",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "snake",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "wound",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "round",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "electric",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "wires",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "16,000-volt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "power",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "line.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -467,43 +467,43 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "way,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "solve",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mystery.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -515,31 +515,31 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "explanation",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "simple",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "unusual.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -551,75 +551,75 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bird",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "snatched",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "snake",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ground",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dropped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wires.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -631,35 +631,35 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "snake",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wound",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "itself",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "round",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wires.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -671,71 +671,71 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so,",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sparks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ground",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "these",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "immediately",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "started",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

@@ -11,39 +11,39 @@
       "tokens": [
         {
           "text": "Dreams",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "finding",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "lost",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "treasure",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "almost",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "true",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "recently.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -55,99 +55,99 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "machine",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'The",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Revealer'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "invented",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "detect",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gold",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "buried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ground.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -159,87 +159,87 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "machine",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cave",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "seashore",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pirates",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hide",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gold.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -251,63 +251,63 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "pirates",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "bury",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gold",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cave",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fail",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "collect",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -319,71 +319,71 @@
       "tokens": [
         {
           "text": "Armed",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "machine,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "search",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "party",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cave",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hoping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "buried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "treasure.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -395,107 +395,107 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "leader",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "party",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "examining",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "soil",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "entrance",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cave",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "machine",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "showed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gold",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ground.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -507,43 +507,43 @@
       "tokens": [
         {
           "text": "Very",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "excited,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "party",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dug",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "feel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "deep.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -555,47 +555,47 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "finally",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gold",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "coin",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "almost",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "worthless.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -607,75 +607,75 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "party",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "searched",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cave",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thoroughly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anything",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "except",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "empty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tin",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trunk.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -687,75 +687,75 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "spite",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "this,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "confident",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "'The",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Revealer'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "may",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "reveal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "something",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "value",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "fairly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "soon.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

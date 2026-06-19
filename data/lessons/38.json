@@ -11,71 +11,71 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "friend,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Harrison,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "lived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Mediterranean",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "returned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -87,71 +87,71 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "dreamed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "retiring",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "England",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "planned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "settle",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "country.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -163,63 +163,63 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sooner",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "returned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "live",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "there.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -231,103 +231,103 @@
       "tokens": [
         {
           "text": "Almost",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "immediately",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "complain",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "weather,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "though",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "summer,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "continually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "bitterly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cold.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -339,43 +339,43 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sunshine,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Harrison",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shock.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -387,47 +387,47 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "acted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "lived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "before.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -439,43 +439,43 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "end,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bear.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -487,71 +487,71 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hardly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "settle",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sold",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "left",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "country.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -563,47 +563,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "dream",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ended",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "there.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -615,35 +615,35 @@
       "tokens": [
         {
           "text": "Harrison",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "thought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "everything",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "except",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "weather.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

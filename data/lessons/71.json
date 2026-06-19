@@ -11,119 +11,119 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "visit",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "London,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "things",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ben,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "famous",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "heard",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "B.B.C.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -135,83 +135,83 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Houses",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Parliament",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "burned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "1834,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "erected.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -223,111 +223,111 @@
       "tokens": [
         {
           "text": "Big",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Ben",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "takes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "name",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sir",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Benjamin",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Hall",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "responsible",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "making",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Houses",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Parliament",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "being",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "built.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -339,55 +339,55 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "immense",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "size,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "extremely",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "accurate",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "well.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -399,47 +399,47 @@
       "tokens": [
         {
           "text": "Officials",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Greenwich",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Observatory",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "checked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "twice",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "day.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -451,15 +451,15 @@
       "tokens": [
         {
           "text": "On",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "B.B.C.",
-          "role": ""
+          "role": "时间状语"
         }
       ]
     },
@@ -471,75 +471,75 @@
       "tokens": [
         {
           "text": "you",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hear",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "actually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "striking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "microphones",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "connected",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "clock",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tower.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -551,27 +551,27 @@
       "tokens": [
         {
           "text": "Big",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Ben",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rarely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "wrong.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -583,39 +583,39 @@
       "tokens": [
         {
           "text": "Once,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "failed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "give",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "correct",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -627,95 +627,95 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "painter",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "working",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tower",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hung",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pot",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "paint",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hands",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "slowed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "down!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

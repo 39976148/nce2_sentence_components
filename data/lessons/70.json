@@ -11,55 +11,55 @@
       "tokens": [
         {
           "text": "During",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "bullfight,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wandered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "middle",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ring.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -71,55 +71,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "crowd",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shout,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "unaware",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "danger.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -131,115 +131,115 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bull",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "busy",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "matador",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "caught",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "sight",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "shouting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rude",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "remarks",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "waving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "red",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "cap.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -251,67 +251,67 @@
       "tokens": [
         {
           "text": "Apparently",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sensitive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "criticism,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bull",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "forgot",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "matador",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "charged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drunk.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -323,23 +323,23 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "crowd",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "grew",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "quiet.",
-          "role": ""
+          "role": "主语"
         }
       ]
     },
@@ -351,35 +351,35 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "drunk,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "seemed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "quite",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "sure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "himself.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -391,63 +391,63 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "bull",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "close",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "clumsily",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stepped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "aside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "let",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pass.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -459,39 +459,39 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "crowd",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "broke",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "cheers",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bowed.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -503,79 +503,79 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "come",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ring",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "quickly",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "dragged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "safety.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -587,127 +587,127 @@
       "tokens": [
         {
           "text": "Even",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bull",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seemed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "feel",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sorry",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sympathetically",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drunk",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "turning",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "attention",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "matador.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

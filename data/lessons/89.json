@@ -11,71 +11,71 @@
       "tokens": [
         {
           "text": "People",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anything",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "free",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "show",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bad",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -87,79 +87,79 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "news",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "round",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "comedy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "show",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "presented",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "local",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cinema",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "P.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -171,11 +171,11 @@
       "tokens": [
         {
           "text": "and",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "U.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -187,39 +187,39 @@
       "tokens": [
         {
           "text": "Bird",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Seed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Company,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rushed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -231,95 +231,95 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "queue",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "several",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hundred",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "present",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "show",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "began.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -331,51 +331,51 @@
       "tokens": [
         {
           "text": "Unfortunately,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "show",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "dullest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seen.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -387,95 +387,95 @@
       "tokens": [
         {
           "text": "Those",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "failed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "need",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "felt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "disappointed,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "artistes",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "appeared",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "come.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -487,75 +487,75 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "funny",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "things",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "heard",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "evening",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "advertiser",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "beginning",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "programme.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -567,59 +567,59 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "obviously",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "nervous",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "minutes",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "stood",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "awkwardly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "microphone.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -631,47 +631,47 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "opened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mouth,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "everyone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "burst",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "laughing.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -683,103 +683,103 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "know",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "poor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "said,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "actually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "was:",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'This",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Poo",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Ee",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Seed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Bird",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Company.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -791,23 +791,23 @@
       "tokens": [
         {
           "text": "Good",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "ladies,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "evening",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "gentlemen!\"",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

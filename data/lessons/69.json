@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "being",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "tested",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "driving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "licence",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "third",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -67,59 +67,59 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "heavy",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "traffic",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "done",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "successfully.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -131,59 +131,59 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "having",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "instructed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "town,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "acquire",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "confidence.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -195,55 +195,55 @@
       "tokens": [
         {
           "text": "Sure",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "passed,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "almost",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "beginning",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "enjoy",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "test.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -255,59 +255,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "examiner",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pleased",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "performance,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "smiled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -319,23 +319,23 @@
       "tokens": [
         {
           "text": "'Just",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thing,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Mr.Eames.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -347,59 +347,59 @@
       "tokens": [
         {
           "text": "Let",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suppose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "child",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crosses",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "road",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "front",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -411,163 +411,163 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tap",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "window,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "stop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "within",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "five",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "feet.'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "continued",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "driving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "examiner",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "tapped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "loudly,",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "Though",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sound",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "heard",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "clearly,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "react.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -579,51 +579,51 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pressed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "brake",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pedal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "both",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thrown",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "forward.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -635,27 +635,27 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "examiner",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sadly.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -667,55 +667,55 @@
       "tokens": [
         {
           "text": "'Mr.Eames,'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mournful",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "voice,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'you",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "killed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "child!'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

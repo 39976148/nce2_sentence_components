@@ -11,91 +11,91 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1963",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Lancaster",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "bomber",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "crashed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Wallis",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Island,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "remote",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "place",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "South",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Pacific,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "west",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Samoa.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -107,83 +107,83 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "too",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "badly",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "damaged,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "years,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "crash",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "forgotten",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wreck",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "remained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "undisturbed.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -195,83 +195,83 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1989,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "twenty-six",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "crash,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "accidentally",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rediscovered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "aerial",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "survey",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "island.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -283,59 +283,59 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Lancaster",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bomber",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "reasonable",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "condition",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rare",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "worth",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rescuing.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -347,59 +347,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "French",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "authorities",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "packaged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "moved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "parts",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "France.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -411,51 +411,51 @@
       "tokens": [
         {
           "text": "Now",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "group",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "enthusiasts",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "restored.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -467,75 +467,75 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "four",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Rolls-Royce",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Merlin",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "engines,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "group",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "need",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rebuilt.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -547,111 +547,111 @@
       "tokens": [
         {
           "text": "Imagine",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "surprise",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "delight",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "broke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "open",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "packing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cases",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fourth",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "engine",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sweet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "honey",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "perfect",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "condition.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -663,75 +663,75 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "colony",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bees",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "engine",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "totally",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "preserved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "beeswax!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

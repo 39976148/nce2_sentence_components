@@ -11,71 +11,71 @@
       "tokens": [
         {
           "text": "Firemen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "fighting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "forest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "nearly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "weeks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "control.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -87,55 +87,55 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "before,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "trees",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "covered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "countryside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "around.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -147,55 +147,55 @@
       "tokens": [
         {
           "text": "Now,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "smoke",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "rose",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "warm",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ground",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "desolate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hills.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -207,123 +207,123 @@
       "tokens": [
         {
           "text": "Winter",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "hills",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "threatened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "surrounding",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "villages",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "destruction,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "heavy",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "rain",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wash",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "away",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "soil",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cause",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "serious",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "floods",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "well.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -335,103 +335,103 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "forest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "authorities",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ordered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "several",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tons",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "type",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "grass-seed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "grow",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "quickly.",
-          "role": ""
+          "role": "状语"
         }
       ]
     },
@@ -443,51 +443,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "seed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sprayed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ground",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "huge",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "quantities",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "aeroplanes.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -499,63 +499,63 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "planes",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "planting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "seed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "nearly",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "month",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rain.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -567,51 +567,51 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "places",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "grass",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "already",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "taken",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "root.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -623,99 +623,99 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "place",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "trees",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "growing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "centuries",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "patches",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "green",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "begun",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "appear",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "blackened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soil.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

@@ -11,99 +11,99 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "walk",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "markets",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Delhi,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stopped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "square",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rest.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -115,115 +115,115 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "snake",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "charmer",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "baskets",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "side",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "square,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "look",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -235,95 +235,95 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "us,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "picked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "pipe",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "covered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "coins",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "opened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "baskets.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -335,63 +335,63 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tune,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "glimpse",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "snake.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -403,63 +403,63 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "rose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "basket",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "follow",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "movements",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pipe.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -471,75 +471,75 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "much",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "surprised",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "snake",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "charmer",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "jazz",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pop",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "songs.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -551,31 +551,31 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "snake,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "continued",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'dance'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "slowly.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -587,51 +587,51 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "obviously",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "difference",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "between",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Indian",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "music",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "jazz!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

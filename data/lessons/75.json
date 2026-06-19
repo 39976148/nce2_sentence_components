@@ -11,87 +11,87 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "light",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "passenger",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "flew",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "course",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "crashed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mountains",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pilot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "killed.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -103,55 +103,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "passengers,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "baby",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "daughters,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "unhurt.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -163,27 +163,27 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "middle",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "winter.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -195,27 +195,27 @@
       "tokens": [
         {
           "text": "Snow",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thick",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ground.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -227,43 +227,43 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "knew",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "nearest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -275,107 +275,107 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "grew",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dark,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suitcase",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "inside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "covering",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "clothes",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "find.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -387,31 +387,31 @@
       "tokens": [
         {
           "text": "During",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "night,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "terribly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cold.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -423,103 +423,103 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "kept",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "case",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "herself,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "too",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "small.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -531,67 +531,67 @@
       "tokens": [
         {
           "text": "Early",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "morning,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "heard",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "planes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "overhead",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "wondered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "send",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "signal.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -603,23 +603,23 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "idea.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -631,39 +631,39 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "stamped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "letters",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'SOS'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "snow.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -675,67 +675,67 @@
       "tokens": [
         {
           "text": "Fortunately,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pilot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "signal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "message",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "radio",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "nearest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "town.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -747,79 +747,79 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "helicopter",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "arrived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "scene",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rescue",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "survivors",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "crash.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

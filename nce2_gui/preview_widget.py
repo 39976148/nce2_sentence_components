@@ -18,30 +18,35 @@ class SlidePreviewWidget(QFrame):
         mono = QFont("Consolas")
         mono.setPointSize(11)
 
+        self.body = QWidget()
+        body_layout = QVBoxLayout(self.body)
+        body_layout.setContentsMargins(12, 8, 12, 8)
+
         self.title_label = QLabel()
         self.title_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.title_label.setStyleSheet("color: #4060a0; font-size: 13px;")
 
         self.original_label = QLabel()
-        self.original_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.original_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter)
         self.original_label.setFont(mono)
 
         self.expanded_label = QLabel()
-        self.expanded_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.expanded_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter)
         self.expanded_label.setFont(mono)
         self.expanded_label.setStyleSheet("color: #b8860b;")
 
         self.analysis_container = QWidget()
         self.analysis_layout = QHBoxLayout(self.analysis_container)
-        self.analysis_layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.analysis_layout.setAlignment(Qt.AlignmentFlag.AlignLeft)
         self.analysis_layout.setSpacing(4)
 
+        body_layout.addWidget(self.title_label)
+        body_layout.addWidget(self.original_label)
+        body_layout.addWidget(self.expanded_label)
+        body_layout.addWidget(self.analysis_container)
+
         layout = QVBoxLayout(self)
-        layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        layout.addWidget(self.title_label)
-        layout.addWidget(self.original_label)
-        layout.addWidget(self.expanded_label)
-        layout.addWidget(self.analysis_container)
+        layout.addWidget(self.body)
 
     def show_sentence(self, lesson: Lesson | None, sentence: Sentence | None) -> None:
         self._clear_analysis()

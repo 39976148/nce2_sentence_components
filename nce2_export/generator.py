@@ -15,15 +15,17 @@ def _render_slide(lesson: Lesson, sentence: Sentence, active: bool) -> str:
     expanded_line = ""
     if sentence.has_contraction:
         exp = html.escape(f"({sentence.id}) {sentence.expanded}")
-        expanded_line = f'  <div class="line-expanded">{exp}</div>\n'
+        expanded_line = f'    <div class="line-expanded">{exp}</div>\n'
     analysis = render_token_groups(sentence)
     active_cls = "slide active" if active else "slide"
     return (
         f'<section class="{active_cls}">\n'
-        f'  <div class="line-title">{title}</div>\n'
-        f'  <div class="line-original">{orig}</div>\n'
+        f'  <div class="slide-body">\n'
+        f'    <div class="line-title">{title}</div>\n'
+        f'    <div class="line-original">{orig}</div>\n'
         f"{expanded_line}"
-        f'  <div class="analysis">{analysis}</div>\n'
+        f'    <div class="analysis">{analysis}</div>\n'
+        f'  </div>\n'
         f"</section>\n"
     )
 

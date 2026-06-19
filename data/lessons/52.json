@@ -11,67 +11,67 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "moved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "working",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "morning.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -83,47 +83,47 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "room",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "order.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -135,51 +135,51 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "easy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "own",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "thousand",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "books.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -191,79 +191,79 @@
       "tokens": [
         {
           "text": "To",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "make",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "matters",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "worse,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "room",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rather",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "small,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "temporarily",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "books",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "floor.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -275,107 +275,107 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "moment,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "cover",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "every",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "inch",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "floor",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "space",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "actually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "walk",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "room.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -387,75 +387,75 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sister",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "helped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "carry",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bookcases",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "stairs.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -467,79 +467,79 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "room",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "surprise",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "those",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "books",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "floor.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -551,47 +551,47 @@
       "tokens": [
         {
           "text": "'This",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "prettiest",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "carpet",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "seen,'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -603,67 +603,67 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "gazed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "added,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'You",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "need",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bookcases",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -675,51 +675,51 @@
       "tokens": [
         {
           "text": "You",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sit",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "here",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "spare",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "read",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "carpet!'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

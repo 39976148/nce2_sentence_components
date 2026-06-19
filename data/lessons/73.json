@@ -11,35 +11,35 @@
       "tokens": [
         {
           "text": "Children",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "truant",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "school",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "unimaginative.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -51,103 +51,103 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "quiet",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "day's",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fishing,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "eight",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cinema",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "seeing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "film",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "again,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "usually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "far",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "get.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -159,71 +159,71 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shame",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boy",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "who,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "playing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "truant,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "travelled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "1,600",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "miles.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -235,67 +235,67 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "hitchhiked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Dover",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and,",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "towards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "evening,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boat",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "somewhere",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sleep.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -307,75 +307,75 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "morning,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "discovered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "meantime,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "travelled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Calais.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -387,39 +387,39 @@
       "tokens": [
         {
           "text": "No",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crept",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -431,39 +431,39 @@
       "tokens": [
         {
           "text": "From",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "there,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hitchhiked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Paris",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lorry.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -475,79 +475,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "driver",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "gave",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "biscuits",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cup",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "coffee",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "left",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "city.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -559,111 +559,111 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "next",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "boy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "stopped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "centre",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Paris",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hoped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Perpignan",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "French-Spanish",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "border.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -675,71 +675,71 @@
       "tokens": [
         {
           "text": "There",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "picked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "local",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "authorities.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -751,71 +751,71 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "surely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "record",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "thousands",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "dream",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "evading",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "school.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

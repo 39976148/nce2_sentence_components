@@ -11,31 +11,31 @@
       "tokens": [
         {
           "text": "Dan",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Robinson",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "worried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "week.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -47,43 +47,43 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Tuesday",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "received",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "local",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "police.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -95,47 +95,47 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "call",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "station.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -147,95 +147,95 @@
       "tokens": [
         {
           "text": "Dan",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wondered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "why",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "wanted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "police,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "station",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "yesterday",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "worried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anymore.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -247,67 +247,67 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "station,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "smiling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "bicycle",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "found.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -319,83 +319,83 @@
       "tokens": [
         {
           "text": "Five",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "days",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bicycle",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "picked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "four",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hundred",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -407,43 +407,43 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "being",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "train.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -455,39 +455,39 @@
       "tokens": [
         {
           "text": "Dan",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "surprised",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "heard",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "news.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -499,55 +499,55 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "amused",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "too,",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "expected",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "bicycle",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "found.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -559,55 +559,55 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "stolen",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "twenty",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "ago",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Dan",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "boy",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "fifteen!",
-          "role": ""
+          "role": "表语"
         }
       ]
     }

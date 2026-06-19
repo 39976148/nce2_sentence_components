@@ -22,5 +22,5 @@ def test_end_to_end_lesson1(tmp_path: Path):
     html_path = tmp_path / "lesson_01.html"
     export_lesson_html(lesson, html_path)
     html = html_path.read_text(encoding="utf-8")
-    assert html.count('class="slide') == len(lesson.sentences)
+    assert html.count('<section class="slide') == len(lesson.sentences)
     assert "private conversation" in html

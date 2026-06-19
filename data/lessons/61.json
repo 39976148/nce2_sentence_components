@@ -11,83 +11,83 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Hubble",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "telescope",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "launched",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "space",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "NASA",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "April",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "20,1990",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cost",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "billion",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "dollars.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -99,43 +99,43 @@
       "tokens": [
         {
           "text": "Right",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "start",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trouble",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Hubble.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -147,59 +147,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "pictures",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "disappointing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "main",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "mirror",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "faulty!",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -211,87 +211,87 @@
       "tokens": [
         {
           "text": "NASA",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "telescope",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "right,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sending",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "four",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "astronauts",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "repair",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -303,47 +303,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "shuttle",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Endeavour",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "taking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "astronauts",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Hubble.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -355,79 +355,79 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "robot-arm",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Endeavour",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "grab",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "telescope",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "hold",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "astronauts",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "make",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "necessary",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "repairs.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -439,123 +439,123 @@
       "tokens": [
         {
           "text": "Of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "course,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Hubble",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "above",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "earth's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "atmosphere,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sending",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clearest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pictures",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stars",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "distant",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "galaxies",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seen.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -567,67 +567,67 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Hubble",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "deal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "age",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "size",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "universe.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -639,83 +639,83 @@
       "tokens": [
         {
           "text": "By",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "read",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Hubble's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "eagle",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "eye",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thousands",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "thousands",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "wonderful",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "pictures.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

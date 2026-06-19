@@ -11,31 +11,31 @@
       "tokens": [
         {
           "text": "Roy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Trenton",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "taxi.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -47,67 +47,67 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "became",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "driver",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "regretted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -119,39 +119,39 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "finding",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "work",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "far",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "exciting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -163,95 +163,95 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "driving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "along",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Catford",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Street",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "recently,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "thieves",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "rush",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "shop",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "run",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "towards",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "waiting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "car.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -263,43 +263,43 @@
       "tokens": [
         {
           "text": "One",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "carrying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bag",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "full",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "money.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -311,47 +311,47 @@
       "tokens": [
         {
           "text": "Roy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "acted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "quickly",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "drove",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "straight",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thieves.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -363,59 +363,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "such",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fright",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dropped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bag.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -427,83 +427,83 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thieves",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "away",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "car,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Roy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drove",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -515,63 +515,63 @@
       "tokens": [
         {
           "text": "While",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "battered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "moving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "away,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Roy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stopped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "telephoned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "police.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -583,43 +583,43 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "thieves'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "badly",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "damaged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "easy",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "recognize.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -631,51 +631,51 @@
       "tokens": [
         {
           "text": "Shortly",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "afterwards,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "police",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stopped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "both",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "arrested.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     }

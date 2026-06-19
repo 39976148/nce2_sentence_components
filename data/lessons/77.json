@@ -11,47 +11,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "mummy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Egyptian",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "died",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "800",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "B.C.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -63,23 +63,23 @@
       "tokens": [
         {
           "text": "has",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operation.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -91,67 +91,67 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "mummy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Shepenmut",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "singer",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Temple",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Thebes.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -163,115 +163,115 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "strange",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "marks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "X-ray",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "plates",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "taken",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mummy,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctors",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "whether",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "died",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "rare",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "disease.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -283,39 +283,39 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "operate.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -327,91 +327,91 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "operation,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lasted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "four",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hours,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "proved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "difficult",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "resin",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "covered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "skin.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -423,59 +423,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "doctors",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "removed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "section",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mummy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "laboratory.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -487,79 +487,79 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "also",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "something",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "X-ray",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "plates",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "show:",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wax",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "figure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "god",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Duamutef.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -571,63 +571,63 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "god",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "head",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cow",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "normally",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "placed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "inside",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mummy.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -639,43 +639,43 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "doctors",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "yet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "decided",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "died.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -687,83 +687,83 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "feared",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mummy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "fall",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "pieces",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cut",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "open,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "fortunately",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "happened.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -775,27 +775,27 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "mummy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "successfully",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "survived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operation.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

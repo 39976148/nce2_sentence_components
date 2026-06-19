@@ -11,75 +11,75 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "reading",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "article",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "entitled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'Cigarette",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Smoking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Your",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Health'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lit",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cigarette",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "calm",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "nerves.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -91,71 +91,71 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "smoked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "concentration",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "pleasure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cigarette.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -167,75 +167,75 @@
       "tokens": [
         {
           "text": "For",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "week",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "smoke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "during",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wife",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suffered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "terribly.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -247,75 +247,75 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "usual",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "symptoms",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "someone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "giving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "smoking:",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bad",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "temper",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "enormous",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "appetite.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -327,39 +327,39 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "friends",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "kept",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "offering",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cigarettes",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "cigars.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -371,75 +371,75 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "effort",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hide",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "amusement",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "whenever",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "produced",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "packet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sweets",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pocket.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -451,43 +451,43 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "seven",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "days",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "party.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -499,43 +499,43 @@
       "tokens": [
         {
           "text": "Everybody",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "around",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "smoking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "felt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "extremely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "uncomfortable.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -547,75 +547,75 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "friend",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Brian",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "urged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "accept",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "cigarette,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bear.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -627,43 +627,43 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "guiltily,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lit",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "smoked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "satisfaction.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -675,51 +675,51 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wife",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "delighted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "things",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "returned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "normal",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "more.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -731,71 +731,71 @@
       "tokens": [
         {
           "text": "Anyway,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Brian",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pointed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "easiest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "give",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "smoking.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -807,35 +807,35 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "himself",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "done",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lots",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "times!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

@@ -11,15 +11,15 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "Sunday.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -31,31 +31,31 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Sundays.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -67,31 +67,31 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sometimes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bed",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lunchtime.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -103,31 +103,31 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Sunday",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "late.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -139,27 +139,27 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "window.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -171,19 +171,19 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "dark",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "outside.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -195,23 +195,23 @@
       "tokens": [
         {
           "text": "'What",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "day!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thought.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -223,39 +223,39 @@
       "tokens": [
         {
           "text": "'it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "raining",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "again.'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Just",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "telephone",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "rang.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -267,23 +267,23 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "aunt",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Lucy.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -295,35 +295,35 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "arrived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "train,'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -335,59 +335,59 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you.'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'But",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "having",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "breakfast,'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -399,27 +399,27 @@
       "tokens": [
         {
           "text": "'What",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "doing?'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -431,27 +431,27 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "having",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "breakfast,'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "repeated.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -463,19 +463,19 @@
       "tokens": [
         {
           "text": "'Dear",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "me,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -487,31 +487,31 @@
       "tokens": [
         {
           "text": "'Do",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "late?",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -523,19 +523,19 @@
       "tokens": [
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "o'clock!'",
-          "role": ""
+          "role": "表语"
         }
       ]
     }

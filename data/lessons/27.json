@@ -11,67 +11,67 @@
       "tokens": [
         {
           "text": "Late",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "afternoon,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boys",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "tent",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "middle",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "field.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -83,59 +83,59 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "done,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cooked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "meal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "open",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -147,39 +147,39 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "hungry",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "food",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "smelled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "good.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -191,55 +191,55 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "wonderful",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "meal,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "stories",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sang",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "songs",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "campfire.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -251,35 +251,35 @@
       "tokens": [
         {
           "text": "But",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rain.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -291,63 +291,63 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "boys",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "felt",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tired",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "crept",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tent.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -359,51 +359,51 @@
       "tokens": [
         {
           "text": "Their",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sleeping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bags",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "warm",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "comfortable,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "slept",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "soundly.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -415,55 +415,55 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "middle",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "night,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "boys",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woke",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "began",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "shouting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -475,27 +475,27 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tent",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "full",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "water!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -507,47 +507,47 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "leapt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "sleeping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bags",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "hurried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "outside.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -559,63 +559,63 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "raining",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "heavily",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "stream",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "formed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "field.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -627,63 +627,63 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "stream",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wound",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "field",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "flowed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "right",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "tent!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

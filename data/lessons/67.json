@@ -11,87 +11,87 @@
       "tokens": [
         {
           "text": "Haroun",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Tazieff,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Polish",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "scientist,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "spent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lifetime",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "studying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "active",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "volcanoes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "deep",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "caves",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "parts",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -103,83 +103,83 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1948,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Lake",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Kivu",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Congo",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "observe",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "volcano",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "named",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Kituro.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,75 +191,75 @@
       "tokens": [
         {
           "text": "Tazieff",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "camp",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "close",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "volcano",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "while",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "erupting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "violently.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -271,83 +271,83 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "managed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "number",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "brilliant",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "photographs,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "volcano",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "long.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -359,51 +359,51 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "river",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "liquid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rock",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "towards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -415,59 +415,59 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "threatened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "surround",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "completely,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Tazieff",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "managed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "escape",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -479,67 +479,67 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "waited",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "volcano",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "became",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "quiet",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "return",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "days",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "later.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -551,83 +551,83 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "managed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "climb",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mouth",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Kituro",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "photographs",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "measure",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "temperatures.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -639,39 +639,39 @@
       "tokens": [
         {
           "text": "Tazieff",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "risked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "life",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "way.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -683,63 +683,63 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "active",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "volcanoes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "alive.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

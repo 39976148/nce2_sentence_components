@@ -11,95 +11,95 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1858,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "French",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "engineer,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Aime",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Thome",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "de",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gamond,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "arrived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "plan",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "twenty-one-mile",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tunnel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "English",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Channel.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -111,71 +111,71 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "possible",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "build",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "platform",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "centre",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Channel.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -187,47 +187,47 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "platform",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "serve",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "port",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "railway",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "station.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -239,55 +239,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tunnel",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "well-ventilated",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "tall",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "chimneys",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "built",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "above",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sea",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "level.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -299,55 +299,55 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1860,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "better",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "plan",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "forward",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Englishman,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "William",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Low.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -359,39 +359,39 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "suggested",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "double",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "railway-tunnel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "built.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -403,91 +403,91 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "solve",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "problem",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ventilation,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "train",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "entered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tunnel,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "draw",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fresh",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "air",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "behind",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -499,35 +499,35 @@
       "tokens": [
         {
           "text": "Forty-two",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tunnel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "actually",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "begun.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -539,63 +539,63 @@
       "tokens": [
         {
           "text": "If,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "British",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "feared",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "invasion,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "completed.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -607,55 +607,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wait",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "almost",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "100",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Channel",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Tunnel.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -667,59 +667,59 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "officially",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "opened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "March",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "7,1994,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "finally",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "connecting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Britain",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "European",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "continent.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

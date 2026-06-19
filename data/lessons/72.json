@@ -11,79 +11,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "racing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "driver,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sir",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Malcolm",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Campbell,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "300",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hour.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -95,63 +95,63 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "record",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "September",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "1935",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Bonneville",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Salt",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Flats,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Utah.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -163,51 +163,51 @@
       "tokens": [
         {
           "text": "Bluebird,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "driving,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "specially",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "built",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -219,51 +219,51 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "30",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "feet",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "length",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "2,500-horsepower",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "engine.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -275,111 +275,111 @@
       "tokens": [
         {
           "text": "Although",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Campbell",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "reached",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "speed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "304",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hour,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "difficulty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "controlling",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tyre",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "burst",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "during",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "run.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -391,75 +391,75 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "attempt,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Campbell",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "disappointed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "learn",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "average",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "speed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "299",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hour.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -471,59 +471,59 @@
       "tokens": [
         {
           "text": "However,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "days",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mistake",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "made.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -535,39 +535,39 @@
       "tokens": [
         {
           "text": "His",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "average",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "speed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "301",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "per",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hour.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -579,55 +579,55 @@
       "tokens": [
         {
           "text": "Since",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "racing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "drivers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "reached",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "speeds",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "600",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hour.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -639,75 +639,75 @@
       "tokens": [
         {
           "text": "Following",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "father's",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "footsteps",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "later,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Sir",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Malcolm's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "son,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Donald,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "also",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "record.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -719,43 +719,43 @@
       "tokens": [
         {
           "text": "Like",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "father,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "driving",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Bluebird.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

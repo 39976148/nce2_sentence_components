@@ -11,107 +11,107 @@
       "tokens": [
         {
           "text": "While",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "John",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hospital,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whether",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operation",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "successful,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "refused",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "so.",
-          "role": ""
+          "role": "连词"
         }
       ]
     },
@@ -123,43 +123,43 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "following",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "day,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "patient",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bedside",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "telephone.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -171,59 +171,59 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "alone,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "telephoned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "hospital",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "exchange",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Doctor",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Millington.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -235,83 +235,83 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "answered",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "phone,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "inquiring",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "certain",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "patient,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "John",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -323,75 +323,75 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "operation",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "successful",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -403,119 +403,119 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "allowed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "go",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hosptial",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "weeks.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -527,59 +527,59 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Dr.",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Millington",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "caller",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "relative",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "patient.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -591,39 +591,39 @@
       "tokens": [
         {
           "text": "'No,'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "patient",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "John",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gilbert.'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

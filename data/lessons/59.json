@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "Our",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "dog,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Rex,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sit",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "outside",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "front",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gate",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "dark.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -67,71 +67,71 @@
       "tokens": [
         {
           "text": "Every",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wanted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "come",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bark",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "someone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "opened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -143,99 +143,99 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "neighbours",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "complained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "noise,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "husband",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "spent",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "weeks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "training",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "press",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "paw",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "latch",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "let",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "himself",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -247,39 +247,39 @@
       "tokens": [
         {
           "text": "Rex",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "became",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "expert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "opening",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -291,75 +291,75 @@
       "tokens": [
         {
           "text": "However,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shopping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "week,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gate.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -371,51 +371,51 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "barking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "someone",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "let",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "out!",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -427,35 +427,35 @@
       "tokens": [
         {
           "text": "Since",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "developed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bad",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "habit.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -467,87 +467,87 @@
       "tokens": [
         {
           "text": "As",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "opens",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "outside,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "comes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "garden",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "waits",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shuts.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -559,43 +559,43 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sits",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "barks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "someone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lets",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -607,47 +607,47 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "immediately",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lets",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "himself",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "begins",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "barking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "again.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -659,71 +659,71 @@
       "tokens": [
         {
           "text": "Yesterday",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "husband",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "removed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Rex",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "annoyed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "since.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

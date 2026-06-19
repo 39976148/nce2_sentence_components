@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Ambassador",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Escalopia",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "returned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "lunch,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "wife",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shock.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -75,47 +75,47 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pale",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clothes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "frightful",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "state.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -127,23 +127,23 @@
       "tokens": [
         {
           "text": "'What",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "happened?'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -155,75 +155,75 @@
       "tokens": [
         {
           "text": "'How",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "clothes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "such",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mess?'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'A",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "extinguisher,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dear,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ambassador",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drily.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -235,59 +235,59 @@
       "tokens": [
         {
           "text": "'University",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "students",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Embassy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "morning.'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'Good",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "heavens!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "exclaimed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wife.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -299,71 +299,71 @@
       "tokens": [
         {
           "text": "'And",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time?'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "office",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "usual,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ambassador.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -375,31 +375,31 @@
       "tokens": [
         {
           "text": "'The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "broke",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "basement.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -411,67 +411,67 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "immediately,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "course,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "fool,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Horst,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "aimed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fire",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "extinguisher",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "me.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -483,27 +483,27 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "thought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fire.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -515,103 +515,103 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "definitely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "fellow",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "posted.'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "The",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ambassador's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wife",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "asking",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "questions,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suddenly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "noticed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "husband's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hat.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -623,35 +623,35 @@
       "tokens": [
         {
           "text": "'And",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "explain",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that?'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -663,23 +663,23 @@
       "tokens": [
         {
           "text": "'Oh,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ambassador.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -691,35 +691,35 @@
       "tokens": [
         {
           "text": "'Someone",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fired",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "through",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "office",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "window.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -731,23 +731,23 @@
       "tokens": [
         {
           "text": "Accurate,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "think?",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -759,39 +759,39 @@
       "tokens": [
         {
           "text": "Fortunately,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wearing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -803,63 +803,63 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lunch.'",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

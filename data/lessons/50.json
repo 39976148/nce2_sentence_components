@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "love",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "travelling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "country,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "losing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "way.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -75,63 +75,63 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "excursion",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "recently,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trip",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "longer",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "expected.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -143,147 +143,147 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Woodford",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Green,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "conductor",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bus,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'but",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "know",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "is.'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "'I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "off.'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "answered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "conductor.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -295,67 +295,67 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sat",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "front",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "good",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "view",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "countryside.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -367,27 +367,27 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bus",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "stopped.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -399,71 +399,71 @@
       "tokens": [
         {
           "text": "Looking",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "round,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "realized",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "shock",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passenger",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "left",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bus.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -475,43 +475,43 @@
       "tokens": [
         {
           "text": "'You",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "here,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "conductor",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -523,55 +523,55 @@
       "tokens": [
         {
           "text": "'This",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "far",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "go.'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "'Is",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Woodford",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Green?'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "asked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -583,27 +583,27 @@
       "tokens": [
         {
           "text": "'Oh",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "dear,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "conductor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suddenly.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -615,51 +615,51 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "forgot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "off.'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'It",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "does",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "matter,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -671,55 +671,55 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "here.'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "'we",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "now,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "conductor.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -731,55 +731,55 @@
       "tokens": [
         {
           "text": "'Well,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "case,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "prefer",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bus,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     }

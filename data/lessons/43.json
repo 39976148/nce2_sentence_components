@@ -11,63 +11,63 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "1929,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "after",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "flight",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "North",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Pole,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "American",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "explorer,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "R.E.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -79,47 +79,47 @@
       "tokens": [
         {
           "text": "Byrd,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "successfully",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "flew",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "South",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Pole",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -131,111 +131,111 @@
       "tokens": [
         {
           "text": "Though,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "first,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Byrd",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "photographs",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "mountains",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "lay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "below,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ran",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "serious",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "trouble.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -247,47 +247,47 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "point,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "seemed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "certain",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "crash.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -299,55 +299,55 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "mountains",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "10,000",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "feet.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -359,55 +359,55 @@
       "tokens": [
         {
           "text": "Byrd",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ordered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "men",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "throw",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "heavy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "food",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sacks.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -419,63 +419,63 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "then",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rise",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "cleared",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "mountains",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "400",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "feet.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -487,107 +487,107 @@
       "tokens": [
         {
           "text": "Byrd",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "knew",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "reach",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "South",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Pole",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "300",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "away,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mountains",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sight.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -599,55 +599,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "aircraft",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "able",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fly",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "endless",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "white",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "plains",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "without",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "difficulty.",
-          "role": ""
+          "role": "表语"
         }
       ]
     }

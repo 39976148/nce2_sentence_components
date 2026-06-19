@@ -11,67 +11,67 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "park",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "wrong",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "place,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "traffic",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "find",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -83,55 +83,55 @@
       "tokens": [
         {
           "text": "You",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "lucky",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lets",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "go",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "without",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ticket.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -143,27 +143,27 @@
       "tokens": [
         {
           "text": "However,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "does",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "happen.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -175,27 +175,27 @@
       "tokens": [
         {
           "text": "Traffic",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "police",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sometimes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "polite.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -207,79 +207,79 @@
       "tokens": [
         {
           "text": "During",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "holiday",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Sweden,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "note",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car:",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'sir,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "welcome",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "city.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -291,27 +291,27 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "\"No",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Parking\"",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "area.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -323,59 +323,59 @@
       "tokens": [
         {
           "text": "You",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "enjoy",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stay",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "here",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pay",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "attention",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "street",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "signs.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -387,79 +387,79 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "note",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "reminder.'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "If",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "receive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "request",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cannot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fail",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "obey",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

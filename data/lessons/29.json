@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "Captain",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Ben",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Fawcett",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "unusual",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "taxi",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "begun",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "service.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -75,47 +75,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "'taxi'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Swiss",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "aeroplane",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "'Pilatus",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Porter'.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -127,31 +127,31 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "wonderful",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "plane",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "carry",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seven",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passengers.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -163,91 +163,91 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "surprising",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "thing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "land",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anywhere:",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "snow,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "water,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "ploughed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "field.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -259,79 +259,79 @@
       "tokens": [
         {
           "text": "Captain",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Fawcett's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passenger",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "flew",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Birmingham",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lonely",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Welsh",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mountains.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -343,47 +343,47 @@
       "tokens": [
         {
           "text": "Since",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "then,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Captain",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Fawcett",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "flown",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "passengers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "unusual",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "places.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -395,91 +395,91 @@
       "tokens": [
         {
           "text": "Once",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "landed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "roof",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "block",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "flats",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "occasion,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "landed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "deserted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "park.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -491,47 +491,47 @@
       "tokens": [
         {
           "text": "Captain",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Fawcett",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "refused",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "strange",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "request",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "businessman.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -543,111 +543,111 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wanted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fly",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Rockall,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lonely",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "island",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Atlantic",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Ocean,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Captain",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Fawcett",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "because",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trip",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "too",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "dangerous.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

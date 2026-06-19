@@ -11,51 +11,51 @@
       "tokens": [
         {
           "text": "Fishermen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sailors",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sometimes",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "claim",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "seen",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "monsters",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sea.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -67,119 +67,119 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "laughed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stories",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "seamen,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "known",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "these",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "'monsters'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "times",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sighted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "simply",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "strange",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fish.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,67 +191,67 @@
       "tokens": [
         {
           "text": "Occasionally,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "unusual",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "creatures",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "washed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shore,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rarely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "caught",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sea.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -263,47 +263,47 @@
       "tokens": [
         {
           "text": "Some",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ago,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "peculiar",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fish",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "caught",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "near",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Madagascar.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -315,83 +315,83 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fishing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "boat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "carried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sea",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "powerful",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fish",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pulled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "line.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -403,79 +403,79 @@
       "tokens": [
         {
           "text": "Realizing",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ordinary",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fish,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fisherman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "every",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "effort",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "damage",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -487,67 +487,67 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "eventually",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "brought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shore,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "thirteen",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "feet",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "long.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -559,75 +559,75 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "head",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "like",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "horse,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "blue",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "eyes,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shining",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "silver",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "skin,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bright",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "red",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tail.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -639,91 +639,91 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fish,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "since",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "museum",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "being",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "examined",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "scientist,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "oarfish.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -735,79 +735,79 @@
       "tokens": [
         {
           "text": "Such",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "creatures",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rarely",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "seen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "alive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "live",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "depth",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "six",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hundred",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "feet.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

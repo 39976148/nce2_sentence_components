@@ -11,67 +11,67 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Christmas,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "circus",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "owner,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Jimmy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Gates,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "decided",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "presents",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "children's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hospital.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -83,131 +83,131 @@
       "tokens": [
         {
           "text": "Dressed",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Father",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Christmas",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "accompanied",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "'guard",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "honour'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "six",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pretty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "girls,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "main",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "street",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "city",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "riding",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "baby",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "elephant",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Jumbo.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -219,59 +219,59 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "known",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "police",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "would",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "allow",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sort",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thing.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -283,95 +283,95 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "approached",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Jimmy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "along",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "side",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "street",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Jumbo",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "holding",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "traffic.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -383,47 +383,47 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Jimmy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "agreed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "go",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "once,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Jumbo",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "refused",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "move.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -435,59 +435,59 @@
       "tokens": [
         {
           "text": "Fifteen",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "policemen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "push",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "get",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "main",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "street.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -499,47 +499,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "police",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "difficult",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "amused.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -551,91 +551,91 @@
       "tokens": [
         {
           "text": "'Jumbo",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "weigh",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tons,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "afterwards,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'so",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "fortunate",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "carry",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -647,83 +647,83 @@
       "tokens": [
         {
           "text": "Of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "course,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "arrest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "good",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "record,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shall",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "let",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "off",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time.'",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

@@ -11,43 +11,43 @@
       "tokens": [
         {
           "text": "Once",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "year,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "held",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cars.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -59,91 +59,91 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lot",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "entered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "deal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "excitement",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "began.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -155,47 +155,47 @@
       "tokens": [
         {
           "text": "One",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "handsome",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Rolls-Royce",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Silver",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Ghost.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -207,51 +207,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "unusual",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Benz",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wheels.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -263,43 +263,43 @@
       "tokens": [
         {
           "text": "Built",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "1885,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "oldest",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "taking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "part.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -311,39 +311,39 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "loud",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "explosions,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "began.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -355,87 +355,87 @@
       "tokens": [
         {
           "text": "Many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "broke",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "course",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "some",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "drivers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "spent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cars",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them!",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -447,31 +447,31 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "cars,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "however,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "completed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "race.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -483,79 +483,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "winning",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "reached",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "speed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "forty",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "miles",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hour",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "much",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "faster",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "rivals.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -567,87 +567,87 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "sped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "downhill",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "its",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "driver",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lot",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trouble",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "trying",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stop",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -659,39 +659,39 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "race",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "gave",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "everyone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "deal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pleasure.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -703,51 +703,51 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "different",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "modern",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "car",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "races",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "less",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "exciting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     }

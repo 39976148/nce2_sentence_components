@@ -11,55 +11,55 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "former",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Prime",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Minister,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Wentworth",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Lane,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "defeated",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "recent",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "elections.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -71,47 +71,47 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "retiring",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "political",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "life",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "abroad.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -123,63 +123,63 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "friend,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Patrick,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "fanatical",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "opponent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Lane's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Radical",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Progressive",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Party.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,47 +191,47 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "elections,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Patrick",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "former",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Prime",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Minister's",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -243,99 +243,99 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "if",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Lane",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lived",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "there,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "duty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "since",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "defeat,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ex-Prime",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Minister",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "abroad.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -347,43 +347,43 @@
       "tokens": [
         {
           "text": "On",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "following",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "day,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Patrick",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "again.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -395,67 +395,67 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "walking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "slowly",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "past",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "entrance,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Patrick",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "question.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -467,55 +467,55 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "little",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "suspicious",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gave",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answer.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -527,67 +527,67 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "day",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "after,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Patrick",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "house",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "more",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "asked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "exactly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "same",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "question.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -599,31 +599,31 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "policeman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lost",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "temper.",
-          "role": ""
+          "role": "主语"
         }
       ]
     },
@@ -635,75 +635,75 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "told",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "yesterday",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "day",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "yesterday,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shouted,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'Mr.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Lane",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "defeated",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "elections.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -715,95 +715,95 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "retired",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "political",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "life",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "gone",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "live",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "abroad!\"",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "know,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "answered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Patrick,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'but",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "love",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hear",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "say",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it!'",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

@@ -11,71 +11,71 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "crossed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "street",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "avoid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "meeting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "running",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "towards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "me.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -87,67 +87,67 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "no",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "use",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pretending",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "seen",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "him,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "waved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "him.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -159,27 +159,27 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "enjoy",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "meeting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Nigel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Dykes.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,27 +191,27 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anything",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "do.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -223,55 +223,55 @@
       "tokens": [
         {
           "text": "No",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "matter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "busy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "insists",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "you.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -283,67 +283,67 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "think",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "way",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "preventing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "following",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "around",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "morning.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -355,19 +355,19 @@
       "tokens": [
         {
           "text": "'Hello,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Nigel,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -379,35 +379,35 @@
       "tokens": [
         {
           "text": "'Fancy",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "meeting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "here!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'Hi,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Elizabeth,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Nigel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -419,59 +419,59 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wondering",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "spend",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "morning",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "saw",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -483,59 +483,59 @@
       "tokens": [
         {
           "text": "you",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "busy",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "doing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anything,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "you?'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "'No,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -547,75 +547,75 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to...'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "'Would",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "mind",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "you?'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "asked,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "finished",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "speaking.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -627,83 +627,83 @@
       "tokens": [
         {
           "text": "'Not",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all,'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "lied,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "'but",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "dentist.'",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "'Then",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "come",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "you,'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "answered.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -715,43 +715,43 @@
       "tokens": [
         {
           "text": "'there",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "plenty",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "read",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "waiting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "room!",
-          "role": ""
+          "role": "表语"
         }
       ]
     }

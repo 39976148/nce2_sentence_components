@@ -11,31 +11,31 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "week",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "theatre.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -47,27 +47,27 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "good",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seat.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -79,23 +79,23 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "interesting.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -107,23 +107,23 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "enjoy",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -135,47 +135,47 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sitting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "behind",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "me.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -187,19 +187,19 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "talking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "loudly.",
-          "role": ""
+          "role": "状语"
         }
       ]
     },
@@ -211,19 +211,19 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "angry.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -235,27 +235,27 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "hear",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "actors.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -267,15 +267,15 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "round.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -287,39 +287,39 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "looked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "angrily.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -331,27 +331,27 @@
       "tokens": [
         {
           "text": "They",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "pay",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "attention.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -363,35 +363,35 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "end,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "could",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "bear",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -403,19 +403,19 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "turned",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "round",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "again.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -427,39 +427,39 @@
       "tokens": [
         {
           "text": "'I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "hear",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "word!'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "angrily.",
-          "role": ""
+          "role": "状语"
         }
       ]
     },
@@ -471,47 +471,47 @@
       "tokens": [
         {
           "text": "'it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "none",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "your",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "business,'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "man",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "rudely.",
-          "role": ""
+          "role": "状语"
         }
       ]
     },
@@ -523,23 +523,23 @@
       "tokens": [
         {
           "text": "'This",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "private",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "conversation!'",
-          "role": ""
+          "role": "表语"
         }
       ]
     }

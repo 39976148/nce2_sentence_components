@@ -11,23 +11,23 @@
       "tokens": [
         {
           "text": "Fishing",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "favourite",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "sport.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -39,35 +39,35 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "fish",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "without",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "catching",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "anything.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -79,27 +79,27 @@
       "tokens": [
         {
           "text": "But",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "does",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "worry",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "me.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -111,19 +111,19 @@
       "tokens": [
         {
           "text": "Some",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fishermen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "unlucky.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -135,43 +135,43 @@
       "tokens": [
         {
           "text": "Instead",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "catching",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "fish,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "catch",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "boots",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "rubbish.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -183,23 +183,23 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "less",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "lucky.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -211,39 +211,39 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "catch",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anything",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boots.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -255,67 +255,67 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "having",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "spent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mornings",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "river,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "go",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "home",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "empty",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "bag.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -327,35 +327,35 @@
       "tokens": [
         {
           "text": "'You",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "give",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "fishing!'",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "friends",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "say.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -367,59 +367,59 @@
       "tokens": [
         {
           "text": "'it",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "waste",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "time.'",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "But",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "realize",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "important",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "thing.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -431,31 +431,31 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "really",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "interested",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fishing.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -467,59 +467,59 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "am",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "interested",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "sitting",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "boat",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "doing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "nothing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

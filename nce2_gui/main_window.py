@@ -26,17 +26,20 @@ from PyQt6.QtWidgets import (
 
 from nce2_core.ai_config import load_ai_config
 from nce2_core.app_paths import app_root
+from nce2_core.auto_annotate import auto_annotate_lesson, auto_annotate_sentence
 from nce2_core.batch import batch_import_book2
 from nce2_core.catalog import default_book, lessons_dir, nce_txt_dir, titles_path
 from nce2_core.lesson_io import load_lesson, save_lesson
 from nce2_core.models import Lesson, Sentence, Token
 from nce2_core.roles import ROLE_LABELS
+from nce2_core.sentence_ops import merge_with_next, split_sentence, update_sentence_original
 from nce2_core.token_ops import apply_expanded, merge_tokens, split_token
 from nce2_export.batch_export import export_all_lessons
 from nce2_export.generator import export_lesson_html
 from nce2_gui.ai_settings_dialog import AiSettingsDialog
 from nce2_gui.ai_worker import AnnotateLessonWorker
 from nce2_gui.preview_widget import SlidePreviewWidget
+from nce2_gui.split_sentence_dialog import SplitSentenceDialog
 
 ROOT = app_root()
 
@@ -67,8 +70,9 @@ class MainWindow(QMainWindow):
         self.sentence_list = QListWidget()
         self.sentence_list.currentRowChanged.connect(self.on_sentence_changed)
 
-        self.original_label = QLabel("原文：")
-        self.original_label.setWordWrap(True)
+        self.original_edit = QLineEdit()
+        self.original_edit.setPlaceholderText("原文（可编辑）")
+        self.original_edit.editingFinished.connect(self.on_original_edited)
 
         self.expanded_edit = QLineEdit()
         self.expanded_edit.setPlaceholderText("展开句（去缩写）")
@@ -86,10 +90,18 @@ class MainWindow(QMainWindow):
         )
         self.token_table.cellChanged.connect(self.on_token_cell_changed)
 
-        merge_btn = QPushButton("合并 ↓")
+        merge_btn = QPushButton("合并词 ↓")
         merge_btn.clicked.connect(self.on_merge_tokens)
-        split_btn = QPushButton("拆分")
-        split_btn.clicked.connect(self.on_split_token)
+        split_word_btn = QPushButton("拆分词")
+        split_word_btn.clicked.connect(self.on_split_token)
+        split_sent_btn = QPushButton("拆分句子")
+        split_sent_btn.clicked.connect(self.on_split_sentence)
+        merge_sent_btn = QPushButton("合并下句")
+        merge_sent_btn.clicked.connect(self.on_merge_sentence)
+        auto_one_btn = QPushButton("自动填成分")
+        auto_one_btn.clicked.connect(self.on_auto_fill_sentence)
+        auto_lesson_btn = QPushButton("自动填本课")
+        auto_lesson_btn.clicked.connect(self.on_auto_fill_lesson)
         save_btn = QPushButton("保存本课")
         save_btn.clicked.connect(self.on_save_lesson)
         ai_cfg_btn = QPushButton("AI 设置")
@@ -101,7 +113,11 @@ class MainWindow(QMainWindow):
 
         token_btn_row = QHBoxLayout()
         token_btn_row.addWidget(merge_btn)
-        token_btn_row.addWidget(split_btn)
+        token_btn_row.addWidget(split_word_btn)
+        token_btn_row.addWidget(split_sent_btn)
+        token_btn_row.addWidget(merge_sent_btn)
+        token_btn_row.addWidget(auto_one_btn)
+        token_btn_row.addWidget(auto_lesson_btn)
         token_btn_row.addWidget(ai_one_btn)
         token_btn_row.addWidget(ai_lesson_btn)
         token_btn_row.addWidget(ai_cfg_btn)
@@ -113,7 +129,9 @@ class MainWindow(QMainWindow):
 
         editor_box = QGroupBox("句子编辑")
         editor_layout = QVBoxLayout(editor_box)
-        editor_layout.addWidget(self.original_label)
+        editor_layout.addWidget(QLabel("原文"))
+        editor_layout.addWidget(self.original_edit)
+        editor_layout.addWidget(QLabel("展开句（去缩写）"))
         editor_layout.addWidget(self.expanded_edit)
         editor_layout.addWidget(self.contraction_label)
         editor_layout.addWidget(self.token_table)
@@ -187,6 +205,14 @@ class MainWindow(QMainWindow):
             self._clear_editor()
             return
         self.current_lesson = load_lesson(path)
+        self._refresh_sentence_list(keep_index=0)
+
+    def _refresh_sentence_list(self, keep_index: int | None = None) -> None:
+        if self.current_lesson is None:
+            self.sentence_list.clear()
+            self._clear_editor()
+            return
+        prev = self.current_sentence_index if keep_index is None else keep_index
         self.sentence_list.blockSignals(True)
         self.sentence_list.clear()
         for s in self.current_lesson.sentences:
@@ -194,7 +220,8 @@ class MainWindow(QMainWindow):
             self.sentence_list.addItem(f"({s.id}) {preview}")
         self.sentence_list.blockSignals(False)
         if self.current_lesson.sentences:
-            self.sentence_list.setCurrentRow(0)
+            idx = min(max(prev, 0), len(self.current_lesson.sentences) - 1)
+            self.sentence_list.setCurrentRow(idx)
         else:
             self._clear_editor()
 
@@ -208,7 +235,7 @@ class MainWindow(QMainWindow):
 
     def _clear_editor(self) -> None:
         self._loading_ui = True
-        self.original_label.setText("原文：")
+        self.original_edit.clear()
         self.expanded_edit.clear()
         self.contraction_label.setText("")
         self.token_table.setRowCount(0)
@@ -217,9 +244,9 @@ class MainWindow(QMainWindow):
 
     def _populate_editor(self, sentence: Sentence) -> None:
         self._loading_ui = True
-        self.original_label.setText(f"原文：({sentence.id}) {sentence.original}")
+        self.original_edit.setText(sentence.original)
         self.expanded_edit.setText(sentence.expanded)
-        flag = "含缩写 → 5行" if sentence.has_contraction else "无缩写 → 4行"
+        flag = f"第 {sentence.id} 句 · " + ("含缩写 → 5行" if sentence.has_contraction else "无缩写 → 4行")
         self.contraction_label.setText(flag)
 
         self.token_table.blockSignals(True)
@@ -347,6 +374,80 @@ class MainWindow(QMainWindow):
         self._sync_tokens_from_table()
         self.preview.show_sentence(self.current_lesson, self._current_sentence())
 
+    def on_original_edited(self) -> None:
+        sentence = self._current_sentence()
+        if sentence is None or self._loading_ui:
+            return
+        new_text = self.original_edit.text().strip()
+        if new_text == sentence.original:
+            return
+        if (
+            any(t.role for t in sentence.tokens)
+            and QMessageBox.question(
+                self,
+                "确认",
+                "修改原文将重新分词并清空成分，是否继续？",
+            )
+            != QMessageBox.StandardButton.Yes
+        ):
+            self.original_edit.setText(sentence.original)
+            return
+        update_sentence_original(sentence, new_text)
+        auto_annotate_sentence(sentence)
+        self._populate_editor(sentence)
+
+    def on_split_sentence(self) -> None:
+        if self.current_lesson is None or self.current_sentence_index < 0:
+            return
+        sentence = self._current_sentence()
+        if sentence is None:
+            return
+        dlg = SplitSentenceDialog(sentence.original, self)
+        if dlg.exec():
+            p1, p2 = dlg.parts()
+            try:
+                split_sentence(self.current_lesson, self.current_sentence_index, p1, p2)
+                for s in self.current_lesson.sentences[
+                    self.current_sentence_index : self.current_sentence_index + 2
+                ]:
+                    auto_annotate_sentence(s)
+                self._refresh_sentence_list(keep_index=self.current_sentence_index)
+            except Exception as e:
+                QMessageBox.critical(self, "错误", str(e))
+
+    def on_merge_sentence(self) -> None:
+        if self.current_lesson is None or self.current_sentence_index < 0:
+            return
+        if self.current_sentence_index >= len(self.current_lesson.sentences) - 1:
+            QMessageBox.information(self, "提示", "已是本课最后一句，无法合并。")
+            return
+        try:
+            merge_with_next(self.current_lesson, self.current_sentence_index)
+            auto_annotate_sentence(self.current_lesson.sentences[self.current_sentence_index])
+            self._refresh_sentence_list(keep_index=self.current_sentence_index)
+        except Exception as e:
+            QMessageBox.critical(self, "错误", str(e))
+
+    def on_auto_fill_sentence(self) -> None:
+        sentence = self._current_sentence()
+        if sentence is None:
+            return
+        self._sync_tokens_from_table()
+        auto_annotate_sentence(sentence)
+        self._populate_editor(sentence)
+
+    def on_auto_fill_lesson(self) -> None:
+        if self.current_lesson is None:
+            return
+        self._sync_tokens_from_table()
+        auto_annotate_lesson(self.current_lesson)
+        self._populate_editor(self._current_sentence())
+        QMessageBox.information(
+            self,
+            "完成",
+            f"已自动填充本课 {len(self.current_lesson.sentences)} 句成分（可继续手工修改）。",
+        )
+
     def on_expanded_edited(self) -> None:
         sentence = self._current_sentence()
         if sentence is None or self._loading_ui:
@@ -366,6 +467,7 @@ class MainWindow(QMainWindow):
             self.expanded_edit.setText(sentence.expanded)
             return
         apply_expanded(sentence, new_text)
+        auto_annotate_sentence(sentence)
         self._populate_editor(sentence)
 
     def on_merge_tokens(self) -> None:

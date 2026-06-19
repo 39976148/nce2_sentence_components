@@ -11,95 +11,95 @@
       "tokens": [
         {
           "text": "'To",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "news",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bulletin,'",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "said",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "voice",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "television",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "announcer,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'we",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "macaroni",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "fields",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Calabria.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -111,51 +111,51 @@
       "tokens": [
         {
           "text": "Macaroni",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "grown",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "area",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "over",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "six",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hundred",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "years.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -167,119 +167,119 @@
       "tokens": [
         {
           "text": "Two",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "leading",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "growers,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Giuseppe",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Moldova",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Riccardo",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Brabante,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tell",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "expecting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "splendid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "harvesting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "begun",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "earlier",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "usual.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -291,83 +291,83 @@
       "tokens": [
         {
           "text": "Here",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "workers",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "between",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "finished",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cutting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "three",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cartloads",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "golden",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "brown",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "macaroni",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "stalks.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -379,79 +379,79 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "village",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "working",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "day",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "night",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "gathering",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "threshing",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "this",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "year's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "September",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "rains.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -463,39 +463,39 @@
       "tokens": [
         {
           "text": "On",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "right,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Brabante",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "herself.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -507,43 +507,43 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "been",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "helping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "husband",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thirty",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "now.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -555,67 +555,67 @@
       "tokens": [
         {
           "text": "Mrs.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Brabante",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "talking",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "manager",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "local",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "factory",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "where",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "crop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "processed.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -627,79 +627,79 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "scene",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "shows",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "you",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "what",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "happen",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "harvest:",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "famous",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Calabrian",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "macaroni-eating",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "competition!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -711,51 +711,51 @@
       "tokens": [
         {
           "text": "Signor",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Fratelli,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "present",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "champion,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "won",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "every",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "since",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "1991.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -767,47 +767,47 @@
       "tokens": [
         {
           "text": "And",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "ends",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bulletin",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "today,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Thursday,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "April",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lst.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -819,35 +819,35 @@
       "tokens": [
         {
           "text": "we",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "now",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "back",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "studio.'",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

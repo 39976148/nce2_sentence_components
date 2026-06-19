@@ -11,23 +11,23 @@
       "tokens": [
         {
           "text": "Postcards",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "spoil",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "holidays.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -39,27 +39,27 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "summer,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Italy.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -71,35 +71,35 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "visited",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "museums",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "sat",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "public",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "gardens.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -111,43 +111,43 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "friendly",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "waiter",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "taught",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "words",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Italian.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -159,27 +159,27 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "lent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "book.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -191,51 +191,51 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "read",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "lines,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "understand",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "word.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -247,23 +247,23 @@
       "tokens": [
         {
           "text": "Everyday",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "postcards.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -275,55 +275,55 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "holidays",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "passed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "quickly,",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "send",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "friends.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -335,39 +335,39 @@
       "tokens": [
         {
           "text": "On",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "day",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "big",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "decision.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -379,35 +379,35 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "got",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "thirty-seven",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "cards.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -419,67 +419,67 @@
       "tokens": [
         {
           "text": "I",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "spent",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "day",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "room,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "I",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "did",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "write",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "single",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "card!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

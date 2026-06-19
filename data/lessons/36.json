@@ -11,47 +11,47 @@
       "tokens": [
         {
           "text": "Debbie",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Hart",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "swim",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "English",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Channel",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "tomorrow.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -63,67 +63,67 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "going",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "French",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "coast",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "five",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "o'clock",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "morning.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -135,67 +135,67 @@
       "tokens": [
         {
           "text": "Debbie",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "eleven",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "hopes",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "record.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -207,63 +207,63 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "strong",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "swimmer",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "feel",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "sure",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "succeed.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -275,47 +275,47 @@
       "tokens": [
         {
           "text": "Debbie's",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "father",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "set",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "boat.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -327,35 +327,35 @@
       "tokens": [
         {
           "text": "Mr.",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Hart",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "trained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "daughter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "years.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -367,63 +367,63 @@
       "tokens": [
         {
           "text": "Tomorrow",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "watching",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "anxiously",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "swims",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "distance",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "England.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -435,39 +435,39 @@
       "tokens": [
         {
           "text": "Debbie",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "intends",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "rests",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "every",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hours.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -479,59 +479,59 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "something",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "drink",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "eat",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "any",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "solid",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "food.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -543,59 +543,59 @@
       "tokens": [
         {
           "text": "Most",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Debbie's",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "school",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "friends",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "waiting",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "English",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "coast.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -607,67 +607,67 @@
       "tokens": [
         {
           "text": "Among",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Debbie's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "mother,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "swam",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Channel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "herself",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "girl.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

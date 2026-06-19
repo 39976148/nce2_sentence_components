@@ -11,75 +11,75 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "daughter,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Jane,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "dreamed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "receiving",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "girl",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "own",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "age",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Holland.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -91,103 +91,103 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "year,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "travelling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "Channel",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "Jane",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "put",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "piece",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "paper",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "name",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "address",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bottle.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -199,31 +199,31 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "threw",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bottle",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "sea.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -235,79 +235,79 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "never",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "thought",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "again,",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "ten",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "months",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "later,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "received",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "letter",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "girl",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Holland.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -319,35 +319,35 @@
       "tokens": [
         {
           "text": "Both",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "girls",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "write",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "each",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "regularly",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "now.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -359,39 +359,39 @@
       "tokens": [
         {
           "text": "However,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "decided",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "use",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "post",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "office.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -403,51 +403,51 @@
       "tokens": [
         {
           "text": "Letters",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cost",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "little",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "more,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "certainly",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "travel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "faster.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

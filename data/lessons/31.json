@@ -11,59 +11,59 @@
       "tokens": [
         {
           "text": "Yesterday",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "afternoon",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Frank",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Hawkins",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "telling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "me",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "about",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "experiences",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "man.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -75,103 +75,103 @@
       "tokens": [
         {
           "text": "Before",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "retired,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Frank",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "head",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "business",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "company,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "work",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shop.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -183,79 +183,79 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "job",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "repair",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "bicycles",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "work",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "fourteen",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "hours",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "day.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -267,67 +267,67 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "saved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "money",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "1958",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "workshop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "own.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -339,47 +339,47 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "twenties",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Frank",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "make",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "spare",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "parts",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "aeroplanes.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -391,31 +391,31 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "helpers.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -427,79 +427,79 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "workshop",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "become",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "factory",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "employed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "seven",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hundred",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "twenty-eight",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -511,63 +511,63 @@
       "tokens": [
         {
           "text": "Frank",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "smiled",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "he",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "remembered",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "road",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "success.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -579,55 +579,55 @@
       "tokens": [
         {
           "text": "He",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "still",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "smiling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "door",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "opened",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "his",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "wife",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -639,35 +639,35 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wanted",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "him",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "repair",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "grandson's",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bicycle!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

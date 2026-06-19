@@ -11,39 +11,39 @@
       "tokens": [
         {
           "text": "People",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "honest",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "were.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -55,59 +55,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "temptation",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "steal",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "greater",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "--",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "especially",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "shops.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -119,71 +119,71 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "detective",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "recently",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "watched",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "well-dressed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "went",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "into",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "large",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "store",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Monday",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "mornings.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -195,107 +195,107 @@
       "tokens": [
         {
           "text": "One",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Monday,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "there",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "fewer",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "shop",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "than",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "usual",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "when",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "easier",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "detective",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "watch",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -307,35 +307,35 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "first",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "few",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "small",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "articles.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -347,127 +347,127 @@
       "tokens": [
         {
           "text": "After",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "little",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "chose",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "expensive",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "dresses",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "shop",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "handed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "assistant",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wrapped",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "quickly",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "possible.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -479,63 +479,63 @@
       "tokens": [
         {
           "text": "Then",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "woman",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "simply",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "took",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "parcel",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "walked",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "shop",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "without",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "paying.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -547,63 +547,63 @@
       "tokens": [
         {
           "text": "When",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "arrested,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "detective",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "found",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "out",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "shop",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "assistant",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "daughter.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -615,47 +615,47 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "girl",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "'gave'",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "mother",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "free",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "dress",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "once",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "week!",
-          "role": ""
+          "role": "宾语"
         }
       ]
     }

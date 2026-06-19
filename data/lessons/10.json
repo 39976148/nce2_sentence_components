@@ -11,27 +11,27 @@
       "tokens": [
         {
           "text": "We",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "musical",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "instrument.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -43,23 +43,23 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "called",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "clavichord.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -71,31 +71,31 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Germany",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "1681.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -107,35 +107,35 @@
       "tokens": [
         {
           "text": "Our",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "clavichord",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "kept",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "living",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "room.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -147,43 +147,43 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "has",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "belonged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "our",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "family",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "time.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -195,43 +195,43 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "instrument",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "bought",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "grandfather",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "ago.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -243,31 +243,31 @@
       "tokens": [
         {
           "text": "Recently",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "damaged",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "visitor.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -279,31 +279,31 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "tried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "jazz",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it!",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -315,55 +315,55 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "struck",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "keys",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "too",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hard",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "strings",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "broken.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -375,19 +375,19 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "father",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "shocked.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -399,35 +399,35 @@
       "tokens": [
         {
           "text": "Now",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "we",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "allowed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "touch",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -439,43 +439,43 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "being",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "repaired",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "friend",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "my",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "father's.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

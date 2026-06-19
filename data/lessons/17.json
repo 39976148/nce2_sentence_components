@@ -11,27 +11,27 @@
       "tokens": [
         {
           "text": "My",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "aunt",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Jennifer",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "an",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "actress.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -43,35 +43,35 @@
       "tokens": [
         {
           "text": "She",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "least",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "thirty-five",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "years",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "old.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -83,59 +83,59 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "spite",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "this,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "often",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "appears",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "stage",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "girl.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -147,47 +147,47 @@
       "tokens": [
         {
           "text": "Jennifer",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "take",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "part",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "new",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "play",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "soon.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -199,39 +199,39 @@
       "tokens": [
         {
           "text": "This",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "time,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "girl",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "seventeen.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -243,63 +243,63 @@
       "tokens": [
         {
           "text": "In",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "play,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "appear",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "bright",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "red",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "dress",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "black",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "stockings.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -311,67 +311,67 @@
       "tokens": [
         {
           "text": "Last",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "year",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "another",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "play,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "had",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "wear",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "short",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "socks",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "bright,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "orange-coloured",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "dress.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -383,87 +383,87 @@
       "tokens": [
         {
           "text": "If",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "anyone",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "asks",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "her",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "how",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "she",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "answers,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "'Darling,",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "must",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "terrible",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "grown",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "up!'",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     }

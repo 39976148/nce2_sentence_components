@@ -11,63 +11,63 @@
       "tokens": [
         {
           "text": "Experiments",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "proved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "instructed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "swimming",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "early",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "age.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -79,91 +79,91 @@
       "tokens": [
         {
           "text": "At",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "special",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "swimming",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "pool",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Los",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Angeles,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "become",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "expert",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "at",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "holding",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "breath",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "water",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "walk.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -175,63 +175,63 @@
       "tokens": [
         {
           "text": "Babies",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "two",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "months",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "old",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "do",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "appear",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "be",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "reluctant",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "enter",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "water.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -243,95 +243,95 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "long",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "so",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "accustomed",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "swimming",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "pick",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "weights",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "floor",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "pool.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -343,63 +343,63 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "game",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "very",
-          "role": ""
+          "role": "状语"
         },
         {
           "text": "popular",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "with",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "these",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "young",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "swimmers",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "underwater",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "tricycle",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "race.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -411,59 +411,59 @@
       "tokens": [
         {
           "text": "Tricycles",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "lined",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "floor",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "pool",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "seven",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "feet",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "under",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "water.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -475,59 +475,59 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "compete",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "against",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "each",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "reach",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "end",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pool.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -539,59 +539,59 @@
       "tokens": [
         {
           "text": "Many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "pedal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "their",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "tricycles,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "but",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "them",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "prefer",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "push",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "or",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "drag",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "them.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -603,71 +603,71 @@
       "tokens": [
         {
           "text": "Some",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "children",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "cover",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "whole",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "length",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "pool",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "without",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "coming",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "up",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "breath",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "even",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "once.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -679,51 +679,51 @@
       "tokens": [
         {
           "text": "Whether",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "ever",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "become",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "future",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Olympic",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "champions,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "only",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "will",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "tell.",
-          "role": ""
+          "role": "谓语"
         }
       ]
     },
@@ -735,75 +735,75 @@
       "tokens": [
         {
           "text": "Meanwhile,",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "should",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "encourage",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "those",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "among",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "us",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "who",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "cannot",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "swim",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "five",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "yards",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "before",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "are",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "gasping",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "air.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }

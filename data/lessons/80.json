@@ -11,103 +11,103 @@
       "tokens": [
         {
           "text": "Perhaps",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "extraordinary",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "building",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "nineteeth",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "century",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Crystal",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "Palace,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "built",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Hyde",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Park",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Great",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Exhibition",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "1851.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -119,83 +119,83 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Crystal",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "Palace",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "different",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "other",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "buildings",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "world,",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "for",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "made",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "iron",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "glass.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -207,91 +207,91 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "biggest",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "buildings",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "all",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "time",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "lot",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "people",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "countries",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "came",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "see",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "it.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -303,63 +303,63 @@
       "tokens": [
         {
           "text": "A",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "many",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "goods",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "sent",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "exhibition",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "various",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "parts",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "world.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     },
@@ -371,43 +371,43 @@
       "tokens": [
         {
           "text": "There",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "also",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "great",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "deal",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "machinery",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "display.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -419,51 +419,51 @@
       "tokens": [
         {
           "text": "The",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "wonderful",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "piece",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "machinery",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "on",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "show",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "Nasmyth's",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "steam",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "hammer.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -475,99 +475,99 @@
       "tokens": [
         {
           "text": "Though",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "those",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "days,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "traveling",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "easy",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "as",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "today,",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "steam",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "boats",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "carried",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "thousands",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "visitors",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "across",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Channel",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "Europe.",
-          "role": ""
+          "role": "宾语"
         }
       ]
     },
@@ -579,55 +579,55 @@
       "tokens": [
         {
           "text": "On",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "arriving",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "England,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "they",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "taken",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Crystal",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "Palace",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "by",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "train.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -639,83 +639,83 @@
       "tokens": [
         {
           "text": "There",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "系动词"
         },
         {
           "text": "six",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "million",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "visitors",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "all,",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "profits",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "from",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "exhibition",
-          "role": ""
+          "role": "表语"
         },
         {
           "text": "were",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "used",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "build",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "museums",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "and",
-          "role": ""
+          "role": "连词"
         },
         {
           "text": "colleges.",
-          "role": ""
+          "role": "表语"
         }
       ]
     },
@@ -727,39 +727,39 @@
       "tokens": [
         {
           "text": "Later,",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Crystal",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "Palace",
-          "role": ""
+          "role": "时间状语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "moved",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "to",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "South",
-          "role": ""
+          "role": "地点状语"
         },
         {
           "text": "London.",
-          "role": ""
+          "role": "地点状语"
         }
       ]
     },
@@ -771,75 +771,75 @@
       "tokens": [
         {
           "text": "It",
-          "role": ""
+          "role": "主语"
         },
         {
           "text": "remained",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "one",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "of",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "most",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "famous",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "buildings",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "the",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "world",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "until",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": ""
+          "role": "谓语"
         },
         {
           "text": "burnt",
-          "role": ""
+          "role": "宾语"
         },
         {
           "text": "down",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "in",
-          "role": ""
+          "role": "介词短语"
         },
         {
           "text": "1936.",
-          "role": ""
+          "role": "介词短语"
         }
       ]
     }
