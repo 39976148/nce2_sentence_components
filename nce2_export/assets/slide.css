@@ -1,0 +1,23 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; background: #1a1a2e; color: #eee; font-family: "Segoe UI", sans-serif; }
+.deck { height: 100%; position: relative; }
+.slide {
+  display: none; height: 100%; flex-direction: column;
+  justify-content: center; align-items: center; padding: 2rem;
+}
+.slide.active { display: flex; }
+.line-title { font-size: 1.4rem; color: #a0c4ff; margin-bottom: 2rem; text-align: center; }
+.line-original, .line-expanded {
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 1.5rem; margin-bottom: 1.2rem; text-align: center;
+}
+.line-expanded { color: #ffd166; }
+.analysis {
+  font-family: Consolas, "Courier New", monospace; font-size: 1.5rem;
+  margin-top: 0.5rem; text-align: center; line-height: 2.2rem;
+}
+.token-group { display: inline-block; text-align: center; margin-right: 0.6ch; vertical-align: top; }
+.token-text { visibility: hidden; height: 0; overflow: hidden; display: block; white-space: pre; }
+.underline { border-bottom: 2px solid #06d6a0; min-width: 2ch; height: 1.6rem; margin: 0 auto; }
+.role-label { font-size: 0.95rem; color: #06d6a0; margin-top: 0.3rem; min-height: 1.2rem; }
+.hint { position: fixed; bottom: 1rem; right: 1rem; font-size: 0.85rem; color: #666; }
