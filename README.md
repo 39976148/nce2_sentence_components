@@ -20,7 +20,22 @@
 
 ### P3（已完成）
 - **AI 预标注**：OpenAI 兼容 API（设置 → 标注本句/本课）
-- **四册扩展接口**：`nce2_core/catalog.py`（当前仅启用第二册）
+
+### P4（已完成）
+- **仅 NCE2**（移除多册扩展）
+- **幻灯片对齐优化**：词 → 横线 → 成分 三行对齐
+- **导出全书 HTML** + `output/index.html` 目录页
+- **PyInstaller 打包**：`scripts/build_exe.ps1` → 便携 exe
+
+## 打包 exe（Windows）
+
+```powershell
+pip install -r requirements.txt -r requirements-dev.txt
+powershell -ExecutionPolicy Bypass -File scripts/build_exe.ps1
+```
+
+生成 `dist/nce2_sentence_components/nce2_sentence_components.exe`  
+将 `nce_txt/第二册/` 放在 exe 同目录下即可使用。
 
 ## AI 预标注配置
 
@@ -64,7 +79,7 @@ data/          titles.json + lessons/*.json
 
 ## 路线图
 
-- **远期**：C++/Qt6 小 exe；启用第一/三/四册（已预留 catalog）
+- **远期**：核心库移植 C++/Qt6（当前可先使用 PyInstaller exe）
 
 ## 文档
 

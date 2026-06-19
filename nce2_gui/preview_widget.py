@@ -34,7 +34,7 @@ class SlidePreviewWidget(QFrame):
         self.analysis_container = QWidget()
         self.analysis_layout = QHBoxLayout(self.analysis_container)
         self.analysis_layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        self.analysis_layout.setSpacing(8)
+        self.analysis_layout.setSpacing(4)
 
         layout = QVBoxLayout(self)
         layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
@@ -66,11 +66,13 @@ class SlidePreviewWidget(QFrame):
             group = QWidget()
             v = QVBoxLayout(group)
             v.setSpacing(2)
-            v.setContentsMargins(4, 0, 4, 0)
+            v.setContentsMargins(6, 0, 6, 0)
 
-            width = max(len(token.text), 2)
+            word = QLabel(token.text)
+            word.setAlignment(Qt.AlignmentFlag.AlignCenter)
+            word.setFont(mono)
+
             line = QFrame()
-            line.setFixedWidth(width * 9)
             line.setFixedHeight(2)
             line.setStyleSheet("background: #06a060;")
 
@@ -79,7 +81,8 @@ class SlidePreviewWidget(QFrame):
             role.setFont(mono)
             role.setStyleSheet("color: #06a060; font-size: 10px;")
 
-            v.addWidget(line, alignment=Qt.AlignmentFlag.AlignHCenter)
+            v.addWidget(word, alignment=Qt.AlignmentFlag.AlignHCenter)
+            v.addWidget(line)
             v.addWidget(role, alignment=Qt.AlignmentFlag.AlignHCenter)
             self.analysis_layout.addWidget(group)
 

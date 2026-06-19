@@ -25,18 +25,20 @@ from PyQt6.QtWidgets import (
 )
 
 from nce2_core.ai_config import load_ai_config
+from nce2_core.app_paths import app_root
 from nce2_core.batch import batch_import_book2
-from nce2_core.catalog import default_book
+from nce2_core.catalog import default_book, lessons_dir, nce_txt_dir, titles_path
 from nce2_core.lesson_io import load_lesson, save_lesson
 from nce2_core.models import Lesson, Sentence, Token
 from nce2_core.roles import ROLE_LABELS
 from nce2_core.token_ops import apply_expanded, merge_tokens, split_token
+from nce2_export.batch_export import export_all_lessons
 from nce2_export.generator import export_lesson_html
 from nce2_gui.ai_settings_dialog import AiSettingsDialog
 from nce2_gui.ai_worker import AnnotateLessonWorker
 from nce2_gui.preview_widget import SlidePreviewWidget
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = app_root()
 
 
 class MainWindow(QMainWindow):
@@ -45,10 +47,10 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("NCE2 Sentence Components")
         self.resize(1200, 720)
         self.book = default_book()
-        self.lessons_dir = ROOT / "data" / "lessons"
+        self.lessons_dir = lessons_dir(ROOT)
         self.output_dir = ROOT / "output"
-        self.titles_path = ROOT / "data" / "titles.json"
-        self.txt_dir = ROOT / "nce_txt" / self.book.txt_subdir
+        self.titles_path = titles_path(ROOT)
+        self.txt_dir = nce_txt_dir(ROOT)
         self.ai_config = load_ai_config(ROOT)
         self._ai_worker: AnnotateLessonWorker | None = None
 
@@ -121,15 +123,21 @@ class MainWindow(QMainWindow):
 
         import_btn = QPushButton("导入 TXT → JSON（96课）")
         import_btn.clicked.connect(self.on_import_all)
-        export_btn = QPushButton("导出 HTML")
+        export_btn = QPushButton("导出本课 HTML")
         export_btn.clicked.connect(self.on_export)
+        export_all_btn = QPushButton("导出全书 HTML")
+        export_all_btn.clicked.connect(self.on_export_all)
         demo_btn = QPushButton("浏览器演示")
         demo_btn.clicked.connect(self.on_demo)
+        index_btn = QPushButton("打开目录页")
+        index_btn.clicked.connect(self.on_open_index)
 
         action_row = QHBoxLayout()
         action_row.addWidget(import_btn)
         action_row.addWidget(export_btn)
+        action_row.addWidget(export_all_btn)
         action_row.addWidget(demo_btn)
+        action_row.addWidget(index_btn)
 
         right = QVBoxLayout()
         right.addWidget(self.book_label)
@@ -407,6 +415,30 @@ class MainWindow(QMainWindow):
         QMessageBox.information(
             self, "完成", f"已导出到\n{out_path}\n共 {len(self.current_lesson.sentences)} 句"
         )
+
+    def on_export_all(self) -> None:
+        if not self.lessons_dir.exists():
+            QMessageBox.warning(self, "提示", "请先导入课文 JSON。")
+            return
+        self._sync_tokens_from_table()
+        if self.current_lesson:
+            save_lesson(self.current_lesson, self._lesson_path(self.current_lesson.lesson))
+        try:
+            index = export_all_lessons(self.lessons_dir, self.output_dir)
+            QMessageBox.information(
+                self,
+                "完成",
+                f"已导出 96 课 HTML\n目录页：\n{index}",
+            )
+        except Exception as e:
+            QMessageBox.critical(self, "错误", str(e))
+
+    def on_open_index(self) -> None:
+        index_path = self.output_dir / "index.html"
+        if not index_path.exists():
+            self.on_export_all()
+        if index_path.exists():
+            webbrowser.open(index_path.resolve().as_uri())
 
     def on_demo(self) -> None:
         n = self._selected_lesson_num()

@@ -21,3 +21,8 @@ output/*.html
 
 # AI credentials
 config/ai.json
+
+# PyInstaller
+build/
+dist/
+*.spec
