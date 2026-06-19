@@ -5,22 +5,12 @@ from __future__ import annotations
 import re
 
 from nce2_core.models import Sentence, Token
+from nce2_core.phrase_merge import merge_phrase_tokens, _norm, _PREP, _SUBJECT, _CONJ, _TIME_HEAD
 
-_SUBJECT = {"i", "he", "she", "we", "they", "you", "it"}
 _LINKING = {"am", "is", "are", "was", "were", "be", "been", "being"}
 _AUX = {
     "have", "has", "had", "do", "does", "did", "will", "would", "shall",
     "should", "can", "could", "may", "might", "must",
-}
-_PREP = {
-    "to", "in", "on", "at", "from", "with", "by", "for", "of", "into",
-    "behind", "about", "over", "under", "through", "after", "before",
-    "between", "among", "off", "up", "down", "near", "round", "around",
-}
-_CONJ = {"and", "or", "but", "so", "because", "when", "if", "that", "as", "while"}
-_TIME_HEAD = {
-    "last", "in", "at", "on", "every", "sometimes", "one", "this", "that",
-    "when", "after", "before", "during", "soon", "later", "then", "now",
 }
 _DETERMINERS = {"a", "an", "the", "this", "that", "these", "those", "my", "your", "his", "her", "our", "their"}
 _COMMON_VERBS = {
@@ -36,10 +26,11 @@ _COMMON_VERBS = {
     "brought", "begin", "began", "seem", "seemed", "help", "helped",
     "show", "showed", "shown", "try", "tried", "use", "used", "move", "moved",
 }
+_LOC_PREP = {"to", "in", "at", "on", "behind", "into", "from", "near", "over", "under", "around", "round"}
 
 
-def _norm(word: str) -> str:
-    return re.sub(r"[^a-zA-Z']", "", word).lower()
+def _first_word(text: str) -> str:
+    return _norm(text.split()[0]) if text.split() else ""
 
 
 def _is_verb(word: str) -> bool:
@@ -55,111 +46,74 @@ def _is_verb(word: str) -> bool:
     return False
 
 
-def _mark_range(roles: list[str], start: int, end: int, role: str) -> None:
-    for i in range(start, min(end, len(roles))):
-        if not roles[i]:
-            roles[i] = role
+def _is_time_phrase(text: str) -> bool:
+    parts = text.split()
+    if not parts:
+        return False
+    w0 = _norm(parts[0])
+    if w0 in {"last", "next", "this", "each", "every", "one", "some"}:
+        return True
+    if w0 in _TIME_HEAD and len(parts) >= 2:
+        return True
+    if w0 == "in" and len(parts) >= 3 and _norm(parts[1]) == "the":
+        return True
+    return False
+
+
+def _is_loc_prep_phrase(text: str) -> bool:
+    return _first_word(text) in _LOC_PREP and " " in text
 
 
 def auto_annotate_tokens(tokens: list[Token]) -> list[Token]:
     if not tokens:
         return tokens
 
-    roles = [""] * len(tokens)
+    tokens = merge_phrase_tokens(tokens)
     n = len(tokens)
+    roles = [""] * n
     i = 0
 
-    # Leading time / adverbial phrases
-    if _norm(tokens[0].text) in _TIME_HEAD:
-        j = 1
-        while j < n and _norm(tokens[j].text) not in _SUBJECT and not _is_verb(tokens[j].text):
-            if _norm(tokens[j].text) in {"week", "year", "day", "month", "morning", "evening", "end", "time", "summer", "winter", "spring", "autumn", "o'clock"}:
-                j += 1
-                break
-            j += 1
-            if j - i >= 4:
-                break
-        _mark_range(roles, i, j, "时间状语")
-        i = j
-
-    if i < n and _norm(tokens[i].text) == "in" and i + 1 < n and _norm(tokens[i + 1].text) == "the":
-        j = i + 1
-        while j < n and _norm(tokens[j].text) not in _SUBJECT and not _is_verb(tokens[j].text):
-            j += 1
-            if j - i >= 5:
-                break
-        _mark_range(roles, i, j, "时间状语")
-        i = j
+    # Leading time phrase
+    if i < n and _is_time_phrase(tokens[i].text):
+        roles[i] = "时间状语"
+        i += 1
 
     # Subject
-    subj_start = i
-    if i < n and _norm(tokens[i].text) in _SUBJECT:
-        roles[i] = "主语"
-        i += 1
-    elif i < n and _norm(tokens[i].text) in _DETERMINERS:
-        j = i + 1
-        while j < n and not _is_verb(tokens[j].text):
-            j += 1
-            if j - i >= 6:
-                break
-        _mark_range(roles, i, j, "主语")
-        i = j
-    elif i < n and _norm(tokens[i].text) not in _PREP:
-        roles[i] = "主语"
-        i += 1
+    if i < n:
+        w = _first_word(tokens[i].text)
+        if w in _SUBJECT or (w in _DETERMINERS and " " not in tokens[i].text):
+            roles[i] = "主语"
+            i += 1
+        elif w in _DETERMINERS or w not in _PREP:
+            roles[i] = "主语"
+            i += 1
 
-    # Predicate / linking verb
+    # Predicate
     if i < n and _is_verb(tokens[i].text):
-        roles[i] = "系动词" if _norm(tokens[i].text) in _LINKING else "谓语"
+        roles[i] = "系动词" if _first_word(tokens[i].text) in _LINKING else "谓语"
         i += 1
 
-    # not
-    if i < n and _norm(tokens[i].text) == "not":
+    if i < n and _first_word(tokens[i].text) == "not":
         roles[i] = "状语"
         i += 1
 
-    # Remainder: prep phrases, objects, complements, attributes
     while i < n:
-        w = _norm(tokens[i].text)
+        text = tokens[i].text
+        w = _first_word(text)
+
         if w in _CONJ:
             roles[i] = "连词"
-            i += 1
-            continue
-        if w in _PREP or (w == "to" and i + 1 < n):
-            j = i + 1
-            while j < n and _norm(tokens[j].text) not in _CONJ:
-                if j > i + 1 and _is_verb(tokens[j].text) and _norm(tokens[j].text) not in {"be"}:
-                    break
-                j += 1
-                if j - i >= 6:
-                    break
-            prep_role = "地点状语" if w in {"in", "at", "on", "behind", "to", "into", "near", "from"} else "介词短语"
-            _mark_range(roles, i, j, prep_role)
-            i = j
-            continue
-        if w in {"very", "so", "too", "quite", "really", "always", "often", "never", "loudly", "angrily", "rudely", "quickly", "slowly"}:
+        elif _is_loc_prep_phrase(text) or (w in _PREP and len(text.split()) > 1):
+            roles[i] = "地点状语" if w in _LOC_PREP else "介词短语"
+        elif w in _PREP:
+            roles[i] = "介词短语"
+        elif w in {"very", "so", "too", "quite", "really", "always", "often", "never", "loudly", "angrily", "rudely", "quickly", "slowly"}:
             roles[i] = "状语"
-            i += 1
-            continue
-        if w in {"a", "an", "the", "this", "that", "my", "your", "his", "her", "its", "our", "their"}:
-            j = i + 1
-            while j < n and not _is_verb(tokens[j].text) and _norm(tokens[j].text) not in _CONJ:
-                j += 1
-                if j - i >= 5:
-                    break
-            # After linking verb -> 表语; else 宾语
-            pred_idx = subj_start
-            while pred_idx < n and roles[pred_idx] not in {"谓语", "系动词"}:
-                pred_idx += 1
-            is_pred = pred_idx < n and roles[pred_idx] == "系动词"
-            _mark_range(roles, i, j, "表语" if is_pred else "宾语")
-            i = j
-            continue
-        if _is_verb(tokens[i].text):
+        elif w in _DETERMINERS or (len(text.split()) > 1 and not _is_verb(text)):
+            roles[i] = "表语" if any(r == "系动词" for r in roles) else "宾语"
+        elif _is_verb(text):
             roles[i] = "谓语"
-            i += 1
-            continue
-        if not roles[i]:
+        else:
             roles[i] = "表语" if any(r == "系动词" for r in roles) else "宾语"
         i += 1
 

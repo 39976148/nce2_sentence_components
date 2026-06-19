@@ -10,11 +10,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
-          "role": "时间状语"
-        },
-        {
-          "text": "week",
+          "text": "Last week",
           "role": "时间状语"
         },
         {
@@ -26,15 +22,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "theatre.",
+          "text": "to the theatre.",
           "role": "地点状语"
         }
       ]
@@ -59,7 +47,7 @@
         },
         {
           "text": "very",
-          "role": "宾语"
+          "role": "状语"
         },
         {
           "text": "good",
@@ -139,23 +127,23 @@
         },
         {
           "text": "young",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "and",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "a",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "young",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "woman",
@@ -170,11 +158,7 @@
           "role": "谓语"
         },
         {
-          "text": "behind",
-          "role": "地点状语"
-        },
-        {
-          "text": "me.",
+          "text": "behind me.",
           "role": "地点状语"
         }
       ]
@@ -294,15 +278,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "man",
+          "text": "at the man",
           "role": "地点状语"
         },
         {
@@ -319,7 +295,7 @@
         },
         {
           "text": "angrily.",
-          "role": "宾语"
+          "role": "状语"
         }
       ]
     },
@@ -362,15 +338,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "end,",
+          "text": "In the end,",
           "role": "时间状语"
         },
         {
@@ -410,12 +378,8 @@
           "role": "谓语"
         },
         {
-          "text": "round",
-          "role": "介词短语"
-        },
-        {
-          "text": "again.",
-          "role": "介词短语"
+          "text": "round again.",
+          "role": "地点状语"
         }
       ]
     },
@@ -482,36 +446,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
+          "text": "of your business,' the young man said rudely.",
           "role": "介词短语"
-        },
-        {
-          "text": "your",
-          "role": "介词短语"
-        },
-        {
-          "text": "business,'",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "young",
-          "role": "介词短语"
-        },
-        {
-          "text": "man",
-          "role": "介词短语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "rudely.",
-          "role": "状语"
         }
       ]
     },
