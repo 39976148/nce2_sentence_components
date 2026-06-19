@@ -1,0 +1,763 @@
+{
+  "book": 2,
+  "lesson": 55,
+  "title": "Not a gold mine",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Dreams of finding lost treasure almost came true recently.",
+      "expanded": "Dreams of finding lost treasure almost came true recently.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dreams",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "finding",
+          "role": ""
+        },
+        {
+          "text": "lost",
+          "role": ""
+        },
+        {
+          "text": "treasure",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "true",
+          "role": ""
+        },
+        {
+          "text": "recently.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
+      "expanded": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "machine",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "Revealer'",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "invented",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "detect",
+          "role": ""
+        },
+        {
+          "text": "gold",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "buried",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold.",
+      "expanded": "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "machine",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cave",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "seashore",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "pirates",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "hide",
+          "role": ""
+        },
+        {
+          "text": "gold.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The pirates would often bury gold in the cave and then fail to collect it.",
+      "expanded": "The pirates would often bury gold in the cave and then fail to collect it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "pirates",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "bury",
+          "role": ""
+        },
+        {
+          "text": "gold",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cave",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "fail",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "collect",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+      "expanded": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Armed",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "machine,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "search",
+          "role": ""
+        },
+        {
+          "text": "party",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cave",
+          "role": ""
+        },
+        {
+          "text": "hoping",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "buried",
+          "role": ""
+        },
+        {
+          "text": "treasure.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "expanded": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "leader",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "party",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "examining",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "soil",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "entrance",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cave",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "machine",
+          "role": ""
+        },
+        {
+          "text": "showed",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "gold",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Very excited, the party dug a hole two feel deep.",
+      "expanded": "Very excited, the party dug a hole two feel deep.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Very",
+          "role": ""
+        },
+        {
+          "text": "excited,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "party",
+          "role": ""
+        },
+        {
+          "text": "dug",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hole",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "feel",
+          "role": ""
+        },
+        {
+          "text": "deep.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "They finally found a small gold coin which was almost worthless.",
+      "expanded": "They finally found a small gold coin which was almost worthless.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "finally",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "gold",
+          "role": ""
+        },
+        {
+          "text": "coin",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "worthless.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "expanded": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "party",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "searched",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "cave",
+          "role": ""
+        },
+        {
+          "text": "thoroughly",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "anything",
+          "role": ""
+        },
+        {
+          "text": "except",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "empty",
+          "role": ""
+        },
+        {
+          "text": "tin",
+          "role": ""
+        },
+        {
+          "text": "trunk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
+      "expanded": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "spite",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "this,",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "confident",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "Revealer'",
+          "role": ""
+        },
+        {
+          "text": "may",
+          "role": ""
+        },
+        {
+          "text": "reveal",
+          "role": ""
+        },
+        {
+          "text": "something",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "value",
+          "role": ""
+        },
+        {
+          "text": "fairly",
+          "role": ""
+        },
+        {
+          "text": "soon.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

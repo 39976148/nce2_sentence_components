@@ -1,0 +1,747 @@
+{
+  "book": 2,
+  "lesson": 60,
+  "title": "The future",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "expanded": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "fair,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "visit",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fortune-teller",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "Madam",
+          "role": ""
+        },
+        {
+          "text": "Bellinsky.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I went into her tent and she told me to sit down.",
+      "expanded": "I went into her tent and she told me to sit down.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "tent",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sit",
+          "role": ""
+        },
+        {
+          "text": "down.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.",
+      "expanded": "After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "given",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "money,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "crystal",
+          "role": ""
+        },
+        {
+          "text": "ball",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "said:",
+          "role": ""
+        },
+        {
+          "text": "'A",
+          "role": ""
+        },
+        {
+          "text": "relation",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "yours",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "you.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "She will be arriving this evening and intends to stay for a few days.",
+      "expanded": "She will be arriving this evening and intends to stay for a few days.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "arriving",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "evening",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "intends",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "days.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The moment you leave this tent, you will get a big surprise.",
+      "expanded": "The moment you leave this tent, you will get a big surprise.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "moment",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "leave",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "tent,",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "surprise.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "A woman you know well will rush towards you.",
+      "expanded": "A woman you know well will rush towards you.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "know",
+          "role": ""
+        },
+        {
+          "text": "well",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "rush",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "you.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "She will speak to you and then she will lead you away from this place.",
+      "expanded": "She will speak to you and then she will lead you away from this place.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "speak",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "lead",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "place.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "That is all.' As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "expanded": "That is all.' As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "That",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "all.'",
+          "role": ""
+        },
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "outside,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "forgot",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "Madam",
+          "role": ""
+        },
+        {
+          "text": "Bellinsky",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "hurried",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'Where have you been hiding?' she asked impatiently.",
+      "expanded": "'Where have you been hiding?' she asked impatiently.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Where",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "hiding?'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "impatiently.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "'Your sister will be here in less than an hour and we must be at the station to meet her.",
+      "expanded": "'Your sister will be here in less than an hour and we must be at the station to meet her.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Your",
+          "role": ""
+        },
+        {
+          "text": "sister",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "less",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "hour",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "meet",
+          "role": ""
+        },
+        {
+          "text": "her.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "We are late already.' As she walked away, I followed her out of the fair.",
+      "expanded": "We are late already.' As she walked away, I followed her out of the fair.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "late",
+          "role": ""
+        },
+        {
+          "text": "already.'",
+          "role": ""
+        },
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "walked",
+          "role": ""
+        },
+        {
+          "text": "away,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "followed",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fair.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

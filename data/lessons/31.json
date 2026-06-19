@@ -1,0 +1,675 @@
+{
+  "book": 2,
+  "lesson": 31,
+  "title": "Success story",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
+      "expanded": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Yesterday",
+          "role": ""
+        },
+        {
+          "text": "afternoon",
+          "role": ""
+        },
+        {
+          "text": "Frank",
+          "role": ""
+        },
+        {
+          "text": "Hawkins",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "telling",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "experiences",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "man.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
+      "expanded": "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Before",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "retired,",
+          "role": ""
+        },
+        {
+          "text": "Frank",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "head",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "business",
+          "role": ""
+        },
+        {
+          "text": "company,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boy",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "shop.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
+      "expanded": "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "job",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "repair",
+          "role": ""
+        },
+        {
+          "text": "bicycles",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "fourteen",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "day.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He saved money for years and in 1958 he bought a small workshop of his own.",
+      "expanded": "He saved money for years and in 1958 he bought a small workshop of his own.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "saved",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1958",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "workshop",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "own.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "In his twenties Frank used to make spare parts for aeroplanes.",
+      "expanded": "In his twenties Frank used to make spare parts for aeroplanes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "twenties",
+          "role": ""
+        },
+        {
+          "text": "Frank",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "spare",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "aeroplanes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "At that time he had two helpers.",
+      "expanded": "At that time he had two helpers.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "helpers.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+      "expanded": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "workshop",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "become",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "factory",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "employed",
+          "role": ""
+        },
+        {
+          "text": "seven",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "twenty-eight",
+          "role": ""
+        },
+        {
+          "text": "people.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "expanded": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Frank",
+          "role": ""
+        },
+        {
+          "text": "smiled",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "remembered",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "road",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "success.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "He was still smiling when the door opened and his wife came in.",
+      "expanded": "He was still smiling when the door opened and his wife came in.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "smiling",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "door",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "in.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "She wanted him to repair their grandson's bicycle!",
+      "expanded": "She wanted him to repair their grandson's bicycle!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "repair",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "grandson's",
+          "role": ""
+        },
+        {
+          "text": "bicycle!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

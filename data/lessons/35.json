@@ -1,0 +1,683 @@
+{
+  "book": 2,
+  "lesson": 35,
+  "title": "Stop thief!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Roy Trenton used to drive a taxi.",
+      "expanded": "Roy Trenton used to drive a taxi.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Roy",
+          "role": ""
+        },
+        {
+          "text": "Trenton",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "taxi.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "expanded": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "became",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "driver",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "regretted",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He is finding his new work far more exciting.",
+      "expanded": "He is finding his new work far more exciting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "finding",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "far",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "exciting.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+      "expanded": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "driving",
+          "role": ""
+        },
+        {
+          "text": "along",
+          "role": ""
+        },
+        {
+          "text": "Catford",
+          "role": ""
+        },
+        {
+          "text": "Street",
+          "role": ""
+        },
+        {
+          "text": "recently,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "thieves",
+          "role": ""
+        },
+        {
+          "text": "rush",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "run",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "car.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "One of them was carrying a bag full of money.",
+      "expanded": "One of them was carrying a bag full of money.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "One",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "carrying",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bag",
+          "role": ""
+        },
+        {
+          "text": "full",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "money.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Roy acted quickly and drove the bus straight at the thieves.",
+      "expanded": "Roy acted quickly and drove the bus straight at the thieves.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Roy",
+          "role": ""
+        },
+        {
+          "text": "acted",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "drove",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "straight",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "thieves.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The one with the money got such a fright that he dropped the bag.",
+      "expanded": "The one with the money got such a fright that he dropped the bag.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "such",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fright",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "dropped",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bag.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "expanded": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "thieves",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "car,",
+          "role": ""
+        },
+        {
+          "text": "Roy",
+          "role": ""
+        },
+        {
+          "text": "drove",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "expanded": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "While",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "battered",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "moving",
+          "role": ""
+        },
+        {
+          "text": "away,",
+          "role": ""
+        },
+        {
+          "text": "Roy",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "telephoned",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The thieves' car was badly damaged and easy to recognize.",
+      "expanded": "The thieves' car was badly damaged and easy to recognize.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "thieves'",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "badly",
+          "role": ""
+        },
+        {
+          "text": "damaged",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "easy",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "recognize.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "expanded": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Shortly",
+          "role": ""
+        },
+        {
+          "text": "afterwards,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "both",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "arrested.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "book": 2,
+  "lesson": 82,
+  "title": "Monster or fish?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Fishermen and sailors sometimes claim to have seen monsters in the sea.",
+      "expanded": "Fishermen and sailors sometimes claim to have seen monsters in the sea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fishermen",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sailors",
+          "role": ""
+        },
+        {
+          "text": "sometimes",
+          "role": ""
+        },
+        {
+          "text": "claim",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "seen",
+          "role": ""
+        },
+        {
+          "text": "monsters",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish.",
+      "expanded": "Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "laughed",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "stories",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "seamen,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "known",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "'monsters'",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "times",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "sighted",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "simply",
+          "role": ""
+        },
+        {
+          "text": "strange",
+          "role": ""
+        },
+        {
+          "text": "fish.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.",
+      "expanded": "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Occasionally,",
+          "role": ""
+        },
+        {
+          "text": "unusual",
+          "role": ""
+        },
+        {
+          "text": "creatures",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "washed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "rarely",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "sea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Some time ago, however, a peculiar fish was caught near Madagascar.",
+      "expanded": "Some time ago, however, a peculiar fish was caught near Madagascar.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Some",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "peculiar",
+          "role": ""
+        },
+        {
+          "text": "fish",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "Madagascar.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.",
+      "expanded": "A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "fishing",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sea",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "powerful",
+          "role": ""
+        },
+        {
+          "text": "fish",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "pulled",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "line.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way.",
+      "expanded": "Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Realizing",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "ordinary",
+          "role": ""
+        },
+        {
+          "text": "fish,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fisherman",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "every",
+          "role": ""
+        },
+        {
+          "text": "effort",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "damage",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "way.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "When it was eventually brought to shore, it was found to be over thirteen feet long.",
+      "expanded": "When it was eventually brought to shore, it was found to be over thirteen feet long.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "eventually",
+          "role": ""
+        },
+        {
+          "text": "brought",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "shore,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "thirteen",
+          "role": ""
+        },
+        {
+          "text": "feet",
+          "role": ""
+        },
+        {
+          "text": "long.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail.",
+      "expanded": "It had a head like a horse, big blue eyes, shining silver skin, and a bright red tail.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "head",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "horse,",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "blue",
+          "role": ""
+        },
+        {
+          "text": "eyes,",
+          "role": ""
+        },
+        {
+          "text": "shining",
+          "role": ""
+        },
+        {
+          "text": "silver",
+          "role": ""
+        },
+        {
+          "text": "skin,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bright",
+          "role": ""
+        },
+        {
+          "text": "red",
+          "role": ""
+        },
+        {
+          "text": "tail.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish.",
+      "expanded": "The fish, which has since been sent to a museum where it is being examined by a scientist, is called an oarfish.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "fish,",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "since",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "museum",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "examined",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "scientist,",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "oarfish.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.",
+      "expanded": "Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Such",
+          "role": ""
+        },
+        {
+          "text": "creatures",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "rarely",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "seen",
+          "role": ""
+        },
+        {
+          "text": "alive",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "live",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "depth",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "six",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "feet.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

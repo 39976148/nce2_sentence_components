@@ -1,0 +1,655 @@
+{
+  "book": 2,
+  "lesson": 43,
+  "title": "Over the South Pole",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "In 1929, three years after his flight over the North Pole, the American explorer, R.E.",
+      "expanded": "In 1929, three years after his flight over the North Pole, the American explorer, R.E.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "1929,",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "flight",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "North",
+          "role": ""
+        },
+        {
+          "text": "Pole,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "American",
+          "role": ""
+        },
+        {
+          "text": "explorer,",
+          "role": ""
+        },
+        {
+          "text": "R.E.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Byrd, successfully flew over the South Pole for the first time.",
+      "expanded": "Byrd, successfully flew over the South Pole for the first time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Byrd,",
+          "role": ""
+        },
+        {
+          "text": "successfully",
+          "role": ""
+        },
+        {
+          "text": "flew",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "Pole",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.",
+      "expanded": "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though,",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "first,",
+          "role": ""
+        },
+        {
+          "text": "Byrd",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "photographs",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mountains",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "lay",
+          "role": ""
+        },
+        {
+          "text": "below,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "ran",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "serious",
+          "role": ""
+        },
+        {
+          "text": "trouble.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "At one point, it seemed certain that their plane would crash.",
+      "expanded": "At one point, it seemed certain that their plane would crash.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "point,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "seemed",
+          "role": ""
+        },
+        {
+          "text": "certain",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "crash.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "It could only get over the mountains if it rose to 10,000 feet.",
+      "expanded": "It could only get over the mountains if it rose to 10,000 feet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mountains",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "rose",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "10,000",
+          "role": ""
+        },
+        {
+          "text": "feet.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Byrd at once ordered his men to throw out two heavy food sacks.",
+      "expanded": "Byrd at once ordered his men to throw out two heavy food sacks.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Byrd",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "ordered",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "throw",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "heavy",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "sacks.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The plane was then able to rise and it cleared the mountains by 400 feet.",
+      "expanded": "The plane was then able to rise and it cleared the mountains by 400 feet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "rise",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "cleared",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mountains",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "400",
+          "role": ""
+        },
+        {
+          "text": "feet.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight.",
+      "expanded": "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Byrd",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "reach",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "Pole",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "300",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "away,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "mountains",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "sight.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The aircraft was able to fly over the endless white plains without difficulty.",
+      "expanded": "The aircraft was able to fly over the endless white plains without difficulty.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "aircraft",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "fly",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "endless",
+          "role": ""
+        },
+        {
+          "text": "white",
+          "role": ""
+        },
+        {
+          "text": "plains",
+          "role": ""
+        },
+        {
+          "text": "without",
+          "role": ""
+        },
+        {
+          "text": "difficulty.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

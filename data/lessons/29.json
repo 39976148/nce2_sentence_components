@@ -1,0 +1,655 @@
+{
+  "book": 2,
+  "lesson": 29,
+  "title": "Taxi!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "expanded": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Ben",
+          "role": ""
+        },
+        {
+          "text": "Fawcett",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "unusual",
+          "role": ""
+        },
+        {
+          "text": "taxi",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "service.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+      "expanded": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "'taxi'",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "Swiss",
+          "role": ""
+        },
+        {
+          "text": "aeroplane",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "'Pilatus",
+          "role": ""
+        },
+        {
+          "text": "Porter'.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "This wonderful plane can carry seven passengers.",
+      "expanded": "This wonderful plane can carry seven passengers.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "wonderful",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "carry",
+          "role": ""
+        },
+        {
+          "text": "seven",
+          "role": ""
+        },
+        {
+          "text": "passengers.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.",
+      "expanded": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "surprising",
+          "role": ""
+        },
+        {
+          "text": "thing",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "it,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "land",
+          "role": ""
+        },
+        {
+          "text": "anywhere:",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "snow,",
+          "role": ""
+        },
+        {
+          "text": "water,",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "ploughed",
+          "role": ""
+        },
+        {
+          "text": "field.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+      "expanded": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Fawcett's",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "passenger",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "flew",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Birmingham",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lonely",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Welsh",
+          "role": ""
+        },
+        {
+          "text": "mountains.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "expanded": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Since",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Fawcett",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "flown",
+          "role": ""
+        },
+        {
+          "text": "passengers",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "unusual",
+          "role": ""
+        },
+        {
+          "text": "places.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
+      "expanded": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Once",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "landed",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "roof",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "block",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "flats",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "occasion,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "landed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "deserted",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "park.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Captain Fawcett has just refused a strange request from a businessman.",
+      "expanded": "Captain Fawcett has just refused a strange request from a businessman.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Fawcett",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "refused",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "strange",
+          "role": ""
+        },
+        {
+          "text": "request",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "businessman.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.",
+      "expanded": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "fly",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Rockall,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lonely",
+          "role": ""
+        },
+        {
+          "text": "island",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Atlantic",
+          "role": ""
+        },
+        {
+          "text": "Ocean,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Fawcett",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "trip",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "dangerous.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "book": 2,
+  "lesson": 7,
+  "title": "Too late",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The plane was late and detectives were waiting at the airport all morning.",
+      "expanded": "The plane was late and detectives were waiting at the airport all morning.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "late",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "detectives",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "airport",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "morning.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "expanded": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "expecting",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "valuable",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "diamonds",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "Africa.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "expanded": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "earlier,",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "thieves",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "try",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "steal",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "diamonds.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+      "expanded": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "arrived,",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "detectives",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "inside",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "main",
+          "role": ""
+        },
+        {
+          "text": "building",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "others",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "airfield.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Two men took the parcel off the plane and carried it into the Customs House.",
+      "expanded": "Two men took the parcel off the plane and carried it into the Customs House.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Two",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Customs",
+          "role": ""
+        },
+        {
+          "text": "House.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "expanded": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "While",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "detectives",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "keeping",
+          "role": ""
+        },
+        {
+          "text": "guard",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "door,",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "others",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "parcel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "To their surprise, the precious parcel was full of stones and sand!",
+      "expanded": "To their surprise, the precious parcel was full of stones and sand!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "To",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "surprise,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "precious",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "full",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "stones",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sand!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

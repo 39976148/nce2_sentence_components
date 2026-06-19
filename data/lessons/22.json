@@ -1,0 +1,455 @@
+{
+  "book": 2,
+  "lesson": 22,
+  "title": "A glass envelope",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "expanded": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "daughter,",
+          "role": ""
+        },
+        {
+          "text": "Jane,",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "dreamed",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "receiving",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "own",
+          "role": ""
+        },
+        {
+          "text": "age",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Holland.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+      "expanded": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "travelling",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Channel",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Jane",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "piece",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "paper",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "name",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "address",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bottle.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "She threw the bottle into the sea.",
+      "expanded": "She threw the bottle into the sea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "threw",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bottle",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+      "expanded": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "thought",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "again,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "ten",
+          "role": ""
+        },
+        {
+          "text": "months",
+          "role": ""
+        },
+        {
+          "text": "later,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "received",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Holland.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Both girls write to each other regularly now.",
+      "expanded": "Both girls write to each other regularly now.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Both",
+          "role": ""
+        },
+        {
+          "text": "girls",
+          "role": ""
+        },
+        {
+          "text": "write",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "each",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "regularly",
+          "role": ""
+        },
+        {
+          "text": "now.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "However, they have decided to use the post office.",
+      "expanded": "However, they have decided to use the post office.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "However,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "use",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "post",
+          "role": ""
+        },
+        {
+          "text": "office.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Letters will cost a little more, but they will certainly travel faster.",
+      "expanded": "Letters will cost a little more, but they will certainly travel faster.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Letters",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "cost",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "more,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "certainly",
+          "role": ""
+        },
+        {
+          "text": "travel",
+          "role": ""
+        },
+        {
+          "text": "faster.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

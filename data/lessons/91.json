@@ -1,0 +1,823 @@
+{
+  "book": 2,
+  "lesson": 91,
+  "title": "Three men in a basket",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.",
+      "expanded": "A pilot noticed a balloon which seemed to be making for a Royal Air Force Station nearby.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "balloon",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "seemed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "making",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Royal",
+          "role": ""
+        },
+        {
+          "text": "Air",
+          "role": ""
+        },
+        {
+          "text": "Force",
+          "role": ""
+        },
+        {
+          "text": "Station",
+          "role": ""
+        },
+        {
+          "text": "nearby.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He informed the station at once, but no one there was able to explain the mystery.",
+      "expanded": "He informed the station at once, but no one there was able to explain the mystery.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "informed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "once,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "explain",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mystery.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.",
+      "expanded": "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "officer",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "control",
+          "role": ""
+        },
+        {
+          "text": "tower",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "angry",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "news,",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "balloons",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "danger",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "aircraft.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "expanded": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "might",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "spying",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "ordered",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "keep",
+          "role": ""
+        },
+        {
+          "text": "track",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strange",
+          "role": ""
+        },
+        {
+          "text": "object.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The pilot managed to circle the balloon for some time.",
+      "expanded": "The pilot managed to circle the balloon for some time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "managed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "circle",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "balloon",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "expanded": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "basket",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "holding",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pair",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "binoculars.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "expanded": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "balloon",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "taking",
+          "role": ""
+        },
+        {
+          "text": "photographs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "expanded": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Soon",
+          "role": ""
+        },
+        {
+          "text": "afterwards,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "balloon",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "descend",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "landed",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "airfield.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!",
+      "expanded": "The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "in,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "arrest",
+          "role": ""
+        },
+        {
+          "text": "anyone,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "basket",
+          "role": ""
+        },
+        {
+          "text": "contained",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "Members",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Parliament",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Commanding",
+          "role": ""
+        },
+        {
+          "text": "Officer",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!",
+      "expanded": "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Commanding",
+          "role": ""
+        },
+        {
+          "text": "Officer",
+          "role": ""
+        },
+        {
+          "text": "explained",
+          "role": ""
+        },
+        {
+          "text": "later,",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "half",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "know",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "half",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "doing!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

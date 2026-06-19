@@ -1,0 +1,467 @@
+{
+  "book": 2,
+  "lesson": 12,
+  "title": "Goodbye and good luck",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "expanded": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Our",
+          "role": ""
+        },
+        {
+          "text": "neighbour,",
+          "role": ""
+        },
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Charles",
+          "role": ""
+        },
+        {
+          "text": "Alison,",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "sail",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Portsmouth",
+          "role": ""
+        },
+        {
+          "text": "tomorrow.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "We'll meet him at the harbour early in the morning.",
+      "expanded": "We will meet him at the harbour early in the morning.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "meet",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "harbour",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "morning.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He will be in his small boat, Topsail.",
+      "expanded": "He will be in his small boat, Topsail.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "boat,",
+          "role": ""
+        },
+        {
+          "text": "Topsail.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Topsail is a famous little boat.",
+      "expanded": "Topsail is a famous little boat.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Topsail",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "boat.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "It has sailed across the Atlantic many times.",
+      "expanded": "It has sailed across the Atlantic many times.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "sailed",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Atlantic",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "times.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Captain Alison will set out at eight o'clock, so we'll have plenty of time.",
+      "expanded": "Captain Alison will set out at eight o'clock, so we will have plenty of time.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "Captain",
+          "role": ""
+        },
+        {
+          "text": "Alison",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "eight",
+          "role": ""
+        },
+        {
+          "text": "o'clock,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "plenty",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "We'll see his boat and then we'll say goodbye to him.",
+      "expanded": "We will see his boat and then we will say goodbye to him.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "say",
+          "role": ""
+        },
+        {
+          "text": "goodbye",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "He will be away for two months.",
+      "expanded": "He will be away for two months.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "months.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "We are very proud of him.",
+      "expanded": "We are very proud of him.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "proud",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "He will take part in an important race across the Atlantic.",
+      "expanded": "He will take part in an important race across the Atlantic.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "part",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "important",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Atlantic.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

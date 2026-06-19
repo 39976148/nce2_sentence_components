@@ -1,0 +1,723 @@
+{
+  "book": 2,
+  "lesson": 69,
+  "title": "But not murder!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I was being tested for a driving licence for the third time.",
+      "expanded": "I was being tested for a driving licence for the third time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "tested",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "driving",
+          "role": ""
+        },
+        {
+          "text": "licence",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "third",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "expanded": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "heavy",
+          "role": ""
+        },
+        {
+          "text": "traffic",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "done",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "successfully.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "expanded": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "having",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "instructed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "town,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "acquire",
+          "role": ""
+        },
+        {
+          "text": "confidence.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "expanded": "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Sure",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "passed,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "beginning",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "enjoy",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "test.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The examiner must have been pleased with my performance, for he smiled and said.",
+      "expanded": "The examiner must have been pleased with my performance, for he smiled and said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "examiner",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "pleased",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "performance,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "smiled",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'Just one more thing, Mr.Eames.",
+      "expanded": "'Just one more thing, Mr.Eames.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Just",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "thing,",
+          "role": ""
+        },
+        {
+          "text": "Mr.Eames.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "expanded": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Let",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "suppose",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "child",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "crosses",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "road",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "front",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "you.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "As soon as I tap on the window, you must stop within five feet.' I continued driving and after some time, the examiner tapped loudly, Though the sound could be heard clearly, it took me a long time to react.",
+      "expanded": "As soon as I tap on the window, you must stop within five feet.' I continued driving and after some time, the examiner tapped loudly, Though the sound could be heard clearly, it took me a long time to react.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "tap",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "window,",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "stop",
+          "role": ""
+        },
+        {
+          "text": "within",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "feet.'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "continued",
+          "role": ""
+        },
+        {
+          "text": "driving",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "examiner",
+          "role": ""
+        },
+        {
+          "text": "tapped",
+          "role": ""
+        },
+        {
+          "text": "loudly,",
+          "role": ""
+        },
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sound",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "clearly,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "react.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "I suddenly pressed the brake pedal and we were both thrown forward.",
+      "expanded": "I suddenly pressed the brake pedal and we were both thrown forward.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "pressed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "brake",
+          "role": ""
+        },
+        {
+          "text": "pedal",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "both",
+          "role": ""
+        },
+        {
+          "text": "thrown",
+          "role": ""
+        },
+        {
+          "text": "forward.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The examiner looked at me sadly.",
+      "expanded": "The examiner looked at me sadly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "examiner",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "sadly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'Mr.Eames,' he said, in a mournful voice, 'you have just killed that child!'",
+      "expanded": "'Mr.Eames,' he said, in a mournful voice, 'you have just killed that child!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Mr.Eames,'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mournful",
+          "role": ""
+        },
+        {
+          "text": "voice,",
+          "role": ""
+        },
+        {
+          "text": "'you",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "killed",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "child!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

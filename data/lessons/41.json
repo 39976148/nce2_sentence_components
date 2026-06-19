@@ -1,0 +1,703 @@
+{
+  "book": 2,
+  "lesson": 41,
+  "title": "Do you call that a hat?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "'Do you call that a hat?' I said to my wife.",
+      "expanded": "'Do you call that a hat?' I said to my wife.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Do",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "call",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hat?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
+      "expanded": "'You need not be so rude about it,' my wife answered as she looked at herself in the mirror.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "rude",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "it,'",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "herself",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mirror.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "I sat down on one of those modern chairs with holes in it and waited.",
+      "expanded": "I sat down on one of those modern chairs with holes in it and waited.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "chairs",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "holes",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "waited.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
+      "expanded": "We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hat",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "half",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "hour",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "front",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mirror.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'We mustn't buy things we don't need,' I remarked suddenly.",
+      "expanded": "'We must not buy things we do not need,' I remarked suddenly.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'We",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "buy",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "need,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "remarked",
+          "role": ""
+        },
+        {
+          "text": "suddenly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I regretted saying it almost at once.",
+      "expanded": "I regretted saying it almost at once.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "regretted",
+          "role": ""
+        },
+        {
+          "text": "saying",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "once.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "'You needn't have said that,' my wife answered.",
+      "expanded": "'You need not have said that,' my wife answered.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that,'",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'I needn't remind you of that terrible tie you bought yesterday.' 'I find it beautiful,' I said.",
+      "expanded": "'I need not remind you of that terrible tie you bought yesterday.' 'I find it beautiful,' I said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "remind",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "terrible",
+          "role": ""
+        },
+        {
+          "text": "tie",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "yesterday.'",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "beautiful,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'A man can never have too many ties.' 'And a woman can't have too many hats,' she answered.",
+      "expanded": "'A man can never have too many ties.' 'And a woman can not have too many hats,' she answered.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'A",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "ties.'",
+          "role": ""
+        },
+        {
+          "text": "'And",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "hats,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Ten minutes later we walked out of the shop together.",
+      "expanded": "Ten minutes later we walked out of the shop together.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Ten",
+          "role": ""
+        },
+        {
+          "text": "minutes",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "walked",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "together.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "My wife was wearing a hat that looked like a lighthouse!",
+      "expanded": "My wife was wearing a hat that looked like a lighthouse!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "wearing",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hat",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lighthouse!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

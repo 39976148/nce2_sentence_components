@@ -1,0 +1,435 @@
+{
+  "book": 2,
+  "lesson": 5,
+  "title": "No wrong numbers",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
+      "expanded": "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mr.James",
+          "role": ""
+        },
+        {
+          "text": "Scott",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "garage",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Silbury",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "garage",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Pinhurst.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+      "expanded": "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Pinhurst",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Silbury,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Scott",
+          "role": ""
+        },
+        {
+          "text": "cannot",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "telephone",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "garage,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "twelve",
+          "role": ""
+        },
+        {
+          "text": "pigeons.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "expanded": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Yesterday,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pigeon",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "message",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Pinhurst",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Silbury.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The bird covered the distance in three minutes.",
+      "expanded": "The bird covered the distance in three minutes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "bird",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "distance",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "minutes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+      "expanded": "Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Up",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "now,",
+          "role": ""
+        },
+        {
+          "text": "Mr.Scott",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "requests",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "spare",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "urgent",
+          "role": ""
+        },
+        {
+          "text": "messages",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "garage",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "In this way, he has begun his own private 'telephone' service.",
+      "expanded": "In this way, he has begun his own private 'telephone' service.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "way,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "own",
+          "role": ""
+        },
+        {
+          "text": "private",
+          "role": ""
+        },
+        {
+          "text": "'telephone'",
+          "role": ""
+        },
+        {
+          "text": "service.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

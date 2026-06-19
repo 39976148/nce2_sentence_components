@@ -1,0 +1,843 @@
+{
+  "book": 2,
+  "lesson": 78,
+  "title": "The last one?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.",
+      "expanded": "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "reading",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "article",
+          "role": ""
+        },
+        {
+          "text": "entitled",
+          "role": ""
+        },
+        {
+          "text": "'Cigarette",
+          "role": ""
+        },
+        {
+          "text": "Smoking",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Your",
+          "role": ""
+        },
+        {
+          "text": "Health'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "lit",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cigarette",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "calm",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "nerves.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
+      "expanded": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "smoked",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "concentration",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "pleasure",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "sure",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "cigarette.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "For a whole week I did not smoke at all and during this time, my wife suffered terribly.",
+      "expanded": "For a whole week I did not smoke at all and during this time, my wife suffered terribly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "For",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "week",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "smoke",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "during",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "suffered",
+          "role": ""
+        },
+        {
+          "text": "terribly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.",
+      "expanded": "I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "usual",
+          "role": ""
+        },
+        {
+          "text": "symptoms",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "giving",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "smoking:",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bad",
+          "role": ""
+        },
+        {
+          "text": "temper",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "enormous",
+          "role": ""
+        },
+        {
+          "text": "appetite.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "My friends kept on offering me cigarettes and cigars.",
+      "expanded": "My friends kept on offering me cigarettes and cigars.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "kept",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "offering",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "cigarettes",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "cigars.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.",
+      "expanded": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "effort",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "hide",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "amusement",
+          "role": ""
+        },
+        {
+          "text": "whenever",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "produced",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "packet",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "sweets",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "pocket.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "After seven days of this I went to a party.",
+      "expanded": "After seven days of this I went to a party.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "seven",
+          "role": ""
+        },
+        {
+          "text": "days",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "party.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Everybody around me was smoking and I felt extremely uncomfortable.",
+      "expanded": "Everybody around me was smoking and I felt extremely uncomfortable.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everybody",
+          "role": ""
+        },
+        {
+          "text": "around",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "smoking",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "extremely",
+          "role": ""
+        },
+        {
+          "text": "uncomfortable.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+      "expanded": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "friend",
+          "role": ""
+        },
+        {
+          "text": "Brian",
+          "role": ""
+        },
+        {
+          "text": "urged",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "accept",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cigarette,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "bear.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "I took one guiltily, lit it and smoked with satisfaction.",
+      "expanded": "I took one guiltily, lit it and smoked with satisfaction.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "guiltily,",
+          "role": ""
+        },
+        {
+          "text": "lit",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "smoked",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "satisfaction.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "My wife was delighted that things had returned to normal once more.",
+      "expanded": "My wife was delighted that things had returned to normal once more.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "delighted",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "normal",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "more.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.",
+      "expanded": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Anyway,",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "Brian",
+          "role": ""
+        },
+        {
+          "text": "pointed",
+          "role": ""
+        },
+        {
+          "text": "out,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "easiest",
+          "role": ""
+        },
+        {
+          "text": "thing",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "give",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "smoking.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "He himself has done it lots of times!",
+      "expanded": "He himself has done it lots of times!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "himself",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "done",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "lots",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "times!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

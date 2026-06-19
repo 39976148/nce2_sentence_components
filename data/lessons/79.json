@@ -1,0 +1,831 @@
+{
+  "book": 2,
+  "lesson": 79,
+  "title": "By air",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I used to travel by air a great deal when I was a boy.",
+      "expanded": "I used to travel by air a great deal when I was a boy.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "travel",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "air",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "deal",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boy.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "My parents used to live in South America and I used to fly there from Europe in the holidays.",
+      "expanded": "My parents used to live in South America and I used to fly there from Europe in the holidays.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "parents",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "live",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "America",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "fly",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Europe",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "holidays.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "A flight attendant would take charge of me and I never had an unpleasant experience.",
+      "expanded": "A flight attendant would take charge of me and I never had an unpleasant experience.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "flight",
+          "role": ""
+        },
+        {
+          "text": "attendant",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "charge",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "unpleasant",
+          "role": ""
+        },
+        {
+          "text": "experience.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "I am used to traveling by air and only on one occasion have I ever felt frightened.",
+      "expanded": "I am used to traveling by air and only on one occasion have I ever felt frightened.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "traveling",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "air",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "occasion",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "frightened.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport.",
+      "expanded": "After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "taking",
+          "role": ""
+        },
+        {
+          "text": "off,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "flying",
+          "role": ""
+        },
+        {
+          "text": "low",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "city",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "slowly",
+          "role": ""
+        },
+        {
+          "text": "gaining",
+          "role": ""
+        },
+        {
+          "text": "height,",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "round",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "flew",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "airport.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.",
+      "expanded": "While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "While",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "land,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "flight",
+          "role": ""
+        },
+        {
+          "text": "attendant",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "keep",
+          "role": ""
+        },
+        {
+          "text": "calm",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "quietly",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "touched",
+          "role": ""
+        },
+        {
+          "text": "down.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Everybody on board was worried and we were curious to find out what had happened.",
+      "expanded": "Everybody on board was worried and we were curious to find out what had happened.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everybody",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "board",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "worried",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "curious",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "happened.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Later we learnt that there was a very important person on board.",
+      "expanded": "Later we learnt that there was a very important person on board.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Later",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "learnt",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "important",
+          "role": ""
+        },
+        {
+          "text": "person",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "board.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The police had been told that a bomb had been planted on the plane.",
+      "expanded": "The police had been told that a bomb had been planted on the plane.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bomb",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "planted",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "After we had landed, the plane was searched thoroughly.",
+      "expanded": "After we had landed, the plane was searched thoroughly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "landed,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "searched",
+          "role": ""
+        },
+        {
+          "text": "thoroughly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Fortunately, nothing was found and five hours later we were able to take off again.",
+      "expanded": "Fortunately, nothing was found and five hours later we were able to take off again.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fortunately,",
+          "role": ""
+        },
+        {
+          "text": "nothing",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "book": 2,
+  "lesson": 76,
+  "title": "April Fools' Day",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
+      "expanded": "'To end our special news bulletin,' said the voice of the television announcer, 'we are going over to the macaroni fields of Calabria.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'To",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "news",
+          "role": ""
+        },
+        {
+          "text": "bulletin,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "voice",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "television",
+          "role": ""
+        },
+        {
+          "text": "announcer,",
+          "role": ""
+        },
+        {
+          "text": "'we",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "macaroni",
+          "role": ""
+        },
+        {
+          "text": "fields",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Calabria.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Macaroni has been grown in this area for over six hundred years.",
+      "expanded": "Macaroni has been grown in this area for over six hundred years.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Macaroni",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "grown",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "area",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "six",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "years.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Two of the leading growers, Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.",
+      "expanded": "Two of the leading growers, Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Two",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "leading",
+          "role": ""
+        },
+        {
+          "text": "growers,",
+          "role": ""
+        },
+        {
+          "text": "Giuseppe",
+          "role": ""
+        },
+        {
+          "text": "Moldova",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Riccardo",
+          "role": ""
+        },
+        {
+          "text": "Brabante,",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "expecting",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "splendid",
+          "role": ""
+        },
+        {
+          "text": "crop",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "harvesting",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "earlier",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "usual.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks.",
+      "expanded": "Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Here",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "workers",
+          "role": ""
+        },
+        {
+          "text": "who,",
+          "role": ""
+        },
+        {
+          "text": "between",
+          "role": ""
+        },
+        {
+          "text": "them,",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "finished",
+          "role": ""
+        },
+        {
+          "text": "cutting",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "cartloads",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "golden",
+          "role": ""
+        },
+        {
+          "text": "brown",
+          "role": ""
+        },
+        {
+          "text": "macaroni",
+          "role": ""
+        },
+        {
+          "text": "stalks.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The whole village has been working day and night gathering and threshing this year's crop before the September rains.",
+      "expanded": "The whole village has been working day and night gathering and threshing this year's crop before the September rains.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "night",
+          "role": ""
+        },
+        {
+          "text": "gathering",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "threshing",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "year's",
+          "role": ""
+        },
+        {
+          "text": "crop",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "September",
+          "role": ""
+        },
+        {
+          "text": "rains.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "On the right, you can see Mrs. Brabante herself.",
+      "expanded": "On the right, you can see Mrs. Brabante herself.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "right,",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Brabante",
+          "role": ""
+        },
+        {
+          "text": "herself.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "She has been helping her husband for thirty years now.",
+      "expanded": "She has been helping her husband for thirty years now.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "helping",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "husband",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "thirty",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "now.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Mrs. Brabante is talking to the manager of the local factory where the crop is processed.",
+      "expanded": "Mrs. Brabante is talking to the manager of the local factory where the crop is processed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Brabante",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "talking",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "manager",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "local",
+          "role": ""
+        },
+        {
+          "text": "factory",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "crop",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "processed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "This last scene shows you what will happen at the end of the harvest: the famous Calabrian macaroni-eating competition!",
+      "expanded": "This last scene shows you what will happen at the end of the harvest: the famous Calabrian macaroni-eating competition!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "scene",
+          "role": ""
+        },
+        {
+          "text": "shows",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "happen",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "harvest:",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "Calabrian",
+          "role": ""
+        },
+        {
+          "text": "macaroni-eating",
+          "role": ""
+        },
+        {
+          "text": "competition!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Signor Fratelli, the present champion, has won it every year since 1991.",
+      "expanded": "Signor Fratelli, the present champion, has won it every year since 1991.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Signor",
+          "role": ""
+        },
+        {
+          "text": "Fratelli,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "present",
+          "role": ""
+        },
+        {
+          "text": "champion,",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "won",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "every",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "since",
+          "role": ""
+        },
+        {
+          "text": "1991.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "And that ends our special bulletin for today, Thursday, April lst.",
+      "expanded": "And that ends our special bulletin for today, Thursday, April lst.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "And",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "ends",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "bulletin",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "today,",
+          "role": ""
+        },
+        {
+          "text": "Thursday,",
+          "role": ""
+        },
+        {
+          "text": "April",
+          "role": ""
+        },
+        {
+          "text": "lst.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "We're now going back to the studio.'",
+      "expanded": "we are now going back to the studio.'",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "studio.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

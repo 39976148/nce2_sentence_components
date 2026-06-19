@@ -1,0 +1,639 @@
+{
+  "book": 2,
+  "lesson": 42,
+  "title": "Not very musical",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+      "expanded": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "walk",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "markets",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "Delhi,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "square",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "rest.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "expanded": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "snake",
+          "role": ""
+        },
+        {
+          "text": "charmer",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "baskets",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "side",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "square,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "look",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "expanded": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "us,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "picked",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "pipe",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "coins",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "baskets.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "When he began to play a tune, we had our first glimpse of the snake.",
+      "expanded": "When he began to play a tune, we had our first glimpse of the snake.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "tune,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "glimpse",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "snake.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "It rose out of the basket and began to follow the movements of the pipe.",
+      "expanded": "It rose out of the basket and began to follow the movements of the pipe.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "rose",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "basket",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "follow",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "movements",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pipe.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "expanded": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "much",
+          "role": ""
+        },
+        {
+          "text": "surprised",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "snake",
+          "role": ""
+        },
+        {
+          "text": "charmer",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "jazz",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "pop",
+          "role": ""
+        },
+        {
+          "text": "songs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The snake, however, continued to 'dance' slowly.",
+      "expanded": "The snake, however, continued to 'dance' slowly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "snake,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "continued",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "'dance'",
+          "role": ""
+        },
+        {
+          "text": "slowly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "It obviously could not tell the difference between Indian music and jazz!",
+      "expanded": "It obviously could not tell the difference between Indian music and jazz!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "obviously",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "difference",
+          "role": ""
+        },
+        {
+          "text": "between",
+          "role": ""
+        },
+        {
+          "text": "Indian",
+          "role": ""
+        },
+        {
+          "text": "music",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "jazz!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

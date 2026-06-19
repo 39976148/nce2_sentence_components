@@ -1,0 +1,839 @@
+{
+  "book": 2,
+  "lesson": 92,
+  "title": "Asking for trouble",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "It must have been about two in the morning when I returned home.",
+      "expanded": "It must have been about two in the morning when I returned home.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "morning",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "home.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
+      "expanded": "I tried to wake up my wife by ringing the doorbell, but she was fast asleep, so I got a ladder from the shed in the garden, put it against the wall, and began climbing towards the bedroom window.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "wake",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "ringing",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doorbell,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "fast",
+          "role": ""
+        },
+        {
+          "text": "asleep,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "ladder",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden,",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "against",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wall,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "climbing",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bedroom",
+          "role": ""
+        },
+        {
+          "text": "window.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "I was almost there when a sarcastic voice below said, 'I don't think the windows need cleaning at this time of the night.' I looked down and nearly fell off the ladder when I saw a policeman.",
+      "expanded": "I was almost there when a sarcastic voice below said, 'I do not think the windows need cleaning at this time of the night.' I looked down and nearly fell off the ladder when I saw a policeman.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "sarcastic",
+          "role": ""
+        },
+        {
+          "text": "voice",
+          "role": ""
+        },
+        {
+          "text": "below",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "think",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "windows",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "cleaning",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "night.'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "nearly",
+          "role": ""
+        },
+        {
+          "text": "fell",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ladder",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "policeman.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.' 'So do I,' answered the policeman in the same tone.",
+      "expanded": "I immediately regretted answering in the way I did, but I said, 'I enjoy cleaning windows at night.' 'So do I,' answered the policeman in the same tone.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "immediately",
+          "role": ""
+        },
+        {
+          "text": "regretted",
+          "role": ""
+        },
+        {
+          "text": "answering",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "enjoy",
+          "role": ""
+        },
+        {
+          "text": "cleaning",
+          "role": ""
+        },
+        {
+          "text": "windows",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "night.'",
+          "role": ""
+        },
+        {
+          "text": "'So",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "I,'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "tone.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'Excuse my interrupting you.",
+      "expanded": "'Excuse my interrupting you.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Excuse",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "interrupting",
+          "role": ""
+        },
+        {
+          "text": "you.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I hate to interrupt a man when he's busy working, but would you mind coming with me to the station?' 'Well, I'd prefer to stay here,' I said.",
+      "expanded": "I hate to interrupt a man when he is busy working, but would you mind coming with me to the station?' 'Well, I would prefer to stay here,' I said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "hate",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "interrupt",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "busy",
+          "role": ""
+        },
+        {
+          "text": "working,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "mind",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station?'",
+          "role": ""
+        },
+        {
+          "text": "'Well,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "prefer",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "here,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "'You see.",
+      "expanded": "'You see.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "see.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I've forgotten my key.' 'Your what?' he called.",
+      "expanded": "I have forgotten my key.' 'Your what?' he called.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "forgotten",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "key.'",
+          "role": ""
+        },
+        {
+          "text": "'Your",
+          "role": ""
+        },
+        {
+          "text": "what?'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "called.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'My key,' I shouted.",
+      "expanded": "'My key,' I shouted.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'My",
+          "role": ""
+        },
+        {
+          "text": "key,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "shouted.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me.",
+      "expanded": "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fortunately,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shouting",
+          "role": ""
+        },
+        {
+          "text": "woke",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "window",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "started",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "climb",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

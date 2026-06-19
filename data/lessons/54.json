@@ -1,0 +1,795 @@
+{
+  "book": 2,
+  "lesson": 54,
+  "title": "Sticky fingers",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "After breakfast, I sent the children to school and then I went to the shops.",
+      "expanded": "After breakfast, I sent the children to school and then I went to the shops.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "breakfast,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "school",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shops.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "It was still early when I returned home.",
+      "expanded": "It was still early when I returned home.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "home.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The children were at school, my husband was at work and the house was quiet.",
+      "expanded": "The children were at school, my husband was at work and the house was quiet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "school,",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "husband",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "quiet.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "So I decided to make some meat pies.",
+      "expanded": "So I decided to make some meat pies.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "So",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "meat",
+          "role": ""
+        },
+        {
+          "text": "pies.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.",
+      "expanded": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "busy",
+          "role": ""
+        },
+        {
+          "text": "mixing",
+          "role": ""
+        },
+        {
+          "text": "butter",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "flour",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "hands",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "sticky",
+          "role": ""
+        },
+        {
+          "text": "pastry.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "At exactly that moment, the telephone rang.",
+      "expanded": "At exactly that moment, the telephone rang.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "exactly",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "moment,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "telephone",
+          "role": ""
+        },
+        {
+          "text": "rang.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Nothing could have been more annoying.",
+      "expanded": "Nothing could have been more annoying.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Nothing",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "annoying.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "expanded": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "picked",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "receiver",
+          "role": ""
+        },
+        {
+          "text": "between",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "sticky",
+          "role": ""
+        },
+        {
+          "text": "fingers",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "dismayed",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "recognized",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "voice",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Helen",
+          "role": ""
+        },
+        {
+          "text": "Bates.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "It took me ten minutes to persuade her to ring back later.",
+      "expanded": "It took me ten minutes to persuade her to ring back later.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "ten",
+          "role": ""
+        },
+        {
+          "text": "minutes",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "persuade",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "ring",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "later.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "At last I hung up the receiver.",
+      "expanded": "At last I hung up the receiver.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "hung",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "receiver.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "What a mess!",
+      "expanded": "What a mess!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "What",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mess!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "There was pastry on my fingers, on the telephone, and on the doorknobs.",
+      "expanded": "There was pastry on my fingers, on the telephone, and on the doorknobs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "There",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "pastry",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "fingers,",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "telephone,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doorknobs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "expanded": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "sooner",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "kitchen",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doorbell",
+          "role": ""
+        },
+        {
+          "text": "rang",
+          "role": ""
+        },
+        {
+          "text": "loud",
+          "role": ""
+        },
+        {
+          "text": "enough",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "wake",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "original": "This time it was the postman and he wanted me to sign for a registered letter!",
+      "expanded": "This time it was the postman and he wanted me to sign for a registered letter!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "postman",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sign",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "registered",
+          "role": ""
+        },
+        {
+          "text": "letter!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

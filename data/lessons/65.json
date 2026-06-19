@@ -1,0 +1,731 @@
+{
+  "book": 2,
+  "lesson": 65,
+  "title": "Jumbo versus the police",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "expanded": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "Christmas,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "circus",
+          "role": ""
+        },
+        {
+          "text": "owner,",
+          "role": ""
+        },
+        {
+          "text": "Jimmy",
+          "role": ""
+        },
+        {
+          "text": "Gates,",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "presents",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "children's",
+          "role": ""
+        },
+        {
+          "text": "hospital.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "expanded": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dressed",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "Father",
+          "role": ""
+        },
+        {
+          "text": "Christmas",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "accompanied",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "'guard",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "honour'",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "six",
+          "role": ""
+        },
+        {
+          "text": "pretty",
+          "role": ""
+        },
+        {
+          "text": "girls,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "main",
+          "role": ""
+        },
+        {
+          "text": "street",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "city",
+          "role": ""
+        },
+        {
+          "text": "riding",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "baby",
+          "role": ""
+        },
+        {
+          "text": "elephant",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "Jumbo.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He should have known that the police would never allow this sort of thing.",
+      "expanded": "He should have known that the police would never allow this sort of thing.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "known",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "allow",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "sort",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "thing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "expanded": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "approached",
+          "role": ""
+        },
+        {
+          "text": "Jimmy",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "ought",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "along",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "side",
+          "role": ""
+        },
+        {
+          "text": "street",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "Jumbo",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "holding",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "traffic.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "expanded": "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "Jimmy",
+          "role": ""
+        },
+        {
+          "text": "agreed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "once,",
+          "role": ""
+        },
+        {
+          "text": "Jumbo",
+          "role": ""
+        },
+        {
+          "text": "refused",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "move.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Fifteen policemen had to push very hard to get him off the main street.",
+      "expanded": "Fifteen policemen had to push very hard to get him off the main street.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fifteen",
+          "role": ""
+        },
+        {
+          "text": "policemen",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "push",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "main",
+          "role": ""
+        },
+        {
+          "text": "street.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The police had a difficult time, but they were most amused.",
+      "expanded": "The police had a difficult time, but they were most amused.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "difficult",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "amused.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.",
+      "expanded": "'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we did not have to carry him.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'Jumbo",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "weigh",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "tons,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "afterwards,",
+          "role": ""
+        },
+        {
+          "text": "'so",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "fortunate",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "carry",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'",
+      "expanded": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Of",
+          "role": ""
+        },
+        {
+          "text": "course,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "arrest",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "record,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "shall",
+          "role": ""
+        },
+        {
+          "text": "let",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

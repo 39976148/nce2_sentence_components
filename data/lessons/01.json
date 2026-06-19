@@ -1,0 +1,547 @@
+{
+  "book": 2,
+  "lesson": 1,
+  "title": "A private conversation",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Last week I went to the theatre.",
+      "expanded": "Last week I went to the theatre.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "week",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "theatre.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I had a very good seat.",
+      "expanded": "I had a very good seat.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "seat.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The play was very interesting.",
+      "expanded": "The play was very interesting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "interesting.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "I did not enjoy it.",
+      "expanded": "I did not enjoy it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "enjoy",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A young man and a young woman were sitting behind me.",
+      "expanded": "A young man and a young woman were sitting behind me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "sitting",
+          "role": ""
+        },
+        {
+          "text": "behind",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "They were talking loudly.",
+      "expanded": "They were talking loudly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "talking",
+          "role": ""
+        },
+        {
+          "text": "loudly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "I got very angry.",
+      "expanded": "I got very angry.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "angry.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I could not hear the actors.",
+      "expanded": "I could not hear the actors.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "hear",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "actors.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "I turned round.",
+      "expanded": "I turned round.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "round.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "I looked at the man and the woman angrily.",
+      "expanded": "I looked at the man and the woman angrily.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "angrily.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "They did not pay any attention.",
+      "expanded": "They did not pay any attention.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "attention.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "In the end, I could not bear it.",
+      "expanded": "In the end, I could not bear it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "bear",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "I turned round again.",
+      "expanded": "I turned round again.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "round",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "original": "'I can't hear a word!' I said angrily.",
+      "expanded": "'I can not hear a word!' I said angrily.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "hear",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "word!'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "angrily.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "original": "'It's none of your business,' the young man said rudely.",
+      "expanded": "'it is none of your business,' the young man said rudely.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "none",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "business,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "rudely.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "original": "'This is a private conversation!'",
+      "expanded": "'This is a private conversation!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "private",
+          "role": ""
+        },
+        {
+          "text": "conversation!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

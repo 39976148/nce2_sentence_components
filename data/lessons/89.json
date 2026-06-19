@@ -1,0 +1,815 @@
+{
+  "book": 2,
+  "lesson": 89,
+  "title": "A slip of the tongue",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "People will do anything to see a free show -- even if it is a bad one.",
+      "expanded": "People will do anything to see a free show -- even if it is a bad one.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "People",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "anything",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "free",
+          "role": ""
+        },
+        {
+          "text": "show",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bad",
+          "role": ""
+        },
+        {
+          "text": "one.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "When the news got round that a comedy show would be presented at our local cinema by the P.",
+      "expanded": "When the news got round that a comedy show would be presented at our local cinema by the P.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "news",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "round",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "comedy",
+          "role": ""
+        },
+        {
+          "text": "show",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "presented",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "local",
+          "role": ""
+        },
+        {
+          "text": "cinema",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "P.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "and U.",
+      "expanded": "and U.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "U.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Bird Seed Company, we all rushed to see it.",
+      "expanded": "Bird Seed Company, we all rushed to see it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Bird",
+          "role": ""
+        },
+        {
+          "text": "Seed",
+          "role": ""
+        },
+        {
+          "text": "Company,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "rushed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
+      "expanded": "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "queue",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "several",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "present",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "show",
+          "role": ""
+        },
+        {
+          "text": "began.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "expanded": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Unfortunately,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "show",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dullest",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "seen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come.",
+      "expanded": "Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Those",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "failed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "disappointed,",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "artistes",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "appeared",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "come.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "The only funny things we heard that evening came from the advertiser at the beginning of the programme.",
+      "expanded": "The only funny things we heard that evening came from the advertiser at the beginning of the programme.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "funny",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "evening",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "advertiser",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "beginning",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "programme.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "He was obviously very nervous and for some minutes stood awkwardly before the microphone.",
+      "expanded": "He was obviously very nervous and for some minutes stood awkwardly before the microphone.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "obviously",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "nervous",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "minutes",
+          "role": ""
+        },
+        {
+          "text": "stood",
+          "role": ""
+        },
+        {
+          "text": "awkwardly",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "microphone.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "As soon as he opened his mouth, everyone burst out laughing.",
+      "expanded": "As soon as he opened his mouth, everyone burst out laughing.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "mouth,",
+          "role": ""
+        },
+        {
+          "text": "everyone",
+          "role": ""
+        },
+        {
+          "text": "burst",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "laughing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "We all know what the poor man should have said, but what he actually said was: 'This is the Poo and Ee Seed Bird Company.",
+      "expanded": "We all know what the poor man should have said, but what he actually said was: 'This is the Poo and Ee Seed Bird Company.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "know",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "poor",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "actually",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "was:",
+          "role": ""
+        },
+        {
+          "text": "'This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Poo",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Ee",
+          "role": ""
+        },
+        {
+          "text": "Seed",
+          "role": ""
+        },
+        {
+          "text": "Bird",
+          "role": ""
+        },
+        {
+          "text": "Company.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "Good ladies, evening and gentlemen!\"",
+      "expanded": "Good ladies, evening and gentlemen!\"",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Good",
+          "role": ""
+        },
+        {
+          "text": "ladies,",
+          "role": ""
+        },
+        {
+          "text": "evening",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "gentlemen!\"",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

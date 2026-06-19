@@ -1,0 +1,467 @@
+{
+  "book": 2,
+  "lesson": 16,
+  "title": "A polite request",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "expanded": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "park",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wrong",
+          "role": ""
+        },
+        {
+          "text": "place,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "traffic",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "You will be very lucky if he lets you go without a ticket.",
+      "expanded": "You will be very lucky if he lets you go without a ticket.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "You",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "lucky",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "lets",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "without",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "ticket.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "However, this does not always happen.",
+      "expanded": "However, this does not always happen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "However,",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "does",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "happen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Traffic police are sometimes very polite.",
+      "expanded": "Traffic police are sometimes very polite.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Traffic",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "sometimes",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "polite.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "During a holiday in Sweden, I found this note on my car: 'sir, we welcome you to our city.",
+      "expanded": "During a holiday in Sweden, I found this note on my car: 'sir, we welcome you to our city.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "During",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "holiday",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Sweden,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "note",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "car:",
+          "role": ""
+        },
+        {
+          "text": "'sir,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "welcome",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "city.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "This is a \"No Parking\" area.",
+      "expanded": "This is a \"No Parking\" area.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "\"No",
+          "role": ""
+        },
+        {
+          "text": "Parking\"",
+          "role": ""
+        },
+        {
+          "text": "area.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "You will enjoy your stay here if you pay attention to our street signs.",
+      "expanded": "You will enjoy your stay here if you pay attention to our street signs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "You",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "enjoy",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "attention",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "street",
+          "role": ""
+        },
+        {
+          "text": "signs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!",
+      "expanded": "This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "note",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "reminder.'",
+          "role": ""
+        },
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "receive",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "request",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "this,",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "cannot",
+          "role": ""
+        },
+        {
+          "text": "fail",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "obey",
+          "role": ""
+        },
+        {
+          "text": "it!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

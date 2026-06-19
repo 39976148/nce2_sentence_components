@@ -1,0 +1,651 @@
+{
+  "book": 2,
+  "lesson": 44,
+  "title": "Through the forest",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
+      "expanded": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Anne",
+          "role": ""
+        },
+        {
+          "text": "Sterling",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "think",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "risk",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "taking",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "ran",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "forest",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "men.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
+      "expanded": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "rushed",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "having",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "picnic",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "edge",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "forest",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "steal",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "handbag.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
+      "expanded": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "struggle,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strap",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "and,",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bag",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "possession,",
+          "role": ""
+        },
+        {
+          "text": "both",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "started",
+          "role": ""
+        },
+        {
+          "text": "running",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "trees.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Mrs. Sterling got so angry that she ran after them.",
+      "expanded": "Mrs. Sterling got so angry that she ran after them.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Sterling",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "angry",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "ran",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "them.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "She was soon out of breath, but she continued to run.",
+      "expanded": "She was soon out of breath, but she continued to run.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "breath,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "continued",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "run.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "expanded": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "them,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "contents",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bag,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "ran",
+          "role": ""
+        },
+        {
+          "text": "straight",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "them.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The men got such a fright that they dropped the bag and ran away.",
+      "expanded": "The men got such a fright that they dropped the bag and ran away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "such",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fright",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "dropped",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bag",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "ran",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
+      "expanded": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "strap",
+          "role": ""
+        },
+        {
+          "text": "needs",
+          "role": ""
+        },
+        {
+          "text": "mending,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Sterling",
+          "role": ""
+        },
+        {
+          "text": "later,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "steal",
+          "role": ""
+        },
+        {
+          "text": "anything.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

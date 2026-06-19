@@ -1,0 +1,795 @@
+{
+  "book": 2,
+  "lesson": 57,
+  "title": "Can I help you, madam?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "A woman in jeans stood at the window of an expensive shop.",
+      "expanded": "A woman in jeans stood at the window of an expensive shop.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "jeans",
+          "role": ""
+        },
+        {
+          "text": "stood",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "window",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "expensive",
+          "role": ""
+        },
+        {
+          "text": "shop.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "expanded": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "hesitated",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "moment,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "finally",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "dress",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "window.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The assistant who served her did not like the way she was dressed.",
+      "expanded": "The assistant who served her did not like the way she was dressed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "served",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "dressed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Glancing at her scornfully, he told her that the dress was sold.",
+      "expanded": "Glancing at her scornfully, he told her that the dress was sold.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Glancing",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "scornfully,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dress",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "sold.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "expanded": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "walked",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "angrily",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "punish",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "day.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "expanded": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "following",
+          "role": ""
+        },
+        {
+          "text": "morning",
+          "role": ""
+        },
+        {
+          "text": "dressed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fur",
+          "role": ""
+        },
+        {
+          "text": "coat,",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "handbag",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "hand",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "umbrella",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "After seeking out the rude assistant, she asked for the same dress.",
+      "expanded": "After seeking out the rude assistant, she asked for the same dress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "seeking",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "rude",
+          "role": ""
+        },
+        {
+          "text": "assistant,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "dress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Not realizing who she was, the assistant was eager to serve her this time.",
+      "expanded": "Not realizing who she was, the assistant was eager to serve her this time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Not",
+          "role": ""
+        },
+        {
+          "text": "realizing",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "eager",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "serve",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "With great difficulty, he climbed into the shop window to get the dress.",
+      "expanded": "With great difficulty, he climbed into the shop window to get the dress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "With",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "difficulty,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "climbed",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "window",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "As soon as she saw it, the woman said she did not like it.",
+      "expanded": "As soon as she saw it, the woman said she did not like it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "it,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+      "expanded": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "enjoyed",
+          "role": ""
+        },
+        {
+          "text": "herself",
+          "role": ""
+        },
+        {
+          "text": "making",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "bring",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "everything",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "window",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "finally",
+          "role": ""
+        },
+        {
+          "text": "buying",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dress",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "for.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

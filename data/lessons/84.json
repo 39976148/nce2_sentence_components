@@ -1,0 +1,823 @@
+{
+  "book": 2,
+  "lesson": 84,
+  "title": "On strike",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Busmen have decided to go on strike next week.",
+      "expanded": "Busmen have decided to go on strike next week.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Busmen",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "strike",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "week.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The strike is due to begin on Tuesday.",
+      "expanded": "The strike is due to begin on Tuesday.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "strike",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "due",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "begin",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "Tuesday.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "No one knows how long it will last.",
+      "expanded": "No one knows how long it will last.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "No",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "knows",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "last.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.",
+      "expanded": "The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "busmen",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "stated",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strike",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "continue",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "general",
+          "role": ""
+        },
+        {
+          "text": "agreement",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "reached",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "conditions.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Most people believe that the strike will last for at least a week.",
+      "expanded": "Most people believe that the strike will last for at least a week.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Most",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "believe",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strike",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "least",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "week.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Many owners of private cars are going to offer 'free rides' to people on their way to work.",
+      "expanded": "Many owners of private cars are going to offer 'free rides' to people on their way to work.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Many",
+          "role": ""
+        },
+        {
+          "text": "owners",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "private",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "offer",
+          "role": ""
+        },
+        {
+          "text": "'free",
+          "role": ""
+        },
+        {
+          "text": "rides'",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "This will relieve pressure on the trains to some extent.",
+      "expanded": "This will relieve pressure on the trains to some extent.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "relieve",
+          "role": ""
+        },
+        {
+          "text": "pressure",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "trains",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "extent.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Meanwhile, a number of university students have volunteered to drive buses while the strike lasts.",
+      "expanded": "Meanwhile, a number of university students have volunteered to drive buses while the strike lasts.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Meanwhile,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "university",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "volunteered",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "buses",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strike",
+          "role": ""
+        },
+        {
+          "text": "lasts.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test.",
+      "expanded": "All the students are expert drivers, but before they drive any of the buses, they will have to pass a special test.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "All",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "expert",
+          "role": ""
+        },
+        {
+          "text": "drivers,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "buses,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pass",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "test.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The students are going to take the test in two days' time.",
+      "expanded": "The students are going to take the test in two days' time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "test",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "days'",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Even so, people are going to find it difficult to get to work.",
+      "expanded": "Even so, people are going to find it difficult to get to work.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Even",
+          "role": ""
+        },
+        {
+          "text": "so,",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "difficult",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "But so far, the public has expressed its gratitude to the students in letters to the Press.",
+      "expanded": "But so far, the public has expressed its gratitude to the students in letters to the Press.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "far,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "public",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "expressed",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "gratitude",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "letters",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Press.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "Only one or two people have objected that the students will drive too fast!",
+      "expanded": "Only one or two people have objected that the students will drive too fast!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Only",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "objected",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "drive",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "fast!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

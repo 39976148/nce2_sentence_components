@@ -1,0 +1,839 @@
+{
+  "book": 2,
+  "lesson": 88,
+  "title": "Trapped in a mine",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Six men have been trapped in a mine for seventeen hours.",
+      "expanded": "Six men have been trapped in a mine for seventeen hours.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Six",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "trapped",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mine",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "seventeen",
+          "role": ""
+        },
+        {
+          "text": "hours.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "If they are not brought to the surface soon they may lose their lives.",
+      "expanded": "If they are not brought to the surface soon they may lose their lives.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "brought",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "surface",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "may",
+          "role": ""
+        },
+        {
+          "text": "lose",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "lives.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "However, rescue operations are proving difficult.",
+      "expanded": "However, rescue operations are proving difficult.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "However,",
+          "role": ""
+        },
+        {
+          "text": "rescue",
+          "role": ""
+        },
+        {
+          "text": "operations",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "proving",
+          "role": ""
+        },
+        {
+          "text": "difficult.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "expanded": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "explosives",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "used,",
+          "role": ""
+        },
+        {
+          "text": "vibrations",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "cause",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "roof",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mine",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "collapse.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "expanded": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Rescue",
+          "role": ""
+        },
+        {
+          "text": "workers",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "therefore",
+          "role": ""
+        },
+        {
+          "text": "drilling",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hole",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "north",
+          "role": ""
+        },
+        {
+          "text": "side",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mine.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "They intend to bring the men up in a special capsule.",
+      "expanded": "They intend to bring the men up in a special capsule.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "intend",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "bring",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "capsule.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "expanded": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "layer",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "rock",
+          "role": ""
+        },
+        {
+          "text": "beneath",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "soil,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "completed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "job",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "hours.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "As it is, they have been drilling for sixteen hours and they still have a long way to go.",
+      "expanded": "As it is, they have been drilling for sixteen hours and they still have a long way to go.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "drilling",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "sixteen",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.",
+      "expanded": "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Meanwhile,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "microphone,",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "lowered",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mine",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "enabled",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "keep",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "touch",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "closest",
+          "role": ""
+        },
+        {
+          "text": "relatives.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "expanded": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "running",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "drink,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "cheerful",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "confident",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "soon.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "They have been told that rescue operations are progressing smoothly.",
+      "expanded": "They have been told that rescue operations are progressing smoothly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "rescue",
+          "role": ""
+        },
+        {
+          "text": "operations",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "progressing",
+          "role": ""
+        },
+        {
+          "text": "smoothly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+      "expanded": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "difficult",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drill",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "rock,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "lose",
+          "role": ""
+        },
+        {
+          "text": "heart.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "book": 2,
+  "lesson": 36,
+  "title": "Across the Channel",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Debbie Hart is going to swim across the English Channel tomorrow.",
+      "expanded": "Debbie Hart is going to swim across the English Channel tomorrow.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Debbie",
+          "role": ""
+        },
+        {
+          "text": "Hart",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "swim",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "English",
+          "role": ""
+        },
+        {
+          "text": "Channel",
+          "role": ""
+        },
+        {
+          "text": "tomorrow.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "She is going to set out from the French coast at five o'clock in the morning.",
+      "expanded": "She is going to set out from the French coast at five o'clock in the morning.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "French",
+          "role": ""
+        },
+        {
+          "text": "coast",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "o'clock",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "morning.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Debbie is only eleven years old and she hopes to set up a new world record.",
+      "expanded": "Debbie is only eleven years old and she hopes to set up a new world record.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Debbie",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "eleven",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "hopes",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "record.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "expanded": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "strong",
+          "role": ""
+        },
+        {
+          "text": "swimmer",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "feel",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "sure",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "succeed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Debbie's father will set out with her in a small boat.",
+      "expanded": "Debbie's father will set out with her in a small boat.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Debbie's",
+          "role": ""
+        },
+        {
+          "text": "father",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "boat.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Mr. Hart has trained his daughter for years.",
+      "expanded": "Mr. Hart has trained his daughter for years.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Hart",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "trained",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "daughter",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "years.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "expanded": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tomorrow",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "watching",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "anxiously",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "swims",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "distance",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "England.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Debbie intends to take short rests every two hours.",
+      "expanded": "Debbie intends to take short rests every two hours.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Debbie",
+          "role": ""
+        },
+        {
+          "text": "intends",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "rests",
+          "role": ""
+        },
+        {
+          "text": "every",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "hours.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "She will have something to drink but she will not eat any solid food.",
+      "expanded": "She will have something to drink but she will not eat any solid food.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "something",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drink",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "eat",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "solid",
+          "role": ""
+        },
+        {
+          "text": "food.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "expanded": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Most",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Debbie's",
+          "role": ""
+        },
+        {
+          "text": "school",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "waiting",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "English",
+          "role": ""
+        },
+        {
+          "text": "coast.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl.",
+      "expanded": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Among",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "Debbie's",
+          "role": ""
+        },
+        {
+          "text": "mother,",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "swam",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Channel",
+          "role": ""
+        },
+        {
+          "text": "herself",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "girl.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "book": 2,
+  "lesson": 39,
+  "title": "Am I all right?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
+      "expanded": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "While",
+          "role": ""
+        },
+        {
+          "text": "John",
+          "role": ""
+        },
+        {
+          "text": "Gilbert",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "hospital,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "whether",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "operation",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "successful,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "refused",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "so.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The following day, the patient asked for a bedside telephone.",
+      "expanded": "The following day, the patient asked for a bedside telephone.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "following",
+          "role": ""
+        },
+        {
+          "text": "day,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "patient",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bedside",
+          "role": ""
+        },
+        {
+          "text": "telephone.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "expanded": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "alone,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "telephoned",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hospital",
+          "role": ""
+        },
+        {
+          "text": "exchange",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "Doctor",
+          "role": ""
+        },
+        {
+          "text": "Millington.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.",
+      "expanded": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "phone,",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Gilbert",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "inquiring",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "certain",
+          "role": ""
+        },
+        {
+          "text": "patient,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "John",
+          "role": ""
+        },
+        {
+          "text": "Gilbert.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.",
+      "expanded": "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Gilbert's",
+          "role": ""
+        },
+        {
+          "text": "operation",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "successful",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hosptial for another two weeks.",
+      "expanded": "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hosptial for another two weeks.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Gilbert",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "allowed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "doctor",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "hosptial",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "weeks.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Then Dr. Millington asked the caller if he was a relative of the patient.",
+      "expanded": "Then Dr. Millington asked the caller if he was a relative of the patient.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "Dr.",
+          "role": ""
+        },
+        {
+          "text": "Millington",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "caller",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "relative",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "patient.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'No,' the patient answered, 'I am Mr. John Gilbert.'",
+      "expanded": "'No,' the patient answered, 'I am Mr. John Gilbert.'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'No,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "patient",
+          "role": ""
+        },
+        {
+          "text": "answered,",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "John",
+          "role": ""
+        },
+        {
+          "text": "Gilbert.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

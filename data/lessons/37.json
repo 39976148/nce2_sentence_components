@@ -1,0 +1,643 @@
+{
+  "book": 2,
+  "lesson": 37,
+  "title": "The Olympic Games",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The Olympic Games will be held in our country in four years' time.",
+      "expanded": "The Olympic Games will be held in our country in four years' time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Olympic",
+          "role": ""
+        },
+        {
+          "text": "Games",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "held",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "country",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "years'",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
+      "expanded": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "visiting",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "country,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "government",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "building",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "hotels,",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "immense",
+          "role": ""
+        },
+        {
+          "text": "stadium,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "Olympic-standard",
+          "role": ""
+        },
+        {
+          "text": "swimming",
+          "role": ""
+        },
+        {
+          "text": "pool.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "They will also be building new roads and a special railway line.",
+      "expanded": "They will also be building new roads and a special railway line.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "also",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "building",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "roads",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "railway",
+          "role": ""
+        },
+        {
+          "text": "line.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'.",
+      "expanded": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Games",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "held",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "capital",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "area",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "'Olympic",
+          "role": ""
+        },
+        {
+          "text": "City'.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Workers will have completed the new roads by the end of this year.",
+      "expanded": "Workers will have completed the new roads by the end of this year.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Workers",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "completed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "roads",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "year.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "By the end of next year, they will have finished work on the new stadium.",
+      "expanded": "By the end of next year, they will have finished work on the new stadium.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "finished",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "stadium.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "expanded": "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "fantastic",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "buildings",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "designed",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "Kurt",
+          "role": ""
+        },
+        {
+          "text": "Gunter.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Everybody will be watching anxiously as the new buildings go up.",
+      "expanded": "Everybody will be watching anxiously as the new buildings go up.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everybody",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "watching",
+          "role": ""
+        },
+        {
+          "text": "anxiously",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "buildings",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "up.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "expanded": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "excited",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "looking",
+          "role": ""
+        },
+        {
+          "text": "forward",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Olympic",
+          "role": ""
+        },
+        {
+          "text": "Games",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "held",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "country.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "book": 2,
+  "lesson": 19,
+  "title": "Sold out",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "'The play may begin at any moment,' I said.",
+      "expanded": "'The play may begin at any moment,' I said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "may",
+          "role": ""
+        },
+        {
+          "text": "begin",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "moment,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "'It may have begun already,' Susan answered.",
+      "expanded": "'It may have begun already,' Susan answered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'It",
+          "role": ""
+        },
+        {
+          "text": "may",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "already,'",
+          "role": ""
+        },
+        {
+          "text": "Susan",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "I hurried to the ticket office.",
+      "expanded": "I hurried to the ticket office.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "hurried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ticket",
+          "role": ""
+        },
+        {
+          "text": "office.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'May I have two tickets please?' I asked.",
+      "expanded": "'May I have two tickets please?' I asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'May",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "tickets",
+          "role": ""
+        },
+        {
+          "text": "please?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'I'm sorry, we've sold out,' the girl said.",
+      "expanded": "'I am sorry, we have sold out,' the girl said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "sorry,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "sold",
+          "role": ""
+        },
+        {
+          "text": "out,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'What a pity!' Susan exclaimed.",
+      "expanded": "'What a pity!' Susan exclaimed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'What",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pity!'",
+          "role": ""
+        },
+        {
+          "text": "Susan",
+          "role": ""
+        },
+        {
+          "text": "exclaimed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Just then, a man hurried to the ticket office.",
+      "expanded": "Just then, a man hurried to the ticket office.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Just",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "hurried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ticket",
+          "role": ""
+        },
+        {
+          "text": "office.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'Can I return these two tickets?' he asked.",
+      "expanded": "'Can I return these two tickets?' he asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Can",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "return",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "tickets?'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'Certainly,' the girl said.",
+      "expanded": "'Certainly,' the girl said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Certainly,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "I went back to the ticket office at once.",
+      "expanded": "I went back to the ticket office at once.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ticket",
+          "role": ""
+        },
+        {
+          "text": "office",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "once.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'Could I have those two tickets please?' I asked.",
+      "expanded": "'Could I have those two tickets please?' I asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Could",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "tickets",
+          "role": ""
+        },
+        {
+          "text": "please?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "'Certainly,' the girl said, 'but they're for next Wednesday's performance.",
+      "expanded": "'Certainly,' the girl said, 'but they are for next Wednesday's performance.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'Certainly,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "Wednesday's",
+          "role": ""
+        },
+        {
+          "text": "performance.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "Do you still want them?' 'I might as well have them,' I said sadly.",
+      "expanded": "Do you still want them?' 'I might as well have them,' I said sadly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Do",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "want",
+          "role": ""
+        },
+        {
+          "text": "them?'",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "might",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "well",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "them,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "sadly.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

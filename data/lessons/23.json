@@ -1,0 +1,527 @@
+{
+  "book": 2,
+  "lesson": 23,
+  "title": "A new house",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I had a letter from my sister yesterday.",
+      "expanded": "I had a letter from my sister yesterday.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "sister",
+          "role": ""
+        },
+        {
+          "text": "yesterday.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "She lives in Nigeria.",
+      "expanded": "She lives in Nigeria.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "lives",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Nigeria.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "In her letter, she said that she would come to England next year.",
+      "expanded": "In her letter, she said that she would come to England next year.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "letter,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "come",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "England",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "year.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "If she comes, she will get a surprise.",
+      "expanded": "If she comes, she will get a surprise.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "comes,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "surprise.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "We are now living in a beautiful new house in the country.",
+      "expanded": "We are now living in a beautiful new house in the country.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "living",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "beautiful",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "country.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Work on it had begun before my sister left.",
+      "expanded": "Work on it had begun before my sister left.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Work",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "sister",
+          "role": ""
+        },
+        {
+          "text": "left.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The house was completed five months ago.",
+      "expanded": "The house was completed five months ago.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "completed",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "months",
+          "role": ""
+        },
+        {
+          "text": "ago.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "In my letter, I told her that she could stay with us.",
+      "expanded": "In my letter, I told her that she could stay with us.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "letter,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "us.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The house has many large rooms and there is a lovely garden.",
+      "expanded": "The house has many large rooms and there is a lovely garden.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "rooms",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lovely",
+          "role": ""
+        },
+        {
+          "text": "garden.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "It is a very modern house, so it looks strange to some people.",
+      "expanded": "It is a very modern house, so it looks strange to some people.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "house,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "looks",
+          "role": ""
+        },
+        {
+          "text": "strange",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "people.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "It must be the only modern house in the district.",
+      "expanded": "It must be the only modern house in the district.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "district.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

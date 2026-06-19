@@ -1,0 +1,743 @@
+{
+  "book": 2,
+  "lesson": 53,
+  "title": "Hot snake",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "At last firemen have put out a big forest fire in California.",
+      "expanded": "At last firemen have put out a big forest fire in California.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "firemen",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "forest",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "California.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Since then, they have been trying to find out how the fire began.",
+      "expanded": "Since then, they have been trying to find out how the fire began.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Since",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "began.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "expanded": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Forest",
+          "role": ""
+        },
+        {
+          "text": "fires",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "caused",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "broken",
+          "role": ""
+        },
+        {
+          "text": "glass",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "cigarette",
+          "role": ""
+        },
+        {
+          "text": "ends",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "carelessly",
+          "role": ""
+        },
+        {
+          "text": "throw",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "expanded": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Yesterday",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "firemen",
+          "role": ""
+        },
+        {
+          "text": "examined",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "carefully,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "broken",
+          "role": ""
+        },
+        {
+          "text": "glass.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "They were also quite sure that a cigarette end did not start the fire.",
+      "expanded": "They were also quite sure that a cigarette end did not start the fire.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "also",
+          "role": ""
+        },
+        {
+          "text": "quite",
+          "role": ""
+        },
+        {
+          "text": "sure",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cigarette",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "start",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fire.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "This morning, however, a firemen accidentally discovered the cause.",
+      "expanded": "This morning, however, a firemen accidentally discovered the cause.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "morning,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "firemen",
+          "role": ""
+        },
+        {
+          "text": "accidentally",
+          "role": ""
+        },
+        {
+          "text": "discovered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cause.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.",
+      "expanded": "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "remains",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "snake",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "wound",
+          "role": ""
+        },
+        {
+          "text": "round",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "electric",
+          "role": ""
+        },
+        {
+          "text": "wires",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "16,000-volt",
+          "role": ""
+        },
+        {
+          "text": "power",
+          "role": ""
+        },
+        {
+          "text": "line.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "In this way, he was able to solve the mystery.",
+      "expanded": "In this way, he was able to solve the mystery.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "way,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "solve",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mystery.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The explanation was simple but very unusual.",
+      "expanded": "The explanation was simple but very unusual.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "explanation",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "simple",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "unusual.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "expanded": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "bird",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "snatched",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "snake",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "dropped",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wires.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "The snake then wound itself round the wires.",
+      "expanded": "The snake then wound itself round the wires.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "snake",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "wound",
+          "role": ""
+        },
+        {
+          "text": "itself",
+          "role": ""
+        },
+        {
+          "text": "round",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wires.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "expanded": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "so,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "sparks",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "immediately",
+          "role": ""
+        },
+        {
+          "text": "started",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fire.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

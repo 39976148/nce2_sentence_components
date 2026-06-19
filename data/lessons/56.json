@@ -1,0 +1,755 @@
+{
+  "book": 2,
+  "lesson": 56,
+  "title": "Faster than sound!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Once a year, a race is held for old cars.",
+      "expanded": "Once a year, a race is held for old cars.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Once",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "held",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "cars.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
+      "expanded": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "lot",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "entered",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "deal",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "excitement",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "began.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "expanded": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "One",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "handsome",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Rolls-Royce",
+          "role": ""
+        },
+        {
+          "text": "Silver",
+          "role": ""
+        },
+        {
+          "text": "Ghost.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The most unusual car was a Benz which had only three wheels.",
+      "expanded": "The most unusual car was a Benz which had only three wheels.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "unusual",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Benz",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "wheels.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Built in 1885, it was the oldest car taking part.",
+      "expanded": "Built in 1885, it was the oldest car taking part.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Built",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1885,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "oldest",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "taking",
+          "role": ""
+        },
+        {
+          "text": "part.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "After a great many loud explosions, the race began.",
+      "expanded": "After a great many loud explosions, the race began.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "loud",
+          "role": ""
+        },
+        {
+          "text": "explosions,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "began.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
+      "expanded": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Many",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "course",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "drivers",
+          "role": ""
+        },
+        {
+          "text": "spent",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "them!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "A few cars, however, completed the race.",
+      "expanded": "A few cars, however, completed the race.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "cars,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "completed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "race.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
+      "expanded": "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "winning",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "reached",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "speed",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "forty",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "hour",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "much",
+          "role": ""
+        },
+        {
+          "text": "faster",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "rivals.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.",
+      "expanded": "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "sped",
+          "role": ""
+        },
+        {
+          "text": "downhill",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "driver",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lot",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "trouble",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stop",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "The race gave everyone a great deal of pleasure.",
+      "expanded": "The race gave everyone a great deal of pleasure.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "race",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "everyone",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "deal",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "pleasure.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "It was very different from modern car races but no less exciting.",
+      "expanded": "It was very different from modern car races but no less exciting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "different",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "races",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "less",
+          "role": ""
+        },
+        {
+          "text": "exciting.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

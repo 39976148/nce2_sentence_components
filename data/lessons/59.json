@@ -1,0 +1,731 @@
+{
+  "book": 2,
+  "lesson": 59,
+  "title": "In or out?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Our dog, Rex, used to sit outside our front gate and dark.",
+      "expanded": "Our dog, Rex, used to sit outside our front gate and dark.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Our",
+          "role": ""
+        },
+        {
+          "text": "dog,",
+          "role": ""
+        },
+        {
+          "text": "Rex,",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sit",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "front",
+          "role": ""
+        },
+        {
+          "text": "gate",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "dark.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+      "expanded": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Every",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "come",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "bark",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.",
+      "expanded": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "neighbours",
+          "role": ""
+        },
+        {
+          "text": "complained",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "noise,",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "husband",
+          "role": ""
+        },
+        {
+          "text": "spent",
+          "role": ""
+        },
+        {
+          "text": "weeks",
+          "role": ""
+        },
+        {
+          "text": "training",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "press",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "paw",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "latch",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "let",
+          "role": ""
+        },
+        {
+          "text": "himself",
+          "role": ""
+        },
+        {
+          "text": "in.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Rex soon became an expert at opening the gate.",
+      "expanded": "Rex soon became an expert at opening the gate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Rex",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "became",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "expert",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "opening",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "However, when I was going out shopping last week, I noticed him in the garden near the gate.",
+      "expanded": "However, when I was going out shopping last week, I noticed him in the garden near the gate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "However,",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "shopping",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "week,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "This time he was barking so that someone would let him out!",
+      "expanded": "This time he was barking so that someone would let him out!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "barking",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "let",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "out!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Since then, he has developed another bad habit.",
+      "expanded": "Since then, he has developed another bad habit.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Since",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "developed",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "bad",
+          "role": ""
+        },
+        {
+          "text": "habit.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+      "expanded": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "opens",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "outside,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "comes",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "waits",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate",
+          "role": ""
+        },
+        {
+          "text": "shuts.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Then he sits and barks until someone lets him out.",
+      "expanded": "Then he sits and barks until someone lets him out.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "sits",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "barks",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "lets",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "out.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "After this he immediately lets himself in and begins barking again.",
+      "expanded": "After this he immediately lets himself in and begins barking again.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "immediately",
+          "role": ""
+        },
+        {
+          "text": "lets",
+          "role": ""
+        },
+        {
+          "text": "himself",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "begins",
+          "role": ""
+        },
+        {
+          "text": "barking",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.",
+      "expanded": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Yesterday",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "husband",
+          "role": ""
+        },
+        {
+          "text": "removed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Rex",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "annoyed",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "seen",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "since.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

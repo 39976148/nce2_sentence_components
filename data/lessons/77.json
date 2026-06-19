@@ -1,0 +1,803 @@
+{
+  "book": 2,
+  "lesson": 77,
+  "title": "A successful operation",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The mummy of an Egyptian woman who died in 800 B.C.",
+      "expanded": "The mummy of an Egyptian woman who died in 800 B.C.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "mummy",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "Egyptian",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "died",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "800",
+          "role": ""
+        },
+        {
+          "text": "B.C.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "has just had an operation.",
+      "expanded": "has just had an operation.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "operation.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
+      "expanded": "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "mummy",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Shepenmut",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "singer",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Temple",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Thebes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "expanded": "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "strange",
+          "role": ""
+        },
+        {
+          "text": "marks",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "X-ray",
+          "role": ""
+        },
+        {
+          "text": "plates",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mummy,",
+          "role": ""
+        },
+        {
+          "text": "doctors",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "whether",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "died",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "rare",
+          "role": ""
+        },
+        {
+          "text": "disease.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The only way to do this was to operate.",
+      "expanded": "The only way to do this was to operate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "operate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "expanded": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "operation,",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "lasted",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "hours,",
+          "role": ""
+        },
+        {
+          "text": "proved",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "difficult",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "resin",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "skin.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "expanded": "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "doctors",
+          "role": ""
+        },
+        {
+          "text": "removed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "section",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mummy",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "laboratory.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
+      "expanded": "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "also",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "something",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "X-ray",
+          "role": ""
+        },
+        {
+          "text": "plates",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "show:",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "wax",
+          "role": ""
+        },
+        {
+          "text": "figure",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "god",
+          "role": ""
+        },
+        {
+          "text": "Duamutef.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "This god which has the head of a cow was normally placed inside a mummy.",
+      "expanded": "This god which has the head of a cow was normally placed inside a mummy.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "god",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "head",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cow",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "normally",
+          "role": ""
+        },
+        {
+          "text": "placed",
+          "role": ""
+        },
+        {
+          "text": "inside",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mummy.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The doctors have not yet decided how the woman died.",
+      "expanded": "The doctors have not yet decided how the woman died.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "doctors",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "yet",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "died.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened.",
+      "expanded": "They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "feared",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mummy",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "fall",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pieces",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "cut",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "open,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "fortunately",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "happened.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "The mummy successfully survived the operation.",
+      "expanded": "The mummy successfully survived the operation.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "mummy",
+          "role": ""
+        },
+        {
+          "text": "successfully",
+          "role": ""
+        },
+        {
+          "text": "survived",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "operation.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

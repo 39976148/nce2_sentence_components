@@ -1,0 +1,451 @@
+{
+  "book": 2,
+  "lesson": 4,
+  "title": "An exciting trip",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I have just received a letter from my brother, Tim.",
+      "expanded": "I have just received a letter from my brother, Tim.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "received",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "brother,",
+          "role": ""
+        },
+        {
+          "text": "Tim.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He is in Australia.",
+      "expanded": "He is in Australia.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Australia.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He has been there for six months.",
+      "expanded": "He has been there for six months.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "six",
+          "role": ""
+        },
+        {
+          "text": "months.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Tim is an engineer.",
+      "expanded": "Tim is an engineer.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tim",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "engineer.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "expanded": "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "firm",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "already",
+          "role": ""
+        },
+        {
+          "text": "visited",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "different",
+          "role": ""
+        },
+        {
+          "text": "places",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Australia.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia.",
+      "expanded": "He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "Australian",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Alice",
+          "role": ""
+        },
+        {
+          "text": "springs,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "town",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "centre",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Australia.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "He will soon visit Darwin.",
+      "expanded": "He will soon visit Darwin.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "visit",
+          "role": ""
+        },
+        {
+          "text": "Darwin.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "From there, he will fly to Perth.",
+      "expanded": "From there, he will fly to Perth.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "From",
+          "role": ""
+        },
+        {
+          "text": "there,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "fly",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Perth.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "My brother has never been abroad before, so he is fending this trip very exciting.",
+      "expanded": "My brother has never been abroad before, so he is fending this trip very exciting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "brother",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "abroad",
+          "role": ""
+        },
+        {
+          "text": "before,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "fending",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "trip",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "exciting.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

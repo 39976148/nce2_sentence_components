@@ -1,0 +1,479 @@
+{
+  "book": 2,
+  "lesson": 13,
+  "title": "The Greenwood Boys",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The Greenwood Boys are a group of pop singers.",
+      "expanded": "The Greenwood Boys are a group of pop singers.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Greenwood",
+          "role": ""
+        },
+        {
+          "text": "Boys",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "group",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "pop",
+          "role": ""
+        },
+        {
+          "text": "singers.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "At present, they are visiting all parts of the country.",
+      "expanded": "At present, they are visiting all parts of the country.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "present,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "visiting",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "country.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "They will be arriving here tomorrow.",
+      "expanded": "They will be arriving here tomorrow.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "arriving",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "tomorrow.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+      "expanded": "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "train",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "town",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "meeting",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Tomorrow evening they will be singing at the Workers' Club.",
+      "expanded": "Tomorrow evening they will be singing at the Workers' Club.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tomorrow",
+          "role": ""
+        },
+        {
+          "text": "evening",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "singing",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Workers'",
+          "role": ""
+        },
+        {
+          "text": "Club.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The Greenwood Boys will be staying for five days.",
+      "expanded": "The Greenwood Boys will be staying for five days.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Greenwood",
+          "role": ""
+        },
+        {
+          "text": "Boys",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "staying",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "days.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "During this time, they will give five performances.",
+      "expanded": "During this time, they will give five performances.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "During",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "give",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "performances.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "As usual, the police will have a difficult time.",
+      "expanded": "As usual, the police will have a difficult time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "usual,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "difficult",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "They will be trying to keep order.",
+      "expanded": "They will be trying to keep order.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "keep",
+          "role": ""
+        },
+        {
+          "text": "order.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "It is always the same on these occasions.",
+      "expanded": "It is always the same on these occasions.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "occasions.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

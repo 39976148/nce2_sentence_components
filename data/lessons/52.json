@@ -1,0 +1,727 @@
+{
+  "book": 2,
+  "lesson": 52,
+  "title": "A pretty carpet",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "We have just moved into a new house and I have been working hard all morning.",
+      "expanded": "We have just moved into a new house and I have been working hard all morning.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "moved",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "morning.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I have been trying to get my new room in order.",
+      "expanded": "I have been trying to get my new room in order.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "trying",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "room",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "order.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "This has not been easy because I own over a thousand books.",
+      "expanded": "This has not been easy because I own over a thousand books.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "easy",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "own",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "thousand",
+          "role": ""
+        },
+        {
+          "text": "books.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "expanded": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "To",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "matters",
+          "role": ""
+        },
+        {
+          "text": "worse,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "room",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "rather",
+          "role": ""
+        },
+        {
+          "text": "small,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "temporarily",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "books",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "expanded": "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "moment,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "cover",
+          "role": ""
+        },
+        {
+          "text": "every",
+          "role": ""
+        },
+        {
+          "text": "inch",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "floor",
+          "role": ""
+        },
+        {
+          "text": "space",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "actually",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "walk",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "room.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "expanded": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "sister",
+          "role": ""
+        },
+        {
+          "text": "helped",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "carry",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "bookcases",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "stairs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "expanded": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "room",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "surprise",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "books",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'This is the prettiest carpet I have ever seen,' she said.",
+      "expanded": "'This is the prettiest carpet I have ever seen,' she said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "prettiest",
+          "role": ""
+        },
+        {
+          "text": "carpet",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "seen,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "She gazed at it for some time then added, 'You don't need bookcases at all.",
+      "expanded": "She gazed at it for some time then added, 'You do not need bookcases at all.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "gazed",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "added,",
+          "role": ""
+        },
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "bookcases",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "all.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "You can sit here in your spare time and read the carpet!'",
+      "expanded": "You can sit here in your spare time and read the carpet!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "You",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "sit",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "spare",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "read",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "carpet!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

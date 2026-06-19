@@ -1,0 +1,739 @@
+{
+  "book": 2,
+  "lesson": 26,
+  "title": "The best art critics",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I am an art student and I paint a lot of pictures.",
+      "expanded": "I am an art student and I paint a lot of pictures.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "art",
+          "role": ""
+        },
+        {
+          "text": "student",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "paint",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lot",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "pictures.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Many people pretend that they understand modern art.",
+      "expanded": "Many people pretend that they understand modern art.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Many",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "pretend",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "understand",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "art.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "They always tell you what a picture is 'about'.",
+      "expanded": "They always tell you what a picture is 'about'.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "picture",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "'about'.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Of course, many pictures are not 'about' anything.",
+      "expanded": "Of course, many pictures are not 'about' anything.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Of",
+          "role": ""
+        },
+        {
+          "text": "course,",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "pictures",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "'about'",
+          "role": ""
+        },
+        {
+          "text": "anything.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "They are just pretty patterns.",
+      "expanded": "They are just pretty patterns.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "pretty",
+          "role": ""
+        },
+        {
+          "text": "patterns.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "We like them in the same way that we like pretty curtain material.",
+      "expanded": "We like them in the same way that we like pretty curtain material.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "pretty",
+          "role": ""
+        },
+        {
+          "text": "curtain",
+          "role": ""
+        },
+        {
+          "text": "material.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "I think that young children often appreciate modern pictures better than anyone else.",
+      "expanded": "I think that young children often appreciate modern pictures better than anyone else.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "think",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "appreciate",
+          "role": ""
+        },
+        {
+          "text": "modern",
+          "role": ""
+        },
+        {
+          "text": "pictures",
+          "role": ""
+        },
+        {
+          "text": "better",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "anyone",
+          "role": ""
+        },
+        {
+          "text": "else.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "They notice more.",
+      "expanded": "They notice more.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "notice",
+          "role": ""
+        },
+        {
+          "text": "more.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "expanded": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "sister",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "seven,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "tells",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "whether",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "pictures",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "not.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "She came into my room yesterday.",
+      "expanded": "She came into my room yesterday.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "room",
+          "role": ""
+        },
+        {
+          "text": "yesterday.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'What are you doing?' she asked.",
+      "expanded": "'What are you doing?' she asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'What",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "doing?'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "'I'm hanging this picture on the wall,' I answered.",
+      "expanded": "'I am hanging this picture on the wall,' I answered.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "hanging",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "picture",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wall,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "'It's a new one.",
+      "expanded": "'it is a new one.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "one.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "original": "Do you like it?' She looked at it critically for a moment.",
+      "expanded": "Do you like it?' She looked at it critically for a moment.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Do",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "it?'",
+          "role": ""
+        },
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "critically",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "moment.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "original": "'It's all right,' she said, 'but isn't it upside down?' I looked at it again.",
+      "expanded": "'it is all right,' she said, 'but is not it upside down?' I looked at it again.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "right,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "upside",
+          "role": ""
+        },
+        {
+          "text": "down?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "original": "She was right!",
+      "expanded": "She was right!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "right!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "original": "It was!",
+      "expanded": "It was!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

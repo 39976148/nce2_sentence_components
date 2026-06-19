@@ -1,0 +1,811 @@
+{
+  "book": 2,
+  "lesson": 58,
+  "title": "A blessing in disguise?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The tiny village of Frinley is said to possess a 'cursed tree'.",
+      "expanded": "The tiny village of Frinley is said to possess a 'cursed tree'.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "tiny",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Frinley",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "possess",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "'cursed",
+          "role": ""
+        },
+        {
+          "text": "tree'.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.",
+      "expanded": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Because",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "mentioned",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "newspaper,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "visitors",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Frinley",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "increased.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.",
+      "expanded": "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "planted",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "church",
+          "role": ""
+        },
+        {
+          "text": "fifty",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "recent",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "gained",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "evil",
+          "role": ""
+        },
+        {
+          "text": "reputation.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.",
+      "expanded": "It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "anyone",
+          "role": ""
+        },
+        {
+          "text": "touches",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "bad",
+          "role": ""
+        },
+        {
+          "text": "luck;",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "picks",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "leaf,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "die.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Many villagers believe that the tree has already claimed a number of victims.",
+      "expanded": "Many villagers believe that the tree has already claimed a number of victims.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Many",
+          "role": ""
+        },
+        {
+          "text": "villagers",
+          "role": ""
+        },
+        {
+          "text": "believe",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "already",
+          "role": ""
+        },
+        {
+          "text": "claimed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "victims.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The vicar has been asked to have the tree cut down, but so far he has refused.",
+      "expanded": "The vicar has been asked to have the tree cut down, but so far he has refused.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "vicar",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "cut",
+          "role": ""
+        },
+        {
+          "text": "down,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "far",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "refused.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "He has pointed out that the tree cut down, but so far he has refused.",
+      "expanded": "He has pointed out that the tree cut down, but so far he has refused.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "pointed",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "cut",
+          "role": ""
+        },
+        {
+          "text": "down,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "far",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "refused.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.",
+      "expanded": "He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "pointed",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "useful",
+          "role": ""
+        },
+        {
+          "text": "source",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "income,",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "tourists",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "country",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk.",
+      "expanded": "In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "spite",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tourists",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "picking",
+          "role": ""
+        },
+        {
+          "text": "leaves",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "cutting",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "names",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tree-trunk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "So far, not one of them has been struck down by sudden death!",
+      "expanded": "So far, not one of them has been struck down by sudden death!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "So",
+          "role": ""
+        },
+        {
+          "text": "far,",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "struck",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "sudden",
+          "role": ""
+        },
+        {
+          "text": "death!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

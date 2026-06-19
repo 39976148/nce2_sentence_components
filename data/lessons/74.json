@@ -1,0 +1,923 @@
+{
+  "book": 2,
+  "lesson": 74,
+  "title": "Out of the limelight",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
+      "expanded": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "An",
+          "role": ""
+        },
+        {
+          "text": "ancient",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "dry",
+          "role": ""
+        },
+        {
+          "text": "river",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "party",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "actors",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "actresses",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "off.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "expanded": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dressed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "dark",
+          "role": ""
+        },
+        {
+          "text": "glasses",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "clothes,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "precautions",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "recognize",
+          "role": ""
+        },
+        {
+          "text": "them.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "expanded": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "discovered,",
+          "role": ""
+        },
+        {
+          "text": "disguises",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "sometimes",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "perfect.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
+      "expanded": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "wonderful",
+          "role": ""
+        },
+        {
+          "text": "place",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "picnic,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "Gloria",
+          "role": ""
+        },
+        {
+          "text": "Gleam.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'It couldn't be better, Gloria,' Brinksley Meers agreed.",
+      "expanded": "'It could not be better, Gloria,' Brinksley Meers agreed.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'It",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "better,",
+          "role": ""
+        },
+        {
+          "text": "Gloria,'",
+          "role": ""
+        },
+        {
+          "text": "Brinksley",
+          "role": ""
+        },
+        {
+          "text": "Meers",
+          "role": ""
+        },
+        {
+          "text": "agreed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'No newspaper men, no film fans!",
+      "expanded": "'No newspaper men, no film fans!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'No",
+          "role": ""
+        },
+        {
+          "text": "newspaper",
+          "role": ""
+        },
+        {
+          "text": "men,",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "film",
+          "role": ""
+        },
+        {
+          "text": "fans!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Why don't we come more often?' Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "expanded": "Why do not we come more often?' Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "Why",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "come",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "often?'",
+          "role": ""
+        },
+        {
+          "text": "Meanwhile,",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "actors,",
+          "role": ""
+        },
+        {
+          "text": "Rockwall",
+          "role": ""
+        },
+        {
+          "text": "Slinger",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "Merlin",
+          "role": ""
+        },
+        {
+          "text": "Greeves,",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "baskets",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "shady",
+          "role": ""
+        },
+        {
+          "text": "spot",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "trees.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "When they had all made themselves comfortable, a stranger appeared.",
+      "expanded": "When they had all made themselves comfortable, a stranger appeared.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "themselves",
+          "role": ""
+        },
+        {
+          "text": "comfortable,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "stranger",
+          "role": ""
+        },
+        {
+          "text": "appeared.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "He looked very angry.",
+      "expanded": "He looked very angry.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "angry.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "'Now you get out of here, all of you!' he shouted.",
+      "expanded": "'Now you get out of here, all of you!' he shouted.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Now",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "here,",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "you!'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "shouted.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'I'm sheriff here.",
+      "expanded": "'I am sheriff here.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "sheriff",
+          "role": ""
+        },
+        {
+          "text": "here.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "Do you see that notice?",
+      "expanded": "Do you see that notice?",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Do",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "notice?",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "It says \"No Camping\" -- in case you can't read!' 'Look, sheriff,' said Rockwall, 'don't be too hard on us.",
+      "expanded": "It says \"No Camping\" -- in case you can not read!' 'Look, sheriff,' said Rockwall, 'do not be too hard on us.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "says",
+          "role": ""
+        },
+        {
+          "text": "\"No",
+          "role": ""
+        },
+        {
+          "text": "Camping\"",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "case",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "read!'",
+          "role": ""
+        },
+        {
+          "text": "'Look,",
+          "role": ""
+        },
+        {
+          "text": "sheriff,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "Rockwall,",
+          "role": ""
+        },
+        {
+          "text": "'do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "us.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "original": "I'm Rockwall Slinger and this is Merlin Greeves.' 'Oh, is it?' said the sheriff with a sneer.",
+      "expanded": "I am Rockwall Slinger and this is Merlin Greeves.' 'Oh, is it?' said the sheriff with a sneer.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "Rockwall",
+          "role": ""
+        },
+        {
+          "text": "Slinger",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "Merlin",
+          "role": ""
+        },
+        {
+          "text": "Greeves.'",
+          "role": ""
+        },
+        {
+          "text": "'Oh,",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "it?'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sheriff",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "sneer.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "original": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam.",
+      "expanded": "'Well, I am Brinksley Meers, and my other name is Gloria Gleam.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'Well,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "Brinksley",
+          "role": ""
+        },
+        {
+          "text": "Meers,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "name",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "Gloria",
+          "role": ""
+        },
+        {
+          "text": "Gleam.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "original": "Now you get out of here fast!'",
+      "expanded": "Now you get out of here fast!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "fast!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

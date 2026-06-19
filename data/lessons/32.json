@@ -1,0 +1,663 @@
+{
+  "book": 2,
+  "lesson": 32,
+  "title": "Shopping made easy",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "People are not so honest as they once were.",
+      "expanded": "People are not so honest as they once were.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "People",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "honest",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "were.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The temptation to steal is greater than ever before -- especially in large shops.",
+      "expanded": "The temptation to steal is greater than ever before -- especially in large shops.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "temptation",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "steal",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "greater",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "especially",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "shops.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+      "expanded": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "detective",
+          "role": ""
+        },
+        {
+          "text": "recently",
+          "role": ""
+        },
+        {
+          "text": "watched",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "well-dressed",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "store",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "Monday",
+          "role": ""
+        },
+        {
+          "text": "mornings.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.",
+      "expanded": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "One",
+          "role": ""
+        },
+        {
+          "text": "Monday,",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "fewer",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "usual",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "in,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "easier",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "detective",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "watch",
+          "role": ""
+        },
+        {
+          "text": "her.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The woman first bought a few small articles.",
+      "expanded": "The woman first bought a few small articles.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "articles.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.",
+      "expanded": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "chose",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "expensive",
+          "role": ""
+        },
+        {
+          "text": "dresses",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "handed",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "wrapped",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "possible.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Then the woman simply took the parcel and walked out of the shop without paying.",
+      "expanded": "Then the woman simply took the parcel and walked out of the shop without paying.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "simply",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "walked",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "without",
+          "role": ""
+        },
+        {
+          "text": "paying.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "When she was arrested, the detective found out that the shop assistant was her daughter.",
+      "expanded": "When she was arrested, the detective found out that the shop assistant was her daughter.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "arrested,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "detective",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shop",
+          "role": ""
+        },
+        {
+          "text": "assistant",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "daughter.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The girl 'gave' her mother a free dress once a week!",
+      "expanded": "The girl 'gave' her mother a free dress once a week!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "'gave'",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "mother",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "free",
+          "role": ""
+        },
+        {
+          "text": "dress",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "week!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "book": 2,
+  "lesson": 70,
+  "title": "Red for danger",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "expanded": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "During",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bullfight,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "wandered",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "middle",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ring.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The crowd began to shout, but the drunk was unaware of the danger.",
+      "expanded": "The crowd began to shout, but the drunk was unaware of the danger.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "crowd",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "shout,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "unaware",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "danger.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "expanded": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "bull",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "busy",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "matador",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "sight",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "shouting",
+          "role": ""
+        },
+        {
+          "text": "rude",
+          "role": ""
+        },
+        {
+          "text": "remarks",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "waving",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "red",
+          "role": ""
+        },
+        {
+          "text": "cap.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "expanded": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Apparently",
+          "role": ""
+        },
+        {
+          "text": "sensitive",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "criticism,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bull",
+          "role": ""
+        },
+        {
+          "text": "forgot",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "matador",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "charged",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The crowd suddenly grew quiet.",
+      "expanded": "The crowd suddenly grew quiet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "crowd",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "grew",
+          "role": ""
+        },
+        {
+          "text": "quiet.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The drunk, however, seemed quite sure of himself.",
+      "expanded": "The drunk, however, seemed quite sure of himself.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "drunk,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "seemed",
+          "role": ""
+        },
+        {
+          "text": "quite",
+          "role": ""
+        },
+        {
+          "text": "sure",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "himself.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "expanded": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bull",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "close",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "clumsily",
+          "role": ""
+        },
+        {
+          "text": "stepped",
+          "role": ""
+        },
+        {
+          "text": "aside",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "let",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "pass.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "The crowd broke into cheers and the drunk bowed.",
+      "expanded": "The crowd broke into cheers and the drunk bowed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "crowd",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "cheers",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "bowed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.",
+      "expanded": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "come",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ring",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "dragged",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "safety.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.",
+      "expanded": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Even",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bull",
+          "role": ""
+        },
+        {
+          "text": "seemed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "feel",
+          "role": ""
+        },
+        {
+          "text": "sorry",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "sympathetically",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "drunk",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "turning",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "attention",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "matador.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

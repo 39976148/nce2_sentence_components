@@ -1,0 +1,607 @@
+{
+  "book": 2,
+  "lesson": 33,
+  "title": "Out of the darkness",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Nearly a week passed before the girl was able to explain what had happened to her.",
+      "expanded": "Nearly a week passed before the girl was able to explain what had happened to her.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Nearly",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "week",
+          "role": ""
+        },
+        {
+          "text": "passed",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "explain",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "happened",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "her.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "One afternoon she set out from the coast in a small boat and was caught in a storm.",
+      "expanded": "One afternoon she set out from the coast in a small boat and was caught in a storm.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "One",
+          "role": ""
+        },
+        {
+          "text": "afternoon",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "coast",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "storm.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Towards evening, the boat struck a rock and the girl jumped into the sea.",
+      "expanded": "Towards evening, the boat struck a rock and the girl jumped into the sea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Towards",
+          "role": ""
+        },
+        {
+          "text": "evening,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "struck",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "rock",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "jumped",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Then she swam to the shore after spending the whole night in the water.",
+      "expanded": "Then she swam to the shore after spending the whole night in the water.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "swam",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "spending",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "night",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "water.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "During that time she covered a distance of eight miles.",
+      "expanded": "During that time she covered a distance of eight miles.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "During",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "distance",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "eight",
+          "role": ""
+        },
+        {
+          "text": "miles.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Early next morning, she saw a light ahead.",
+      "expanded": "Early next morning, she saw a light ahead.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Early",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "morning,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "light",
+          "role": ""
+        },
+        {
+          "text": "ahead.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "She knew she was near the shore because the light was high up on the cliffs.",
+      "expanded": "She knew she was near the shore because the light was high up on the cliffs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "light",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "high",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cliffs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen.",
+      "expanded": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "arriving",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "struggled",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cliff",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "light",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "seen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "That was all she remembered.",
+      "expanded": "That was all she remembered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "That",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "remembered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "When she woke up a day later, she found herself in hospital.",
+      "expanded": "When she woke up a day later, she found herself in hospital.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "woke",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "later,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "herself",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "hospital.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

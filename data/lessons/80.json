@@ -1,0 +1,847 @@
+{
+  "book": 2,
+  "lesson": 80,
+  "title": "The Crystal Palace",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Perhaps the most extraordinary building of the nineteeth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851.",
+      "expanded": "Perhaps the most extraordinary building of the nineteeth century was the Crystal Palace, which was built in Hyde Park for the Great Exhibition of 1851.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Perhaps",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "extraordinary",
+          "role": ""
+        },
+        {
+          "text": "building",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "nineteeth",
+          "role": ""
+        },
+        {
+          "text": "century",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Crystal",
+          "role": ""
+        },
+        {
+          "text": "Palace,",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "built",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Hyde",
+          "role": ""
+        },
+        {
+          "text": "Park",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Great",
+          "role": ""
+        },
+        {
+          "text": "Exhibition",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "1851.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "expanded": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Crystal",
+          "role": ""
+        },
+        {
+          "text": "Palace",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "different",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "buildings",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "iron",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "glass.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "expanded": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "biggest",
+          "role": ""
+        },
+        {
+          "text": "buildings",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lot",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "countries",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "A great many goods were sent to the exhibition from various parts of the world.",
+      "expanded": "A great many goods were sent to the exhibition from various parts of the world.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "goods",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "exhibition",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "various",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "There was also a great deal of machinery on display.",
+      "expanded": "There was also a great deal of machinery on display.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "There",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "also",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "deal",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "machinery",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "display.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The most wonderful piece of machinery on show was Nasmyth's steam hammer.",
+      "expanded": "The most wonderful piece of machinery on show was Nasmyth's steam hammer.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "wonderful",
+          "role": ""
+        },
+        {
+          "text": "piece",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "machinery",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "show",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "Nasmyth's",
+          "role": ""
+        },
+        {
+          "text": "steam",
+          "role": ""
+        },
+        {
+          "text": "hammer.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Though in those days, traveling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.",
+      "expanded": "Though in those days, traveling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "days,",
+          "role": ""
+        },
+        {
+          "text": "traveling",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "easy",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "today,",
+          "role": ""
+        },
+        {
+          "text": "steam",
+          "role": ""
+        },
+        {
+          "text": "boats",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "thousands",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "visitors",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Channel",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Europe.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "On arriving in England, they were taken to the Crystal Palace by train.",
+      "expanded": "On arriving in England, they were taken to the Crystal Palace by train.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "arriving",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "England,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Crystal",
+          "role": ""
+        },
+        {
+          "text": "Palace",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "train.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.",
+      "expanded": "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "There",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "six",
+          "role": ""
+        },
+        {
+          "text": "million",
+          "role": ""
+        },
+        {
+          "text": "visitors",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "all,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "profits",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "exhibition",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "build",
+          "role": ""
+        },
+        {
+          "text": "museums",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "colleges.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Later, the Crystal Palace was moved to South London.",
+      "expanded": "Later, the Crystal Palace was moved to South London.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Later,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Crystal",
+          "role": ""
+        },
+        {
+          "text": "Palace",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "moved",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "London.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+      "expanded": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "remained",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "buildings",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "burnt",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1936.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

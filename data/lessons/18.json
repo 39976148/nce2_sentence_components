@@ -1,0 +1,511 @@
+{
+  "book": 2,
+  "lesson": 18,
+  "title": "He often does this!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "After I had had lunch at a village pub, I looked for my bag.",
+      "expanded": "After I had had lunch at a village pub, I looked for my bag.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "lunch",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "pub,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "bag.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I had left it on a chair beside the door and now it wasn't there!",
+      "expanded": "I had left it on a chair beside the door and now it was not there!",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "left",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "chair",
+          "role": ""
+        },
+        {
+          "text": "beside",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "door",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "there!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "As I was looking for it, the landlord came in.",
+      "expanded": "As I was looking for it, the landlord came in.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "looking",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "it,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "landlord",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "in.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'Did you have a good meal?\" he asked.",
+      "expanded": "'Did you have a good meal?\" he asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Did",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "meal?\"",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'Yes, thank you,' I answered, 'but I can't pay the bill.",
+      "expanded": "'Yes, thank you,' I answered, 'but I can not pay the bill.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'Yes,",
+          "role": ""
+        },
+        {
+          "text": "thank",
+          "role": ""
+        },
+        {
+          "text": "you,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "answered,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bill.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I haven't got my bag.' The landlord smiled and immediately went out.",
+      "expanded": "I have not got my bag.' The landlord smiled and immediately went out.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "bag.'",
+          "role": ""
+        },
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "landlord",
+          "role": ""
+        },
+        {
+          "text": "smiled",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "immediately",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "out.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "In a few minutes he returned with my bag and gave it back to me.",
+      "expanded": "In a few minutes he returned with my bag and gave it back to me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "minutes",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "bag",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'I'm very sorry,' he said.",
+      "expanded": "'I am very sorry,' he said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "sorry,'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'My dog had taken in into the garden.",
+      "expanded": "'My dog had taken in into the garden.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'My",
+          "role": ""
+        },
+        {
+          "text": "dog",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "He often does this!'",
+      "expanded": "He often does this!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "does",
+          "role": ""
+        },
+        {
+          "text": "this!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

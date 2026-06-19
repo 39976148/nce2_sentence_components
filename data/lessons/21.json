@@ -1,0 +1,515 @@
+{
+  "book": 2,
+  "lesson": 21,
+  "title": "Mad or not?",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Aeroplanes are slowly driving me mad.",
+      "expanded": "Aeroplanes are slowly driving me mad.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Aeroplanes",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "slowly",
+          "role": ""
+        },
+        {
+          "text": "driving",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "mad.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I live near an airport and passing planes can be heard night and day.",
+      "expanded": "I live near an airport and passing planes can be heard night and day.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "live",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "airport",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "passing",
+          "role": ""
+        },
+        {
+          "text": "planes",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "night",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "day.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The airport was built years ago, but for some reason it could not be used then.",
+      "expanded": "The airport was built years ago, but for some reason it could not be used then.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "airport",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "built",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "reason",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "then.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Last year, however, it came into use.",
+      "expanded": "Last year, however, it came into use.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "use.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Over a hundred people must have been driven away from their homes by the noise.",
+      "expanded": "Over a hundred people must have been driven away from their homes by the noise.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Over",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "driven",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "homes",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "noise.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I am one of the few people left.",
+      "expanded": "I am one of the few people left.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "left.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Sometimes I think this house will be knocked down by a passing plane.",
+      "expanded": "Sometimes I think this house will be knocked down by a passing plane.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Sometimes",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "think",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "knocked",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "passing",
+          "role": ""
+        },
+        {
+          "text": "plane.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I have been offered a large sum of money to go away, but I am determined to stay here.",
+      "expanded": "I have been offered a large sum of money to go away, but I am determined to stay here.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "offered",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "sum",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "away,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "determined",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "here.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Everybody says I must be mad and they are probably right.",
+      "expanded": "Everybody says I must be mad and they are probably right.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everybody",
+          "role": ""
+        },
+        {
+          "text": "says",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "mad",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "probably",
+          "role": ""
+        },
+        {
+          "text": "right.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

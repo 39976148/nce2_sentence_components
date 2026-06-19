@@ -1,0 +1,819 @@
+{
+  "book": 2,
+  "lesson": 96,
+  "title": "The dead return",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "A Festival for the Dead is held once a year in Japan.",
+      "expanded": "A Festival for the Dead is held once a year in Japan.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "Festival",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Dead",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "held",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Japan.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.",
+      "expanded": "This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "festival",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cheerful",
+          "role": ""
+        },
+        {
+          "text": "occasion,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "day,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "return",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "homes",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "welcomed",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "living.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "As they are expected to be hungry after their long journey, food is laid out for them.",
+      "expanded": "As they are expected to be hungry after their long journey, food is laid out for them.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "expected",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "hungry",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "journey,",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "laid",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "them.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
+      "expanded": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Specially-made",
+          "role": ""
+        },
+        {
+          "text": "lanterns",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "hung",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "each",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "help",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "way.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "All night long, people dance and sing.",
+      "expanded": "All night long, people dance and sing.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "All",
+          "role": ""
+        },
+        {
+          "text": "night",
+          "role": ""
+        },
+        {
+          "text": "long,",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "dance",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "In the early morning, the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.",
+      "expanded": "In the early morning, the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "morning,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "laid",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "thrown",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "river",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "considered",
+          "role": ""
+        },
+        {
+          "text": "unlucky",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "anyone",
+          "role": ""
+        },
+        {
+          "text": "living",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "eat",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before, are placed into the water when the festival is over.",
+      "expanded": "In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before, are placed into the water when the festival is over.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "towns",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tiny",
+          "role": ""
+        },
+        {
+          "text": "lanterns",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "hung",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "streets",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "night",
+          "role": ""
+        },
+        {
+          "text": "before,",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "placed",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "water",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "festival",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "over.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world.",
+      "expanded": "Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Thousands",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "lanterns",
+          "role": ""
+        },
+        {
+          "text": "slowly",
+          "role": ""
+        },
+        {
+          "text": "drift",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sea",
+          "role": ""
+        },
+        {
+          "text": "guiding",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "return",
+          "role": ""
+        },
+        {
+          "text": "journey",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "world.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.",
+      "expanded": "This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "moving",
+          "role": ""
+        },
+        {
+          "text": "spectacle,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "crowds",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "stand",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore",
+          "role": ""
+        },
+        {
+          "text": "watching",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "lanterns",
+          "role": ""
+        },
+        {
+          "text": "drifting",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "seen",
+          "role": ""
+        },
+        {
+          "text": "no",
+          "role": ""
+        },
+        {
+          "text": "more.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

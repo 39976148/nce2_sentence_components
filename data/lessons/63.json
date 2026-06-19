@@ -1,0 +1,743 @@
+{
+  "book": 2,
+  "lesson": 63,
+  "title": "She was not amused",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Jeremy Hampden has a large circle of friends and if very popular at parties.",
+      "expanded": "Jeremy Hampden has a large circle of friends and if very popular at parties.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jeremy",
+          "role": ""
+        },
+        {
+          "text": "Hampden",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "circle",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "popular",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "parties.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Everybody admires him for his great sense of humour -- everybody, that is, except his six-year-old daughter, Jenny.",
+      "expanded": "Everybody admires him for his great sense of humour -- everybody, that is, except his six-year-old daughter, Jenny.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everybody",
+          "role": ""
+        },
+        {
+          "text": "admires",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "sense",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "humour",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "everybody,",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "is,",
+          "role": ""
+        },
+        {
+          "text": "except",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "six-year-old",
+          "role": ""
+        },
+        {
+          "text": "daughter,",
+          "role": ""
+        },
+        {
+          "text": "Jenny.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "expanded": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Recently,",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Jeremy's",
+          "role": ""
+        },
+        {
+          "text": "closest",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "speech",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "wedding",
+          "role": ""
+        },
+        {
+          "text": "reception.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "This is the sort of thing that Jeremy loves.",
+      "expanded": "This is the sort of thing that Jeremy loves.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sort",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "thing",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "Jeremy",
+          "role": ""
+        },
+        {
+          "text": "loves.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "expanded": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "prepared",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "speech",
+          "role": ""
+        },
+        {
+          "text": "carefully",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wedding",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "Jenny.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "he had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "expanded": "he had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "included",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "funny",
+          "role": ""
+        },
+        {
+          "text": "stories",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "speech",
+          "role": ""
+        },
+        {
+          "text": "and,",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "course,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "success.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "As soon as he had finished, Jenny told him she wanted to go home.",
+      "expanded": "As soon as he had finished, Jenny told him she wanted to go home.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "finished,",
+          "role": ""
+        },
+        {
+          "text": "Jenny",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "home.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Jeremy was a little disappointed by this but he did as his daughter asked.",
+      "expanded": "Jeremy was a little disappointed by this but he did as his daughter asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jeremy",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "disappointed",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "daughter",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "expanded": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "home,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "Jenny",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "enjoyed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "speech.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "To his surprise, she said she hadn't.",
+      "expanded": "To his surprise, she said she had not.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "To",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "surprise,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "not.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!",
+      "expanded": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jeremy",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "why",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "laughing",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "him!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

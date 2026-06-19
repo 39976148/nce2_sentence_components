@@ -1,0 +1,787 @@
+{
+  "book": 2,
+  "lesson": 50,
+  "title": "Taken for a ride",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I love travelling in the country, but I don't like losing my way.",
+      "expanded": "I love travelling in the country, but I do not like losing my way.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "love",
+          "role": ""
+        },
+        {
+          "text": "travelling",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "country,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "losing",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "way.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "expanded": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "excursion",
+          "role": ""
+        },
+        {
+          "text": "recently,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "trip",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "longer",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "expected.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.' 'I'll tell you where to get off.' answered the conductor.",
+      "expanded": "'I am going to Woodford Green,' I said to the conductor as I got on the bus, 'but I do not know where it is.' 'I will tell you where to get off.' answered the conductor.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Woodford",
+          "role": ""
+        },
+        {
+          "text": "Green,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "conductor",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "know",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is.'",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "off.'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "conductor.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "I sat in the front of the bus to get a good view of the countryside.",
+      "expanded": "I sat in the front of the bus to get a good view of the countryside.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "front",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "view",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "countryside.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "After some time, the bus stopped.",
+      "expanded": "After some time, the bus stopped.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus",
+          "role": ""
+        },
+        {
+          "text": "stopped.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "expanded": "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Looking",
+          "role": ""
+        },
+        {
+          "text": "round,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "realized",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "shock",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "passenger",
+          "role": ""
+        },
+        {
+          "text": "left",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "'You'll have to get off here,' the conductor said.",
+      "expanded": "'You will have to get off here,' the conductor said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "here,'",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "conductor",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'This is as far as we go.' 'Is this Woodford Green?' I asked.",
+      "expanded": "'This is as far as we go.' 'Is this Woodford Green?' I asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'This",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "far",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "go.'",
+          "role": ""
+        },
+        {
+          "text": "'Is",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "Woodford",
+          "role": ""
+        },
+        {
+          "text": "Green?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'Oh dear,' said the conductor suddenly.",
+      "expanded": "'Oh dear,' said the conductor suddenly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Oh",
+          "role": ""
+        },
+        {
+          "text": "dear,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "conductor",
+          "role": ""
+        },
+        {
+          "text": "suddenly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "'I forgot to put you off.' 'It doesn't matter,' I said.",
+      "expanded": "'I forgot to put you off.' 'It does not matter,' I said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "forgot",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "off.'",
+          "role": ""
+        },
+        {
+          "text": "'It",
+          "role": ""
+        },
+        {
+          "text": "does",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "matter,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'I'll get off here.' 'We're going back now,' said the conductor.",
+      "expanded": "'I will get off here.' 'we are going back now,' said the conductor.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "here.'",
+          "role": ""
+        },
+        {
+          "text": "'we",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "now,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "conductor.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "'Well, in that case, I prefer to stay on the bus,' I answered.",
+      "expanded": "'Well, in that case, I prefer to stay on the bus,' I answered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Well,",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "case,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "prefer",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bus,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

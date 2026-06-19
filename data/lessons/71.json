@@ -1,0 +1,723 @@
+{
+  "book": 2,
+  "lesson": 71,
+  "title": "A famous clock",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
+      "expanded": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "visit",
+          "role": ""
+        },
+        {
+          "text": "London,",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "Big",
+          "role": ""
+        },
+        {
+          "text": "Ben,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "B.B.C.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+      "expanded": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Houses",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Parliament",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "burned",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1834,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "erected.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+      "expanded": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Big",
+          "role": ""
+        },
+        {
+          "text": "Ben",
+          "role": ""
+        },
+        {
+          "text": "takes",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "name",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Sir",
+          "role": ""
+        },
+        {
+          "text": "Benjamin",
+          "role": ""
+        },
+        {
+          "text": "Hall",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "responsible",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "making",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "Houses",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Parliament",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "built.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "It is not only of immense size, but is extremely accurate as well.",
+      "expanded": "It is not only of immense size, but is extremely accurate as well.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "immense",
+          "role": ""
+        },
+        {
+          "text": "size,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "extremely",
+          "role": ""
+        },
+        {
+          "text": "accurate",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "well.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "expanded": "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Officials",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "Greenwich",
+          "role": ""
+        },
+        {
+          "text": "Observatory",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "checked",
+          "role": ""
+        },
+        {
+          "text": "twice",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "day.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "On the B.B.C.",
+      "expanded": "On the B.B.C.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "B.B.C.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+      "expanded": "you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "hear",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "actually",
+          "role": ""
+        },
+        {
+          "text": "striking",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "microphones",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "connected",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clock",
+          "role": ""
+        },
+        {
+          "text": "tower.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Big Ben has rarely gone wrong.",
+      "expanded": "Big Ben has rarely gone wrong.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Big",
+          "role": ""
+        },
+        {
+          "text": "Ben",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "rarely",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "wrong.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Once, however, it failed to give the correct time.",
+      "expanded": "Once, however, it failed to give the correct time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Once,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "failed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "give",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "correct",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
+      "expanded": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "painter",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "tower",
+          "role": ""
+        },
+        {
+          "text": "hung",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pot",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "paint",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hands",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "slowed",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "down!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "book": 2,
+  "lesson": 87,
+  "title": "A perfect alibi",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man.",
+      "expanded": "'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'At",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "murder",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "committed,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "travelling",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "8",
+          "role": ""
+        },
+        {
+          "text": "o'clock",
+          "role": ""
+        },
+        {
+          "text": "train",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "London,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "'Do you always catch such an early train?' asked the inspector.",
+      "expanded": "'Do you always catch such an early train?' asked the inspector.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Do",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "catch",
+          "role": ""
+        },
+        {
+          "text": "such",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "train?'",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "inspector.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "'Of course I do,' answered the man.",
+      "expanded": "'Of course I do,' answered the man.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Of",
+          "role": ""
+        },
+        {
+          "text": "course",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "do,'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'I must be at work at 10 o'clock.",
+      "expanded": "'I must be at work at 10 o'clock.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "10",
+          "role": ""
+        },
+        {
+          "text": "o'clock.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "My employer will confirm that I was there on time.' 'Would a later train get you to work on time?' asked the inspector.",
+      "expanded": "My employer will confirm that I was there on time.' 'Would a later train get you to work on time?' asked the inspector.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "employer",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "confirm",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "time.'",
+          "role": ""
+        },
+        {
+          "text": "'Would",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "train",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "time?'",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "inspector.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'I suppose it would, but I never catch a later train.' 'At what time did you arrive at the station?' 'At ten to eight.",
+      "expanded": "'I suppose it would, but I never catch a later train.' 'At what time did you arrive at the station?' 'At ten to eight.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "suppose",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "would,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "catch",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "train.'",
+          "role": ""
+        },
+        {
+          "text": "'At",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "arrive",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station?'",
+          "role": ""
+        },
+        {
+          "text": "'At",
+          "role": ""
+        },
+        {
+          "text": "ten",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "eight.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "I bought a paper and waited for the train.' 'And you didn't notice anything unusual?' 'Of course not.' 'I suggest,' said the inspector, 'that you are not telling the truth.",
+      "expanded": "I bought a paper and waited for the train.' 'And you did not notice anything unusual?' 'Of course not.' 'I suggest,' said the inspector, 'that you are not telling the truth.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "paper",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "waited",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "train.'",
+          "role": ""
+        },
+        {
+          "text": "'And",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "notice",
+          "role": ""
+        },
+        {
+          "text": "anything",
+          "role": ""
+        },
+        {
+          "text": "unusual?'",
+          "role": ""
+        },
+        {
+          "text": "'Of",
+          "role": ""
+        },
+        {
+          "text": "course",
+          "role": ""
+        },
+        {
+          "text": "not.'",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "suggest,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "inspector,",
+          "role": ""
+        },
+        {
+          "text": "'that",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "telling",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "truth.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time.",
+      "expanded": "I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "suggest",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "catch",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "8",
+          "role": ""
+        },
+        {
+          "text": "o'clock",
+          "role": ""
+        },
+        {
+          "text": "train,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "caught",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "8.25",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "work",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "You see, on the morning of the murder, the 8 o'clock train did not run at all.",
+      "expanded": "You see, on the morning of the murder, the 8 o'clock train did not run at all.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "You",
+          "role": ""
+        },
+        {
+          "text": "see,",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "morning",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "murder,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "8",
+          "role": ""
+        },
+        {
+          "text": "o'clock",
+          "role": ""
+        },
+        {
+          "text": "train",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "run",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "all.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "It broke down at Ferngreen station and was taken off the line.'",
+      "expanded": "It broke down at Ferngreen station and was taken off the line.'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "Ferngreen",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "line.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

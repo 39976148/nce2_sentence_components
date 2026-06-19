@@ -1,0 +1,483 @@
+{
+  "book": 2,
+  "lesson": 10,
+  "title": "Not for jazz",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "We have an old musical instrument.",
+      "expanded": "We have an old musical instrument.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "musical",
+          "role": ""
+        },
+        {
+          "text": "instrument.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "It is called a clavichord.",
+      "expanded": "It is called a clavichord.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "called",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "clavichord.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "It was made in Germany in 1681.",
+      "expanded": "It was made in Germany in 1681.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Germany",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1681.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Our clavichord is kept in the living room.",
+      "expanded": "Our clavichord is kept in the living room.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Our",
+          "role": ""
+        },
+        {
+          "text": "clavichord",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "kept",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "living",
+          "role": ""
+        },
+        {
+          "text": "room.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "It has belonged to our family for a long time.",
+      "expanded": "It has belonged to our family for a long time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "belonged",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "family",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The instrument was bought by my grandfather many years ago.",
+      "expanded": "The instrument was bought by my grandfather many years ago.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "instrument",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "grandfather",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "ago.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Recently it was damaged by a visitor.",
+      "expanded": "Recently it was damaged by a visitor.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Recently",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "damaged",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "visitor.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "She tried to play jazz on it!",
+      "expanded": "She tried to play jazz on it!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "jazz",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "it!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "She struck the keys too hard and two of the strings were broken.",
+      "expanded": "She struck the keys too hard and two of the strings were broken.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "struck",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "keys",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "strings",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "broken.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "My father was shocked.",
+      "expanded": "My father was shocked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "father",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "shocked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Now we are not allowed to touch it.",
+      "expanded": "Now we are not allowed to touch it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "allowed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "touch",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "It is being repaired by a friend of my father's.",
+      "expanded": "It is being repaired by a friend of my father's.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "repaired",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "friend",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "father's.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

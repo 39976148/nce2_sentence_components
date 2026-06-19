@@ -1,0 +1,747 @@
+{
+  "book": 2,
+  "lesson": 85,
+  "title": "Never too old to learn",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
+      "expanded": "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "received",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "school,",
+          "role": ""
+        },
+        {
+          "text": "informing",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "former",
+          "role": ""
+        },
+        {
+          "text": "headmaster,",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Stuart",
+          "role": ""
+        },
+        {
+          "text": "Page,",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "retiring",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "week.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Pupils of the school, old and new, will be sending him a present to mark the occasion.",
+      "expanded": "Pupils of the school, old and new, will be sending him a present to mark the occasion.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Pupils",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "school,",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "new,",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "sending",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "present",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "mark",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "occasion.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
+      "expanded": "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "All",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "contributed",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gift",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "sign",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "names",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "album",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "headmaster's",
+          "role": ""
+        },
+        {
+          "text": "home.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
+      "expanded": "We shall all remember Mr. Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "We",
+          "role": ""
+        },
+        {
+          "text": "shall",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "remember",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Page",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "patience",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "understanding",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "kindly",
+          "role": ""
+        },
+        {
+          "text": "encouragement",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "unwillingly",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "school.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
+      "expanded": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "former",
+          "role": ""
+        },
+        {
+          "text": "pupils",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "attending",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "farewell",
+          "role": ""
+        },
+        {
+          "text": "dinner",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "honour",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "Thursday.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.",
+      "expanded": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for a total of forty years.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "curious",
+          "role": ""
+        },
+        {
+          "text": "coincidence",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "retirement,",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Page",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "teaching",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "total",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "forty",
+          "role": ""
+        },
+        {
+          "text": "years.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "After he has retired, he will devote himself to gardening.",
+      "expanded": "After he has retired, he will devote himself to gardening.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "retired,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "devote",
+          "role": ""
+        },
+        {
+          "text": "himself",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "gardening.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "For him, this will be an entirely new hobby.",
+      "expanded": "For him, this will be an entirely new hobby.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "For",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "entirely",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "hobby.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "But this does not matter, for, as he has often remarked, one is never too old to learn.",
+      "expanded": "But this does not matter, for, as he has often remarked, one is never too old to learn.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "does",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "matter,",
+          "role": ""
+        },
+        {
+          "text": "for,",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "remarked,",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "learn.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

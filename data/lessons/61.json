@@ -1,0 +1,723 @@
+{
+  "book": 2,
+  "lesson": 61,
+  "title": "Trouble with the Hubble",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars.",
+      "expanded": "The Hubble telescope was launched into space by NASA on April 20,1990 at a cost of over a billion dollars.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Hubble",
+          "role": ""
+        },
+        {
+          "text": "telescope",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "launched",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "space",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "NASA",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "April",
+          "role": ""
+        },
+        {
+          "text": "20,1990",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cost",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "billion",
+          "role": ""
+        },
+        {
+          "text": "dollars.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Right from the start there was trouble with the Hubble.",
+      "expanded": "Right from the start there was trouble with the Hubble.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Right",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "start",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "trouble",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Hubble.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The pictures it sent us were very disappointing because its main mirror was faulty!",
+      "expanded": "The pictures it sent us were very disappointing because its main mirror was faulty!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "pictures",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "disappointing",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "main",
+          "role": ""
+        },
+        {
+          "text": "mirror",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "faulty!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "expanded": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "NASA",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "telescope",
+          "role": ""
+        },
+        {
+          "text": "right,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "sending",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "astronauts",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "repair",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "expanded": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "shuttle",
+          "role": ""
+        },
+        {
+          "text": "Endeavour",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "taking",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "astronauts",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Hubble.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "expanded": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "robot-arm",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Endeavour",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "grab",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "telescope",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "hold",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "astronauts",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "necessary",
+          "role": ""
+        },
+        {
+          "text": "repairs.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "expanded": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Of",
+          "role": ""
+        },
+        {
+          "text": "course,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Hubble",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "above",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "earth's",
+          "role": ""
+        },
+        {
+          "text": "atmosphere,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "sending",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clearest",
+          "role": ""
+        },
+        {
+          "text": "pictures",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "stars",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "distant",
+          "role": ""
+        },
+        {
+          "text": "galaxies",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "seen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "expanded": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Hubble",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "deal",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "age",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "size",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "universe.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "expanded": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "read",
+          "role": ""
+        },
+        {
+          "text": "this,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Hubble's",
+          "role": ""
+        },
+        {
+          "text": "eagle",
+          "role": ""
+        },
+        {
+          "text": "eye",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "thousands",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "thousands",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "wonderful",
+          "role": ""
+        },
+        {
+          "text": "pictures.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

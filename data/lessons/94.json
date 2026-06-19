@@ -1,0 +1,811 @@
+{
+  "book": 2,
+  "lesson": 94,
+  "title": "Future champions",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "expanded": "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Experiments",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "proved",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "instructed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "swimming",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "age.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.",
+      "expanded": "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "swimming",
+          "role": ""
+        },
+        {
+          "text": "pool",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Los",
+          "role": ""
+        },
+        {
+          "text": "Angeles,",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "become",
+          "role": ""
+        },
+        {
+          "text": "expert",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "holding",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "breath",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "water",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "walk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Babies of two months old do not appear to be reluctant to enter the water.",
+      "expanded": "Babies of two months old do not appear to be reluctant to enter the water.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Babies",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "months",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "appear",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "reluctant",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "enter",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "water.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.",
+      "expanded": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "accustomed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "swimming",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "pick",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "weights",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pool.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "expanded": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "game",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "popular",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "swimmers",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "underwater",
+          "role": ""
+        },
+        {
+          "text": "tricycle",
+          "role": ""
+        },
+        {
+          "text": "race.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Tricycles are lined up on the floor of the pool seven feet under water.",
+      "expanded": "Tricycles are lined up on the floor of the pool seven feet under water.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tricycles",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "lined",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pool",
+          "role": ""
+        },
+        {
+          "text": "seven",
+          "role": ""
+        },
+        {
+          "text": "feet",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "water.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The children compete against each other to reach the other end of the pool.",
+      "expanded": "The children compete against each other to reach the other end of the pool.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "compete",
+          "role": ""
+        },
+        {
+          "text": "against",
+          "role": ""
+        },
+        {
+          "text": "each",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "reach",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "other",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pool.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Many pedal their tricycles, but most of them prefer to push or drag them.",
+      "expanded": "Many pedal their tricycles, but most of them prefer to push or drag them.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Many",
+          "role": ""
+        },
+        {
+          "text": "pedal",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "tricycles,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "prefer",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "push",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "drag",
+          "role": ""
+        },
+        {
+          "text": "them.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Some children can cover the whole length of the pool without coming up for breath even once.",
+      "expanded": "Some children can cover the whole length of the pool without coming up for breath even once.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Some",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "cover",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "length",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "pool",
+          "role": ""
+        },
+        {
+          "text": "without",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "breath",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "once.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Whether they will ever become future Olympic champions, only time will tell.",
+      "expanded": "Whether they will ever become future Olympic champions, only time will tell.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Whether",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "become",
+          "role": ""
+        },
+        {
+          "text": "future",
+          "role": ""
+        },
+        {
+          "text": "Olympic",
+          "role": ""
+        },
+        {
+          "text": "champions,",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "tell.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.",
+      "expanded": "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Meanwhile,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "encourage",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "among",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "cannot",
+          "role": ""
+        },
+        {
+          "text": "swim",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "yards",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "gasping",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "air.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

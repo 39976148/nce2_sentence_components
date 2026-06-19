@@ -1,0 +1,847 @@
+{
+  "book": 2,
+  "lesson": 86,
+  "title": "Out of control",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "expanded": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "swing",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "speedboat",
+          "role": ""
+        },
+        {
+          "text": "round,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "steering",
+          "role": ""
+        },
+        {
+          "text": "wheel",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "hands.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He waved desperately to his companion, who had been water skiing for the last fifteen minutes.",
+      "expanded": "He waved desperately to his companion, who had been water skiing for the last fifteen minutes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "waved",
+          "role": ""
+        },
+        {
+          "text": "desperately",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "companion,",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "water",
+          "role": ""
+        },
+        {
+          "text": "skiing",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "fifteen",
+          "role": ""
+        },
+        {
+          "text": "minutes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "expanded": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Both",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "hardly",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "realize",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "happening",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "thrown",
+          "role": ""
+        },
+        {
+          "text": "violently",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "expanded": "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "speedboat",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "struck",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "buoy,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "continued",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "move",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "water.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.",
+      "expanded": "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Both",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "swim",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "shore,",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "dismay",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "speedboat",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "moving",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "circle.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "It now came straight towards them at tremendous speed.",
+      "expanded": "It now came straight towards them at tremendous speed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "straight",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "tremendous",
+          "role": ""
+        },
+        {
+          "text": "speed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "In less than a minute, it roared past them only a few feet away.",
+      "expanded": "In less than a minute, it roared past them only a few feet away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "less",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "minute,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "roared",
+          "role": ""
+        },
+        {
+          "text": "past",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "feet",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "expanded": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "passed,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "swam",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "return.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+      "expanded": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "enough",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "swim",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "danger",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "again",
+          "role": ""
+        },
+        {
+          "text": "completed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "circle.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "On this occasion, however, it had slowed down considerably.",
+      "expanded": "On this occasion, however, it had slowed down considerably.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "occasion,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "slowed",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "considerably.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "The petrol had nearly all been used up.",
+      "expanded": "The petrol had nearly all been used up.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "petrol",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "nearly",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "used",
+          "role": ""
+        },
+        {
+          "text": "up.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+      "expanded": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Before",
+          "role": ""
+        },
+        {
+          "text": "long,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "noise",
+          "role": ""
+        },
+        {
+          "text": "dropped",
+          "role": ""
+        },
+        {
+          "text": "completely",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "drift",
+          "role": ""
+        },
+        {
+          "text": "gently",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "water.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

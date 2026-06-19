@@ -1,0 +1,691 @@
+{
+  "book": 2,
+  "lesson": 28,
+  "title": "No parking!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Jasper White is one of those rare people who believes in ancient myths.",
+      "expanded": "Jasper White is one of those rare people who believes in ancient myths.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jasper",
+          "role": ""
+        },
+        {
+          "text": "White",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "those",
+          "role": ""
+        },
+        {
+          "text": "rare",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "believes",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "ancient",
+          "role": ""
+        },
+        {
+          "text": "myths.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "he has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+      "expanded": "he has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "city,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "since",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "moved",
+          "role": ""
+        },
+        {
+          "text": "in,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "trouble",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "owners.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+      "expanded": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "returns",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "night,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "finds",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "someone",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "parked",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "gate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Because of this, he has not been able to get his own car into his garage even once.",
+      "expanded": "Because of this, he has not been able to get his own car into his garage even once.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Because",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "this,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "own",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "garage",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "once.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+      "expanded": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jasper",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "'No",
+          "role": ""
+        },
+        {
+          "text": "Parking'",
+          "role": ""
+        },
+        {
+          "text": "signs",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "gate,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "effect.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Now he has put an ugly stone head over the gate.",
+      "expanded": "Now he has put an ugly stone head over the gate.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "ugly",
+          "role": ""
+        },
+        {
+          "text": "stone",
+          "role": ""
+        },
+        {
+          "text": "head",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "gate.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "It is one of the ugliest faces I have ever seen.",
+      "expanded": "It is one of the ugliest faces I have ever seen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ugliest",
+          "role": ""
+        },
+        {
+          "text": "faces",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "seen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "expanded": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "Medusa,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Gorgon.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "jasper hopes that she will turn cars and their owners to stone.",
+      "expanded": "jasper hopes that she will turn cars and their owners to stone.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "jasper",
+          "role": ""
+        },
+        {
+          "text": "hopes",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "turn",
+          "role": ""
+        },
+        {
+          "text": "cars",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "owners",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stone.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "But none of them has been turned to stone yet!",
+      "expanded": "But none of them has been turned to stone yet!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "none",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "stone",
+          "role": ""
+        },
+        {
+          "text": "yet!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

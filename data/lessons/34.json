@@ -1,0 +1,615 @@
+{
+  "book": 2,
+  "lesson": 34,
+  "title": "Quick work",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Dan Robinson has been worried all week.",
+      "expanded": "Dan Robinson has been worried all week.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dan",
+          "role": ""
+        },
+        {
+          "text": "Robinson",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "worried",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "week.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Last Tuesday he received a letter from the local police.",
+      "expanded": "Last Tuesday he received a letter from the local police.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "Tuesday",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "received",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "local",
+          "role": ""
+        },
+        {
+          "text": "police.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "In the letter he was asked to call at the station.",
+      "expanded": "In the letter he was asked to call at the station.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "letter",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "call",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.",
+      "expanded": "Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dan",
+          "role": ""
+        },
+        {
+          "text": "wondered",
+          "role": ""
+        },
+        {
+          "text": "why",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "police,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station",
+          "role": ""
+        },
+        {
+          "text": "yesterday",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "worried",
+          "role": ""
+        },
+        {
+          "text": "anymore.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "expanded": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "station,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "smiling",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "bicycle",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "found.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.",
+      "expanded": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Five",
+          "role": ""
+        },
+        {
+          "text": "days",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bicycle",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "picked",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "small",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "hundred",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "It is now being sent to his home by train.",
+      "expanded": "It is now being sent to his home by train.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "train.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Dan was most surprised when he heard the news.",
+      "expanded": "Dan was most surprised when he heard the news.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Dan",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "surprised",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "news.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "He was amused too, because he never expected the bicycle to be found.",
+      "expanded": "He was amused too, because he never expected the bicycle to be found.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "amused",
+          "role": ""
+        },
+        {
+          "text": "too,",
+          "role": ""
+        },
+        {
+          "text": "because",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "expected",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bicycle",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "found.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "It was stolen twenty years ago when Dan was a boy of fifteen!",
+      "expanded": "It was stolen twenty years ago when Dan was a boy of fifteen!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "stolen",
+          "role": ""
+        },
+        {
+          "text": "twenty",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "ago",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "Dan",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boy",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "fifteen!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

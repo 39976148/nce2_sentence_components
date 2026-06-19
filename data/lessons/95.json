@@ -1,0 +1,867 @@
+{
+  "book": 2,
+  "lesson": 95,
+  "title": "A fantasy",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "When the Ambassador or Escalopia returned home for lunch, his wife got a shock.",
+      "expanded": "When the Ambassador or Escalopia returned home for lunch, his wife got a shock.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Ambassador",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "Escalopia",
+          "role": ""
+        },
+        {
+          "text": "returned",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "lunch,",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "shock.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He looked pale and his clothes were in a frightful state.",
+      "expanded": "He looked pale and his clothes were in a frightful state.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "looked",
+          "role": ""
+        },
+        {
+          "text": "pale",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "clothes",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "frightful",
+          "role": ""
+        },
+        {
+          "text": "state.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "'What has happened?' she asked.",
+      "expanded": "'What has happened?' she asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'What",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "happened?'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'How did your clothes get into such a mess?' 'A fire extinguisher, my dear,' answered the Ambassador drily.",
+      "expanded": "'How did your clothes get into such a mess?' 'A fire extinguisher, my dear,' answered the Ambassador drily.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'How",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "clothes",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "such",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mess?'",
+          "role": ""
+        },
+        {
+          "text": "'A",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "extinguisher,",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "dear,'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Ambassador",
+          "role": ""
+        },
+        {
+          "text": "drily.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "'University students set the Embassy on fire this morning.' 'Good heavens!' exclaimed his wife.",
+      "expanded": "'University students set the Embassy on fire this morning.' 'Good heavens!' exclaimed his wife.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'University",
+          "role": ""
+        },
+        {
+          "text": "students",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Embassy",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "morning.'",
+          "role": ""
+        },
+        {
+          "text": "'Good",
+          "role": ""
+        },
+        {
+          "text": "heavens!'",
+          "role": ""
+        },
+        {
+          "text": "exclaimed",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "wife.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'And where were you at the time?' 'I was in my office as usual,' answered the Ambassador.",
+      "expanded": "'And where were you at the time?' 'I was in my office as usual,' answered the Ambassador.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'And",
+          "role": ""
+        },
+        {
+          "text": "where",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time?'",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "office",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "usual,'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Ambassador.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "'The fire broke out in the basement.",
+      "expanded": "'The fire broke out in the basement.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "basement.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me.",
+      "expanded": "I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "immediately,",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "course,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "fool,",
+          "role": ""
+        },
+        {
+          "text": "Horst,",
+          "role": ""
+        },
+        {
+          "text": "aimed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "extinguisher",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "He thought I was on fire.",
+      "expanded": "He thought I was on fire.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "thought",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "fire.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "I must definitely get that fellow posted.' The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.",
+      "expanded": "I must definitely get that fellow posted.' The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "definitely",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "fellow",
+          "role": ""
+        },
+        {
+          "text": "posted.'",
+          "role": ""
+        },
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "Ambassador's",
+          "role": ""
+        },
+        {
+          "text": "wife",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "asking",
+          "role": ""
+        },
+        {
+          "text": "questions,",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "hole",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "husband's",
+          "role": ""
+        },
+        {
+          "text": "hat.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'And how can you explain that?' she asked.",
+      "expanded": "'And how can you explain that?' she asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'And",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "explain",
+          "role": ""
+        },
+        {
+          "text": "that?'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "'Oh, that,' said the Ambassador.",
+      "expanded": "'Oh, that,' said the Ambassador.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Oh,",
+          "role": ""
+        },
+        {
+          "text": "that,'",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Ambassador.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "'Someone fired a shot through my office window.",
+      "expanded": "'Someone fired a shot through my office window.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Someone",
+          "role": ""
+        },
+        {
+          "text": "fired",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "shot",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "office",
+          "role": ""
+        },
+        {
+          "text": "window.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "original": "Accurate, don't you think?",
+      "expanded": "Accurate, do not you think?",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "Accurate,",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "think?",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "original": "Fortunately, I wasn't wearing it at the time.",
+      "expanded": "Fortunately, I was not wearing it at the time.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "Fortunately,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "wearing",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "original": "If I had been, I would not have been able to get home for lunch.'",
+      "expanded": "If I had been, I would not have been able to get home for lunch.'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "lunch.'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

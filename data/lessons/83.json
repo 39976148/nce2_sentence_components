@@ -1,0 +1,811 @@
+{
+  "book": 2,
+  "lesson": 83,
+  "title": "After the elections",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
+      "expanded": "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "former",
+          "role": ""
+        },
+        {
+          "text": "Prime",
+          "role": ""
+        },
+        {
+          "text": "Minister,",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Wentworth",
+          "role": ""
+        },
+        {
+          "text": "Lane,",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "defeated",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "recent",
+          "role": ""
+        },
+        {
+          "text": "elections.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He is now retiring from political life and has gone abroad.",
+      "expanded": "He is now retiring from political life and has gone abroad.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "retiring",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "political",
+          "role": ""
+        },
+        {
+          "text": "life",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "abroad.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
+      "expanded": "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "friend,",
+          "role": ""
+        },
+        {
+          "text": "Patrick,",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "fanatical",
+          "role": ""
+        },
+        {
+          "text": "opponent",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Lane's",
+          "role": ""
+        },
+        {
+          "text": "Radical",
+          "role": ""
+        },
+        {
+          "text": "Progressive",
+          "role": ""
+        },
+        {
+          "text": "Party.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "After the elections, Patrick went to the former Prime Minister's house.",
+      "expanded": "After the elections, Patrick went to the former Prime Minister's house.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "elections,",
+          "role": ""
+        },
+        {
+          "text": "Patrick",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "former",
+          "role": ""
+        },
+        {
+          "text": "Prime",
+          "role": ""
+        },
+        {
+          "text": "Minister's",
+          "role": ""
+        },
+        {
+          "text": "house.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
+      "expanded": "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Lane",
+          "role": ""
+        },
+        {
+          "text": "lived",
+          "role": ""
+        },
+        {
+          "text": "there,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "duty",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "since",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "defeat,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ex-Prime",
+          "role": ""
+        },
+        {
+          "text": "Minister",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "abroad.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "On the following day, Patrick went to the house again.",
+      "expanded": "On the following day, Patrick went to the house again.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "following",
+          "role": ""
+        },
+        {
+          "text": "day,",
+          "role": ""
+        },
+        {
+          "text": "Patrick",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The same policeman was just walking slowly past the entrance, when Patrick asked the same question.",
+      "expanded": "The same policeman was just walking slowly past the entrance, when Patrick asked the same question.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "walking",
+          "role": ""
+        },
+        {
+          "text": "slowly",
+          "role": ""
+        },
+        {
+          "text": "past",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "entrance,",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "Patrick",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "question.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Though a little suspicious this time, the policeman gave him the same answer.",
+      "expanded": "Though a little suspicious this time, the policeman gave him the same answer.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "suspicious",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "answer.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The day after, Patrick went to the house once more and asked exactly the same question.",
+      "expanded": "The day after, Patrick went to the house once more and asked exactly the same question.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "after,",
+          "role": ""
+        },
+        {
+          "text": "Patrick",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "house",
+          "role": ""
+        },
+        {
+          "text": "once",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "exactly",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "question.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "This time, the policeman lost his temper.",
+      "expanded": "This time, the policeman lost his temper.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "lost",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "temper.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'I told you yesterday and the day before yesterday,' he shouted, 'Mr. Lane was defeated in the elections.",
+      "expanded": "'I told you yesterday and the day before yesterday,' he shouted, 'Mr. Lane was defeated in the elections.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "yesterday",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "yesterday,'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "shouted,",
+          "role": ""
+        },
+        {
+          "text": "'Mr.",
+          "role": ""
+        },
+        {
+          "text": "Lane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "defeated",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "elections.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "He has retired from political life and gone to live abroad!\" 'I know,' answered Patrick, 'but I love to hear you say it!'",
+      "expanded": "He has retired from political life and gone to live abroad!\" 'I know,' answered Patrick, 'but I love to hear you say it!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "retired",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "political",
+          "role": ""
+        },
+        {
+          "text": "life",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "gone",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "live",
+          "role": ""
+        },
+        {
+          "text": "abroad!\"",
+          "role": ""
+        },
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "know,'",
+          "role": ""
+        },
+        {
+          "text": "answered",
+          "role": ""
+        },
+        {
+          "text": "Patrick,",
+          "role": ""
+        },
+        {
+          "text": "'but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "love",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "hear",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "say",
+          "role": ""
+        },
+        {
+          "text": "it!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

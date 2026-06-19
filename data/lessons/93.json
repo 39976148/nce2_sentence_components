@@ -1,0 +1,807 @@
+{
+  "book": 2,
+  "lesson": 93,
+  "title": "A noble gift",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France.",
+      "expanded": "One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "One",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "famous",
+          "role": ""
+        },
+        {
+          "text": "monuments",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Statue",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Liberty,",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "presented",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "United",
+          "role": ""
+        },
+        {
+          "text": "States",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "America",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "nineteenth",
+          "role": ""
+        },
+        {
+          "text": "century",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "France.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+      "expanded": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "statue,",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "designed",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "sculptor",
+          "role": ""
+        },
+        {
+          "text": "Auguste",
+          "role": ""
+        },
+        {
+          "text": "Bartholdi,",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "ten",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "complete.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
+      "expanded": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "actual",
+          "role": ""
+        },
+        {
+          "text": "figure",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "copper",
+          "role": ""
+        },
+        {
+          "text": "supported",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "metal",
+          "role": ""
+        },
+        {
+          "text": "framework",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "especially",
+          "role": ""
+        },
+        {
+          "text": "constructed",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "Eiffel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built.",
+      "expanded": "Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Before",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "transported",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "United",
+          "role": ""
+        },
+        {
+          "text": "States,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "site",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pedestal",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "built.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The site chosen was an island at the entrance of New York Harbour.",
+      "expanded": "The site chosen was an island at the entrance of New York Harbour.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "site",
+          "role": ""
+        },
+        {
+          "text": "chosen",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "island",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "entrance",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "New",
+          "role": ""
+        },
+        {
+          "text": "York",
+          "role": ""
+        },
+        {
+          "text": "Harbour.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+      "expanded": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "1884,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "statue",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "151",
+          "role": ""
+        },
+        {
+          "text": "feet",
+          "role": ""
+        },
+        {
+          "text": "tall",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "erected",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Paris.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The following year, it was taken to pieces and sent to America.",
+      "expanded": "The following year, it was taken to pieces and sent to America.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "following",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pieces",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "America.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi.",
+      "expanded": "By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "end",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "October",
+          "role": ""
+        },
+        {
+          "text": "1886,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "statue",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "together",
+          "role": ""
+        },
+        {
+          "text": "again",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "officially",
+          "role": ""
+        },
+        {
+          "text": "presented",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "American",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "Bartholdi.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.",
+      "expanded": "Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Ever",
+          "role": ""
+        },
+        {
+          "text": "since",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "monument",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "symbol",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "liberty",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "millions",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "passed",
+          "role": ""
+        },
+        {
+          "text": "through",
+          "role": ""
+        },
+        {
+          "text": "New",
+          "role": ""
+        },
+        {
+          "text": "York",
+          "role": ""
+        },
+        {
+          "text": "Harbour",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "homes",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "America.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

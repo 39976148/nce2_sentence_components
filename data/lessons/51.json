@@ -1,0 +1,755 @@
+{
+  "book": 2,
+  "lesson": 51,
+  "title": "Reward for virtue",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "expanded": "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "friend,",
+          "role": ""
+        },
+        {
+          "text": "Hugh,",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "fat,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "bad",
+          "role": ""
+        },
+        {
+          "text": "recently",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "decided",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "diet.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He began his diet a week ago.",
+      "expanded": "He began his diet a week ago.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "diet",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "week",
+          "role": ""
+        },
+        {
+          "text": "ago.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "expanded": "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "First",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "all,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "wrote",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "list",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "foods",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "forbidden.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate; and sweets.",
+      "expanded": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate; and sweets.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "list",
+          "role": ""
+        },
+        {
+          "text": "included",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "things",
+          "role": ""
+        },
+        {
+          "text": "Hugh",
+          "role": ""
+        },
+        {
+          "text": "loves:",
+          "role": ""
+        },
+        {
+          "text": "butter,",
+          "role": ""
+        },
+        {
+          "text": "potatoes,",
+          "role": ""
+        },
+        {
+          "text": "rice,",
+          "role": ""
+        },
+        {
+          "text": "beer,",
+          "role": ""
+        },
+        {
+          "text": "milk,",
+          "role": ""
+        },
+        {
+          "text": "chocolate;",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sweets.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Yesterday I paid him a visit.",
+      "expanded": "Yesterday I paid him a visit.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Yesterday",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "paid",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "visit.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "expanded": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "rang",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bell",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "surprised",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "Hugh",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "fat",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "ever.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "expanded": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "led",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "room",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "hurriedly",
+          "role": ""
+        },
+        {
+          "text": "hid",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "desk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "It was obvious that he was very embarrassed.",
+      "expanded": "It was obvious that he was very embarrassed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "obvious",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "embarrassed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "expanded": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "doing,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "smiled",
+          "role": ""
+        },
+        {
+          "text": "guiltily",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "parcel",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "desk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "expanded": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "explained",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "diet",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "strict",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "reward",
+          "role": ""
+        },
+        {
+          "text": "himself",
+          "role": ""
+        },
+        {
+          "text": "occasionally.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "Then he showed me the contents of the parcel.",
+      "expanded": "Then he showed me the contents of the parcel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "showed",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "contents",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "parcel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "It contained five large bars of chocolate and three bags of sweets!",
+      "expanded": "It contained five large bars of chocolate and three bags of sweets!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "contained",
+          "role": ""
+        },
+        {
+          "text": "five",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "bars",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "chocolate",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "bags",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "sweets!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

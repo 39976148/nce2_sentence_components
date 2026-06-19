@@ -1,0 +1,823 @@
+{
+  "book": 2,
+  "lesson": 73,
+  "title": "The record-holder",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Children who play truant from school are unimaginative.",
+      "expanded": "Children who play truant from school are unimaginative.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Children",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "truant",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "school",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "unimaginative.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
+      "expanded": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "quiet",
+          "role": ""
+        },
+        {
+          "text": "day's",
+          "role": ""
+        },
+        {
+          "text": "fishing,",
+          "role": ""
+        },
+        {
+          "text": "or",
+          "role": ""
+        },
+        {
+          "text": "eight",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cinema",
+          "role": ""
+        },
+        {
+          "text": "seeing",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "film",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "again,",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "usually",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "far",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "get.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles.",
+      "expanded": "They have all been put to shame by a boy who, while playing truant, travelled 1,600 miles.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "shame",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boy",
+          "role": ""
+        },
+        {
+          "text": "who,",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "playing",
+          "role": ""
+        },
+        {
+          "text": "truant,",
+          "role": ""
+        },
+        {
+          "text": "travelled",
+          "role": ""
+        },
+        {
+          "text": "1,600",
+          "role": ""
+        },
+        {
+          "text": "miles.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He hitchhiked to Dover and, towards evening, went into a boat to find somewhere to sleep.",
+      "expanded": "He hitchhiked to Dover and, towards evening, went into a boat to find somewhere to sleep.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "hitchhiked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Dover",
+          "role": ""
+        },
+        {
+          "text": "and,",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "evening,",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "find",
+          "role": ""
+        },
+        {
+          "text": "somewhere",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sleep.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.",
+      "expanded": "When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "woke",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "morning,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "discovered",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "had,",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "meantime,",
+          "role": ""
+        },
+        {
+          "text": "travelled",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Calais.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "No one noticed the boy as he crept off.",
+      "expanded": "No one noticed the boy as he crept off.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "No",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boy",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "crept",
+          "role": ""
+        },
+        {
+          "text": "off.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "From there, he hitchhiked to Paris in a lorry.",
+      "expanded": "From there, he hitchhiked to Paris in a lorry.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "From",
+          "role": ""
+        },
+        {
+          "text": "there,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "hitchhiked",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Paris",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lorry.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
+      "expanded": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "driver",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "biscuits",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "cup",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "coffee",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "left",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "city.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border.",
+      "expanded": "The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boy",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "centre",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Paris",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "hoped",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "would,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Perpignan",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "French-Spanish",
+          "role": ""
+        },
+        {
+          "text": "border.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "There he was picked up by a policeman and sent back to England by the local authorities.",
+      "expanded": "There he was picked up by a policeman and sent back to England by the local authorities.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "There",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "picked",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "policeman",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "England",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "local",
+          "role": ""
+        },
+        {
+          "text": "authorities.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "He has surely set up a record for the thousands of children who dream of evading school.",
+      "expanded": "He has surely set up a record for the thousands of children who dream of evading school.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "surely",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "record",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "thousands",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "who",
+          "role": ""
+        },
+        {
+          "text": "dream",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "evading",
+          "role": ""
+        },
+        {
+          "text": "school.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "book": 2,
+  "lesson": 17,
+  "title": "Always young",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "My aunt Jennifer is an actress.",
+      "expanded": "My aunt Jennifer is an actress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "aunt",
+          "role": ""
+        },
+        {
+          "text": "Jennifer",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "actress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "She must be at least thirty-five years old.",
+      "expanded": "She must be at least thirty-five years old.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "least",
+          "role": ""
+        },
+        {
+          "text": "thirty-five",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "old.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "In spite of this, she often appears on the stage as a young girl.",
+      "expanded": "In spite of this, she often appears on the stage as a young girl.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "spite",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "this,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "appears",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "stage",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "girl.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Jennifer will have to take part in a new play soon.",
+      "expanded": "Jennifer will have to take part in a new play soon.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Jennifer",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "part",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "soon.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "This time, she will be a girl of seventeen.",
+      "expanded": "This time, she will be a girl of seventeen.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "seventeen.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "In the play, she must appear in a bright red dress and long black stockings.",
+      "expanded": "In the play, she must appear in a bright red dress and long black stockings.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "play,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "appear",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bright",
+          "role": ""
+        },
+        {
+          "text": "red",
+          "role": ""
+        },
+        {
+          "text": "dress",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "black",
+          "role": ""
+        },
+        {
+          "text": "stockings.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.",
+      "expanded": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "play,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "wear",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "socks",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bright,",
+          "role": ""
+        },
+        {
+          "text": "orange-coloured",
+          "role": ""
+        },
+        {
+          "text": "dress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'",
+      "expanded": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If",
+          "role": ""
+        },
+        {
+          "text": "anyone",
+          "role": ""
+        },
+        {
+          "text": "ever",
+          "role": ""
+        },
+        {
+          "text": "asks",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "is,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "answers,",
+          "role": ""
+        },
+        {
+          "text": "'Darling,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "terrible",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "grown",
+          "role": ""
+        },
+        {
+          "text": "up!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

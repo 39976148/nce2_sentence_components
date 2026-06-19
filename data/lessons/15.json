@@ -1,0 +1,471 @@
+{
+  "book": 2,
+  "lesson": 15,
+  "title": "Good news",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "The secretary told me that Mr. Harmsworth would see me.",
+      "expanded": "The secretary told me that Mr. Harmsworth would see me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "secretary",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "Mr.",
+          "role": ""
+        },
+        {
+          "text": "Harmsworth",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "see",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I felt very nervous when I went into his office.",
+      "expanded": "I felt very nervous when I went into his office.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "nervous",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "office.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He did not look up from his desk when I entered.",
+      "expanded": "He did not look up from his desk when I entered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "look",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "desk",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "entered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "After I had sat down, he said that business was very bad.",
+      "expanded": "After I had sat down, he said that business was very bad.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "down,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "business",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "bad.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He told me that the firm could not afford to pay such large salaries.",
+      "expanded": "He told me that the firm could not afford to pay such large salaries.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "firm",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "afford",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "such",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "salaries.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Twenty people had already left.",
+      "expanded": "Twenty people had already left.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Twenty",
+          "role": ""
+        },
+        {
+          "text": "people",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "already",
+          "role": ""
+        },
+        {
+          "text": "left.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "I knew that my turn had come.",
+      "expanded": "I knew that my turn had come.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "turn",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "come.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'Mr.Harmsworth,' I said in a weak voice.",
+      "expanded": "'Mr.Harmsworth,' I said in a weak voice.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Mr.Harmsworth,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "weak",
+          "role": ""
+        },
+        {
+          "text": "voice.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'Don't interrupt,' he said.",
+      "expanded": "'Do not interrupt,' he said.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'Do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "interrupt,'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Then he smiled and told me I would receive an extra thousand pounds a year!",
+      "expanded": "Then he smiled and told me I would receive an extra thousand pounds a year!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "smiled",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "receive",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "extra",
+          "role": ""
+        },
+        {
+          "text": "thousand",
+          "role": ""
+        },
+        {
+          "text": "pounds",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "year!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "book": 2,
+  "lesson": 20,
+  "title": "One man in a boat",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Fishing is my favourite sport.",
+      "expanded": "Fishing is my favourite sport.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fishing",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "favourite",
+          "role": ""
+        },
+        {
+          "text": "sport.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I often fish for hours without catching anything.",
+      "expanded": "I often fish for hours without catching anything.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "fish",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "hours",
+          "role": ""
+        },
+        {
+          "text": "without",
+          "role": ""
+        },
+        {
+          "text": "catching",
+          "role": ""
+        },
+        {
+          "text": "anything.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "But this does not worry me.",
+      "expanded": "But this does not worry me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "does",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "worry",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Some fishermen are unlucky.",
+      "expanded": "Some fishermen are unlucky.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Some",
+          "role": ""
+        },
+        {
+          "text": "fishermen",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "unlucky.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Instead of catching fish, they catch old boots and rubbish.",
+      "expanded": "Instead of catching fish, they catch old boots and rubbish.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Instead",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "catching",
+          "role": ""
+        },
+        {
+          "text": "fish,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "catch",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "boots",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "rubbish.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I am even less lucky.",
+      "expanded": "I am even less lucky.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "less",
+          "role": ""
+        },
+        {
+          "text": "lucky.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "I never catch anything -- not even old boots.",
+      "expanded": "I never catch anything -- not even old boots.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "catch",
+          "role": ""
+        },
+        {
+          "text": "anything",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "old",
+          "role": ""
+        },
+        {
+          "text": "boots.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "expanded": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "having",
+          "role": ""
+        },
+        {
+          "text": "spent",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "mornings",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "river,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "go",
+          "role": ""
+        },
+        {
+          "text": "home",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "empty",
+          "role": ""
+        },
+        {
+          "text": "bag.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'You must give up fishing!' my friends say.",
+      "expanded": "'You must give up fishing!' my friends say.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'You",
+          "role": ""
+        },
+        {
+          "text": "must",
+          "role": ""
+        },
+        {
+          "text": "give",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "fishing!'",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "say.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "'It's a waste of time.' But they don't realize one important thing.",
+      "expanded": "'it is a waste of time.' But they do not realize one important thing.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "waste",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "time.'",
+          "role": ""
+        },
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "realize",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "important",
+          "role": ""
+        },
+        {
+          "text": "thing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "I'm not really interested in fishing.",
+      "expanded": "I am not really interested in fishing.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "really",
+          "role": ""
+        },
+        {
+          "text": "interested",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "fishing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "I am only interested in sitting in a boat and doing nothing at all!",
+      "expanded": "I am only interested in sitting in a boat and doing nothing at all!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "am",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "interested",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "sitting",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "boat",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "doing",
+          "role": ""
+        },
+        {
+          "text": "nothing",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "all!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

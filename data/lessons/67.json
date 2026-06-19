@@ -1,0 +1,747 @@
+{
+  "book": 2,
+  "lesson": 67,
+  "title": "Volcanoes",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+      "expanded": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Haroun",
+          "role": ""
+        },
+        {
+          "text": "Tazieff,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Polish",
+          "role": ""
+        },
+        {
+          "text": "scientist,",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "spent",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "lifetime",
+          "role": ""
+        },
+        {
+          "text": "studying",
+          "role": ""
+        },
+        {
+          "text": "active",
+          "role": ""
+        },
+        {
+          "text": "volcanoes",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "deep",
+          "role": ""
+        },
+        {
+          "text": "caves",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "world.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+      "expanded": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "1948,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Lake",
+          "role": ""
+        },
+        {
+          "text": "Kivu",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Congo",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "observe",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "volcano",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "named",
+          "role": ""
+        },
+        {
+          "text": "Kituro.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+      "expanded": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tazieff",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "set",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "camp",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "close",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "volcano",
+          "role": ""
+        },
+        {
+          "text": "while",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "erupting",
+          "role": ""
+        },
+        {
+          "text": "violently.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+      "expanded": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Though",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "managed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "brilliant",
+          "role": ""
+        },
+        {
+          "text": "photographs,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "stay",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "volcano",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "long.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He noticed that a river of liquid rock was coming towards him.",
+      "expanded": "He noticed that a river of liquid rock was coming towards him.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "noticed",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "river",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "liquid",
+          "role": ""
+        },
+        {
+          "text": "rock",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+      "expanded": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "threatened",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "surround",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "completely,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "Tazieff",
+          "role": ""
+        },
+        {
+          "text": "managed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "escape",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "He waited until the volcano became quiet and he was able to return two days later.",
+      "expanded": "He waited until the volcano became quiet and he was able to return two days later.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "waited",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "volcano",
+          "role": ""
+        },
+        {
+          "text": "became",
+          "role": ""
+        },
+        {
+          "text": "quiet",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "return",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "days",
+          "role": ""
+        },
+        {
+          "text": "later.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+      "expanded": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "managed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "climb",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mouth",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Kituro",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "take",
+          "role": ""
+        },
+        {
+          "text": "photographs",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "measure",
+          "role": ""
+        },
+        {
+          "text": "temperatures.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Tazieff has often risked his life in this way.",
+      "expanded": "Tazieff has often risked his life in this way.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tazieff",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "often",
+          "role": ""
+        },
+        {
+          "text": "risked",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "life",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "way.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "He has been able to tell us more about active volcanoes than any man alive.",
+      "expanded": "He has been able to tell us more about active volcanoes than any man alive.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "able",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "tell",
+          "role": ""
+        },
+        {
+          "text": "us",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "active",
+          "role": ""
+        },
+        {
+          "text": "volcanoes",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "alive.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

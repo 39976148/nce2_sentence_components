@@ -1,0 +1,495 @@
+{
+  "book": 2,
+  "lesson": 24,
+  "title": "It could be worse",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I entered the hotel manager's office and sat down.",
+      "expanded": "I entered the hotel manager's office and sat down.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "entered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hotel",
+          "role": ""
+        },
+        {
+          "text": "manager's",
+          "role": ""
+        },
+        {
+          "text": "office",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "down.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "I had just lost $50 and I felt very upset.",
+      "expanded": "I had just lost $50 and I felt very upset.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "lost",
+          "role": ""
+        },
+        {
+          "text": "$50",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "upset.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "'I left the money in my room,' I said, 'and it's not there now.' The manager was sympathetic, but he could do nothing.",
+      "expanded": "'I left the money in my room,' I said, 'and it is not there now.' The manager was sympathetic, but he could do nothing.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "left",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "room,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "now.'",
+          "role": ""
+        },
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "manager",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "sympathetic,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "nothing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "'Everyone's losing money these days,' he said.",
+      "expanded": "'Everyone's losing money these days,' he said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Everyone's",
+          "role": ""
+        },
+        {
+          "text": "losing",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "these",
+          "role": ""
+        },
+        {
+          "text": "days,'",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "expanded": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "started",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "complain",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "wicked",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "interrupted",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "knock",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "door.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "A girl came in and put an envelope on his desk.",
+      "expanded": "A girl came in and put an envelope on his desk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "girl",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "envelope",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "desk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "It contained $50.",
+      "expanded": "It contained $50.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "contained",
+          "role": ""
+        },
+        {
+          "text": "$50.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'I found this outside this gentleman's room,' she said.",
+      "expanded": "'I found this outside this gentleman's room,' she said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "outside",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "gentleman's",
+          "role": ""
+        },
+        {
+          "text": "room,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'Well,' I said to the manager, 'there is still some honesty in this world!'",
+      "expanded": "'Well,' I said to the manager, 'there is still some honesty in this world!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Well,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "manager,",
+          "role": ""
+        },
+        {
+          "text": "'there",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "honesty",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "world!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

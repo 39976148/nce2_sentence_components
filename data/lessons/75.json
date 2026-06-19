@@ -1,0 +1,827 @@
+{
+  "book": 2,
+  "lesson": 75,
+  "title": "SOS",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
+      "expanded": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "light",
+          "role": ""
+        },
+        {
+          "text": "passenger",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "flew",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "course",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "crashed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mountains",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "killed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The only passengers, a young woman and her two baby daughters, were unhurt.",
+      "expanded": "The only passengers, a young woman and her two baby daughters, were unhurt.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "passengers,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "baby",
+          "role": ""
+        },
+        {
+          "text": "daughters,",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "unhurt.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "It was the middle of winter.",
+      "expanded": "It was the middle of winter.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "middle",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "winter.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Snow lay thick on the ground.",
+      "expanded": "Snow lay thick on the ground.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Snow",
+          "role": ""
+        },
+        {
+          "text": "lay",
+          "role": ""
+        },
+        {
+          "text": "thick",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The woman knew that the nearest village was miles away.",
+      "expanded": "The woman knew that the nearest village was miles away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "knew",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "nearest",
+          "role": ""
+        },
+        {
+          "text": "village",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.",
+      "expanded": "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "grew",
+          "role": ""
+        },
+        {
+          "text": "dark,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "suitcase",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "inside",
+          "role": ""
+        },
+        {
+          "text": "it,",
+          "role": ""
+        },
+        {
+          "text": "covering",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "clothes",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "find.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "During the night, it got terribly cold.",
+      "expanded": "During the night, it got terribly cold.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "During",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "night,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "terribly",
+          "role": ""
+        },
+        {
+          "text": "cold.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+      "expanded": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "woman",
+          "role": ""
+        },
+        {
+          "text": "kept",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "near",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "children",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "case",
+          "role": ""
+        },
+        {
+          "text": "herself,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "small.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Early next morning, she heard planes passing overhead and wondered how she could send a signal.",
+      "expanded": "Early next morning, she heard planes passing overhead and wondered how she could send a signal.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Early",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "morning,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "heard",
+          "role": ""
+        },
+        {
+          "text": "planes",
+          "role": ""
+        },
+        {
+          "text": "passing",
+          "role": ""
+        },
+        {
+          "text": "overhead",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "wondered",
+          "role": ""
+        },
+        {
+          "text": "how",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "send",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "signal.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "Then she had an idea.",
+      "expanded": "Then she had an idea.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "idea.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "She stamped out the letters 'SOS' in the snow.",
+      "expanded": "She stamped out the letters 'SOS' in the snow.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "stamped",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "letters",
+          "role": ""
+        },
+        {
+          "text": "'SOS'",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "snow.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+      "expanded": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Fortunately,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pilot",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "signal",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "message",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "radio",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "nearest",
+          "role": ""
+        },
+        {
+          "text": "town.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.",
+      "expanded": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "helicopter",
+          "role": ""
+        },
+        {
+          "text": "arrived",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "scene",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "rescue",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "survivors",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "crash.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

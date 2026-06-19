@@ -1,0 +1,483 @@
+{
+  "book": 2,
+  "lesson": 11,
+  "title": "One good turn deserves another",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "I was having dinner at a restaurant when Tony Steele came in.",
+      "expanded": "I was having dinner at a restaurant when Tony Steele came in.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "having",
+          "role": ""
+        },
+        {
+          "text": "dinner",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "restaurant",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "Tony",
+          "role": ""
+        },
+        {
+          "text": "Steele",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "in.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "expanded": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tony",
+          "role": ""
+        },
+        {
+          "text": "worked",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "lawyer's",
+          "role": ""
+        },
+        {
+          "text": "office",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "ago,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "working",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bank.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "expanded": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "gets",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "good",
+          "role": ""
+        },
+        {
+          "text": "salary,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "borrows",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "friends",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "pays",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "back.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Tony saw me and came and sat at the same table.",
+      "expanded": "Tony saw me and came and sat at the same table.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tony",
+          "role": ""
+        },
+        {
+          "text": "saw",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "same",
+          "role": ""
+        },
+        {
+          "text": "table.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He has never borrowed money from me.",
+      "expanded": "He has never borrowed money from me.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "borrowed",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "me.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "While he was eating, I asked him to lend me twenty pounds.",
+      "expanded": "While he was eating, I asked him to lend me twenty pounds.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "While",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "eating,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "lend",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "twenty",
+          "role": ""
+        },
+        {
+          "text": "pounds.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "To my surprise, he gave me the money immediately.",
+      "expanded": "To my surprise, he gave me the money immediately.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "To",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "surprise,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "gave",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "immediately.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'",
+      "expanded": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'I",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "never",
+          "role": ""
+        },
+        {
+          "text": "borrowed",
+          "role": ""
+        },
+        {
+          "text": "any",
+          "role": ""
+        },
+        {
+          "text": "money",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "you,'",
+          "role": ""
+        },
+        {
+          "text": "Tony",
+          "role": ""
+        },
+        {
+          "text": "said,",
+          "role": ""
+        },
+        {
+          "text": "'so",
+          "role": ""
+        },
+        {
+          "text": "now",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "can",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "dinner!'",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

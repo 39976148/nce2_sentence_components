@@ -1,0 +1,667 @@
+{
+  "book": 2,
+  "lesson": 46,
+  "title": "Expensive and uncomfortable",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "expanded": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "London",
+          "role": ""
+        },
+        {
+          "text": "arrived",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "Sydney",
+          "role": ""
+        },
+        {
+          "text": "airport,",
+          "role": ""
+        },
+        {
+          "text": "workers",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "unload",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "number",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "wooden",
+          "role": ""
+        },
+        {
+          "text": "boxes",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "contained",
+          "role": ""
+        },
+        {
+          "text": "clothing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "No one could account for the fact that one of the boxes was extremely heavy.",
+      "expanded": "No one could account for the fact that one of the boxes was extremely heavy.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "No",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "account",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fact",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boxes",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "extremely",
+          "role": ""
+        },
+        {
+          "text": "heavy.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "It suddenly occurred to one of the workers to open up the box.",
+      "expanded": "It suddenly occurred to one of the workers to open up the box.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "suddenly",
+          "role": ""
+        },
+        {
+          "text": "occurred",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "one",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "workers",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "open",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "box.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He was astonished at what he found.",
+      "expanded": "He was astonished at what he found.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "astonished",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "what",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "found.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A man was lying in the box on top of a pile of woolen goods.",
+      "expanded": "A man was lying in the box on top of a pile of woolen goods.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "lying",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "box",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "top",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pile",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "woolen",
+          "role": ""
+        },
+        {
+          "text": "goods.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "He was so surprised at being discovered that he did not even try to run away.",
+      "expanded": "He was so surprised at being discovered that he did not even try to run away.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "surprised",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "being",
+          "role": ""
+        },
+        {
+          "text": "discovered",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "try",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "run",
+          "role": ""
+        },
+        {
+          "text": "away.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "expanded": "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "arrested,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "admitted",
+          "role": ""
+        },
+        {
+          "text": "hiding",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "box",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "left",
+          "role": ""
+        },
+        {
+          "text": "London.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "expanded": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "uncomfortable",
+          "role": ""
+        },
+        {
+          "text": "trip,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "confined",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wooden",
+          "role": ""
+        },
+        {
+          "text": "box",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "eighteen",
+          "role": ""
+        },
+        {
+          "text": "hours.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The man was ordered to pay $3,500 for the cost of the trip.",
+      "expanded": "The man was ordered to pay $3,500 for the cost of the trip.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "ordered",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pay",
+          "role": ""
+        },
+        {
+          "text": "$3,500",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "cost",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "trip.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The normal price of a ticket is $2,000!",
+      "expanded": "The normal price of a ticket is $2,000!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "normal",
+          "role": ""
+        },
+        {
+          "text": "price",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "ticket",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "$2,000!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

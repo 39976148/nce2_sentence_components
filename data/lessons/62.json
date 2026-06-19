@@ -1,0 +1,723 @@
+{
+  "book": 2,
+  "lesson": 62,
+  "title": "After the fire",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Firemen had been fighting the forest for nearly three weeks before they could get it under control.",
+      "expanded": "Firemen had been fighting the forest for nearly three weeks before they could get it under control.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Firemen",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "fighting",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "forest",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "nearly",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "weeks",
+          "role": ""
+        },
+        {
+          "text": "before",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "get",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "control.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "A short time before, great trees had covered the countryside for miles around.",
+      "expanded": "A short time before, great trees had covered the countryside for miles around.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "before,",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "trees",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "covered",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "countryside",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "miles",
+          "role": ""
+        },
+        {
+          "text": "around.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Now, smoke still rose up from the warm ground over the desolate hills.",
+      "expanded": "Now, smoke still rose up from the warm ground over the desolate hills.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now,",
+          "role": ""
+        },
+        {
+          "text": "smoke",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "rose",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "from",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "warm",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "desolate",
+          "role": ""
+        },
+        {
+          "text": "hills.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "expanded": "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Winter",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hills",
+          "role": ""
+        },
+        {
+          "text": "threatened",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "surrounding",
+          "role": ""
+        },
+        {
+          "text": "villages",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "destruction,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "heavy",
+          "role": ""
+        },
+        {
+          "text": "rain",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "wash",
+          "role": ""
+        },
+        {
+          "text": "away",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "soil",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "cause",
+          "role": ""
+        },
+        {
+          "text": "serious",
+          "role": ""
+        },
+        {
+          "text": "floods",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "well.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
+      "expanded": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "out,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "forest",
+          "role": ""
+        },
+        {
+          "text": "authorities",
+          "role": ""
+        },
+        {
+          "text": "ordered",
+          "role": ""
+        },
+        {
+          "text": "several",
+          "role": ""
+        },
+        {
+          "text": "tons",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "special",
+          "role": ""
+        },
+        {
+          "text": "type",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "grass-seed",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "grow",
+          "role": ""
+        },
+        {
+          "text": "quickly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "expanded": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "seed",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "sprayed",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "huge",
+          "role": ""
+        },
+        {
+          "text": "quantities",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "aeroplanes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The planes had been planting seed for nearly a month when it began to rain.",
+      "expanded": "The planes had been planting seed for nearly a month when it began to rain.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "planes",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "planting",
+          "role": ""
+        },
+        {
+          "text": "seed",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "nearly",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "month",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "rain.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "By then, however, in many places the grass had already taken root.",
+      "expanded": "By then, however, in many places the grass had already taken root.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "then,",
+          "role": ""
+        },
+        {
+          "text": "however,",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "many",
+          "role": ""
+        },
+        {
+          "text": "places",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "grass",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "already",
+          "role": ""
+        },
+        {
+          "text": "taken",
+          "role": ""
+        },
+        {
+          "text": "root.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil.",
+      "expanded": "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "place",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "great",
+          "role": ""
+        },
+        {
+          "text": "trees",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "growing",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "centuries",
+          "role": ""
+        },
+        {
+          "text": "patches",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "green",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "begun",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "appear",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "blackened",
+          "role": ""
+        },
+        {
+          "text": "soil.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

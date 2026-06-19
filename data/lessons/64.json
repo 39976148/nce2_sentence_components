@@ -1,0 +1,727 @@
+{
+  "book": 2,
+  "lesson": 64,
+  "title": "The Channel Tunnel",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.",
+      "expanded": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "1858,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "French",
+          "role": ""
+        },
+        {
+          "text": "engineer,",
+          "role": ""
+        },
+        {
+          "text": "Aime",
+          "role": ""
+        },
+        {
+          "text": "Thome",
+          "role": ""
+        },
+        {
+          "text": "de",
+          "role": ""
+        },
+        {
+          "text": "Gamond,",
+          "role": ""
+        },
+        {
+          "text": "arrived",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "England",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "plan",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "twenty-one-mile",
+          "role": ""
+        },
+        {
+          "text": "tunnel",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "English",
+          "role": ""
+        },
+        {
+          "text": "Channel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "He said that it would be possible to build a platform in the centre of the Channel.",
+      "expanded": "He said that it would be possible to build a platform in the centre of the Channel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "said",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "possible",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "build",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "platform",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "centre",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Channel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "This platform would serve as a port and a railway station.",
+      "expanded": "This platform would serve as a port and a railway station.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "platform",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "serve",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "port",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "railway",
+          "role": ""
+        },
+        {
+          "text": "station.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "expanded": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "tunnel",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "well-ventilated",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "tall",
+          "role": ""
+        },
+        {
+          "text": "chimneys",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "built",
+          "role": ""
+        },
+        {
+          "text": "above",
+          "role": ""
+        },
+        {
+          "text": "sea",
+          "role": ""
+        },
+        {
+          "text": "level.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "expanded": "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "1860,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "better",
+          "role": ""
+        },
+        {
+          "text": "plan",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "forward",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "Englishman,",
+          "role": ""
+        },
+        {
+          "text": "William",
+          "role": ""
+        },
+        {
+          "text": "Low.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "He suggested that a double railway-tunnel should be built.",
+      "expanded": "He suggested that a double railway-tunnel should be built.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "suggested",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "double",
+          "role": ""
+        },
+        {
+          "text": "railway-tunnel",
+          "role": ""
+        },
+        {
+          "text": "should",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "built.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it.",
+      "expanded": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "This",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "solve",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "problem",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "ventilation,",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "if",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "train",
+          "role": ""
+        },
+        {
+          "text": "entered",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "tunnel,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "draw",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "fresh",
+          "role": ""
+        },
+        {
+          "text": "air",
+          "role": ""
+        },
+        {
+          "text": "behind",
+          "role": ""
+        },
+        {
+          "text": "it.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Forty-two years later a tunnel was actually begun.",
+      "expanded": "Forty-two years later a tunnel was actually begun.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Forty-two",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "tunnel",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "actually",
+          "role": ""
+        },
+        {
+          "text": "begun.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "If, at the time, the British had not feared invasion, it would have been completed.",
+      "expanded": "If, at the time, the British had not feared invasion, it would have been completed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "If,",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "British",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "feared",
+          "role": ""
+        },
+        {
+          "text": "invasion,",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "been",
+          "role": ""
+        },
+        {
+          "text": "completed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "The world had to wait almost another 100 years for the Channel Tunnel.",
+      "expanded": "The world had to wait almost another 100 years for the Channel Tunnel.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "world",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "wait",
+          "role": ""
+        },
+        {
+          "text": "almost",
+          "role": ""
+        },
+        {
+          "text": "another",
+          "role": ""
+        },
+        {
+          "text": "100",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "Channel",
+          "role": ""
+        },
+        {
+          "text": "Tunnel.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "It was officially opened on March 7,1994, finally connecting Britain to the European continent.",
+      "expanded": "It was officially opened on March 7,1994, finally connecting Britain to the European continent.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "officially",
+          "role": ""
+        },
+        {
+          "text": "opened",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "March",
+          "role": ""
+        },
+        {
+          "text": "7,1994,",
+          "role": ""
+        },
+        {
+          "text": "finally",
+          "role": ""
+        },
+        {
+          "text": "connecting",
+          "role": ""
+        },
+        {
+          "text": "Britain",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "European",
+          "role": ""
+        },
+        {
+          "text": "continent.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

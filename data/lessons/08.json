@@ -1,0 +1,451 @@
+{
+  "book": 2,
+  "lesson": 8,
+  "title": "The best and the worst",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Joe Sanders has the most beautiful garden in our town.",
+      "expanded": "Joe Sanders has the most beautiful garden in our town.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Joe",
+          "role": ""
+        },
+        {
+          "text": "Sanders",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "most",
+          "role": ""
+        },
+        {
+          "text": "beautiful",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "town.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
+      "expanded": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Nearly",
+          "role": ""
+        },
+        {
+          "text": "everybody",
+          "role": ""
+        },
+        {
+          "text": "enters",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "'The",
+          "role": ""
+        },
+        {
+          "text": "Nicest",
+          "role": ""
+        },
+        {
+          "text": "Garden",
+          "role": ""
+        },
+        {
+          "text": "Competition'",
+          "role": ""
+        },
+        {
+          "text": "each",
+          "role": ""
+        },
+        {
+          "text": "year,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "Joe",
+          "role": ""
+        },
+        {
+          "text": "wins",
+          "role": ""
+        },
+        {
+          "text": "every",
+          "role": ""
+        },
+        {
+          "text": "time.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Bill Frith's garden is larger than Joe's.",
+      "expanded": "Bill Frith's garden is larger than Joe's.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Bill",
+          "role": ""
+        },
+        {
+          "text": "Frith's",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "larger",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "Joe's.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.",
+      "expanded": "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Bill",
+          "role": ""
+        },
+        {
+          "text": "works",
+          "role": ""
+        },
+        {
+          "text": "harder",
+          "role": ""
+        },
+        {
+          "text": "than",
+          "role": ""
+        },
+        {
+          "text": "Joe",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "grows",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "flowers",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "vegetables,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "Joe's",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "interesting.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "He has made neat paths and has built a wooden bridge over a pool.",
+      "expanded": "He has made neat paths and has built a wooden bridge over a pool.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "neat",
+          "role": ""
+        },
+        {
+          "text": "paths",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "built",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "wooden",
+          "role": ""
+        },
+        {
+          "text": "bridge",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "pool.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I like gardens too, but I do not like hard work.",
+      "expanded": "I like gardens too, but I do not like hard work.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "gardens",
+          "role": ""
+        },
+        {
+          "text": "too,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "do",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "like",
+          "role": ""
+        },
+        {
+          "text": "hard",
+          "role": ""
+        },
+        {
+          "text": "work.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!",
+      "expanded": "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Every",
+          "role": ""
+        },
+        {
+          "text": "year",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "enter",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "competition",
+          "role": ""
+        },
+        {
+          "text": "too,",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "win",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "little",
+          "role": ""
+        },
+        {
+          "text": "prize",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "worst",
+          "role": ""
+        },
+        {
+          "text": "garden",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "town!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

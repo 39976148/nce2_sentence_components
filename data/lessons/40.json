@@ -1,0 +1,647 @@
+{
+  "book": 2,
+  "lesson": 40,
+  "title": "Food and talk",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
+      "expanded": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "week",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "dinner",
+          "role": ""
+        },
+        {
+          "text": "party,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "hostess",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sit",
+          "role": ""
+        },
+        {
+          "text": "next",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Rumbold.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
+      "expanded": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Mrs.",
+          "role": ""
+        },
+        {
+          "text": "Rumbold",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large,",
+          "role": ""
+        },
+        {
+          "text": "unsmiling",
+          "role": ""
+        },
+        {
+          "text": "lady",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "tight",
+          "role": ""
+        },
+        {
+          "text": "black",
+          "role": ""
+        },
+        {
+          "text": "dress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "She did not even look up when I took my seat beside her.",
+      "expanded": "She did not even look up when I took my seat beside her.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "She",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "even",
+          "role": ""
+        },
+        {
+          "text": "look",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "took",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "seat",
+          "role": ""
+        },
+        {
+          "text": "beside",
+          "role": ""
+        },
+        {
+          "text": "her.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "Her eyes were fixed on her plate and in a short time, she was busy eating.",
+      "expanded": "Her eyes were fixed on her plate and in a short time, she was busy eating.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Her",
+          "role": ""
+        },
+        {
+          "text": "eyes",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "fixed",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "plate",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "short",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "busy",
+          "role": ""
+        },
+        {
+          "text": "eating.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "I tried to make conversation.",
+      "expanded": "I tried to make conversation.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "tried",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "make",
+          "role": ""
+        },
+        {
+          "text": "conversation.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "'A new play is coming to \"The Globe\" soon,' I said.",
+      "expanded": "'A new play is coming to \"The Globe\" soon,' I said.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'A",
+          "role": ""
+        },
+        {
+          "text": "new",
+          "role": ""
+        },
+        {
+          "text": "play",
+          "role": ""
+        },
+        {
+          "text": "is",
+          "role": ""
+        },
+        {
+          "text": "coming",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "\"The",
+          "role": ""
+        },
+        {
+          "text": "Globe\"",
+          "role": ""
+        },
+        {
+          "text": "soon,'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "said.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "'Will you be seeing it?' 'No,' she answered.",
+      "expanded": "'Will you be seeing it?' 'No,' she answered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Will",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "seeing",
+          "role": ""
+        },
+        {
+          "text": "it?'",
+          "role": ""
+        },
+        {
+          "text": "'No,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "'Will you be spending your holidays abroad this year?' I asked.",
+      "expanded": "'Will you be spending your holidays abroad this year?' I asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Will",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "spending",
+          "role": ""
+        },
+        {
+          "text": "your",
+          "role": ""
+        },
+        {
+          "text": "holidays",
+          "role": ""
+        },
+        {
+          "text": "abroad",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "year?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "'No,' she answered.",
+      "expanded": "'No,' she answered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'No,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "'Will you be staying in England?' I asked.",
+      "expanded": "'Will you be staying in England?' I asked.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Will",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "be",
+          "role": ""
+        },
+        {
+          "text": "staying",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "England?'",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "'No,' she answered.",
+      "expanded": "'No,' she answered.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'No,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "answered.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "In despair, I asked her whether she was enjoying her dinner.",
+      "expanded": "In despair, I asked her whether she was enjoying her dinner.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "despair,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "asked",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "whether",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "enjoying",
+          "role": ""
+        },
+        {
+          "text": "her",
+          "role": ""
+        },
+        {
+          "text": "dinner.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!\"",
+      "expanded": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!\"",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "'Young",
+          "role": ""
+        },
+        {
+          "text": "man,'",
+          "role": ""
+        },
+        {
+          "text": "she",
+          "role": ""
+        },
+        {
+          "text": "answered,",
+          "role": ""
+        },
+        {
+          "text": "'if",
+          "role": ""
+        },
+        {
+          "text": "you",
+          "role": ""
+        },
+        {
+          "text": "ate",
+          "role": ""
+        },
+        {
+          "text": "more",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "talked",
+          "role": ""
+        },
+        {
+          "text": "less,",
+          "role": ""
+        },
+        {
+          "text": "we",
+          "role": ""
+        },
+        {
+          "text": "would",
+          "role": ""
+        },
+        {
+          "text": "both",
+          "role": ""
+        },
+        {
+          "text": "enjoy",
+          "role": ""
+        },
+        {
+          "text": "our",
+          "role": ""
+        },
+        {
+          "text": "dinner!\"",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

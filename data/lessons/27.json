@@ -1,0 +1,691 @@
+{
+  "book": 2,
+  "lesson": 27,
+  "title": "A wet night",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "expanded": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Late",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "afternoon,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "boys",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "tent",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "middle",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "field.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "As soon as this was done, they cooked a meal over an open fire.",
+      "expanded": "As soon as this was done, they cooked a meal over an open fire.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "done,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "cooked",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "meal",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "open",
+          "role": ""
+        },
+        {
+          "text": "fire.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "They were all hungry and the food smelled good.",
+      "expanded": "They were all hungry and the food smelled good.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "hungry",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "food",
+          "role": ""
+        },
+        {
+          "text": "smelled",
+          "role": ""
+        },
+        {
+          "text": "good.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "expanded": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "wonderful",
+          "role": ""
+        },
+        {
+          "text": "meal,",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "told",
+          "role": ""
+        },
+        {
+          "text": "stories",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sang",
+          "role": ""
+        },
+        {
+          "text": "songs",
+          "role": ""
+        },
+        {
+          "text": "by",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "campfire.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "But some time later it began to rain.",
+      "expanded": "But some time later it began to rain.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "But",
+          "role": ""
+        },
+        {
+          "text": "some",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "later",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "rain.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The boys felt tired so they put out the fire and crept into their tent.",
+      "expanded": "The boys felt tired so they put out the fire and crept into their tent.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "boys",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "tired",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fire",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "crept",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "tent.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "expanded": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Their",
+          "role": ""
+        },
+        {
+          "text": "sleeping",
+          "role": ""
+        },
+        {
+          "text": "bags",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "warm",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "comfortable,",
+          "role": ""
+        },
+        {
+          "text": "so",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "slept",
+          "role": ""
+        },
+        {
+          "text": "soundly.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "In the middle of the night, two boys woke up and began shouting.",
+      "expanded": "In the middle of the night, two boys woke up and began shouting.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "middle",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "night,",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "boys",
+          "role": ""
+        },
+        {
+          "text": "woke",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "began",
+          "role": ""
+        },
+        {
+          "text": "shouting.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The tent was full of water!",
+      "expanded": "The tent was full of water!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "tent",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "full",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "water!",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "They all leapt out of their sleeping bags and hurried outside.",
+      "expanded": "They all leapt out of their sleeping bags and hurried outside.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "They",
+          "role": ""
+        },
+        {
+          "text": "all",
+          "role": ""
+        },
+        {
+          "text": "leapt",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "sleeping",
+          "role": ""
+        },
+        {
+          "text": "bags",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "hurried",
+          "role": ""
+        },
+        {
+          "text": "outside.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "It was raining heavily and they found that a stream had formed in the field.",
+      "expanded": "It was raining heavily and they found that a stream had formed in the field.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "raining",
+          "role": ""
+        },
+        {
+          "text": "heavily",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "stream",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "formed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "field.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "The stream wound its way across the field and then flowed right under their tent!",
+      "expanded": "The stream wound its way across the field and then flowed right under their tent!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "stream",
+          "role": ""
+        },
+        {
+          "text": "wound",
+          "role": ""
+        },
+        {
+          "text": "its",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "across",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "field",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "then",
+          "role": ""
+        },
+        {
+          "text": "flowed",
+          "role": ""
+        },
+        {
+          "text": "right",
+          "role": ""
+        },
+        {
+          "text": "under",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "tent!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

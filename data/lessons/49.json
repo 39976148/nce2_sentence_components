@@ -1,0 +1,763 @@
+{
+  "book": 2,
+  "lesson": 49,
+  "title": "The end of a dream",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
+      "expanded": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Tired",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "sleeping",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "Teheran",
+          "role": ""
+        },
+        {
+          "text": "saved",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "buy",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "real",
+          "role": ""
+        },
+        {
+          "text": "bed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
+      "expanded": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "For",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "time",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "life,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "became",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "proud",
+          "role": ""
+        },
+        {
+          "text": "owner",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "which",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "springs",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "mattress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Because the weather was very hot, he carried the bed on to the roof of his house.",
+      "expanded": "Because the weather was very hot, he carried the bed on to the roof of his house.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Because",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "weather",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "hot,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "roof",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "house.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He slept very well for the first two nights, but on the third night, a storm blew up.",
+      "expanded": "He slept very well for the first two nights, but on the third night, a storm blew up.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "slept",
+          "role": ""
+        },
+        {
+          "text": "very",
+          "role": ""
+        },
+        {
+          "text": "well",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "first",
+          "role": ""
+        },
+        {
+          "text": "two",
+          "role": ""
+        },
+        {
+          "text": "nights,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "third",
+          "role": ""
+        },
+        {
+          "text": "night,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "storm",
+          "role": ""
+        },
+        {
+          "text": "blew",
+          "role": ""
+        },
+        {
+          "text": "up.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "expanded": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "gust",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "wind",
+          "role": ""
+        },
+        {
+          "text": "swept",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "roof",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sent",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "crashing",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "courtyard",
+          "role": ""
+        },
+        {
+          "text": "below.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "The young man did not wake up until the bed had struck the ground.",
+      "expanded": "The young man did not wake up until the bed had struck the ground.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "young",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "wake",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "until",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "struck",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+      "expanded": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Although",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bed",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "smashed",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "pieces,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "miraculously",
+          "role": ""
+        },
+        {
+          "text": "unhurt.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "When he woke up, he was still on the mattress.",
+      "expanded": "When he woke up, he was still on the mattress.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "woke",
+          "role": ""
+        },
+        {
+          "text": "up,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mattress.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.",
+      "expanded": "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Glancing",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bits",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "wood",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "metal",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "lay",
+          "role": ""
+        },
+        {
+          "text": "around",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "sadly",
+          "role": ""
+        },
+        {
+          "text": "picked",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "mattress",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "carried",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "house.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "After he had put it on the floor, he promptly went to sleep again.",
+      "expanded": "After he had put it on the floor, he promptly went to sleep again.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "After",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "put",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "floor,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "promptly",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "sleep",
+          "role": ""
+        },
+        {
+          "text": "again.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

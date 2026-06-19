@@ -1,0 +1,739 @@
+{
+  "book": 2,
+  "lesson": 66,
+  "title": "Sweet as honey!",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "expanded": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "In",
+          "role": ""
+        },
+        {
+          "text": "1963",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Lancaster",
+          "role": ""
+        },
+        {
+          "text": "bomber",
+          "role": ""
+        },
+        {
+          "text": "crashed",
+          "role": ""
+        },
+        {
+          "text": "on",
+          "role": ""
+        },
+        {
+          "text": "Wallis",
+          "role": ""
+        },
+        {
+          "text": "Island,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "remote",
+          "role": ""
+        },
+        {
+          "text": "place",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "South",
+          "role": ""
+        },
+        {
+          "text": "Pacific,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "long",
+          "role": ""
+        },
+        {
+          "text": "way",
+          "role": ""
+        },
+        {
+          "text": "west",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Samoa.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed.",
+      "expanded": "The plane was not too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed.",
+      "has_contraction": true,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "too",
+          "role": ""
+        },
+        {
+          "text": "badly",
+          "role": ""
+        },
+        {
+          "text": "damaged,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "years,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "crash",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "forgotten",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "wreck",
+          "role": ""
+        },
+        {
+          "text": "remained",
+          "role": ""
+        },
+        {
+          "text": "undisturbed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "expanded": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "1989,",
+          "role": ""
+        },
+        {
+          "text": "twenty-six",
+          "role": ""
+        },
+        {
+          "text": "years",
+          "role": ""
+        },
+        {
+          "text": "after",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "crash,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "accidentally",
+          "role": ""
+        },
+        {
+          "text": "rediscovered",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "an",
+          "role": ""
+        },
+        {
+          "text": "aerial",
+          "role": ""
+        },
+        {
+          "text": "survey",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "island.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "expanded": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "By",
+          "role": ""
+        },
+        {
+          "text": "this",
+          "role": ""
+        },
+        {
+          "text": "time,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "Lancaster",
+          "role": ""
+        },
+        {
+          "text": "bomber",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "reasonable",
+          "role": ""
+        },
+        {
+          "text": "condition",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "rare",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "worth",
+          "role": ""
+        },
+        {
+          "text": "rescuing.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "The French authorities had the plane packaged and moved in parts back to France.",
+      "expanded": "The French authorities had the plane packaged and moved in parts back to France.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "French",
+          "role": ""
+        },
+        {
+          "text": "authorities",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "packaged",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "moved",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "parts",
+          "role": ""
+        },
+        {
+          "text": "back",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "France.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "Now a group of enthusiasts are going to have the plane restored.",
+      "expanded": "Now a group of enthusiasts are going to have the plane restored.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "group",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "enthusiasts",
+          "role": ""
+        },
+        {
+          "text": "are",
+          "role": ""
+        },
+        {
+          "text": "going",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "plane",
+          "role": ""
+        },
+        {
+          "text": "restored.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt.",
+      "expanded": "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "It",
+          "role": ""
+        },
+        {
+          "text": "has",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "Rolls-Royce",
+          "role": ""
+        },
+        {
+          "text": "Merlin",
+          "role": ""
+        },
+        {
+          "text": "engines,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "group",
+          "role": ""
+        },
+        {
+          "text": "will",
+          "role": ""
+        },
+        {
+          "text": "need",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "have",
+          "role": ""
+        },
+        {
+          "text": "only",
+          "role": ""
+        },
+        {
+          "text": "three",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "them",
+          "role": ""
+        },
+        {
+          "text": "rebuilt.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition.",
+      "expanded": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Imagine",
+          "role": ""
+        },
+        {
+          "text": "their",
+          "role": ""
+        },
+        {
+          "text": "surprise",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "delight",
+          "role": ""
+        },
+        {
+          "text": "when",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "broke",
+          "role": ""
+        },
+        {
+          "text": "open",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "packing",
+          "role": ""
+        },
+        {
+          "text": "cases",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "found",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "fourth",
+          "role": ""
+        },
+        {
+          "text": "engine",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "sweet",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "honey",
+          "role": ""
+        },
+        {
+          "text": "--",
+          "role": ""
+        },
+        {
+          "text": "still",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "perfect",
+          "role": ""
+        },
+        {
+          "text": "condition.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!",
+      "expanded": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "colony",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "bees",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "turned",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "engine",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "hive",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "it",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "totally",
+          "role": ""
+        },
+        {
+          "text": "preserved",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "beeswax!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

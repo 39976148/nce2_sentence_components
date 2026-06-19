@@ -1,0 +1,851 @@
+{
+  "book": 2,
+  "lesson": 81,
+  "title": "Escape",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
+      "expanded": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "killed",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "guard,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "war",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "dragged",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "bushes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
+      "expanded": "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Working",
+          "role": ""
+        },
+        {
+          "text": "rapidly",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "darkness,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "soon",
+          "role": ""
+        },
+        {
+          "text": "changed",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "dead",
+          "role": ""
+        },
+        {
+          "text": "man's",
+          "role": ""
+        },
+        {
+          "text": "clothes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.",
+      "expanded": "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Now,",
+          "role": ""
+        },
+        {
+          "text": "dressed",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "blue",
+          "role": ""
+        },
+        {
+          "text": "uniform",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "rifle",
+          "role": ""
+        },
+        {
+          "text": "over",
+          "role": ""
+        },
+        {
+          "text": "his",
+          "role": ""
+        },
+        {
+          "text": "shoulder,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "marched",
+          "role": ""
+        },
+        {
+          "text": "boldly",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "down",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "front",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "camp.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "He could hear shouting in the camp itself.",
+      "expanded": "He could hear shouting in the camp itself.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "hear",
+          "role": ""
+        },
+        {
+          "text": "shouting",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "camp",
+          "role": ""
+        },
+        {
+          "text": "itself.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.",
+      "expanded": "Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Lights",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "blazing",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "men",
+          "role": ""
+        },
+        {
+          "text": "were",
+          "role": ""
+        },
+        {
+          "text": "running",
+          "role": ""
+        },
+        {
+          "text": "here",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "there:",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "just",
+          "role": ""
+        },
+        {
+          "text": "discovered",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "escaped.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "At that moment, a large black car with four officers inside it, stopped at the camp gates.",
+      "expanded": "At that moment, a large black car with four officers inside it, stopped at the camp gates.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "At",
+          "role": ""
+        },
+        {
+          "text": "that",
+          "role": ""
+        },
+        {
+          "text": "moment,",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "large",
+          "role": ""
+        },
+        {
+          "text": "black",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "four",
+          "role": ""
+        },
+        {
+          "text": "officers",
+          "role": ""
+        },
+        {
+          "text": "inside",
+          "role": ""
+        },
+        {
+          "text": "it,",
+          "role": ""
+        },
+        {
+          "text": "stopped",
+          "role": ""
+        },
+        {
+          "text": "at",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "camp",
+          "role": ""
+        },
+        {
+          "text": "gates.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "The officers got out and the prisoner stood to attention and saluted as they passed.",
+      "expanded": "The officers got out and the prisoner stood to attention and saluted as they passed.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "officers",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "out",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "stood",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "attention",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "saluted",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "passed.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "When they had gone, the driver of the car came towards him.",
+      "expanded": "When they had gone, the driver of the car came towards him.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "When",
+          "role": ""
+        },
+        {
+          "text": "they",
+          "role": ""
+        },
+        {
+          "text": "had",
+          "role": ""
+        },
+        {
+          "text": "gone,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "driver",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "car",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "towards",
+          "role": ""
+        },
+        {
+          "text": "him.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "The man obviously wanted to talk.",
+      "expanded": "The man obviously wanted to talk.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "obviously",
+          "role": ""
+        },
+        {
+          "text": "wanted",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "talk.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "He was rather elderly with grey hair and clear blue eyes.",
+      "expanded": "He was rather elderly with grey hair and clear blue eyes.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "He",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "rather",
+          "role": ""
+        },
+        {
+          "text": "elderly",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "grey",
+          "role": ""
+        },
+        {
+          "text": "hair",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "clear",
+          "role": ""
+        },
+        {
+          "text": "blue",
+          "role": ""
+        },
+        {
+          "text": "eyes.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "The prisoner felt sorry for him, but there was nothing else he could do.",
+      "expanded": "The prisoner felt sorry for him, but there was nothing else he could do.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "The",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "felt",
+          "role": ""
+        },
+        {
+          "text": "sorry",
+          "role": ""
+        },
+        {
+          "text": "for",
+          "role": ""
+        },
+        {
+          "text": "him,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "there",
+          "role": ""
+        },
+        {
+          "text": "was",
+          "role": ""
+        },
+        {
+          "text": "nothing",
+          "role": ""
+        },
+        {
+          "text": "else",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "could",
+          "role": ""
+        },
+        {
+          "text": "do.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "original": "As the man came near, the prisoner knocked him to the ground with a sharp blow.",
+      "expanded": "As the man came near, the prisoner knocked him to the ground with a sharp blow.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "As",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "man",
+          "role": ""
+        },
+        {
+          "text": "came",
+          "role": ""
+        },
+        {
+          "text": "near,",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "prisoner",
+          "role": ""
+        },
+        {
+          "text": "knocked",
+          "role": ""
+        },
+        {
+          "text": "him",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "ground",
+          "role": ""
+        },
+        {
+          "text": "with",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "sharp",
+          "role": ""
+        },
+        {
+          "text": "blow.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "original": "Then, jumping into the car, he drove off as quickly as he could.",
+      "expanded": "Then, jumping into the car, he drove off as quickly as he could.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then,",
+          "role": ""
+        },
+        {
+          "text": "jumping",
+          "role": ""
+        },
+        {
+          "text": "into",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "car,",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "drove",
+          "role": ""
+        },
+        {
+          "text": "off",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "quickly",
+          "role": ""
+        },
+        {
+          "text": "as",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "could.",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}

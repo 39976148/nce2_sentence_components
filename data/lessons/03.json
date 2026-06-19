@@ -1,0 +1,487 @@
+{
+  "book": 2,
+  "lesson": 3,
+  "title": "Please send me a card",
+  "sentences": [
+    {
+      "id": 1,
+      "original": "Postcards always spoil my holidays.",
+      "expanded": "Postcards always spoil my holidays.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Postcards",
+          "role": ""
+        },
+        {
+          "text": "always",
+          "role": ""
+        },
+        {
+          "text": "spoil",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "holidays.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "original": "Last summer, I went to Italy.",
+      "expanded": "Last summer, I went to Italy.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Last",
+          "role": ""
+        },
+        {
+          "text": "summer,",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "went",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "Italy.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "original": "I visited museums and sat in public gardens.",
+      "expanded": "I visited museums and sat in public gardens.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "visited",
+          "role": ""
+        },
+        {
+          "text": "museums",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "sat",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "public",
+          "role": ""
+        },
+        {
+          "text": "gardens.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "original": "A friendly waiter taught me a few words of Italian.",
+      "expanded": "A friendly waiter taught me a few words of Italian.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "A",
+          "role": ""
+        },
+        {
+          "text": "friendly",
+          "role": ""
+        },
+        {
+          "text": "waiter",
+          "role": ""
+        },
+        {
+          "text": "taught",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "words",
+          "role": ""
+        },
+        {
+          "text": "of",
+          "role": ""
+        },
+        {
+          "text": "Italian.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "original": "Then he lent me a book.",
+      "expanded": "Then he lent me a book.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Then",
+          "role": ""
+        },
+        {
+          "text": "he",
+          "role": ""
+        },
+        {
+          "text": "lent",
+          "role": ""
+        },
+        {
+          "text": "me",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "book.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "original": "I read a few lines, but I did not understand a word.",
+      "expanded": "I read a few lines, but I did not understand a word.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "read",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "few",
+          "role": ""
+        },
+        {
+          "text": "lines,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "understand",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "word.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "original": "Everyday I thought about postcards.",
+      "expanded": "Everyday I thought about postcards.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "Everyday",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "thought",
+          "role": ""
+        },
+        {
+          "text": "about",
+          "role": ""
+        },
+        {
+          "text": "postcards.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "original": "My holidays passed quickly, but I did not send cards to my friends.",
+      "expanded": "My holidays passed quickly, but I did not send cards to my friends.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "My",
+          "role": ""
+        },
+        {
+          "text": "holidays",
+          "role": ""
+        },
+        {
+          "text": "passed",
+          "role": ""
+        },
+        {
+          "text": "quickly,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "send",
+          "role": ""
+        },
+        {
+          "text": "cards",
+          "role": ""
+        },
+        {
+          "text": "to",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "friends.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "original": "On the last day I made a big decision.",
+      "expanded": "On the last day I made a big decision.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "On",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "last",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "made",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "big",
+          "role": ""
+        },
+        {
+          "text": "decision.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "original": "I got up early and bought thirty-seven cards.",
+      "expanded": "I got up early and bought thirty-seven cards.",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "got",
+          "role": ""
+        },
+        {
+          "text": "up",
+          "role": ""
+        },
+        {
+          "text": "early",
+          "role": ""
+        },
+        {
+          "text": "and",
+          "role": ""
+        },
+        {
+          "text": "bought",
+          "role": ""
+        },
+        {
+          "text": "thirty-seven",
+          "role": ""
+        },
+        {
+          "text": "cards.",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "original": "I spent the whole day in my room, but I did not write a single card!",
+      "expanded": "I spent the whole day in my room, but I did not write a single card!",
+      "has_contraction": false,
+      "tokens": [
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "spent",
+          "role": ""
+        },
+        {
+          "text": "the",
+          "role": ""
+        },
+        {
+          "text": "whole",
+          "role": ""
+        },
+        {
+          "text": "day",
+          "role": ""
+        },
+        {
+          "text": "in",
+          "role": ""
+        },
+        {
+          "text": "my",
+          "role": ""
+        },
+        {
+          "text": "room,",
+          "role": ""
+        },
+        {
+          "text": "but",
+          "role": ""
+        },
+        {
+          "text": "I",
+          "role": ""
+        },
+        {
+          "text": "did",
+          "role": ""
+        },
+        {
+          "text": "not",
+          "role": ""
+        },
+        {
+          "text": "write",
+          "role": ""
+        },
+        {
+          "text": "a",
+          "role": ""
+        },
+        {
+          "text": "single",
+          "role": ""
+        },
+        {
+          "text": "card!",
+          "role": ""
+        }
+      ]
+    }
+  ]
+}
