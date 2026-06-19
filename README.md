@@ -18,6 +18,18 @@
 - 幻灯片预览区
 - 保存 JSON
 
+### P3（已完成）
+- **AI 预标注**：OpenAI 兼容 API（设置 → 标注本句/本课）
+- **四册扩展接口**：`nce2_core/catalog.py`（当前仅启用第二册）
+
+## AI 预标注配置
+
+1. 复制 `config/ai.json.example` 为 `config/ai.json`
+2. 填写 `api_base`、`api_key`、`model`，设 `"enabled": true`
+3. 或在环境变量中设置：`NCE2_AI_API_KEY`、`NCE2_AI_API_BASE`、`NCE2_AI_MODEL`
+
+GUI 中点击 **AI 设置** → **AI 标注本句** / **AI 标注本课**。标注结果可手工修改后保存。
+
 ## 安装
 
 ```powershell
@@ -52,8 +64,7 @@ data/          titles.json + lessons/*.json
 
 ## 路线图
 
-- **P3**：可选 AI 预标注、四册扩展
-- **远期**：C++/Qt6 小 exe
+- **远期**：C++/Qt6 小 exe；启用第一/三/四册（已预留 catalog）
 
 ## 文档
 

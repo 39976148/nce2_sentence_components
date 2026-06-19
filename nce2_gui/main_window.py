@@ -16,6 +16,7 @@ from PyQt6.QtWidgets import (
     QListWidget,
     QMainWindow,
     QMessageBox,
+    QProgressDialog,
     QPushButton,
     QTableWidget,
     QTableWidgetItem,
@@ -23,12 +24,16 @@ from PyQt6.QtWidgets import (
     QWidget,
 )
 
+from nce2_core.ai_config import load_ai_config
 from nce2_core.batch import batch_import_book2
+from nce2_core.catalog import default_book
 from nce2_core.lesson_io import load_lesson, save_lesson
-from nce2_core.models import Lesson, Sentence
+from nce2_core.models import Lesson, Sentence, Token
 from nce2_core.roles import ROLE_LABELS
 from nce2_core.token_ops import apply_expanded, merge_tokens, split_token
 from nce2_export.generator import export_lesson_html
+from nce2_gui.ai_settings_dialog import AiSettingsDialog
+from nce2_gui.ai_worker import AnnotateLessonWorker
 from nce2_gui.preview_widget import SlidePreviewWidget
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -39,10 +44,13 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.setWindowTitle("NCE2 Sentence Components")
         self.resize(1200, 720)
+        self.book = default_book()
         self.lessons_dir = ROOT / "data" / "lessons"
         self.output_dir = ROOT / "output"
         self.titles_path = ROOT / "data" / "titles.json"
-        self.txt_dir = ROOT / "nce_txt" / "第二册"
+        self.txt_dir = ROOT / "nce_txt" / self.book.txt_subdir
+        self.ai_config = load_ai_config(ROOT)
+        self._ai_worker: AnnotateLessonWorker | None = None
 
         self.current_lesson: Lesson | None = None
         self.current_sentence_index: int = -1
@@ -82,12 +90,24 @@ class MainWindow(QMainWindow):
         split_btn.clicked.connect(self.on_split_token)
         save_btn = QPushButton("保存本课")
         save_btn.clicked.connect(self.on_save_lesson)
+        ai_cfg_btn = QPushButton("AI 设置")
+        ai_cfg_btn.clicked.connect(self.on_ai_settings)
+        ai_one_btn = QPushButton("AI 标注本句")
+        ai_one_btn.clicked.connect(self.on_ai_sentence)
+        ai_lesson_btn = QPushButton("AI 标注本课")
+        ai_lesson_btn.clicked.connect(self.on_ai_lesson)
 
         token_btn_row = QHBoxLayout()
         token_btn_row.addWidget(merge_btn)
         token_btn_row.addWidget(split_btn)
+        token_btn_row.addWidget(ai_one_btn)
+        token_btn_row.addWidget(ai_lesson_btn)
+        token_btn_row.addWidget(ai_cfg_btn)
         token_btn_row.addStretch()
         token_btn_row.addWidget(save_btn)
+
+        self.book_label = QLabel(self.book.label)
+        self.book_label.setStyleSheet("color: #555; font-size: 12px;")
 
         editor_box = QGroupBox("句子编辑")
         editor_layout = QVBoxLayout(editor_box)
@@ -112,6 +132,7 @@ class MainWindow(QMainWindow):
         action_row.addWidget(demo_btn)
 
         right = QVBoxLayout()
+        right.addWidget(self.book_label)
         right.addWidget(editor_box, 3)
         right.addWidget(QLabel("幻灯片预览"))
         right.addWidget(self.preview, 2)
@@ -223,10 +244,88 @@ class MainWindow(QMainWindow):
             combo = self.token_table.cellWidget(row, 1)
             text = item.text() if item else ""
             role = combo.currentText() if combo else ""
-            from nce2_core.models import Token
-
             tokens.append(Token(text=text.strip(), role=role.strip()))
         sentence.tokens = [t for t in tokens if t.text]
+
+    def _ensure_ai_ready(self) -> bool:
+        self.ai_config = load_ai_config(ROOT)
+        if self.ai_config.is_ready():
+            return True
+        QMessageBox.information(
+            self,
+            "AI 未配置",
+            "请先点击「AI 设置」，填写 OpenAI 兼容 API 的 Base URL、API Key 和 Model，并勾选启用。",
+        )
+        self.on_ai_settings()
+        self.ai_config = load_ai_config(ROOT)
+        return self.ai_config.is_ready()
+
+    def on_ai_settings(self) -> None:
+        dlg = AiSettingsDialog(ROOT, self.ai_config, self)
+        if dlg.exec():
+            self.ai_config = dlg.result_config()
+
+    def _run_ai_worker(self, indices: list[int]) -> None:
+        if self.current_lesson is None or not indices:
+            return
+        if self._ai_worker and self._ai_worker.isRunning():
+            QMessageBox.warning(self, "提示", "AI 标注正在进行中，请稍候。")
+            return
+
+        progress = QProgressDialog("AI 预标注中...", "取消", 0, len(indices), self)
+        progress.setWindowTitle("AI 预标注")
+        progress.setWindowModality(Qt.WindowModality.WindowModal)
+        progress.setMinimumDuration(0)
+
+        worker = AnnotateLessonWorker(self.current_lesson, self.ai_config, indices)
+        self._ai_worker = worker
+
+        def on_progress(done: int, total: int, msg: str) -> None:
+            progress.setMaximum(total)
+            progress.setValue(done)
+            progress.setLabelText(msg)
+
+        def on_ok() -> None:
+            progress.close()
+            self._populate_editor(self._current_sentence())
+            QMessageBox.information(self, "完成", f"AI 已标注 {len(indices)} 句。")
+
+        def on_fail(msg: str) -> None:
+            progress.close()
+            QMessageBox.critical(self, "AI 错误", msg)
+
+        worker.progress.connect(on_progress)
+        worker.finished_ok.connect(on_ok)
+        worker.failed.connect(on_fail)
+        progress.canceled.connect(worker.requestInterruption)
+        worker.start()
+
+    def on_ai_sentence(self) -> None:
+        if not self._ensure_ai_ready():
+            return
+        if self.current_sentence_index < 0:
+            QMessageBox.warning(self, "提示", "请先选择一句。")
+            return
+        self._sync_tokens_from_table()
+        self._run_ai_worker([self.current_sentence_index])
+
+    def on_ai_lesson(self) -> None:
+        if not self._ensure_ai_ready():
+            return
+        if self.current_lesson is None or not self.current_lesson.sentences:
+            return
+        if (
+            QMessageBox.question(
+                self,
+                "确认",
+                f"将对本课全部 {len(self.current_lesson.sentences)} 句调用 AI 预标注，是否继续？",
+            )
+            != QMessageBox.StandardButton.Yes
+        ):
+            return
+        self._sync_tokens_from_table()
+        indices = list(range(len(self.current_lesson.sentences)))
+        self._run_ai_worker(indices)
 
     def on_token_cell_changed(self, row: int, column: int) -> None:
         if self._loading_ui or column != 0:

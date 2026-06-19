@@ -18,3 +18,6 @@ nce_txt/
 
 # Generated output (optional local exports)
 output/*.html
+
+# AI credentials
+config/ai.json
