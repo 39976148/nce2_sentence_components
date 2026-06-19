@@ -10,11 +10,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
-          "role": "时间状语"
-        },
-        {
-          "text": "Wednesday",
+          "text": "On Wednesday",
           "role": "时间状语"
         },
         {
@@ -30,19 +26,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Town",
-          "role": "地点状语"
-        },
-        {
-          "text": "Hall.",
+          "text": "to the Town Hall.",
           "role": "地点状语"
         }
       ]
@@ -66,24 +50,12 @@
           "role": "表语"
         },
         {
-          "text": "last",
+          "text": "last day",
           "role": "表语"
         },
         {
-          "text": "day",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "year",
-          "role": "表语"
+          "text": "of the year",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -102,40 +74,12 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "people",
-          "role": "表语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "gathered",
-          "role": "谓语"
-        },
-        {
-          "text": "under",
+          "text": "of people had gathered",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Town",
-          "role": "介词短语"
-        },
-        {
-          "text": "Hall",
-          "role": "介词短语"
-        },
-        {
-          "text": "clock.",
-          "role": "介词短语"
+          "text": "under the Town Hall clock.",
+          "role": "地点状语"
         }
       ]
     },
@@ -162,19 +106,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "twenty",
-          "role": "地点状语"
-        },
-        {
-          "text": "minutes'",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "in twenty minutes' time.",
           "role": "地点状语"
         }
       ]
@@ -206,32 +138,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at five",
           "role": "地点状语"
         },
         {
-          "text": "five",
+          "text": "to twelve, the clock stopped.",
           "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "twelve,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "clock",
-          "role": "地点状语"
-        },
-        {
-          "text": "stopped.",
-          "role": "谓语"
         }
       ]
     },
@@ -247,15 +159,15 @@
         },
         {
           "text": "big",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "minute",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "hand",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "did",
@@ -263,7 +175,7 @@
         },
         {
           "text": "not",
-          "role": "状语"
+          "role": "宾语"
         },
         {
           "text": "move.",
@@ -371,7 +283,7 @@
         },
         {
           "text": "clock",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -390,15 +302,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "watch.",
+          "text": "at my watch.",
           "role": "地点状语"
         }
       ]
@@ -435,34 +339,18 @@
         },
         {
           "text": "big",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "clock",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "refused",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "welcome",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "New",
-          "role": "地点状语"
-        },
-        {
-          "text": "Year.",
+          "text": "to welcome the New Year.",
           "role": "地点状语"
         }
       ]
@@ -474,31 +362,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At that moment, everybody began",
           "role": "时间状语"
         },
         {
-          "text": "that",
-          "role": "时间状语"
-        },
-        {
-          "text": "moment,",
-          "role": "时间状语"
-        },
-        {
-          "text": "everybody",
-          "role": "时间状语"
-        },
-        {
-          "text": "began",
-          "role": "主语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "laugh",
+          "text": "to laugh",
           "role": "地点状语"
         },
         {

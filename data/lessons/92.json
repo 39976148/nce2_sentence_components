@@ -26,24 +26,12 @@
           "role": "谓语"
         },
         {
-          "text": "about",
+          "text": "about two",
           "role": "介词短语"
         },
         {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "morning",
-          "role": "谓语"
+          "text": "in the morning",
+          "role": "地点状语"
         },
         {
           "text": "when",
@@ -78,40 +66,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to wake",
           "role": "地点状语"
         },
         {
-          "text": "wake",
-          "role": "地点状语"
+          "text": "up my wife",
+          "role": "介词短语"
         },
         {
-          "text": "up",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "wife",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "ringing",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "doorbell,",
-          "role": "宾语"
+          "text": "by ringing the doorbell,",
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -154,48 +118,12 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "shed",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
+          "text": "from the shed",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "in the garden, put it against the wall,",
           "role": "地点状语"
-        },
-        {
-          "text": "garden,",
-          "role": "地点状语"
-        },
-        {
-          "text": "put",
-          "role": "谓语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "against",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "wall,",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -306,36 +234,12 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at this time",
           "role": "地点状语"
         },
         {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "time",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "night.'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "表语"
-        },
-        {
-          "text": "looked",
-          "role": "谓语"
+          "text": "of the night.' I looked",
+          "role": "介词短语"
         },
         {
           "text": "down",
@@ -354,15 +258,7 @@
           "role": "表语"
         },
         {
-          "text": "off",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "ladder",
+          "text": "off the ladder",
           "role": "介词短语"
         },
         {
@@ -410,24 +306,8 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the way I did,",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "way",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "did,",
-          "role": "谓语"
         },
         {
           "text": "but",
@@ -458,52 +338,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at night.' 'So do I,' answered the policeman",
           "role": "地点状语"
         },
         {
-          "text": "night.'",
+          "text": "in the same tone.",
           "role": "地点状语"
-        },
-        {
-          "text": "'So",
-          "role": "地点状语"
-        },
-        {
-          "text": "do",
-          "role": "谓语"
-        },
-        {
-          "text": "I,'",
-          "role": "宾语"
-        },
-        {
-          "text": "answered",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "policeman",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "same",
-          "role": "宾语"
-        },
-        {
-          "text": "tone.",
-          "role": "宾语"
         }
       ]
     },
@@ -546,19 +386,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "interrupt",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "man",
+          "text": "to interrupt a man",
           "role": "地点状语"
         },
         {
@@ -602,60 +430,16 @@
           "role": "谓语"
         },
         {
-          "text": "with",
+          "text": "with me",
           "role": "介词短语"
         },
         {
-          "text": "me",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "station?'",
-          "role": "介词短语"
-        },
-        {
-          "text": "'Well,",
-          "role": "介词短语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "prefer",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to the station?' 'Well, I would prefer",
           "role": "地点状语"
         },
         {
-          "text": "stay",
+          "text": "to stay here,' I said.",
           "role": "地点状语"
-        },
-        {
-          "text": "here,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -766,36 +550,8 @@
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up my wife who opened the window just",
           "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "wife",
-          "role": "介词短语"
-        },
-        {
-          "text": "who",
-          "role": "介词短语"
-        },
-        {
-          "text": "opened",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "window",
-          "role": "宾语"
-        },
-        {
-          "text": "just",
-          "role": "宾语"
         },
         {
           "text": "as",
@@ -818,19 +574,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "climb",
-          "role": "地点状语"
-        },
-        {
-          "text": "towards",
-          "role": "地点状语"
-        },
-        {
-          "text": "me.",
+          "text": "to climb towards me.",
           "role": "地点状语"
         }
       ]

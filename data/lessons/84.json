@@ -22,27 +22,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to go",
           "role": "地点状语"
         },
         {
-          "text": "go",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "strike",
-          "role": "地点状语"
-        },
-        {
-          "text": "next",
-          "role": "地点状语"
-        },
-        {
-          "text": "week.",
+          "text": "on strike next week.",
           "role": "地点状语"
         }
       ]
@@ -59,30 +43,22 @@
         },
         {
           "text": "strike",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "due",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to begin",
           "role": "地点状语"
         },
         {
-          "text": "begin",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "Tuesday.",
+          "text": "on Tuesday.",
           "role": "地点状语"
         }
       ]
@@ -139,7 +115,7 @@
         },
         {
           "text": "busmen",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "have",
@@ -190,11 +166,7 @@
           "role": "谓语"
         },
         {
-          "text": "about",
-          "role": "介词短语"
-        },
-        {
-          "text": "pay",
+          "text": "about pay",
           "role": "介词短语"
         },
         {
@@ -250,23 +222,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "at",
-          "role": "介词短语"
-        },
-        {
-          "text": "least",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "week.",
+          "text": "for at least a week.",
           "role": "介词短语"
         }
       ]
@@ -286,68 +242,24 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of private cars are going",
           "role": "介词短语"
         },
         {
-          "text": "private",
-          "role": "介词短语"
-        },
-        {
-          "text": "cars",
-          "role": "介词短语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "going",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to offer 'free rides'",
           "role": "地点状语"
         },
         {
-          "text": "offer",
+          "text": "to people",
           "role": "地点状语"
         },
         {
-          "text": "'free",
+          "text": "on their way",
           "role": "地点状语"
         },
         {
-          "text": "rides'",
+          "text": "to work.",
           "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "people",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "way",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "work.",
-          "role": "谓语"
         }
       ]
     },
@@ -374,27 +286,11 @@
           "role": "宾语"
         },
         {
-          "text": "on",
+          "text": "on the trains",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "trains",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "extent.",
+          "text": "to some extent.",
           "role": "地点状语"
         }
       ]
@@ -418,35 +314,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "of university students have volunteered",
+          "role": "介词短语"
         },
         {
-          "text": "university",
-          "role": "宾语"
-        },
-        {
-          "text": "students",
-          "role": "宾语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "volunteered",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "drive",
-          "role": "地点状语"
-        },
-        {
-          "text": "buses",
+          "text": "to drive buses",
           "role": "地点状语"
         },
         {
@@ -507,58 +379,22 @@
         },
         {
           "text": "they",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "drive",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "any",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "buses,",
           "role": "宾语"
         },
         {
-          "text": "they",
-          "role": "宾语"
+          "text": "of the buses, they will have",
+          "role": "介词短语"
         },
         {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "pass",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "special",
-          "role": "地点状语"
-        },
-        {
-          "text": "test.",
+          "text": "to pass a special test.",
           "role": "地点状语"
         }
       ]
@@ -575,47 +411,23 @@
         },
         {
           "text": "students",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "going",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to take the test",
           "role": "地点状语"
         },
         {
-          "text": "take",
+          "text": "in two days' time.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "test",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "two",
-          "role": "地点状语"
-        },
-        {
-          "text": "days'",
-          "role": "表语"
-        },
-        {
-          "text": "time.",
-          "role": "表语"
         }
       ]
     },
@@ -646,35 +458,15 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to find it difficult",
           "role": "地点状语"
         },
         {
-          "text": "find",
+          "text": "to get",
           "role": "地点状语"
         },
         {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "difficult",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "work.",
+          "text": "to work.",
           "role": "地点状语"
         }
       ]
@@ -722,35 +514,15 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "students",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
+          "text": "to the students",
           "role": "地点状语"
         },
         {
-          "text": "letters",
+          "text": "in letters",
           "role": "地点状语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Press.",
+          "text": "to the Press.",
           "role": "地点状语"
         }
       ]

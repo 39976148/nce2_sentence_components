@@ -38,16 +38,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "our",
-          "role": "宾语"
-        },
-        {
-          "text": "town.",
-          "role": "宾语"
+          "text": "in our town.",
+          "role": "地点状语"
         }
       ]
     },
@@ -70,32 +62,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for 'The Nicest Garden Competition' each year,",
           "role": "介词短语"
-        },
-        {
-          "text": "'The",
-          "role": "介词短语"
-        },
-        {
-          "text": "Nicest",
-          "role": "介词短语"
-        },
-        {
-          "text": "Garden",
-          "role": "介词短语"
-        },
-        {
-          "text": "Competition'",
-          "role": "介词短语"
-        },
-        {
-          "text": "each",
-          "role": "介词短语"
-        },
-        {
-          "text": "year,",
-          "role": "宾语"
         },
         {
           "text": "but",
@@ -110,11 +78,7 @@
           "role": "宾语"
         },
         {
-          "text": "every",
-          "role": "宾语"
-        },
-        {
-          "text": "time.",
+          "text": "every time.",
           "role": "宾语"
         }
       ]
@@ -282,16 +246,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "pool.",
-          "role": "宾语"
+          "text": "over a pool.",
+          "role": "地点状语"
         }
       ]
     },
@@ -354,11 +310,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Every",
-          "role": "时间状语"
-        },
-        {
-          "text": "year",
+          "text": "Every year",
           "role": "时间状语"
         },
         {
@@ -370,23 +322,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "garden",
-          "role": "介词短语"
-        },
-        {
-          "text": "competition",
-          "role": "介词短语"
-        },
-        {
-          "text": "too,",
+          "text": "for the garden competition too,",
           "role": "介词短语"
         },
         {
@@ -418,31 +354,11 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "宾语"
+          "text": "for the worst garden",
+          "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "worst",
-          "role": "宾语"
-        },
-        {
-          "text": "garden",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "town!",
+          "text": "in the town!",
           "role": "地点状语"
         }
       ]

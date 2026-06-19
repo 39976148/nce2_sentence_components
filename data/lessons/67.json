@@ -70,28 +70,12 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in all parts",
           "role": "地点状语"
         },
         {
-          "text": "all",
-          "role": "地点状语"
-        },
-        {
-          "text": "parts",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "world.",
-          "role": "地点状语"
+          "text": "of the world.",
+          "role": "介词短语"
         }
       ]
     },
@@ -102,84 +86,20 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In 1948, he went",
           "role": "时间状语"
         },
         {
-          "text": "1948,",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to Lake Kivu",
           "role": "地点状语"
         },
         {
-          "text": "Lake",
+          "text": "in the Congo",
           "role": "地点状语"
         },
         {
-          "text": "Kivu",
+          "text": "to observe a new volcano which he later named Kituro.",
           "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Congo",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "observe",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "volcano",
-          "role": "地点状语"
-        },
-        {
-          "text": "which",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "later",
-          "role": "宾语"
-        },
-        {
-          "text": "named",
-          "role": "谓语"
-        },
-        {
-          "text": "Kituro.",
-          "role": "宾语"
         }
       ]
     },
@@ -202,43 +122,15 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to set",
           "role": "地点状语"
         },
         {
-          "text": "set",
-          "role": "地点状语"
+          "text": "up his camp very close",
+          "role": "介词短语"
         },
         {
-          "text": "up",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "camp",
-          "role": "地点状语"
-        },
-        {
-          "text": "very",
-          "role": "地点状语"
-        },
-        {
-          "text": "close",
-          "role": "表语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "volcano",
+          "text": "to the volcano",
           "role": "地点状语"
         },
         {
@@ -282,72 +174,20 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to take a number",
           "role": "地点状语"
         },
         {
-          "text": "take",
+          "text": "of brilliant photographs, he could not stay",
+          "role": "介词短语"
+        },
+        {
+          "text": "near the volcano",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "number",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "brilliant",
-          "role": "地点状语"
-        },
-        {
-          "text": "photographs,",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "could",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "stay",
-          "role": "宾语"
-        },
-        {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "volcano",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "very",
-          "role": "地点状语"
-        },
-        {
-          "text": "long.",
-          "role": "地点状语"
+          "text": "for very long.",
+          "role": "介词短语"
         }
       ]
     },
@@ -378,32 +218,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "liquid",
-          "role": "宾语"
-        },
-        {
-          "text": "rock",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "coming",
-          "role": "谓语"
-        },
-        {
-          "text": "towards",
-          "role": "宾语"
-        },
-        {
-          "text": "him.",
-          "role": "宾语"
+          "text": "of liquid rock was coming towards him.",
+          "role": "介词短语"
         }
       ]
     },
@@ -422,19 +238,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "surround",
-          "role": "地点状语"
-        },
-        {
-          "text": "him",
-          "role": "地点状语"
-        },
-        {
-          "text": "completely,",
+          "text": "to surround him completely,",
           "role": "地点状语"
         },
         {
@@ -450,23 +254,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to escape just",
           "role": "地点状语"
         },
         {
-          "text": "escape",
-          "role": "地点状语"
-        },
-        {
-          "text": "just",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "in time.",
           "role": "地点状语"
         }
       ]
@@ -522,23 +314,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "return",
-          "role": "地点状语"
-        },
-        {
-          "text": "two",
-          "role": "地点状语"
-        },
-        {
-          "text": "days",
-          "role": "地点状语"
-        },
-        {
-          "text": "later.",
+          "text": "to return two days later.",
           "role": "地点状语"
         }
       ]
@@ -550,11 +326,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
-          "role": "时间状语"
-        },
-        {
-          "text": "time,",
+          "text": "This time,",
           "role": "时间状语"
         },
         {
@@ -566,32 +338,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to climb",
           "role": "地点状语"
         },
         {
-          "text": "climb",
+          "text": "into the mouth",
           "role": "地点状语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mouth",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "Kituro",
-          "role": "宾语"
+          "text": "of Kituro",
+          "role": "介词短语"
         },
         {
           "text": "so",
@@ -662,16 +418,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "way.",
-          "role": "宾语"
+          "text": "in this way.",
+          "role": "地点状语"
         }
       ]
     },
@@ -698,48 +446,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to tell us more",
           "role": "地点状语"
         },
         {
-          "text": "tell",
-          "role": "地点状语"
-        },
-        {
-          "text": "us",
-          "role": "地点状语"
-        },
-        {
-          "text": "more",
-          "role": "地点状语"
-        },
-        {
-          "text": "about",
-          "role": "地点状语"
-        },
-        {
-          "text": "active",
-          "role": "地点状语"
-        },
-        {
-          "text": "volcanoes",
-          "role": "宾语"
-        },
-        {
-          "text": "than",
-          "role": "宾语"
-        },
-        {
-          "text": "any",
-          "role": "宾语"
-        },
-        {
-          "text": "man",
-          "role": "宾语"
-        },
-        {
-          "text": "alive.",
-          "role": "宾语"
+          "text": "about active volcanoes than any man alive.",
+          "role": "介词短语"
         }
       ]
     }

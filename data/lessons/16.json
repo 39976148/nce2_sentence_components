@@ -30,48 +30,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "wrong",
-          "role": "宾语"
-        },
-        {
-          "text": "place,",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "traffic",
-          "role": "宾语"
-        },
-        {
-          "text": "policeman",
-          "role": "宾语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "soon",
-          "role": "宾语"
-        },
-        {
-          "text": "find",
-          "role": "谓语"
-        },
-        {
-          "text": "it.",
-          "role": "宾语"
+          "text": "in the wrong place, a traffic policeman will soon find it.",
+          "role": "地点状语"
         }
       ]
     },
@@ -207,78 +167,26 @@
       "tokens": [
         {
           "text": "During",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "holiday",
-          "role": "时间状语"
-        },
-        {
-          "text": "in",
-          "role": "时间状语"
-        },
-        {
-          "text": "Sweden,",
           "role": "主语"
         },
         {
-          "text": "I",
+          "text": "a",
           "role": "宾语"
         },
         {
-          "text": "found",
-          "role": "谓语"
-        },
-        {
-          "text": "this",
+          "text": "holiday",
           "role": "宾语"
         },
         {
-          "text": "note",
-          "role": "宾语"
-        },
-        {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "car:",
-          "role": "宾语"
-        },
-        {
-          "text": "'sir,",
-          "role": "宾语"
-        },
-        {
-          "text": "we",
-          "role": "宾语"
-        },
-        {
-          "text": "welcome",
-          "role": "宾语"
-        },
-        {
-          "text": "you",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "in Sweden, I found this note",
           "role": "地点状语"
         },
         {
-          "text": "our",
+          "text": "on my car: 'sir, we welcome you",
           "role": "地点状语"
         },
         {
-          "text": "city.",
+          "text": "to our city.",
           "role": "地点状语"
         }
       ]
@@ -362,19 +270,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "our",
-          "role": "地点状语"
-        },
-        {
-          "text": "street",
-          "role": "地点状语"
-        },
-        {
-          "text": "signs.",
+          "text": "to our street signs.",
           "role": "地点状语"
         }
       ]
@@ -391,23 +287,23 @@
         },
         {
           "text": "note",
-          "role": "时间状语"
-        },
-        {
-          "text": "is",
           "role": "主语"
         },
         {
+          "text": "is",
+          "role": "系动词"
+        },
+        {
           "text": "only",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "reminder.'",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "If",
@@ -415,19 +311,19 @@
         },
         {
           "text": "you",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "receive",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "a",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "request",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "like",
@@ -435,31 +331,23 @@
         },
         {
           "text": "this,",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "you",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "cannot",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "fail",
-          "role": "宾语"
+          "role": "表语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "obey",
-          "role": "宾语"
-        },
-        {
-          "text": "it!",
-          "role": "宾语"
+          "text": "to obey it!",
+          "role": "地点状语"
         }
       ]
     }

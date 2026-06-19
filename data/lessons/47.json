@@ -15,54 +15,34 @@
         },
         {
           "text": "public",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "recently",
-          "role": "表语"
-        },
-        {
-          "text": "bought",
-          "role": "表语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "Mr.Ian",
-          "role": "介词短语"
-        },
-        {
-          "text": "Thompson",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "recently",
+          "role": "宾语"
+        },
+        {
+          "text": "bought",
+          "role": "宾语"
+        },
+        {
+          "text": "by Mr.Ian Thompson is",
           "role": "介词短语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "sale.",
+          "text": "up for sale.",
           "role": "介词短语"
         }
       ]
@@ -86,15 +66,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sell",
-          "role": "地点状语"
-        },
-        {
-          "text": "it",
+          "text": "to sell it",
           "role": "地点状语"
         },
         {
@@ -154,19 +126,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sleep",
-          "role": "地点状语"
-        },
-        {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "night",
+          "text": "to sleep one night",
           "role": "地点状语"
         },
         {
@@ -198,15 +158,7 @@
           "role": "谓语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bar.",
+          "text": "from the bar.",
           "role": "地点状语"
         }
       ]
@@ -222,11 +174,7 @@
           "role": "主语"
         },
         {
-          "text": "next",
-          "role": "主语"
-        },
-        {
-          "text": "morning,",
+          "text": "next morning,",
           "role": "谓语"
         },
         {
@@ -262,11 +210,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "chairs",
+          "text": "by chairs",
           "role": "介词短语"
         },
         {
@@ -326,52 +270,16 @@
           "role": "宾语"
         },
         {
-          "text": "off",
-          "role": "宾语"
+          "text": "off before he went",
+          "role": "介词短语"
         },
         {
-          "text": "before",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to bed, they were",
           "role": "地点状语"
         },
         {
-          "text": "bed,",
+          "text": "on in the morning.",
           "role": "地点状语"
-        },
-        {
-          "text": "they",
-          "role": "地点状语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning.",
-          "role": "谓语"
         }
       ]
     },
@@ -459,7 +367,7 @@
         },
         {
           "text": "before.",
-          "role": "宾语"
+          "role": "介词短语"
         }
       ]
     },
@@ -471,11 +379,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "suggested",
@@ -506,40 +414,8 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in for a free drink, Mr.Thompson shook his head.",
           "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "free",
-          "role": "地点状语"
-        },
-        {
-          "text": "drink,",
-          "role": "地点状语"
-        },
-        {
-          "text": "Mr.Thompson",
-          "role": "地点状语"
-        },
-        {
-          "text": "shook",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "head.",
-          "role": "宾语"
         }
       ]
     },
@@ -555,7 +431,7 @@
         },
         {
           "text": "villagers",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "have",

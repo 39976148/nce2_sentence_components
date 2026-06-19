@@ -10,36 +10,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After reading an article entitled 'Cigarette Smoking",
           "role": "时间状语"
         },
         {
-          "text": "reading",
-          "role": "主语"
-        },
-        {
-          "text": "an",
-          "role": "宾语"
-        },
-        {
-          "text": "article",
-          "role": "宾语"
-        },
-        {
-          "text": "entitled",
-          "role": "谓语"
-        },
-        {
-          "text": "'Cigarette",
-          "role": "宾语"
-        },
-        {
-          "text": "Smoking",
-          "role": "谓语"
-        },
-        {
           "text": "and",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "Your",
@@ -66,19 +42,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "calm",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "nerves.",
+          "text": "to calm my nerves.",
           "role": "地点状语"
         }
       ]
@@ -98,11 +62,7 @@
           "role": "谓语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "concentration",
+          "text": "with concentration",
           "role": "介词短语"
         },
         {
@@ -166,43 +126,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "For",
+          "text": "For a whole week I did not smoke",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "whole",
-          "role": "介词短语"
-        },
-        {
-          "text": "week",
-          "role": "介词短语"
-        },
-        {
-          "text": "I",
-          "role": "介词短语"
-        },
-        {
-          "text": "did",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "smoke",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all",
+          "text": "at all",
           "role": "地点状语"
         },
         {
@@ -214,11 +142,7 @@
           "role": "谓语"
         },
         {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "time,",
+          "text": "this time,",
           "role": "宾语"
         },
         {
@@ -270,35 +194,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "someone",
-          "role": "宾语"
-        },
-        {
-          "text": "giving",
-          "role": "谓语"
-        },
-        {
-          "text": "up",
+          "text": "of someone giving",
           "role": "介词短语"
         },
         {
-          "text": "smoking:",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "bad",
-          "role": "介词短语"
-        },
-        {
-          "text": "temper",
+          "text": "up smoking: a bad temper",
           "role": "介词短语"
         },
         {
@@ -331,26 +231,14 @@
         },
         {
           "text": "friends",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "kept",
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "offering",
-          "role": "地点状语"
-        },
-        {
-          "text": "me",
-          "role": "地点状语"
-        },
-        {
-          "text": "cigarettes",
+          "text": "on offering me cigarettes",
           "role": "地点状语"
         },
         {
@@ -386,60 +274,16 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to hide their amusement whenever I produced a packet",
           "role": "地点状语"
         },
         {
-          "text": "hide",
+          "text": "of sweets",
+          "role": "介词短语"
+        },
+        {
+          "text": "from my pocket.",
           "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "amusement",
-          "role": "地点状语"
-        },
-        {
-          "text": "whenever",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "produced",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "packet",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "sweets",
-          "role": "宾语"
-        },
-        {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "pocket.",
-          "role": "宾语"
         }
       ]
     },
@@ -450,43 +294,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After seven days",
           "role": "时间状语"
         },
         {
-          "text": "seven",
-          "role": "时间状语"
+          "text": "of this I went",
+          "role": "介词短语"
         },
         {
-          "text": "days",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "this",
-          "role": "主语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "party.",
+          "text": "to a party.",
           "role": "地点状语"
         }
       ]
@@ -502,19 +318,7 @@
           "role": "主语"
         },
         {
-          "text": "around",
-          "role": "介词短语"
-        },
-        {
-          "text": "me",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "smoking",
+          "text": "around me was smoking",
           "role": "谓语"
         },
         {
@@ -547,23 +351,23 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "my",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "old",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "friend",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "Brian",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "urged",
@@ -574,48 +378,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to accept a cigarette, it was more than I could bear.",
           "role": "地点状语"
-        },
-        {
-          "text": "accept",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "cigarette,",
-          "role": "地点状语"
-        },
-        {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "more",
-          "role": "宾语"
-        },
-        {
-          "text": "than",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "could",
-          "role": "谓语"
-        },
-        {
-          "text": "bear.",
-          "role": "谓语"
         }
       ]
     },
@@ -658,11 +422,7 @@
           "role": "谓语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "satisfaction.",
+          "text": "with satisfaction.",
           "role": "介词短语"
         }
       ]
@@ -679,11 +439,11 @@
         },
         {
           "text": "wife",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "delighted",
@@ -695,7 +455,7 @@
         },
         {
           "text": "things",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -706,19 +466,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "normal",
-          "role": "地点状语"
-        },
-        {
-          "text": "once",
-          "role": "地点状语"
-        },
-        {
-          "text": "more.",
+          "text": "to normal once more.",
           "role": "地点状语"
         }
       ]
@@ -770,31 +518,15 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the world",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to give",
           "role": "地点状语"
         },
         {
-          "text": "world",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "give",
-          "role": "谓语"
-        },
-        {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "smoking.",
+          "text": "up smoking.",
           "role": "介词短语"
         }
       ]
@@ -830,11 +562,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "times!",
+          "text": "of times!",
           "role": "介词短语"
         }
       ]

@@ -15,7 +15,7 @@
         },
         {
           "text": "secretary",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "told",
@@ -86,15 +86,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "office.",
+          "text": "into his office.",
           "role": "地点状语"
         }
       ]
@@ -122,19 +114,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "desk",
+          "text": "up from his desk",
           "role": "介词短语"
         },
         {
@@ -159,11 +139,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -179,7 +159,7 @@
         },
         {
           "text": "he",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "said",
@@ -250,23 +230,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "pay",
-          "role": "地点状语"
-        },
-        {
-          "text": "such",
-          "role": "地点状语"
-        },
-        {
-          "text": "large",
-          "role": "地点状语"
-        },
-        {
-          "text": "salaries.",
+          "text": "to pay such large salaries.",
           "role": "地点状语"
         }
       ]
@@ -354,19 +318,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "weak",
-          "role": "地点状语"
-        },
-        {
-          "text": "voice.",
+          "text": "in a weak voice.",
           "role": "地点状语"
         }
       ]
@@ -407,11 +359,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "smiled",

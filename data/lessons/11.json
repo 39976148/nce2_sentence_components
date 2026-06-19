@@ -26,15 +26,7 @@
           "role": "表语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "restaurant",
+          "text": "at a restaurant",
           "role": "地点状语"
         },
         {
@@ -55,7 +47,7 @@
         },
         {
           "text": "in.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -74,27 +66,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "lawyer's",
-          "role": "地点状语"
-        },
-        {
-          "text": "office",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
-        },
-        {
-          "text": "ago,",
+          "text": "in a lawyer's office years ago,",
           "role": "地点状语"
         },
         {
@@ -118,15 +90,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "bank.",
+          "text": "at a bank.",
           "role": "地点状语"
         }
       ]
@@ -178,15 +142,7 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "friends",
+          "text": "from his friends",
           "role": "地点状语"
         },
         {
@@ -246,19 +202,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "same",
-          "role": "地点状语"
-        },
-        {
-          "text": "table.",
+          "text": "at the same table.",
           "role": "地点状语"
         }
       ]
@@ -290,11 +234,7 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "me.",
+          "text": "from me.",
           "role": "地点状语"
         }
       ]
@@ -334,23 +274,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "lend",
-          "role": "地点状语"
-        },
-        {
-          "text": "me",
-          "role": "地点状语"
-        },
-        {
-          "text": "twenty",
-          "role": "地点状语"
-        },
-        {
-          "text": "pounds.",
+          "text": "to lend me twenty pounds.",
           "role": "地点状语"
         }
       ]
@@ -362,40 +286,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "To",
+          "text": "To my surprise, he gave me the money immediately.",
           "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "surprise,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "gave",
-          "role": "谓语"
-        },
-        {
-          "text": "me",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "money",
-          "role": "宾语"
-        },
-        {
-          "text": "immediately.",
-          "role": "宾语"
         }
       ]
     },
@@ -430,51 +322,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
+          "text": "from you,' Tony said, 'so now you can pay",
           "role": "地点状语"
         },
         {
-          "text": "you,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "Tony",
-          "role": "地点状语"
-        },
-        {
-          "text": "said,",
-          "role": "谓语"
-        },
-        {
-          "text": "'so",
-          "role": "宾语"
-        },
-        {
-          "text": "now",
-          "role": "宾语"
-        },
-        {
-          "text": "you",
-          "role": "宾语"
-        },
-        {
-          "text": "can",
-          "role": "谓语"
-        },
-        {
-          "text": "pay",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "dinner!'",
+          "text": "for my dinner!'",
           "role": "介词短语"
         }
       ]

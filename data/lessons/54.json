@@ -10,36 +10,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After breakfast, I sent the children",
           "role": "时间状语"
         },
         {
-          "text": "breakfast,",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "sent",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "children",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "school",
-          "role": "宾语"
+          "text": "to school",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -58,15 +34,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "shops.",
+          "text": "to the shops.",
           "role": "地点状语"
         }
       ]
@@ -123,38 +91,18 @@
         },
         {
           "text": "children",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": "系动词"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "school,",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "husband",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at school, my husband was",
           "role": "地点状语"
         },
         {
-          "text": "work",
+          "text": "at work",
           "role": "地点状语"
         },
         {
@@ -163,11 +111,11 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "house",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "was",
@@ -175,7 +123,7 @@
         },
         {
           "text": "quiet.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -198,23 +146,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "make",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "meat",
-          "role": "地点状语"
-        },
-        {
-          "text": "pies.",
+          "text": "to make some meat pies.",
           "role": "地点状语"
         }
       ]
@@ -226,48 +158,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In a short time I was busy mixing butter",
           "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "short",
-          "role": "时间状语"
-        },
-        {
-          "text": "time",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "busy",
-          "role": "表语"
-        },
-        {
-          "text": "mixing",
-          "role": "谓语"
-        },
-        {
-          "text": "butter",
-          "role": "表语"
         },
         {
           "text": "and",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "flour",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -275,11 +175,11 @@
         },
         {
           "text": "my",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "hands",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "were",
@@ -287,22 +187,14 @@
         },
         {
           "text": "soon",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "covered",
           "role": "谓语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "sticky",
-          "role": "介词短语"
-        },
-        {
-          "text": "pastry.",
+          "text": "with sticky pastry.",
           "role": "介词短语"
         }
       ]
@@ -314,32 +206,28 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
-          "role": "时间状语"
-        },
-        {
-          "text": "exactly",
+          "text": "At exactly",
           "role": "时间状语"
         },
         {
           "text": "that",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "moment,",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "telephone",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "rang.",
-          "role": "主语"
+          "role": "宾语"
         }
       ]
     },
@@ -390,32 +278,12 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up the receiver",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "between two sticky fingers",
           "role": "介词短语"
-        },
-        {
-          "text": "receiver",
-          "role": "介词短语"
-        },
-        {
-          "text": "between",
-          "role": "介词短语"
-        },
-        {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "sticky",
-          "role": "介词短语"
-        },
-        {
-          "text": "fingers",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -450,16 +318,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "Helen",
-          "role": "宾语"
-        },
-        {
-          "text": "Bates.",
-          "role": "宾语"
+          "text": "of Helen Bates.",
+          "role": "介词短语"
         }
       ]
     },
@@ -490,32 +350,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to persuade her",
           "role": "地点状语"
         },
         {
-          "text": "persuade",
+          "text": "to ring back later.",
           "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "ring",
-          "role": "地点状语"
-        },
-        {
-          "text": "back",
-          "role": "地点状语"
-        },
-        {
-          "text": "later.",
-          "role": "宾语"
         }
       ]
     },
@@ -526,11 +366,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
-          "role": "时间状语"
-        },
-        {
-          "text": "last",
+          "text": "At last",
           "role": "时间状语"
         },
         {
@@ -542,15 +378,7 @@
           "role": "宾语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "receiver.",
+          "text": "up the receiver.",
           "role": "介词短语"
         }
       ]
@@ -594,27 +422,11 @@
           "role": "表语"
         },
         {
-          "text": "on",
+          "text": "on my fingers,",
           "role": "地点状语"
         },
         {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "fingers,",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "telephone,",
+          "text": "on the telephone,",
           "role": "地点状语"
         },
         {
@@ -622,15 +434,7 @@
           "role": "连词"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "doorknobs.",
+          "text": "on the doorknobs.",
           "role": "地点状语"
         }
       ]
@@ -666,55 +470,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to the kitchen than the doorbell rang loud enough",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "kitchen",
-          "role": "地点状语"
-        },
-        {
-          "text": "than",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "doorbell",
-          "role": "地点状语"
-        },
-        {
-          "text": "rang",
-          "role": "宾语"
-        },
-        {
-          "text": "loud",
-          "role": "宾语"
-        },
-        {
-          "text": "enough",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "wake",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "dead.",
+          "text": "to wake the dead.",
           "role": "地点状语"
         }
       ]
@@ -726,11 +486,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
-          "role": "时间状语"
-        },
-        {
-          "text": "time",
+          "text": "This time",
           "role": "时间状语"
         },
         {
@@ -766,28 +522,12 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to sign",
           "role": "地点状语"
         },
         {
-          "text": "sign",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "registered",
-          "role": "谓语"
-        },
-        {
-          "text": "letter!",
-          "role": "表语"
+          "text": "for a registered letter!",
+          "role": "介词短语"
         }
       ]
     }

@@ -15,7 +15,7 @@
         },
         {
           "text": "great",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "racing",
@@ -54,35 +54,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "drive",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
+          "text": "to drive",
           "role": "地点状语"
         },
         {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "300",
-          "role": "地点状语"
-        },
-        {
-          "text": "miles",
-          "role": "地点状语"
-        },
-        {
-          "text": "per",
-          "role": "地点状语"
-        },
-        {
-          "text": "hour.",
+          "text": "at over 300 miles per hour.",
           "role": "地点状语"
         }
       ]
@@ -102,55 +78,15 @@
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up a new world record",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "new",
-          "role": "介词短语"
-        },
-        {
-          "text": "world",
-          "role": "介词短语"
-        },
-        {
-          "text": "record",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "September",
-          "role": "宾语"
-        },
-        {
-          "text": "1935",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
+          "text": "in September 1935",
           "role": "地点状语"
         },
         {
-          "text": "Bonneville",
-          "role": "地点状语"
-        },
-        {
-          "text": "Salt",
-          "role": "地点状语"
-        },
-        {
-          "text": "Flats,",
-          "role": "地点状语"
-        },
-        {
-          "text": "Utah.",
+          "text": "at Bonneville Salt Flats, Utah.",
           "role": "地点状语"
         }
       ]
@@ -202,11 +138,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "him.",
+          "text": "for him.",
           "role": "介词短语"
         }
       ]
@@ -226,24 +158,12 @@
           "role": "系动词"
         },
         {
-          "text": "over",
-          "role": "介词短语"
+          "text": "over 30 feet",
+          "role": "地点状语"
         },
         {
-          "text": "30",
-          "role": "介词短语"
-        },
-        {
-          "text": "feet",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "length",
-          "role": "介词短语"
+          "text": "in length",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -294,59 +214,11 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of over 304 miles per hour, he had great difficulty",
           "role": "介词短语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "304",
-          "role": "介词短语"
-        },
-        {
-          "text": "miles",
-          "role": "介词短语"
-        },
-        {
-          "text": "per",
-          "role": "介词短语"
-        },
-        {
-          "text": "hour,",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "great",
-          "role": "宾语"
-        },
-        {
-          "text": "difficulty",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "controlling",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "car",
+          "text": "in controlling the car",
           "role": "地点状语"
         },
         {
@@ -390,35 +262,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After his attempt, Campbell was disappointed",
           "role": "时间状语"
         },
         {
-          "text": "his",
-          "role": "时间状语"
-        },
-        {
-          "text": "attempt,",
-          "role": "时间状语"
-        },
-        {
-          "text": "Campbell",
-          "role": "时间状语"
-        },
-        {
-          "text": "was",
-          "role": "主语"
-        },
-        {
-          "text": "disappointed",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "learn",
+          "text": "to learn",
           "role": "地点状语"
         },
         {
@@ -539,7 +387,7 @@
         },
         {
           "text": "average",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "speed",
@@ -610,24 +458,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "600",
-          "role": "介词短语"
-        },
-        {
-          "text": "miles",
-          "role": "介词短语"
-        },
-        {
-          "text": "an",
-          "role": "介词短语"
-        },
-        {
-          "text": "hour.",
-          "role": "介词短语"
+          "text": "over 600 miles an hour.",
+          "role": "地点状语"
         }
       ]
     },
@@ -642,71 +474,11 @@
           "role": "主语"
         },
         {
-          "text": "in",
+          "text": "in his father's footsteps many years later, Sir Malcolm's son, Donald, also set",
           "role": "地点状语"
         },
         {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "father's",
-          "role": "地点状语"
-        },
-        {
-          "text": "footsteps",
-          "role": "地点状语"
-        },
-        {
-          "text": "many",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
-        },
-        {
-          "text": "later,",
-          "role": "宾语"
-        },
-        {
-          "text": "Sir",
-          "role": "宾语"
-        },
-        {
-          "text": "Malcolm's",
-          "role": "宾语"
-        },
-        {
-          "text": "son,",
-          "role": "宾语"
-        },
-        {
-          "text": "Donald,",
-          "role": "宾语"
-        },
-        {
-          "text": "also",
-          "role": "宾语"
-        },
-        {
-          "text": "set",
-          "role": "宾语"
-        },
-        {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "world",
-          "role": "介词短语"
-        },
-        {
-          "text": "record.",
+          "text": "up a world record.",
           "role": "介词短语"
         }
       ]

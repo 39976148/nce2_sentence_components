@@ -18,32 +18,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to travel",
           "role": "地点状语"
         },
         {
-          "text": "travel",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "air",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "great",
-          "role": "地点状语"
-        },
-        {
-          "text": "deal",
-          "role": "宾语"
+          "text": "by air a great deal",
+          "role": "介词短语"
         },
         {
           "text": "when",
@@ -79,30 +59,18 @@
         },
         {
           "text": "parents",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "used",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to live",
           "role": "地点状语"
         },
         {
-          "text": "live",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "South",
-          "role": "地点状语"
-        },
-        {
-          "text": "America",
+          "text": "in South America",
           "role": "地点状语"
         },
         {
@@ -118,36 +86,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to fly there",
           "role": "地点状语"
         },
         {
-          "text": "fly",
+          "text": "from Europe",
           "role": "地点状语"
         },
         {
-          "text": "there",
+          "text": "in the holidays.",
           "role": "地点状语"
-        },
-        {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "Europe",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "holidays.",
-          "role": "宾语"
         }
       ]
     },
@@ -163,11 +111,11 @@
         },
         {
           "text": "flight",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "attendant",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "would",
@@ -182,11 +130,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "me",
+          "text": "of me",
           "role": "介词短语"
         },
         {
@@ -238,20 +182,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to traveling",
           "role": "地点状语"
         },
         {
-          "text": "traveling",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "air",
-          "role": "地点状语"
+          "text": "by air",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -262,36 +198,8 @@
           "role": "表语"
         },
         {
-          "text": "on",
+          "text": "on one occasion have I ever felt frightened.",
           "role": "地点状语"
-        },
-        {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "occasion",
-          "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "I",
-          "role": "表语"
-        },
-        {
-          "text": "ever",
-          "role": "表语"
-        },
-        {
-          "text": "felt",
-          "role": "表语"
-        },
-        {
-          "text": "frightened.",
-          "role": "谓语"
         }
       ]
     },
@@ -302,12 +210,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After taking",
           "role": "时间状语"
-        },
-        {
-          "text": "taking",
-          "role": "主语"
         },
         {
           "text": "off,",
@@ -315,7 +219,7 @@
         },
         {
           "text": "we",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "were",
@@ -330,16 +234,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "city",
-          "role": "介词短语"
+          "text": "over the city",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -394,15 +290,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "airport.",
+          "text": "to the airport.",
           "role": "地点状语"
         }
       ]
@@ -430,43 +318,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to land, a flight attendant told us",
           "role": "地点状语"
         },
         {
-          "text": "land,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "flight",
-          "role": "地点状语"
-        },
-        {
-          "text": "attendant",
-          "role": "地点状语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "us",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "keep",
-          "role": "地点状语"
-        },
-        {
-          "text": "calm",
+          "text": "to keep calm",
           "role": "地点状语"
         },
         {
@@ -474,28 +330,12 @@
           "role": "连词"
         },
         {
-          "text": "to",
+          "text": "to get",
           "role": "地点状语"
         },
         {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "off",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "plane",
-          "role": "地点状语"
-        },
-        {
-          "text": "quietly",
-          "role": "地点状语"
+          "text": "off the plane quietly",
+          "role": "介词短语"
         },
         {
           "text": "as",
@@ -538,19 +378,7 @@
           "role": "主语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "board",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "worried",
+          "text": "on board was worried",
           "role": "谓语"
         },
         {
@@ -570,28 +398,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to find out what had happened.",
           "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "地点状语"
-        },
-        {
-          "text": "out",
-          "role": "地点状语"
-        },
-        {
-          "text": "what",
-          "role": "地点状语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "happened.",
-          "role": "谓语"
         }
       ]
     },
@@ -603,11 +411,11 @@
       "tokens": [
         {
           "text": "Later",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "we",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "learnt",
@@ -631,7 +439,7 @@
         },
         {
           "text": "very",
-          "role": "宾语"
+          "role": "状语"
         },
         {
           "text": "important",
@@ -642,12 +450,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "board.",
-          "role": "宾语"
+          "text": "on board.",
+          "role": "地点状语"
         }
       ]
     },
@@ -663,7 +467,7 @@
         },
         {
           "text": "police",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -702,15 +506,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "plane.",
+          "text": "on the plane.",
           "role": "地点状语"
         }
       ]
@@ -723,11 +519,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "we",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -810,20 +606,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to take",
           "role": "地点状语"
         },
         {
-          "text": "take",
-          "role": "地点状语"
-        },
-        {
-          "text": "off",
-          "role": "地点状语"
-        },
-        {
-          "text": "again.",
-          "role": "地点状语"
+          "text": "off again.",
+          "role": "介词短语"
         }
       ]
     }

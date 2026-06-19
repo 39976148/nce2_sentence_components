@@ -38,11 +38,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
-          "role": "时间状语"
-        },
-        {
-          "text": "summer,",
+          "text": "Last summer,",
           "role": "时间状语"
         },
         {
@@ -54,11 +50,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Italy.",
+          "text": "to Italy.",
           "role": "地点状语"
         }
       ]
@@ -90,15 +82,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "public",
-          "role": "地点状语"
-        },
-        {
-          "text": "gardens.",
+          "text": "in public gardens.",
           "role": "地点状语"
         }
       ]
@@ -115,23 +99,23 @@
         },
         {
           "text": "friendly",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "waiter",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "taught",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "me",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "few",
@@ -142,11 +126,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "Italian.",
+          "text": "of Italian.",
           "role": "介词短语"
         }
       ]
@@ -159,11 +139,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "lent",
@@ -258,11 +238,7 @@
           "role": "谓语"
         },
         {
-          "text": "about",
-          "role": "介词短语"
-        },
-        {
-          "text": "postcards.",
+          "text": "about postcards.",
           "role": "介词短语"
         }
       ]
@@ -279,7 +255,7 @@
         },
         {
           "text": "holidays",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "passed",
@@ -314,15 +290,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "friends.",
+          "text": "to my friends.",
           "role": "地点状语"
         }
       ]
@@ -334,40 +302,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On the last day I made a big decision.",
           "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "last",
-          "role": "时间状语"
-        },
-        {
-          "text": "day",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "made",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "big",
-          "role": "宾语"
-        },
-        {
-          "text": "decision.",
-          "role": "宾语"
         }
       ]
     },
@@ -386,11 +322,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "early",
+          "text": "up early",
           "role": "介词短语"
         },
         {
@@ -438,16 +370,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "room,",
-          "role": "宾语"
+          "text": "in my room,",
+          "role": "地点状语"
         },
         {
           "text": "but",

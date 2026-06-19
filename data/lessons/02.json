@@ -42,20 +42,12 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up early",
           "role": "介词短语"
         },
         {
-          "text": "early",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "Sundays.",
-          "role": "介词短语"
+          "text": "on Sundays.",
+          "role": "地点状语"
         }
       ]
     },
@@ -78,19 +70,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "bed",
-          "role": "地点状语"
-        },
-        {
-          "text": "until",
-          "role": "地点状语"
-        },
-        {
-          "text": "lunchtime.",
+          "text": "in bed until lunchtime.",
           "role": "地点状语"
         }
       ]
@@ -102,11 +82,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
-          "role": "时间状语"
-        },
-        {
-          "text": "Sunday",
+          "text": "Last Sunday",
           "role": "时间状语"
         },
         {
@@ -118,15 +94,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "very",
-          "role": "介词短语"
-        },
-        {
-          "text": "late.",
+          "text": "up very late.",
           "role": "介词短语"
         }
       ]
@@ -150,15 +118,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "window.",
+          "text": "of the window.",
           "role": "介词短语"
         }
       ]
@@ -310,20 +270,8 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by train,' she said.",
           "role": "介词短语"
-        },
-        {
-          "text": "train,'",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -346,48 +294,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to see you.' 'But I am still having breakfast,' I said.",
           "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "you.'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'But",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "am",
-          "role": "谓语"
-        },
-        {
-          "text": "still",
-          "role": "表语"
-        },
-        {
-          "text": "having",
-          "role": "谓语"
-        },
-        {
-          "text": "breakfast,'",
-          "role": "表语"
-        },
-        {
-          "text": "I",
-          "role": "表语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },

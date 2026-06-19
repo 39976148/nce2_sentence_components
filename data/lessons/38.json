@@ -15,15 +15,15 @@
         },
         {
           "text": "old",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "friend,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Harrison,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -34,28 +34,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the Mediterranean",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Mediterranean",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "many",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
+          "text": "for many years",
+          "role": "介词短语"
         },
         {
           "text": "before",
@@ -63,18 +47,14 @@
         },
         {
           "text": "he",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "returned",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "England.",
+          "text": "to England.",
           "role": "地点状语"
         }
       ]
@@ -102,20 +82,12 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of retiring",
           "role": "介词短语"
         },
         {
-          "text": "retiring",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "England",
-          "role": "介词短语"
+          "text": "in England",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -130,28 +102,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to settle",
           "role": "地点状语"
         },
         {
-          "text": "settle",
-          "role": "地点状语"
-        },
-        {
-          "text": "down",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "country.",
-          "role": "地点状语"
+          "text": "down in the country.",
+          "role": "介词短语"
         }
       ]
     },
@@ -210,15 +166,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "live",
-          "role": "地点状语"
-        },
-        {
-          "text": "there.",
+          "text": "to live there.",
           "role": "地点状语"
         }
       ]
@@ -246,64 +194,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to complain",
           "role": "地点状语"
         },
         {
-          "text": "complain",
-          "role": "地点状语"
+          "text": "about the weather,",
+          "role": "介词短语"
         },
         {
-          "text": "about",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "weather,",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "even",
-          "role": "宾语"
-        },
-        {
-          "text": "though",
-          "role": "宾语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "still",
-          "role": "宾语"
-        },
-        {
-          "text": "summer,",
-          "role": "宾语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "rained",
-          "role": "谓语"
-        },
-        {
-          "text": "continually",
-          "role": "宾语"
+          "text": "for even though it was still summer, it rained continually",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -339,43 +239,23 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "so",
-          "role": "时间状语"
+          "role": "连词"
         },
         {
           "text": "many",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "years",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "sunshine,",
-          "role": "介词短语"
-        },
-        {
-          "text": "Harrison",
-          "role": "介词短语"
-        },
-        {
-          "text": "got",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
           "role": "宾语"
         },
         {
-          "text": "shock.",
-          "role": "宾语"
+          "text": "of sunshine, Harrison got a shock.",
+          "role": "介词短语"
         }
       ]
     },
@@ -418,16 +298,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "England",
+          "text": "in England",
           "role": "地点状语"
         },
         {
           "text": "before.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -438,15 +314,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "end,",
+          "text": "In the end,",
           "role": "时间状语"
         },
         {
@@ -506,16 +374,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "settle",
+          "text": "to settle",
           "role": "地点状语"
         },
         {
           "text": "down",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "when",
@@ -567,11 +431,11 @@
         },
         {
           "text": "dream",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -626,23 +490,7 @@
           "role": "谓语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "everything",
-          "role": "介词短语"
-        },
-        {
-          "text": "except",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "weather.",
+          "text": "of everything except the weather.",
           "role": "介词短语"
         }
       ]

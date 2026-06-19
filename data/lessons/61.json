@@ -15,79 +15,39 @@
         },
         {
           "text": "Hubble",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "telescope",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "launched",
           "role": "谓语"
         },
         {
-          "text": "into",
+          "text": "into space",
           "role": "地点状语"
         },
         {
-          "text": "space",
+          "text": "by NASA",
+          "role": "介词短语"
+        },
+        {
+          "text": "on April 20,1990",
           "role": "地点状语"
         },
         {
-          "text": "by",
+          "text": "at a cost",
           "role": "地点状语"
         },
         {
-          "text": "NASA",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "April",
-          "role": "地点状语"
-        },
-        {
-          "text": "20,1990",
-          "role": "表语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "cost",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "billion",
-          "role": "表语"
-        },
-        {
-          "text": "dollars.",
-          "role": "表语"
+          "text": "of over a billion dollars.",
+          "role": "介词短语"
         }
       ]
     },
@@ -102,39 +62,11 @@
           "role": "主语"
         },
         {
-          "text": "from",
+          "text": "from the start there was trouble",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "start",
-          "role": "地点状语"
-        },
-        {
-          "text": "there",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "trouble",
-          "role": "宾语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Hubble.",
+          "text": "with the Hubble.",
           "role": "介词短语"
         }
       ]
@@ -151,23 +83,23 @@
         },
         {
           "text": "pictures",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "sent",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "us",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "very",
@@ -183,15 +115,15 @@
         },
         {
           "text": "its",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "main",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "mirror",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "was",
@@ -199,7 +131,7 @@
         },
         {
           "text": "faulty!",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -226,23 +158,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "put",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "telescope",
-          "role": "地点状语"
-        },
-        {
-          "text": "right,",
+          "text": "to put the telescope right,",
           "role": "地点状语"
         },
         {
@@ -270,28 +186,12 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up four astronauts",
           "role": "介词短语"
         },
         {
-          "text": "four",
-          "role": "介词短语"
-        },
-        {
-          "text": "astronauts",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "repair",
-          "role": "介词短语"
-        },
-        {
-          "text": "it.",
-          "role": "介词短语"
+          "text": "to repair it.",
+          "role": "地点状语"
         }
       ]
     },
@@ -307,11 +207,11 @@
         },
         {
           "text": "shuttle",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Endeavour",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -334,16 +234,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "Hubble.",
-          "role": "宾语"
+          "text": "to the Hubble.",
+          "role": "地点状语"
         }
       ]
     },
@@ -359,35 +251,11 @@
         },
         {
           "text": "robot-arm",
-          "role": "主语"
-        },
-        {
-          "text": "from",
-          "role": "主语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "Endeavour",
-          "role": "主语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "grab",
           "role": "宾语"
         },
         {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "telescope",
-          "role": "宾语"
+          "text": "from the Endeavour will grab the telescope",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -438,40 +306,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Of",
+          "text": "Of course, the Hubble is above the earth's atmosphere,",
           "role": "介词短语"
-        },
-        {
-          "text": "course,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Hubble",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "above",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "earth's",
-          "role": "宾语"
-        },
-        {
-          "text": "atmosphere,",
-          "role": "宾语"
         },
         {
           "text": "so",
@@ -514,16 +350,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "stars",
-          "role": "宾语"
+          "text": "of the stars",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -571,7 +399,7 @@
         },
         {
           "text": "Hubble",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -598,16 +426,8 @@
           "role": "宾语"
         },
         {
-          "text": "about",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "age",
-          "role": "宾语"
+          "text": "about the age",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -618,15 +438,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "universe.",
+          "text": "of the universe.",
           "role": "介词短语"
         }
       ]
@@ -638,64 +450,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
+          "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "time",
-          "role": "介词短语"
-        },
-        {
-          "text": "you",
-          "role": "介词短语"
-        },
-        {
-          "text": "read",
-          "role": "介词短语"
-        },
-        {
-          "text": "this,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "Hubble's",
-          "role": "宾语"
-        },
-        {
-          "text": "eagle",
-          "role": "宾语"
-        },
-        {
-          "text": "eye",
-          "role": "宾语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "sent",
-          "role": "宾语"
-        },
-        {
-          "text": "us",
-          "role": "宾语"
-        },
-        {
-          "text": "thousands",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -706,15 +462,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "wonderful",
-          "role": "介词短语"
-        },
-        {
-          "text": "pictures.",
+          "text": "of wonderful pictures.",
           "role": "介词短语"
         }
       ]

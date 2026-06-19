@@ -15,23 +15,23 @@
         },
         {
           "text": "aunt",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Jennifer",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "actress.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -54,23 +54,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "least",
-          "role": "地点状语"
-        },
-        {
-          "text": "thirty-five",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
-        },
-        {
-          "text": "old.",
+          "text": "at least thirty-five years old.",
           "role": "地点状语"
         }
       ]
@@ -82,43 +66,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In spite",
           "role": "时间状语"
         },
         {
-          "text": "spite",
-          "role": "时间状语"
+          "text": "of this, she often appears",
+          "role": "介词短语"
         },
         {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "this,",
-          "role": "时间状语"
-        },
-        {
-          "text": "she",
-          "role": "主语"
-        },
-        {
-          "text": "often",
-          "role": "状语"
-        },
-        {
-          "text": "appears",
-          "role": "宾语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "stage",
+          "text": "on the stage",
           "role": "地点状语"
         },
         {
@@ -158,36 +114,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to take part",
           "role": "地点状语"
         },
         {
-          "text": "take",
+          "text": "in a new play soon.",
           "role": "地点状语"
-        },
-        {
-          "text": "part",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "play",
-          "role": "谓语"
-        },
-        {
-          "text": "soon.",
-          "role": "宾语"
         }
       ]
     },
@@ -198,11 +130,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
-          "role": "时间状语"
-        },
-        {
-          "text": "time,",
+          "text": "This time,",
           "role": "时间状语"
         },
         {
@@ -226,12 +154,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "seventeen.",
-          "role": "宾语"
+          "text": "of seventeen.",
+          "role": "介词短语"
         }
       ]
     },
@@ -242,47 +166,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In the play, she must appear",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "play,",
-          "role": "主语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "must",
-          "role": "谓语"
-        },
-        {
-          "text": "appear",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "bright",
-          "role": "地点状语"
-        },
-        {
-          "text": "red",
-          "role": "地点状语"
-        },
-        {
-          "text": "dress",
+          "text": "in a bright red dress",
           "role": "地点状语"
         },
         {
@@ -310,47 +198,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
+          "text": "Last year",
           "role": "时间状语"
         },
         {
-          "text": "year",
-          "role": "时间状语"
-        },
-        {
-          "text": "in",
+          "text": "in another play, she had",
           "role": "地点状语"
         },
         {
-          "text": "another",
-          "role": "地点状语"
-        },
-        {
-          "text": "play,",
-          "role": "谓语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "wear",
-          "role": "地点状语"
-        },
-        {
-          "text": "short",
-          "role": "地点状语"
-        },
-        {
-          "text": "socks",
+          "text": "to wear short socks",
           "role": "地点状语"
         },
         {
@@ -450,19 +306,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "grown",
-          "role": "地点状语"
-        },
-        {
-          "text": "up!'",
+          "text": "to be grown up!'",
           "role": "地点状语"
         }
       ]

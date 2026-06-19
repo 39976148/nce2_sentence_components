@@ -26,20 +26,8 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "sister",
-          "role": "宾语"
-        },
-        {
-          "text": "yesterday.",
-          "role": "宾语"
+          "text": "from my sister yesterday.",
+          "role": "地点状语"
         }
       ]
     },
@@ -58,11 +46,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Nigeria.",
+          "text": "in Nigeria.",
           "role": "地点状语"
         }
       ]
@@ -74,28 +58,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In her letter, she said",
           "role": "时间状语"
-        },
-        {
-          "text": "her",
-          "role": "时间状语"
-        },
-        {
-          "text": "letter,",
-          "role": "时间状语"
-        },
-        {
-          "text": "she",
-          "role": "主语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
         },
         {
           "text": "that",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "she",
@@ -110,19 +78,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "England",
-          "role": "地点状语"
-        },
-        {
-          "text": "next",
-          "role": "地点状语"
-        },
-        {
-          "text": "year.",
+          "text": "to England next year.",
           "role": "地点状语"
         }
       ]
@@ -190,36 +146,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in a beautiful new house",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "in the country.",
           "role": "地点状语"
-        },
-        {
-          "text": "beautiful",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "house",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "country.",
-          "role": "表语"
         }
       ]
     },
@@ -235,11 +167,11 @@
         },
         {
           "text": "on",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -250,20 +182,8 @@
           "role": "宾语"
         },
         {
-          "text": "before",
+          "text": "before my sister left.",
           "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "sister",
-          "role": "介词短语"
-        },
-        {
-          "text": "left.",
-          "role": "谓语"
         }
       ]
     },
@@ -279,11 +199,11 @@
         },
         {
           "text": "house",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "completed",
@@ -291,15 +211,15 @@
         },
         {
           "text": "five",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "months",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "ago.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -310,32 +230,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In my letter, I told her",
           "role": "时间状语"
-        },
-        {
-          "text": "my",
-          "role": "时间状语"
-        },
-        {
-          "text": "letter,",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "her",
-          "role": "宾语"
         },
         {
           "text": "that",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "she",
@@ -350,11 +250,7 @@
           "role": "宾语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "us.",
+          "text": "with us.",
           "role": "介词短语"
         }
       ]
@@ -371,7 +267,7 @@
         },
         {
           "text": "house",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -435,7 +331,7 @@
         },
         {
           "text": "very",
-          "role": "表语"
+          "role": "状语"
         },
         {
           "text": "modern",
@@ -462,15 +358,7 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "people.",
+          "text": "to some people.",
           "role": "地点状语"
         }
       ]
@@ -510,16 +398,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "district.",
-          "role": "宾语"
+          "text": "in the district.",
+          "role": "地点状语"
         }
       ]
     }

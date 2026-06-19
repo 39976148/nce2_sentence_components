@@ -10,56 +10,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At a village fair, I decided",
           "role": "时间状语"
         },
         {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "village",
-          "role": "时间状语"
-        },
-        {
-          "text": "fair,",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "decided",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to visit a fortune-teller called Madam Bellinsky.",
           "role": "地点状语"
-        },
-        {
-          "text": "visit",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "fortune-teller",
-          "role": "地点状语"
-        },
-        {
-          "text": "called",
-          "role": "谓语"
-        },
-        {
-          "text": "Madam",
-          "role": "宾语"
-        },
-        {
-          "text": "Bellinsky.",
-          "role": "宾语"
         }
       ]
     },
@@ -78,15 +34,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "tent",
+          "text": "into her tent",
           "role": "地点状语"
         },
         {
@@ -106,16 +54,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sit",
+          "text": "to sit",
           "role": "地点状语"
         },
         {
           "text": "down.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -127,11 +71,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -162,19 +106,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "crystal",
-          "role": "地点状语"
-        },
-        {
-          "text": "ball",
+          "text": "into a crystal ball",
           "role": "地点状语"
         },
         {
@@ -194,31 +126,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of yours is coming",
           "role": "介词短语"
         },
         {
-          "text": "yours",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "coming",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "you.",
+          "text": "to see you.",
           "role": "地点状语"
         }
       ]
@@ -246,12 +158,8 @@
           "role": "谓语"
         },
         {
-          "text": "this",
+          "text": "this evening",
           "role": "宾语"
-        },
-        {
-          "text": "evening",
-          "role": "谓语"
         },
         {
           "text": "and",
@@ -262,28 +170,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to stay",
           "role": "地点状语"
         },
         {
-          "text": "stay",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "few",
-          "role": "地点状语"
-        },
-        {
-          "text": "days.",
-          "role": "地点状语"
+          "text": "for a few days.",
+          "role": "介词短语"
         }
       ]
     },
@@ -299,11 +191,11 @@
         },
         {
           "text": "moment",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "leave",
@@ -355,11 +247,11 @@
         },
         {
           "text": "woman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "know",
@@ -407,11 +299,11 @@
         },
         {
           "text": "to",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "you",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -442,15 +334,7 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "place.",
+          "text": "from this place.",
           "role": "地点状语"
         }
       ]
@@ -463,15 +347,15 @@
       "tokens": [
         {
           "text": "That",
-          "role": "时间状语"
-        },
-        {
-          "text": "is",
           "role": "主语"
         },
         {
+          "text": "is",
+          "role": "系动词"
+        },
+        {
           "text": "all.'",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "As",
@@ -479,7 +363,7 @@
         },
         {
           "text": "soon",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "as",
@@ -487,7 +371,7 @@
         },
         {
           "text": "I",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "went",
@@ -495,30 +379,22 @@
         },
         {
           "text": "outside,",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "I",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "forgot",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "all",
-          "role": "宾语"
+          "role": "表语"
         },
         {
-          "text": "about",
-          "role": "介词短语"
-        },
-        {
-          "text": "Madam",
-          "role": "介词短语"
-        },
-        {
-          "text": "Bellinsky",
+          "text": "about Madam Bellinsky",
           "role": "介词短语"
         },
         {
@@ -527,11 +403,11 @@
         },
         {
           "text": "my",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "wife",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "hurried",
@@ -539,11 +415,11 @@
         },
         {
           "text": "towards",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "me.",
-          "role": "宾语"
+          "role": "表语"
         }
       ]
     },
@@ -614,23 +490,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "less",
-          "role": "地点状语"
-        },
-        {
-          "text": "than",
-          "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "地点状语"
-        },
-        {
-          "text": "hour",
+          "text": "in less than an hour",
           "role": "地点状语"
         },
         {
@@ -650,27 +510,11 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at the station",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "station",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "meet",
-          "role": "地点状语"
-        },
-        {
-          "text": "her.",
+          "text": "to meet her.",
           "role": "地点状语"
         }
       ]
@@ -730,16 +574,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "fair.",
-          "role": "表语"
+          "text": "of the fair.",
+          "role": "介词短语"
         }
       ]
     }

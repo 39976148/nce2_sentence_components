@@ -15,23 +15,23 @@
         },
         {
           "text": "former",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Prime",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Minister,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Mr.",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Wentworth",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Lane,",
@@ -46,19 +46,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "recent",
-          "role": "地点状语"
-        },
-        {
-          "text": "elections.",
+          "text": "in the recent elections.",
           "role": "地点状语"
         }
       ]
@@ -86,15 +74,7 @@
           "role": "谓语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "political",
-          "role": "地点状语"
-        },
-        {
-          "text": "life",
+          "text": "from political life",
           "role": "地点状语"
         },
         {
@@ -127,11 +107,11 @@
         },
         {
           "text": "friend,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Patrick,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -158,28 +138,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "Mr.",
-          "role": "宾语"
-        },
-        {
-          "text": "Lane's",
-          "role": "宾语"
-        },
-        {
-          "text": "Radical",
-          "role": "宾语"
-        },
-        {
-          "text": "Progressive",
-          "role": "宾语"
-        },
-        {
-          "text": "Party.",
-          "role": "宾语"
+          "text": "of Mr. Lane's Radical Progressive Party.",
+          "role": "介词短语"
         }
       ]
     },
@@ -190,47 +150,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After the elections, Patrick went",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "elections,",
-          "role": "时间状语"
-        },
-        {
-          "text": "Patrick",
-          "role": "时间状语"
-        },
-        {
-          "text": "went",
-          "role": "主语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "former",
-          "role": "地点状语"
-        },
-        {
-          "text": "Prime",
-          "role": "地点状语"
-        },
-        {
-          "text": "Minister's",
-          "role": "地点状语"
-        },
-        {
-          "text": "house.",
+          "text": "to the former Prime Minister's house.",
           "role": "地点状语"
         }
       ]
@@ -243,11 +167,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "asked",
@@ -282,20 +206,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "duty",
-          "role": "宾语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
+          "text": "on duty told him",
+          "role": "地点状语"
         },
         {
           "text": "that",
@@ -346,43 +258,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On the following day, Patrick went",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "following",
-          "role": "主语"
-        },
-        {
-          "text": "day,",
-          "role": "宾语"
-        },
-        {
-          "text": "Patrick",
-          "role": "宾语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "house",
-          "role": "地点状语"
-        },
-        {
-          "text": "again.",
+          "text": "to the house again.",
           "role": "地点状语"
         }
       ]
@@ -399,19 +279,19 @@
         },
         {
           "text": "same",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "policeman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "just",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "walking",
@@ -423,15 +303,15 @@
         },
         {
           "text": "past",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "entrance,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "when",
@@ -439,7 +319,7 @@
         },
         {
           "text": "Patrick",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "asked",
@@ -447,15 +327,15 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "same",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "question.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -482,11 +362,7 @@
           "role": "宾语"
         },
         {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "time,",
+          "text": "this time,",
           "role": "宾语"
         },
         {
@@ -531,38 +407,14 @@
         },
         {
           "text": "day",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "after,",
-          "role": "主语"
+          "text": "after, Patrick went",
+          "role": "介词短语"
         },
         {
-          "text": "Patrick",
-          "role": "主语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "house",
-          "role": "地点状语"
-        },
-        {
-          "text": "once",
-          "role": "地点状语"
-        },
-        {
-          "text": "more",
+          "text": "to the house once more",
           "role": "地点状语"
         },
         {
@@ -598,11 +450,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
-          "role": "时间状语"
-        },
-        {
-          "text": "time,",
+          "text": "This time,",
           "role": "时间状语"
         },
         {
@@ -611,19 +459,19 @@
         },
         {
           "text": "policeman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "lost",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "his",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "temper.",
-          "role": "主语"
+          "role": "宾语"
         }
       ]
     },
@@ -662,47 +510,11 @@
           "role": "宾语"
         },
         {
-          "text": "before",
-          "role": "宾语"
+          "text": "before yesterday,' he shouted, 'Mr. Lane was defeated",
+          "role": "介词短语"
         },
         {
-          "text": "yesterday,'",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "shouted,",
-          "role": "谓语"
-        },
-        {
-          "text": "'Mr.",
-          "role": "宾语"
-        },
-        {
-          "text": "Lane",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "defeated",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "elections.",
+          "text": "in the elections.",
           "role": "地点状语"
         }
       ]
@@ -726,15 +538,7 @@
           "role": "谓语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "political",
-          "role": "地点状语"
-        },
-        {
-          "text": "life",
+          "text": "from political life",
           "role": "地点状语"
         },
         {
@@ -746,64 +550,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to live abroad!\" 'I know,' answered Patrick, 'but I love",
           "role": "地点状语"
         },
         {
-          "text": "live",
+          "text": "to hear you say it!'",
           "role": "地点状语"
-        },
-        {
-          "text": "abroad!\"",
-          "role": "地点状语"
-        },
-        {
-          "text": "'I",
-          "role": "地点状语"
-        },
-        {
-          "text": "know,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "answered",
-          "role": "谓语"
-        },
-        {
-          "text": "Patrick,",
-          "role": "宾语"
-        },
-        {
-          "text": "'but",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "love",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "hear",
-          "role": "地点状语"
-        },
-        {
-          "text": "you",
-          "role": "地点状语"
-        },
-        {
-          "text": "say",
-          "role": "谓语"
-        },
-        {
-          "text": "it!'",
-          "role": "宾语"
         }
       ]
     }

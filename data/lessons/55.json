@@ -14,36 +14,8 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of finding lost treasure almost came true recently.",
           "role": "介词短语"
-        },
-        {
-          "text": "finding",
-          "role": "介词短语"
-        },
-        {
-          "text": "lost",
-          "role": "介词短语"
-        },
-        {
-          "text": "treasure",
-          "role": "介词短语"
-        },
-        {
-          "text": "almost",
-          "role": "介词短语"
-        },
-        {
-          "text": "came",
-          "role": "谓语"
-        },
-        {
-          "text": "true",
-          "role": "宾语"
-        },
-        {
-          "text": "recently.",
-          "role": "宾语"
         }
       ]
     },
@@ -59,11 +31,11 @@
         },
         {
           "text": "new",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "machine",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "called",
@@ -110,43 +82,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to detect gold which has been buried",
           "role": "地点状语"
         },
         {
-          "text": "detect",
-          "role": "地点状语"
-        },
-        {
-          "text": "gold",
-          "role": "地点状语"
-        },
-        {
-          "text": "which",
-          "role": "地点状语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "buried",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ground.",
+          "text": "in the ground.",
           "role": "地点状语"
         }
       ]
@@ -163,82 +103,26 @@
         },
         {
           "text": "machine",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "used",
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in a cave",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "near the seashore where -- it is said -- pirates used",
           "role": "地点状语"
         },
         {
-          "text": "cave",
-          "role": "地点状语"
-        },
-        {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "seashore",
-          "role": "地点状语"
-        },
-        {
-          "text": "where",
-          "role": "表语"
-        },
-        {
-          "text": "--",
-          "role": "表语"
-        },
-        {
-          "text": "it",
-          "role": "表语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "--",
-          "role": "表语"
-        },
-        {
-          "text": "pirates",
-          "role": "表语"
-        },
-        {
-          "text": "used",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "hide",
-          "role": "地点状语"
-        },
-        {
-          "text": "gold.",
+          "text": "to hide gold.",
           "role": "地点状语"
         }
       ]
@@ -255,7 +139,7 @@
         },
         {
           "text": "pirates",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "would",
@@ -274,15 +158,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "cave",
+          "text": "in the cave",
           "role": "地点状语"
         },
         {
@@ -298,15 +174,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "collect",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to collect it.",
           "role": "地点状语"
         }
       ]
@@ -322,68 +190,16 @@
           "role": "主语"
         },
         {
-          "text": "with",
+          "text": "with the new machine, a search party went",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "new",
-          "role": "介词短语"
-        },
-        {
-          "text": "machine,",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "search",
-          "role": "介词短语"
-        },
-        {
-          "text": "party",
-          "role": "宾语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "into",
+          "text": "into the cave hoping",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to find buried treasure.",
           "role": "地点状语"
-        },
-        {
-          "text": "cave",
-          "role": "地点状语"
-        },
-        {
-          "text": "hoping",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "地点状语"
-        },
-        {
-          "text": "buried",
-          "role": "谓语"
-        },
-        {
-          "text": "treasure.",
-          "role": "宾语"
         }
       ]
     },
@@ -399,58 +215,18 @@
         },
         {
           "text": "leader",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "主语"
+          "text": "of the party was examining the soil",
+          "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "party",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "examining",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "soil",
-          "role": "表语"
-        },
-        {
-          "text": "near",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "entrance",
-          "role": "表语"
-        },
-        {
-          "text": "to",
+          "text": "near the entrance",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "cave",
+          "text": "to the cave",
           "role": "地点状语"
         },
         {
@@ -459,11 +235,11 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "machine",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "showed",
@@ -475,7 +251,7 @@
         },
         {
           "text": "there",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "was",
@@ -483,19 +259,11 @@
         },
         {
           "text": "gold",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "under",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "ground.",
-          "role": "介词短语"
+          "text": "under the ground.",
+          "role": "地点状语"
         }
       ]
     },
@@ -611,11 +379,11 @@
         },
         {
           "text": "party",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "then",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "searched",
@@ -686,36 +454,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In spite",
           "role": "时间状语"
         },
         {
-          "text": "spite",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "this,",
-          "role": "时间状语"
-        },
-        {
-          "text": "many",
-          "role": "主语"
-        },
-        {
-          "text": "people",
-          "role": "宾语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "confident",
-          "role": "宾语"
+          "text": "of this, many people are confident",
+          "role": "介词短语"
         },
         {
           "text": "that",
@@ -742,19 +486,7 @@
           "role": "谓语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "value",
-          "role": "介词短语"
-        },
-        {
-          "text": "fairly",
-          "role": "介词短语"
-        },
-        {
-          "text": "soon.",
+          "text": "of value fairly soon.",
           "role": "介词短语"
         }
       ]

@@ -14,80 +14,24 @@
           "role": "主语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "sleeping",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "floor,",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "young",
-          "role": "宾语"
-        },
-        {
-          "text": "man",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Teheran",
-          "role": "地点状语"
-        },
-        {
-          "text": "saved",
+          "text": "of sleeping",
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "on the floor, a young man",
+          "role": "地点状语"
+        },
+        {
+          "text": "in Teheran saved",
+          "role": "地点状语"
+        },
+        {
+          "text": "up for years",
           "role": "介词短语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "years",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "buy",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "real",
-          "role": "宾语"
-        },
-        {
-          "text": "bed.",
-          "role": "宾语"
+          "text": "to buy a real bed.",
+          "role": "地点状语"
         }
       ]
     },
@@ -98,76 +42,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "For",
+          "text": "For the first time",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "in his life, he became the proud owner",
+          "role": "地点状语"
+        },
+        {
+          "text": "of a bed which had springs",
           "role": "介词短语"
-        },
-        {
-          "text": "first",
-          "role": "介词短语"
-        },
-        {
-          "text": "time",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "life,",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "became",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "proud",
-          "role": "宾语"
-        },
-        {
-          "text": "owner",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "bed",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "springs",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -230,31 +114,11 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
+          "text": "on to the roof",
+          "role": "地点状语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "roof",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "house.",
+          "text": "of his house.",
           "role": "介词短语"
         }
       ]
@@ -282,23 +146,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "first",
-          "role": "介词短语"
-        },
-        {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "nights,",
+          "text": "for the first two nights,",
           "role": "介词短语"
         },
         {
@@ -306,32 +154,8 @@
           "role": "连词"
         },
         {
-          "text": "on",
+          "text": "on the third night, a storm blew",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "third",
-          "role": "地点状语"
-        },
-        {
-          "text": "night,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "storm",
-          "role": "地点状语"
-        },
-        {
-          "text": "blew",
-          "role": "宾语"
         },
         {
           "text": "up.",
@@ -351,38 +175,14 @@
         },
         {
           "text": "gust",
-          "role": "主语"
-        },
-        {
-          "text": "of",
-          "role": "主语"
-        },
-        {
-          "text": "wind",
-          "role": "主语"
-        },
-        {
-          "text": "swept",
-          "role": "主语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "bed",
           "role": "宾语"
         },
         {
-          "text": "off",
+          "text": "of wind swept the bed",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "roof",
+          "text": "off the roof",
           "role": "介词短语"
         },
         {
@@ -402,19 +202,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "courtyard",
-          "role": "地点状语"
-        },
-        {
-          "text": "below.",
+          "text": "into the courtyard below.",
           "role": "地点状语"
         }
       ]
@@ -431,11 +219,11 @@
         },
         {
           "text": "young",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "did",
@@ -443,43 +231,15 @@
         },
         {
           "text": "not",
-          "role": "状语"
+          "role": "宾语"
         },
         {
           "text": "wake",
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up until the bed had struck the ground.",
           "role": "介词短语"
-        },
-        {
-          "text": "until",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "bed",
-          "role": "介词短语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "struck",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "ground.",
-          "role": "宾语"
         }
       ]
     },
@@ -510,32 +270,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to pieces, the man was miraculously unhurt.",
           "role": "地点状语"
-        },
-        {
-          "text": "pieces,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "man",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "miraculously",
-          "role": "宾语"
-        },
-        {
-          "text": "unhurt.",
-          "role": "宾语"
         }
       ]
     },
@@ -547,11 +283,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "woke",
@@ -563,7 +299,7 @@
         },
         {
           "text": "he",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "was",
@@ -574,15 +310,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mattress.",
+          "text": "on the mattress.",
           "role": "地点状语"
         }
       ]
@@ -598,24 +326,12 @@
           "role": "主语"
         },
         {
-          "text": "at",
+          "text": "at the bits",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bits",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "wood",
-          "role": "地点状语"
+          "text": "of wood",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -634,39 +350,11 @@
           "role": "宾语"
         },
         {
-          "text": "around",
-          "role": "介词短语"
+          "text": "around him, the man sadly picked",
+          "role": "地点状语"
         },
         {
-          "text": "him,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "man",
-          "role": "介词短语"
-        },
-        {
-          "text": "sadly",
-          "role": "介词短语"
-        },
-        {
-          "text": "picked",
-          "role": "谓语"
-        },
-        {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "mattress",
+          "text": "up the mattress",
           "role": "介词短语"
         },
         {
@@ -682,15 +370,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "house.",
+          "text": "into his house.",
           "role": "地点状语"
         }
       ]
@@ -703,11 +383,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -722,39 +402,11 @@
           "role": "宾语"
         },
         {
-          "text": "on",
+          "text": "on the floor, he promptly went",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "floor,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "promptly",
-          "role": "地点状语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sleep",
-          "role": "地点状语"
-        },
-        {
-          "text": "again.",
+          "text": "to sleep again.",
           "role": "地点状语"
         }
       ]

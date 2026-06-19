@@ -15,38 +15,18 @@
         },
         {
           "text": "dog,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Rex,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "used",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sit",
-          "role": "地点状语"
-        },
-        {
-          "text": "outside",
-          "role": "地点状语"
-        },
-        {
-          "text": "our",
-          "role": "地点状语"
-        },
-        {
-          "text": "front",
-          "role": "地点状语"
-        },
-        {
-          "text": "gate",
+          "text": "to sit outside our front gate",
           "role": "地点状语"
         },
         {
@@ -66,11 +46,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Every",
-          "role": "时间状语"
-        },
-        {
-          "text": "time",
+          "text": "Every time",
           "role": "时间状语"
         },
         {
@@ -82,56 +58,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to come",
           "role": "地点状语"
         },
         {
-          "text": "come",
+          "text": "into the garden he would bark until someone opened the gate.",
           "role": "地点状语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "garden",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "bark",
-          "role": "宾语"
-        },
-        {
-          "text": "until",
-          "role": "宾语"
-        },
-        {
-          "text": "someone",
-          "role": "宾语"
-        },
-        {
-          "text": "opened",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "gate.",
-          "role": "宾语"
         }
       ]
     },
@@ -158,84 +90,24 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of the noise, my husband spent weeks training him",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "noise,",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "husband",
-          "role": "介词短语"
-        },
-        {
-          "text": "spent",
-          "role": "介词短语"
-        },
-        {
-          "text": "weeks",
-          "role": "宾语"
-        },
-        {
-          "text": "training",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to press his paw",
           "role": "地点状语"
         },
         {
-          "text": "press",
+          "text": "on the latch",
           "role": "地点状语"
         },
         {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "paw",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "latch",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "let",
-          "role": "地点状语"
-        },
-        {
-          "text": "himself",
+          "text": "to let himself",
           "role": "地点状语"
         },
         {
           "text": "in.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -266,20 +138,8 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "宾语"
-        },
-        {
-          "text": "opening",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "gate.",
-          "role": "宾语"
+          "text": "at opening the gate.",
+          "role": "地点状语"
         }
       ]
     },
@@ -318,11 +178,7 @@
           "role": "谓语"
         },
         {
-          "text": "last",
-          "role": "宾语"
-        },
-        {
-          "text": "week,",
+          "text": "last week,",
           "role": "宾语"
         },
         {
@@ -338,27 +194,11 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in the garden",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "garden",
-          "role": "地点状语"
-        },
-        {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "gate.",
+          "text": "near the gate.",
           "role": "地点状语"
         }
       ]
@@ -370,11 +210,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
-          "role": "时间状语"
-        },
-        {
-          "text": "time",
+          "text": "This time",
           "role": "时间状语"
         },
         {
@@ -494,35 +330,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "outside,",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "comes",
-          "role": "宾语"
-        },
-        {
-          "text": "into",
+          "text": "from the outside, he comes",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "garden",
+          "text": "into the garden",
           "role": "地点状语"
         },
         {
@@ -559,11 +371,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "sits",
@@ -606,32 +418,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After this he immediately lets himself",
           "role": "时间状语"
-        },
-        {
-          "text": "this",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "immediately",
-          "role": "宾语"
-        },
-        {
-          "text": "lets",
-          "role": "宾语"
-        },
-        {
-          "text": "himself",
-          "role": "宾语"
         },
         {
           "text": "in",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "and",

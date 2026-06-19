@@ -30,12 +30,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "Silbury",
-          "role": "宾语"
+          "text": "in Silbury",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -70,11 +66,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Pinhurst.",
+          "text": "in Pinhurst.",
           "role": "地点状语"
         }
       ]
@@ -106,11 +98,7 @@
           "role": "表语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "Silbury,",
+          "text": "from Silbury,",
           "role": "地点状语"
         },
         {
@@ -142,20 +130,8 @@
           "role": "表语"
         },
         {
-          "text": "for",
-          "role": "表语"
-        },
-        {
-          "text": "his",
-          "role": "表语"
-        },
-        {
-          "text": "new",
-          "role": "表语"
-        },
-        {
-          "text": "garage,",
-          "role": "表语"
+          "text": "for his new garage,",
+          "role": "介词短语"
         },
         {
           "text": "so",
@@ -222,19 +198,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "Pinhurst",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "from Pinhurst",
           "role": "地点状语"
         },
         {
-          "text": "Silbury.",
+          "text": "to Silbury.",
           "role": "地点状语"
         }
       ]
@@ -251,7 +219,7 @@
         },
         {
           "text": "bird",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "covered",
@@ -266,16 +234,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "three",
-          "role": "宾语"
-        },
-        {
-          "text": "minutes.",
-          "role": "宾语"
+          "text": "in three minutes.",
+          "role": "地点状语"
         }
       ]
     },
@@ -286,56 +246,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Up",
+          "text": "Up to now, Mr.Scott has sent a great many requests",
           "role": "介词短语"
         },
         {
-          "text": "to",
+          "text": "for spare parts",
           "role": "介词短语"
-        },
-        {
-          "text": "now,",
-          "role": "介词短语"
-        },
-        {
-          "text": "Mr.Scott",
-          "role": "介词短语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "sent",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "great",
-          "role": "宾语"
-        },
-        {
-          "text": "many",
-          "role": "宾语"
-        },
-        {
-          "text": "requests",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "spare",
-          "role": "宾语"
-        },
-        {
-          "text": "parts",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -354,27 +270,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
+          "text": "from one garage",
           "role": "地点状语"
         },
         {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "garage",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "other.",
+          "text": "to the other.",
           "role": "地点状语"
         }
       ]
@@ -386,48 +286,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In this way, he has begun his own private 'telephone' service.",
           "role": "时间状语"
-        },
-        {
-          "text": "this",
-          "role": "时间状语"
-        },
-        {
-          "text": "way,",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "begun",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "own",
-          "role": "宾语"
-        },
-        {
-          "text": "private",
-          "role": "宾语"
-        },
-        {
-          "text": "'telephone'",
-          "role": "宾语"
-        },
-        {
-          "text": "service.",
-          "role": "宾语"
         }
       ]
     }

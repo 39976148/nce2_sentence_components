@@ -15,23 +15,23 @@
         },
         {
           "text": "whole",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "village",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "soon",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "learnt",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "a",
@@ -46,24 +46,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "money",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "lost.",
-          "role": "宾语"
+          "text": "of money had been lost.",
+          "role": "介词短语"
         }
       ]
     },
@@ -126,20 +110,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "post",
-          "role": "宾语"
-        },
-        {
-          "text": "office.",
-          "role": "宾语"
+          "text": "to the post office.",
+          "role": "地点状语"
         }
       ]
     },
@@ -190,23 +162,11 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by one",
           "role": "介词短语"
         },
         {
-          "text": "one",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "villagers,",
+          "text": "of the villagers,",
           "role": "介词短语"
         },
         {
@@ -230,11 +190,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "him.",
+          "text": "to him.",
           "role": "地点状语"
         }
       ]
@@ -266,11 +222,7 @@
           "role": "宾语"
         },
         {
-          "text": "one",
-          "role": "宾语"
-        },
-        {
-          "text": "morning,",
+          "text": "one morning,",
           "role": "谓语"
         },
         {
@@ -330,15 +282,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "newspaper",
+          "text": "up in newspaper",
           "role": "介词短语"
         },
         {
@@ -382,36 +326,8 @@
           "role": "宾语"
         },
         {
-          "text": "with",
+          "text": "with a note which said: 'A thief, yes,",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "note",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "said:",
-          "role": "谓语"
-        },
-        {
-          "text": "'A",
-          "role": "宾语"
-        },
-        {
-          "text": "thief,",
-          "role": "宾语"
-        },
-        {
-          "text": "yes,",
-          "role": "宾语"
         },
         {
           "text": "but",
@@ -474,60 +390,16 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to Sam",
           "role": "地点状语"
         },
         {
-          "text": "Sam",
+          "text": "with another note: 'Only 25 per cent a thief now!'",
+          "role": "介词短语"
+        },
+        {
+          "text": "In time,",
           "role": "地点状语"
-        },
-        {
-          "text": "with",
-          "role": "地点状语"
-        },
-        {
-          "text": "another",
-          "role": "地点状语"
-        },
-        {
-          "text": "note:",
-          "role": "地点状语"
-        },
-        {
-          "text": "'Only",
-          "role": "地点状语"
-        },
-        {
-          "text": "25",
-          "role": "宾语"
-        },
-        {
-          "text": "per",
-          "role": "宾语"
-        },
-        {
-          "text": "cent",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "thief",
-          "role": "宾语"
-        },
-        {
-          "text": "now!'",
-          "role": "宾语"
-        },
-        {
-          "text": "In",
-          "role": "宾语"
-        },
-        {
-          "text": "time,",
-          "role": "宾语"
         },
         {
           "text": "all",
@@ -554,15 +426,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "way.",
+          "text": "in this way.",
           "role": "地点状语"
         }
       ]
@@ -579,11 +443,11 @@
         },
         {
           "text": "last",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "note",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "said:",

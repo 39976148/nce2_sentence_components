@@ -15,34 +15,18 @@
         },
         {
           "text": "ancient",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "bus",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "stopped",
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "dry",
-          "role": "介词短语"
-        },
-        {
-          "text": "river",
-          "role": "介词短语"
-        },
-        {
-          "text": "bed",
+          "text": "by a dry river bed",
           "role": "介词短语"
         },
         {
@@ -58,16 +42,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "famous",
-          "role": "宾语"
-        },
-        {
-          "text": "actors",
-          "role": "宾语"
+          "text": "of famous actors",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -98,15 +74,7 @@
           "role": "主语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "dark",
-          "role": "地点状语"
-        },
-        {
-          "text": "glasses",
+          "text": "in dark glasses",
           "role": "地点状语"
         },
         {
@@ -250,28 +218,8 @@
           "role": "表语"
         },
         {
-          "text": "for",
-          "role": "表语"
-        },
-        {
-          "text": "a",
-          "role": "表语"
-        },
-        {
-          "text": "picnic,'",
-          "role": "表语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "Gloria",
-          "role": "表语"
-        },
-        {
-          "text": "Gleam.",
-          "role": "表语"
+          "text": "for a picnic,' said Gloria Gleam.",
+          "role": "介词短语"
         }
       ]
     },
@@ -446,32 +394,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to a shady spot",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "under some trees.",
           "role": "地点状语"
-        },
-        {
-          "text": "shady",
-          "role": "地点状语"
-        },
-        {
-          "text": "spot",
-          "role": "地点状语"
-        },
-        {
-          "text": "under",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "trees.",
-          "role": "宾语"
         }
       ]
     },
@@ -483,11 +411,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -570,32 +498,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of here, all",
           "role": "介词短语"
         },
         {
-          "text": "here,",
+          "text": "of you!' he shouted.",
           "role": "介词短语"
-        },
-        {
-          "text": "all",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "you!'",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "shouted.",
-          "role": "谓语"
         }
       ]
     },
@@ -678,71 +586,11 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in case you can not read!' 'Look, sheriff,' said Rockwall, 'do not be too hard",
           "role": "地点状语"
         },
         {
-          "text": "case",
-          "role": "地点状语"
-        },
-        {
-          "text": "you",
-          "role": "地点状语"
-        },
-        {
-          "text": "can",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "read!'",
-          "role": "宾语"
-        },
-        {
-          "text": "'Look,",
-          "role": "宾语"
-        },
-        {
-          "text": "sheriff,'",
-          "role": "宾语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "Rockwall,",
-          "role": "宾语"
-        },
-        {
-          "text": "'do",
-          "role": "宾语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "too",
-          "role": "状语"
-        },
-        {
-          "text": "hard",
-          "role": "宾语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "us.",
+          "text": "on us.",
           "role": "地点状语"
         }
       ]
@@ -814,16 +662,8 @@
           "role": "表语"
         },
         {
-          "text": "with",
-          "role": "表语"
-        },
-        {
-          "text": "a",
-          "role": "表语"
-        },
-        {
-          "text": "sneer.",
-          "role": "表语"
+          "text": "with a sneer.",
+          "role": "介词短语"
         }
       ]
     },
@@ -891,11 +731,11 @@
       "tokens": [
         {
           "text": "Now",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "get",
@@ -906,15 +746,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "here",
-          "role": "介词短语"
-        },
-        {
-          "text": "fast!'",
+          "text": "of here fast!'",
           "role": "介词短语"
         }
       ]

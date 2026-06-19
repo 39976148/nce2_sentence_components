@@ -26,32 +26,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to see a free show -- even",
           "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "free",
-          "role": "地点状语"
-        },
-        {
-          "text": "show",
-          "role": "谓语"
-        },
-        {
-          "text": "--",
-          "role": "宾语"
-        },
-        {
-          "text": "even",
-          "role": "宾语"
         },
         {
           "text": "if",
@@ -87,79 +63,31 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "news",
-          "role": "时间状语"
-        },
-        {
-          "text": "got",
           "role": "主语"
         },
         {
-          "text": "round",
-          "role": "介词短语"
-        },
-        {
-          "text": "that",
-          "role": "连词"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "comedy",
-          "role": "宾语"
-        },
-        {
-          "text": "show",
-          "role": "谓语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "presented",
-          "role": "谓语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "our",
-          "role": "地点状语"
-        },
-        {
-          "text": "local",
-          "role": "地点状语"
-        },
-        {
-          "text": "cinema",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
           "text": "the",
+          "role": "宾语"
+        },
+        {
+          "text": "news",
+          "role": "宾语"
+        },
+        {
+          "text": "got",
+          "role": "谓语"
+        },
+        {
+          "text": "round that a comedy show would be presented",
           "role": "地点状语"
         },
         {
-          "text": "P.",
-          "role": "宾语"
+          "text": "at our local cinema",
+          "role": "地点状语"
+        },
+        {
+          "text": "by the P.",
+          "role": "介词短语"
         }
       ]
     },
@@ -210,15 +138,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to see it.",
           "role": "地点状语"
         }
       ]
@@ -238,32 +158,20 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to queue",
           "role": "地点状语"
         },
         {
-          "text": "queue",
-          "role": "地点状语"
+          "text": "for hours",
+          "role": "介词短语"
         },
         {
-          "text": "for",
+          "text": "to get",
           "role": "地点状语"
-        },
-        {
-          "text": "hours",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
         },
         {
           "text": "in",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -306,20 +214,8 @@
           "role": "宾语"
         },
         {
-          "text": "before",
+          "text": "before the show began.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "show",
-          "role": "谓语"
-        },
-        {
-          "text": "began.",
-          "role": "谓语"
         }
       ]
     },
@@ -350,32 +246,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the dullest we have ever seen.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "dullest",
-          "role": "介词短语"
-        },
-        {
-          "text": "we",
-          "role": "介词短语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "ever",
-          "role": "宾语"
-        },
-        {
-          "text": "seen.",
-          "role": "宾语"
         }
       ]
     },
@@ -391,43 +263,19 @@
         },
         {
           "text": "who",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "failed",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to get",
           "role": "地点状语"
         },
         {
-          "text": "get",
+          "text": "in need not have felt disappointed,",
           "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "need",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "felt",
-          "role": "宾语"
-        },
-        {
-          "text": "disappointed,",
-          "role": "谓语"
         },
         {
           "text": "as",
@@ -438,44 +286,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the artistes who should have appeared did not come.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "artistes",
-          "role": "介词短语"
-        },
-        {
-          "text": "who",
-          "role": "介词短语"
-        },
-        {
-          "text": "should",
-          "role": "谓语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "appeared",
-          "role": "谓语"
-        },
-        {
-          "text": "did",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "come.",
-          "role": "谓语"
         }
       ]
     },
@@ -491,19 +303,19 @@
         },
         {
           "text": "only",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "funny",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "things",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "we",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "heard",
@@ -522,39 +334,15 @@
           "role": "谓语"
         },
         {
-          "text": "from",
+          "text": "from the advertiser",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "at the beginning",
           "role": "地点状语"
         },
         {
-          "text": "advertiser",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "beginning",
-          "role": "谓语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "programme.",
+          "text": "of the programme.",
           "role": "介词短语"
         }
       ]
@@ -590,36 +378,12 @@
           "role": "连词"
         },
         {
-          "text": "for",
+          "text": "for some minutes stood awkwardly",
           "role": "介词短语"
         },
         {
-          "text": "some",
+          "text": "before the microphone.",
           "role": "介词短语"
-        },
-        {
-          "text": "minutes",
-          "role": "介词短语"
-        },
-        {
-          "text": "stood",
-          "role": "介词短语"
-        },
-        {
-          "text": "awkwardly",
-          "role": "介词短语"
-        },
-        {
-          "text": "before",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "microphone.",
-          "role": "表语"
         }
       ]
     },

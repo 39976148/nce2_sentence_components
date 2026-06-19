@@ -11,23 +11,23 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "Ambassador",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "or",
-          "role": "时间状语"
+          "role": "连词"
         },
         {
           "text": "Escalopia",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "returned",
@@ -38,32 +38,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for lunch, his wife got a shock.",
           "role": "介词短语"
-        },
-        {
-          "text": "lunch,",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "wife",
-          "role": "介词短语"
-        },
-        {
-          "text": "got",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "shock.",
-          "role": "宾语"
         }
       ]
     },
@@ -102,19 +78,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "frightful",
-          "role": "地点状语"
-        },
-        {
-          "text": "state.",
+          "text": "in a frightful state.",
           "role": "地点状语"
         }
       ]
@@ -174,56 +138,8 @@
           "role": "谓语"
         },
         {
-          "text": "into",
+          "text": "into such a mess?' 'A fire extinguisher, my dear,' answered the Ambassador drily.",
           "role": "地点状语"
-        },
-        {
-          "text": "such",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "mess?'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'A",
-          "role": "地点状语"
-        },
-        {
-          "text": "fire",
-          "role": "地点状语"
-        },
-        {
-          "text": "extinguisher,",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "dear,'",
-          "role": "宾语"
-        },
-        {
-          "text": "answered",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "Ambassador",
-          "role": "宾语"
-        },
-        {
-          "text": "drily.",
-          "role": "宾语"
         }
       ]
     },
@@ -254,40 +170,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "fire",
-          "role": "宾语"
-        },
-        {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "morning.'",
-          "role": "宾语"
-        },
-        {
-          "text": "'Good",
-          "role": "宾语"
-        },
-        {
-          "text": "heavens!'",
-          "role": "宾语"
-        },
-        {
-          "text": "exclaimed",
-          "role": "谓语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "wife.",
-          "role": "宾语"
+          "text": "on fire this morning.' 'Good heavens!' exclaimed his wife.",
+          "role": "地点状语"
         }
       ]
     },
@@ -314,35 +198,11 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the time?' 'I was",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "time?'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'I",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "office",
+          "text": "in my office",
           "role": "地点状语"
         },
         {
@@ -390,15 +250,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "basement.",
+          "text": "in the basement.",
           "role": "地点状语"
         }
       ]
@@ -418,19 +270,11 @@
           "role": "谓语"
         },
         {
-          "text": "down",
+          "text": "down immediately,",
           "role": "介词短语"
         },
         {
-          "text": "immediately,",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "course,",
+          "text": "of course,",
           "role": "介词短语"
         },
         {
@@ -466,12 +310,8 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "宾语"
-        },
-        {
-          "text": "me.",
-          "role": "宾语"
+          "text": "at me.",
+          "role": "地点状语"
         }
       ]
     },
@@ -498,11 +338,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "fire.",
+          "text": "on fire.",
           "role": "地点状语"
         }
       ]
@@ -558,15 +394,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "asking",
-          "role": "地点状语"
-        },
-        {
-          "text": "questions,",
+          "text": "on asking questions,",
           "role": "地点状语"
         },
         {
@@ -598,20 +426,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "her",
-          "role": "宾语"
-        },
-        {
-          "text": "husband's",
-          "role": "宾语"
-        },
-        {
-          "text": "hat.",
-          "role": "宾语"
+          "text": "in her husband's hat.",
+          "role": "地点状语"
         }
       ]
     },
@@ -706,20 +522,8 @@
           "role": "宾语"
         },
         {
-          "text": "through",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "office",
-          "role": "宾语"
-        },
-        {
-          "text": "window.",
-          "role": "宾语"
+          "text": "through my office window.",
+          "role": "介词短语"
         }
       ]
     },
@@ -782,15 +586,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "at the time.",
           "role": "地点状语"
         }
       ]
@@ -842,24 +638,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to get home",
           "role": "地点状语"
         },
         {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "home",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "lunch.'",
-          "role": "地点状语"
+          "text": "for lunch.'",
+          "role": "介词短语"
         }
       ]
     }

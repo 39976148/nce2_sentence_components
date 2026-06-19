@@ -50,44 +50,12 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on the 8 o'clock train",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to London,' said the man.",
           "role": "地点状语"
-        },
-        {
-          "text": "8",
-          "role": "地点状语"
-        },
-        {
-          "text": "o'clock",
-          "role": "地点状语"
-        },
-        {
-          "text": "train",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "London,'",
-          "role": "宾语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "man.",
-          "role": "宾语"
         }
       ]
     },
@@ -198,23 +166,11 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at work",
           "role": "地点状语"
         },
         {
-          "text": "work",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "10",
-          "role": "地点状语"
-        },
-        {
-          "text": "o'clock.",
+          "text": "at 10 o'clock.",
           "role": "地点状语"
         }
       ]
@@ -231,7 +187,7 @@
         },
         {
           "text": "employer",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -258,64 +214,16 @@
           "role": "宾语"
         },
         {
-          "text": "on",
+          "text": "on time.' 'Would a later train get you",
           "role": "地点状语"
         },
         {
-          "text": "time.'",
+          "text": "to work",
           "role": "地点状语"
         },
         {
-          "text": "'Would",
+          "text": "on time?' asked the inspector.",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "later",
-          "role": "地点状语"
-        },
-        {
-          "text": "train",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
-        },
-        {
-          "text": "you",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "work",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "time?'",
-          "role": "地点状语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "inspector.",
-          "role": "宾语"
         }
       ]
     },
@@ -394,32 +302,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the station?' 'At ten",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to eight.",
           "role": "地点状语"
-        },
-        {
-          "text": "station?'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'At",
-          "role": "地点状语"
-        },
-        {
-          "text": "ten",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "eight.",
-          "role": "宾语"
         }
       ]
     },
@@ -454,104 +342,8 @@
           "role": "谓语"
         },
         {
-          "text": "for",
+          "text": "for the train.' 'And you did not notice anything unusual?' 'Of course not.' 'I suggest,' said the inspector, 'that you are not telling the truth.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "train.'",
-          "role": "介词短语"
-        },
-        {
-          "text": "'And",
-          "role": "介词短语"
-        },
-        {
-          "text": "you",
-          "role": "介词短语"
-        },
-        {
-          "text": "did",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "notice",
-          "role": "宾语"
-        },
-        {
-          "text": "anything",
-          "role": "谓语"
-        },
-        {
-          "text": "unusual?'",
-          "role": "宾语"
-        },
-        {
-          "text": "'Of",
-          "role": "宾语"
-        },
-        {
-          "text": "course",
-          "role": "宾语"
-        },
-        {
-          "text": "not.'",
-          "role": "宾语"
-        },
-        {
-          "text": "'I",
-          "role": "宾语"
-        },
-        {
-          "text": "suggest,'",
-          "role": "宾语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "inspector,",
-          "role": "宾语"
-        },
-        {
-          "text": "'that",
-          "role": "宾语"
-        },
-        {
-          "text": "you",
-          "role": "宾语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "telling",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "truth.",
-          "role": "宾语"
         }
       ]
     },
@@ -650,19 +442,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to work",
           "role": "地点状语"
         },
         {
-          "text": "work",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "on time.",
           "role": "地点状语"
         }
       ]
@@ -682,63 +466,15 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on the morning",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning",
-          "role": "谓语"
-        },
-        {
-          "text": "of",
+          "text": "of the murder, the 8 o'clock train did not run",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "murder,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "8",
-          "role": "介词短语"
-        },
-        {
-          "text": "o'clock",
-          "role": "介词短语"
-        },
-        {
-          "text": "train",
-          "role": "宾语"
-        },
-        {
-          "text": "did",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "run",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all.",
+          "text": "at all.",
           "role": "地点状语"
         }
       ]
@@ -758,19 +494,7 @@
           "role": "宾语"
         },
         {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "at",
-          "role": "介词短语"
-        },
-        {
-          "text": "Ferngreen",
-          "role": "介词短语"
-        },
-        {
-          "text": "station",
+          "text": "down at Ferngreen station",
           "role": "介词短语"
         },
         {
@@ -786,15 +510,7 @@
           "role": "宾语"
         },
         {
-          "text": "off",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "line.'",
+          "text": "off the line.'",
           "role": "介词短语"
         }
       ]

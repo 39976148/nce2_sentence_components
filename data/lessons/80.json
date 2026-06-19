@@ -30,83 +30,19 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of the nineteeth century was the Crystal Palace, which was built",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "in Hyde Park",
+          "role": "地点状语"
+        },
+        {
+          "text": "for the Great Exhibition",
           "role": "介词短语"
         },
         {
-          "text": "nineteeth",
-          "role": "介词短语"
-        },
-        {
-          "text": "century",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "Crystal",
-          "role": "宾语"
-        },
-        {
-          "text": "Palace,",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "built",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Hyde",
-          "role": "地点状语"
-        },
-        {
-          "text": "Park",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Great",
-          "role": "地点状语"
-        },
-        {
-          "text": "Exhibition",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "1851.",
+          "text": "of 1851.",
           "role": "介词短语"
         }
       ]
@@ -123,47 +59,27 @@
         },
         {
           "text": "Crystal",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Palace",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "different",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "from",
+          "text": "from all other buildings",
           "role": "地点状语"
         },
         {
-          "text": "all",
+          "text": "in the world,",
           "role": "地点状语"
-        },
-        {
-          "text": "other",
-          "role": "地点状语"
-        },
-        {
-          "text": "buildings",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "world,",
-          "role": "表语"
         },
         {
           "text": "for",
@@ -171,7 +87,7 @@
         },
         {
           "text": "it",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "was",
@@ -182,11 +98,7 @@
           "role": "谓语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "iron",
+          "text": "of iron",
           "role": "介词短语"
         },
         {
@@ -195,7 +107,7 @@
         },
         {
           "text": "glass.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -218,32 +130,12 @@
           "role": "表语"
         },
         {
-          "text": "of",
+          "text": "of the biggest buildings",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "of all time",
           "role": "介词短语"
-        },
-        {
-          "text": "biggest",
-          "role": "介词短语"
-        },
-        {
-          "text": "buildings",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "all",
-          "role": "介词短语"
-        },
-        {
-          "text": "time",
-          "role": "表语"
         },
         {
           "text": "and",
@@ -258,39 +150,15 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
+          "text": "of people",
+          "role": "介词短语"
         },
         {
-          "text": "people",
-          "role": "表语"
-        },
-        {
-          "text": "from",
-          "role": "表语"
-        },
-        {
-          "text": "many",
-          "role": "表语"
-        },
-        {
-          "text": "countries",
-          "role": "表语"
-        },
-        {
-          "text": "came",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "from many countries came",
           "role": "地点状语"
         },
         {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to see it.",
           "role": "地点状语"
         }
       ]
@@ -307,58 +175,34 @@
         },
         {
           "text": "great",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "many",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "goods",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "sent",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to the exhibition",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "from various parts",
           "role": "地点状语"
         },
         {
-          "text": "exhibition",
-          "role": "地点状语"
-        },
-        {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "various",
-          "role": "地点状语"
-        },
-        {
-          "text": "parts",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "world.",
+          "text": "of the world.",
           "role": "介词短语"
         }
       ]
@@ -394,19 +238,11 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
+          "text": "of machinery",
+          "role": "介词短语"
         },
         {
-          "text": "machinery",
-          "role": "表语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "display.",
+          "text": "on display.",
           "role": "地点状语"
         }
       ]
@@ -423,47 +259,23 @@
         },
         {
           "text": "most",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "wonderful",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "piece",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "主语"
+          "text": "of machinery",
+          "role": "介词短语"
         },
         {
-          "text": "machinery",
-          "role": "主语"
-        },
-        {
-          "text": "on",
+          "text": "on show was Nasmyth's steam hammer.",
           "role": "地点状语"
-        },
-        {
-          "text": "show",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "Nasmyth's",
-          "role": "宾语"
-        },
-        {
-          "text": "steam",
-          "role": "宾语"
-        },
-        {
-          "text": "hammer.",
-          "role": "宾语"
         }
       ]
     },
@@ -478,28 +290,8 @@
           "role": "主语"
         },
         {
-          "text": "in",
+          "text": "in those days, traveling was not",
           "role": "地点状语"
-        },
-        {
-          "text": "those",
-          "role": "地点状语"
-        },
-        {
-          "text": "days,",
-          "role": "地点状语"
-        },
-        {
-          "text": "traveling",
-          "role": "谓语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
         },
         {
           "text": "as",
@@ -542,32 +334,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of visitors across the Channel",
           "role": "介词短语"
         },
         {
-          "text": "visitors",
-          "role": "介词短语"
-        },
-        {
-          "text": "across",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Channel",
-          "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "Europe.",
-          "role": "宾语"
+          "text": "from Europe.",
+          "role": "地点状语"
         }
       ]
     },
@@ -578,56 +350,20 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On arriving",
           "role": "时间状语"
         },
         {
-          "text": "arriving",
-          "role": "主语"
-        },
-        {
-          "text": "in",
+          "text": "in England, they were taken",
           "role": "地点状语"
         },
         {
-          "text": "England,",
+          "text": "to the Crystal Palace",
           "role": "地点状语"
         },
         {
-          "text": "they",
-          "role": "地点状语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "taken",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Crystal",
-          "role": "地点状语"
-        },
-        {
-          "text": "Palace",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "train.",
-          "role": "地点状语"
+          "text": "by train.",
+          "role": "介词短语"
         }
       ]
     },
@@ -658,11 +394,7 @@
           "role": "表语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "all,",
+          "text": "in all,",
           "role": "地点状语"
         },
         {
@@ -678,35 +410,11 @@
           "role": "表语"
         },
         {
-          "text": "from",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "exhibition",
-          "role": "表语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "used",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "from the exhibition were used",
           "role": "地点状语"
         },
         {
-          "text": "build",
-          "role": "地点状语"
-        },
-        {
-          "text": "museums",
+          "text": "to build museums",
           "role": "地点状语"
         },
         {
@@ -727,38 +435,30 @@
       "tokens": [
         {
           "text": "Later,",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "Crystal",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "Palace",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "moved",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "South",
-          "role": "地点状语"
-        },
-        {
-          "text": "London.",
+          "text": "to South London.",
           "role": "地点状语"
         }
       ]
@@ -782,36 +482,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the most famous buildings",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "most",
-          "role": "介词短语"
-        },
-        {
-          "text": "famous",
-          "role": "介词短语"
-        },
-        {
-          "text": "buildings",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "world",
-          "role": "宾语"
+          "text": "in the world",
+          "role": "地点状语"
         },
         {
           "text": "until",
@@ -830,15 +506,7 @@
           "role": "宾语"
         },
         {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "1936.",
+          "text": "down in 1936.",
           "role": "介词短语"
         }
       ]

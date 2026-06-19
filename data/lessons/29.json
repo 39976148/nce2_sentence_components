@@ -79,27 +79,27 @@
         },
         {
           "text": "'taxi'",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "small",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Swiss",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "aeroplane",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "called",
@@ -107,15 +107,15 @@
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "'Pilatus",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Porter'.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -131,15 +131,15 @@
         },
         {
           "text": "wonderful",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "plane",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "can",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "carry",
@@ -167,7 +167,7 @@
         },
         {
           "text": "most",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "surprising",
@@ -183,11 +183,11 @@
         },
         {
           "text": "it,",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "however,",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "is",
@@ -214,15 +214,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "snow,",
-          "role": "地点状语"
-        },
-        {
-          "text": "water,",
+          "text": "on snow, water,",
           "role": "地点状语"
         },
         {
@@ -234,20 +226,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
+          "text": "on a ploughed field.",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "ploughed",
-          "role": "谓语"
-        },
-        {
-          "text": "field.",
-          "role": "宾语"
         }
       ]
     },
@@ -294,44 +274,16 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "Birmingham",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "from Birmingham",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "to a lonely village",
           "role": "地点状语"
         },
         {
-          "text": "lonely",
+          "text": "in the Welsh mountains.",
           "role": "地点状语"
-        },
-        {
-          "text": "village",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Welsh",
-          "role": "宾语"
-        },
-        {
-          "text": "mountains.",
-          "role": "宾语"
         }
       ]
     },
@@ -370,19 +322,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "many",
-          "role": "地点状语"
-        },
-        {
-          "text": "unusual",
-          "role": "地点状语"
-        },
-        {
-          "text": "places.",
+          "text": "to many unusual places.",
           "role": "地点状语"
         }
       ]
@@ -406,35 +346,15 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on the roof",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "roof",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "block",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
+          "text": "of a block",
           "role": "介词短语"
         },
         {
-          "text": "flats",
+          "text": "of flats",
           "role": "介词短语"
         },
         {
@@ -442,44 +362,12 @@
           "role": "连词"
         },
         {
-          "text": "on",
+          "text": "on another occasion, he landed",
           "role": "地点状语"
         },
         {
-          "text": "another",
+          "text": "in a deserted car park.",
           "role": "地点状语"
-        },
-        {
-          "text": "occasion,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "landed",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "deserted",
-          "role": "谓语"
-        },
-        {
-          "text": "car",
-          "role": "宾语"
-        },
-        {
-          "text": "park.",
-          "role": "宾语"
         }
       ]
     },
@@ -522,16 +410,8 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "businessman.",
-          "role": "宾语"
+          "text": "from a businessman.",
+          "role": "地点状语"
         }
       ]
     },
@@ -547,54 +427,22 @@
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "wanted",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to fly",
           "role": "地点状语"
         },
         {
-          "text": "fly",
+          "text": "to Rockall, a lonely island",
           "role": "地点状语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Rockall,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "lonely",
-          "role": "地点状语"
-        },
-        {
-          "text": "island",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Atlantic",
-          "role": "地点状语"
-        },
-        {
-          "text": "Ocean,",
+          "text": "in the Atlantic Ocean,",
           "role": "地点状语"
         },
         {

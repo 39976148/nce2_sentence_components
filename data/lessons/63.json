@@ -34,12 +34,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "friends",
-          "role": "宾语"
+          "text": "of friends",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -58,11 +54,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "parties.",
+          "text": "at parties.",
           "role": "地点状语"
         }
       ]
@@ -86,36 +78,12 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for his great sense",
           "role": "介词短语"
         },
         {
-          "text": "his",
+          "text": "of humour -- everybody,",
           "role": "介词短语"
-        },
-        {
-          "text": "great",
-          "role": "介词短语"
-        },
-        {
-          "text": "sense",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "humour",
-          "role": "介词短语"
-        },
-        {
-          "text": "--",
-          "role": "宾语"
-        },
-        {
-          "text": "everybody,",
-          "role": "宾语"
         },
         {
           "text": "that",
@@ -162,60 +130,16 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of Jeremy's closest friends asked him",
           "role": "介词短语"
         },
         {
-          "text": "Jeremy's",
-          "role": "介词短语"
-        },
-        {
-          "text": "closest",
-          "role": "介词短语"
-        },
-        {
-          "text": "friends",
-          "role": "介词短语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to make a speech",
           "role": "地点状语"
         },
         {
-          "text": "make",
+          "text": "at a wedding reception.",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "speech",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "wedding",
-          "role": "谓语"
-        },
-        {
-          "text": "reception.",
-          "role": "宾语"
         }
       ]
     },
@@ -242,12 +166,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "thing",
-          "role": "谓语"
+          "text": "of thing",
+          "role": "介词短语"
         },
         {
           "text": "that",
@@ -298,23 +218,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the wedding",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "wedding",
-          "role": "谓语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "Jenny.",
+          "text": "with Jenny.",
           "role": "介词短语"
         }
       ]
@@ -350,27 +258,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "of funny stories",
+          "role": "介词短语"
         },
         {
-          "text": "funny",
-          "role": "宾语"
-        },
-        {
-          "text": "stories",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "speech",
+          "text": "in the speech",
           "role": "地点状语"
         },
         {
@@ -378,32 +270,8 @@
           "role": "连词"
         },
         {
-          "text": "of",
+          "text": "of course, it was a great success.",
           "role": "介词短语"
-        },
-        {
-          "text": "course,",
-          "role": "介词短语"
-        },
-        {
-          "text": "it",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "great",
-          "role": "宾语"
-        },
-        {
-          "text": "success.",
-          "role": "宾语"
         }
       ]
     },
@@ -458,15 +326,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "go",
-          "role": "地点状语"
-        },
-        {
-          "text": "home.",
+          "text": "to go home.",
           "role": "地点状语"
         }
       ]
@@ -498,11 +358,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "this",
+          "text": "by this",
           "role": "介词短语"
         },
         {
@@ -542,36 +398,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On the way home, he asked Jenny",
           "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "way",
-          "role": "时间状语"
-        },
-        {
-          "text": "home,",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "Jenny",
-          "role": "宾语"
         },
         {
           "text": "if",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "she",
@@ -602,36 +434,8 @@
       "has_contraction": true,
       "tokens": [
         {
-          "text": "To",
+          "text": "To his surprise, she said she had not.",
           "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "surprise,",
-          "role": "地点状语"
-        },
-        {
-          "text": "she",
-          "role": "地点状语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "not.",
-          "role": "宾语"
         }
       ]
     },
@@ -706,11 +510,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
+          "text": "to see",
           "role": "地点状语"
         },
         {
@@ -730,11 +530,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "him!",
+          "text": "at him!",
           "role": "地点状语"
         }
       ]

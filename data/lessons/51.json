@@ -15,11 +15,11 @@
         },
         {
           "text": "friend,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Hugh,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -74,23 +74,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to go",
           "role": "地点状语"
         },
         {
-          "text": "go",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "diet.",
+          "text": "on a diet.",
           "role": "地点状语"
         }
       ]
@@ -142,64 +130,12 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of all, he wrote out a long list",
           "role": "介词短语"
         },
         {
-          "text": "all,",
+          "text": "of all the foods which were forbidden.",
           "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "wrote",
-          "role": "介词短语"
-        },
-        {
-          "text": "out",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "long",
-          "role": "宾语"
-        },
-        {
-          "text": "list",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "all",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "foods",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "forbidden.",
-          "role": "宾语"
         }
       ]
     },
@@ -215,7 +151,7 @@
         },
         {
           "text": "list",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "included",
@@ -226,48 +162,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate;",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "things",
-          "role": "介词短语"
-        },
-        {
-          "text": "Hugh",
-          "role": "介词短语"
-        },
-        {
-          "text": "loves:",
-          "role": "介词短语"
-        },
-        {
-          "text": "butter,",
-          "role": "介词短语"
-        },
-        {
-          "text": "potatoes,",
-          "role": "宾语"
-        },
-        {
-          "text": "rice,",
-          "role": "宾语"
-        },
-        {
-          "text": "beer,",
-          "role": "宾语"
-        },
-        {
-          "text": "milk,",
-          "role": "宾语"
-        },
-        {
-          "text": "chocolate;",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -350,11 +246,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
+          "text": "to see",
           "role": "地点状语"
         },
         {
@@ -410,15 +302,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "room",
+          "text": "into his room",
           "role": "地点状语"
         },
         {
@@ -446,16 +330,8 @@
           "role": "宾语"
         },
         {
-          "text": "under",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "desk.",
-          "role": "宾语"
+          "text": "under his desk.",
+          "role": "地点状语"
         }
       ]
     },
@@ -507,11 +383,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "asked",
@@ -570,16 +446,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "desk.",
-          "role": "宾语"
+          "text": "on the desk.",
+          "role": "地点状语"
         }
       ]
     },
@@ -634,19 +502,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "reward",
-          "role": "地点状语"
-        },
-        {
-          "text": "himself",
-          "role": "地点状语"
-        },
-        {
-          "text": "occasionally.",
+          "text": "to reward himself occasionally.",
           "role": "地点状语"
         }
       ]
@@ -659,11 +515,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "showed",
@@ -682,16 +538,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "parcel.",
-          "role": "宾语"
+          "text": "of the parcel.",
+          "role": "介词短语"
         }
       ]
     },
@@ -722,11 +570,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "chocolate",
+          "text": "of chocolate",
           "role": "介词短语"
         },
         {
@@ -742,11 +586,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "sweets!",
+          "text": "of sweets!",
           "role": "介词短语"
         }
       ]

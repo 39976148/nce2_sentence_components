@@ -26,27 +26,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to a house",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "house",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Bridge",
-          "role": "地点状语"
-        },
-        {
-          "text": "Street.",
+          "text": "in Bridge Street.",
           "role": "地点状语"
         }
       ]
@@ -74,15 +58,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "door.",
+          "text": "at my door.",
           "role": "地点状语"
         }
       ]
@@ -106,15 +82,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "meal",
+          "text": "for a meal",
           "role": "介词短语"
         },
         {
@@ -130,12 +98,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "beer.",
-          "role": "宾语"
+          "text": "of beer.",
+          "role": "介词短语"
         }
       ]
     },
@@ -146,44 +110,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In return",
           "role": "时间状语"
         },
         {
-          "text": "return",
-          "role": "时间状语"
+          "text": "for this, the beggar stood",
+          "role": "介词短语"
         },
         {
-          "text": "for",
-          "role": "时间状语"
-        },
-        {
-          "text": "this,",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "beggar",
-          "role": "主语"
-        },
-        {
-          "text": "stood",
-          "role": "主语"
-        },
-        {
-          "text": "on",
-          "role": "主语"
-        },
-        {
-          "text": "his",
-          "role": "主语"
-        },
-        {
-          "text": "head",
-          "role": "主语"
+          "text": "on his head",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -275,11 +211,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "put",
@@ -294,24 +230,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "of cheese",
+          "role": "介词短语"
         },
         {
-          "text": "cheese",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "pocket",
-          "role": "宾语"
+          "text": "in his pocket",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -335,30 +259,26 @@
       "tokens": [
         {
           "text": "Later",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "neighbour",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "told",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "me",
           "role": "宾语"
         },
         {
-          "text": "about",
-          "role": "介词短语"
-        },
-        {
-          "text": "him.",
+          "text": "about him.",
           "role": "介词短语"
         }
       ]
@@ -395,19 +315,19 @@
         },
         {
           "text": "name",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "Percy",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Buttons.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -426,40 +346,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at every house",
           "role": "地点状语"
         },
         {
-          "text": "every",
+          "text": "in the street once a month",
           "role": "地点状语"
-        },
-        {
-          "text": "house",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "street",
-          "role": "地点状语"
-        },
-        {
-          "text": "once",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "month",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -474,15 +366,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "meal",
+          "text": "for a meal",
           "role": "介词短语"
         },
         {
@@ -498,12 +382,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "beer.",
-          "role": "宾语"
+          "text": "of beer.",
+          "role": "介词短语"
         }
       ]
     }

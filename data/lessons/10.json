@@ -82,19 +82,11 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in Germany",
           "role": "地点状语"
         },
         {
-          "text": "Germany",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "1681.",
+          "text": "in 1681.",
           "role": "地点状语"
         }
       ]
@@ -111,31 +103,19 @@
         },
         {
           "text": "clavichord",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "kept",
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the living room.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "living",
-          "role": "谓语"
-        },
-        {
-          "text": "room.",
-          "role": "表语"
         }
       ]
     },
@@ -158,32 +138,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to our family",
           "role": "地点状语"
         },
         {
-          "text": "our",
-          "role": "地点状语"
-        },
-        {
-          "text": "family",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "long",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
-          "role": "宾语"
+          "text": "for a long time.",
+          "role": "介词短语"
         }
       ]
     },
@@ -199,38 +159,18 @@
         },
         {
           "text": "instrument",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "bought",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "grandfather",
-          "role": "介词短语"
-        },
-        {
-          "text": "many",
-          "role": "介词短语"
-        },
-        {
-          "text": "years",
-          "role": "介词短语"
-        },
-        {
-          "text": "ago.",
+          "text": "by my grandfather many years ago.",
           "role": "介词短语"
         }
       ]
@@ -258,15 +198,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "visitor.",
+          "text": "by a visitor.",
           "role": "介词短语"
         }
       ]
@@ -286,24 +218,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "play",
-          "role": "地点状语"
-        },
-        {
-          "text": "jazz",
+          "text": "to play jazz",
           "role": "地点状语"
         },
         {
           "text": "on",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it!",
-          "role": "地点状语"
+          "role": "宾语"
         }
       ]
     },
@@ -331,7 +255,7 @@
         },
         {
           "text": "too",
-          "role": "宾语"
+          "role": "状语"
         },
         {
           "text": "hard",
@@ -346,24 +270,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the strings were broken.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "strings",
-          "role": "介词短语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "broken.",
-          "role": "宾语"
         }
       ]
     },
@@ -379,11 +287,11 @@
         },
         {
           "text": "father",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "shocked.",
@@ -399,34 +307,26 @@
       "tokens": [
         {
           "text": "Now",
-          "role": "时间状语"
-        },
-        {
-          "text": "we",
           "role": "主语"
         },
         {
+          "text": "we",
+          "role": "宾语"
+        },
+        {
           "text": "are",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": "状语"
+          "role": "宾语"
         },
         {
           "text": "allowed",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "touch",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to touch it.",
           "role": "地点状语"
         }
       ]
@@ -454,27 +354,11 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by a friend",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "friend",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "father's.",
+          "text": "of my father's.",
           "role": "介词短语"
         }
       ]

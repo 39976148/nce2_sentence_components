@@ -11,11 +11,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "you",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "visit",
@@ -30,100 +30,16 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the first things you will see is Big Ben, the famous clock which can be heard all",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
+          "text": "over the world",
+          "role": "地点状语"
         },
         {
-          "text": "first",
-          "role": "介词短语"
-        },
-        {
-          "text": "things",
-          "role": "介词短语"
-        },
-        {
-          "text": "you",
-          "role": "介词短语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "see",
-          "role": "谓语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "Big",
-          "role": "宾语"
-        },
-        {
-          "text": "Ben,",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "famous",
-          "role": "宾语"
-        },
-        {
-          "text": "clock",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "can",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "heard",
-          "role": "谓语"
-        },
-        {
-          "text": "all",
-          "role": "宾语"
-        },
-        {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "world",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "B.B.C.",
-          "role": "介词短语"
+          "text": "on the B.B.C.",
+          "role": "地点状语"
         }
       ]
     },
@@ -146,72 +62,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "Parliament",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "burned",
-          "role": "谓语"
-        },
-        {
-          "text": "down",
+          "text": "of Parliament had not been burned",
           "role": "介词短语"
         },
         {
-          "text": "in",
+          "text": "down in 1834, the great clock would never have been erected.",
           "role": "介词短语"
-        },
-        {
-          "text": "1834,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "great",
-          "role": "介词短语"
-        },
-        {
-          "text": "clock",
-          "role": "介词短语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "never",
-          "role": "状语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "erected.",
-          "role": "谓语"
         }
       ]
     },
@@ -242,55 +98,15 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
+          "text": "from Sir Benjamin Hall who was responsible",
+          "role": "地点状语"
         },
         {
-          "text": "Sir",
-          "role": "宾语"
-        },
-        {
-          "text": "Benjamin",
-          "role": "宾语"
-        },
-        {
-          "text": "Hall",
-          "role": "宾语"
-        },
-        {
-          "text": "who",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "responsible",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
+          "text": "for the making",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "making",
-          "role": "谓语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "clock",
+          "text": "of the clock",
           "role": "介词短语"
         },
         {
@@ -310,24 +126,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "Parliament",
-          "role": "宾语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "being",
-          "role": "谓语"
-        },
-        {
-          "text": "built.",
-          "role": "宾语"
+          "text": "of Parliament were being built.",
+          "role": "介词短语"
         }
       ]
     },
@@ -354,15 +154,7 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "immense",
-          "role": "介词短语"
-        },
-        {
-          "text": "size,",
+          "text": "of immense size,",
           "role": "介词短语"
         },
         {
@@ -402,44 +194,8 @@
           "role": "主语"
         },
         {
-          "text": "from",
+          "text": "from Greenwich Observatory have the clock checked twice a day.",
           "role": "地点状语"
-        },
-        {
-          "text": "Greenwich",
-          "role": "地点状语"
-        },
-        {
-          "text": "Observatory",
-          "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "clock",
-          "role": "宾语"
-        },
-        {
-          "text": "checked",
-          "role": "谓语"
-        },
-        {
-          "text": "twice",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "day.",
-          "role": "宾语"
         }
       ]
     },
@@ -450,15 +206,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "B.B.C.",
+          "text": "On the B.B.C.",
           "role": "时间状语"
         }
       ]
@@ -526,19 +274,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "clock",
-          "role": "地点状语"
-        },
-        {
-          "text": "tower.",
+          "text": "to the clock tower.",
           "role": "地点状语"
         }
       ]
@@ -598,23 +334,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "give",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "correct",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "to give the correct time.",
           "role": "地点状语"
         }
       ]
@@ -631,11 +351,11 @@
         },
         {
           "text": "painter",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -650,56 +370,20 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on the tower hung a pot",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "of paint",
+          "role": "介词短语"
+        },
+        {
+          "text": "on one",
           "role": "地点状语"
         },
         {
-          "text": "tower",
-          "role": "地点状语"
-        },
-        {
-          "text": "hung",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "pot",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
+          "text": "of the hands",
           "role": "介词短语"
-        },
-        {
-          "text": "paint",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "one",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "hands",
-          "role": "宾语"
         },
         {
           "text": "and",

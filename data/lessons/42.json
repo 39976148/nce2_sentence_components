@@ -38,72 +38,24 @@
           "role": "宾语"
         },
         {
-          "text": "through",
-          "role": "宾语"
-        },
-        {
-          "text": "one",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
+          "text": "through one",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "of the markets",
           "role": "介词短语"
         },
         {
-          "text": "markets",
+          "text": "of old Delhi, we stopped",
           "role": "介词短语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "old",
-          "role": "介词短语"
-        },
-        {
-          "text": "Delhi,",
-          "role": "介词短语"
-        },
-        {
-          "text": "we",
-          "role": "宾语"
-        },
-        {
-          "text": "stopped",
-          "role": "谓语"
-        },
-        {
-          "text": "at",
+          "text": "at a square",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "to have a rest.",
           "role": "地点状语"
-        },
-        {
-          "text": "square",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "rest.",
-          "role": "宾语"
         }
       ]
     },
@@ -114,80 +66,20 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After a time, we noticed a snake charmer",
           "role": "时间状语"
         },
         {
-          "text": "a",
-          "role": "时间状语"
+          "text": "with two large baskets",
+          "role": "介词短语"
         },
         {
-          "text": "time,",
-          "role": "时间状语"
-        },
-        {
-          "text": "we",
-          "role": "主语"
-        },
-        {
-          "text": "noticed",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "snake",
-          "role": "宾语"
-        },
-        {
-          "text": "charmer",
-          "role": "宾语"
-        },
-        {
-          "text": "with",
-          "role": "宾语"
-        },
-        {
-          "text": "two",
-          "role": "宾语"
-        },
-        {
-          "text": "large",
-          "role": "宾语"
-        },
-        {
-          "text": "baskets",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
+          "text": "at the other side",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "other",
-          "role": "地点状语"
-        },
-        {
-          "text": "side",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "square,",
-          "role": "宾语"
+          "text": "of the square,",
+          "role": "介词短语"
         },
         {
           "text": "so",
@@ -202,27 +94,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to have a look",
           "role": "地点状语"
         },
         {
-          "text": "have",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "look",
-          "role": "谓语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "him.",
+          "text": "at him.",
           "role": "地点状语"
         }
       ]
@@ -266,39 +142,11 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up a long pipe which was covered",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "long",
-          "role": "介词短语"
-        },
-        {
-          "text": "pipe",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "covered",
-          "role": "谓语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "coins",
+          "text": "with coins",
           "role": "介词短语"
         },
         {
@@ -314,15 +162,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "baskets.",
+          "text": "of the baskets.",
           "role": "介词短语"
         }
       ]
@@ -335,63 +175,23 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "began",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to play a tune, we had our first glimpse",
           "role": "地点状语"
         },
         {
-          "text": "play",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "tune,",
-          "role": "地点状语"
-        },
-        {
-          "text": "we",
-          "role": "地点状语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "our",
-          "role": "宾语"
-        },
-        {
-          "text": "first",
-          "role": "宾语"
-        },
-        {
-          "text": "glimpse",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "snake.",
-          "role": "宾语"
+          "text": "of the snake.",
+          "role": "介词短语"
         }
       ]
     },
@@ -414,15 +214,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "basket",
+          "text": "of the basket",
           "role": "介词短语"
         },
         {
@@ -434,32 +226,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to follow the movements",
           "role": "地点状语"
         },
         {
-          "text": "follow",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "movements",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "pipe.",
-          "role": "宾语"
+          "text": "of the pipe.",
+          "role": "介词短语"
         }
       ]
     },
@@ -514,15 +286,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "play",
-          "role": "地点状语"
-        },
-        {
-          "text": "jazz",
+          "text": "to play jazz",
           "role": "地点状语"
         },
         {
@@ -555,26 +319,18 @@
         },
         {
           "text": "snake,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "however,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "continued",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "'dance'",
-          "role": "地点状语"
-        },
-        {
-          "text": "slowly.",
+          "text": "to 'dance' slowly.",
           "role": "地点状语"
         }
       ]
@@ -614,16 +370,8 @@
           "role": "宾语"
         },
         {
-          "text": "between",
-          "role": "宾语"
-        },
-        {
-          "text": "Indian",
-          "role": "宾语"
-        },
-        {
-          "text": "music",
-          "role": "宾语"
+          "text": "between Indian music",
+          "role": "介词短语"
         },
         {
           "text": "and",

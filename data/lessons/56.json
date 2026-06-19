@@ -38,15 +38,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "old",
-          "role": "介词短语"
-        },
-        {
-          "text": "cars.",
+          "text": "for old cars.",
           "role": "介词短语"
         }
       ]
@@ -63,38 +55,14 @@
         },
         {
           "text": "lot",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "主语"
-        },
-        {
-          "text": "cars",
-          "role": "主语"
-        },
-        {
-          "text": "entered",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
+          "text": "of cars entered",
           "role": "介词短语"
         },
         {
-          "text": "this",
-          "role": "介词短语"
-        },
-        {
-          "text": "race",
-          "role": "介词短语"
-        },
-        {
-          "text": "last",
-          "role": "介词短语"
-        },
-        {
-          "text": "year",
+          "text": "for this race last year",
           "role": "介词短语"
         },
         {
@@ -122,16 +90,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "excitement",
-          "role": "宾语"
-        },
-        {
-          "text": "just",
-          "role": "宾语"
+          "text": "of excitement just",
+          "role": "介词短语"
         },
         {
           "text": "before",
@@ -139,7 +99,7 @@
         },
         {
           "text": "it",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "began.",
@@ -158,44 +118,8 @@
           "role": "时间状语"
         },
         {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "most",
-          "role": "时间状语"
-        },
-        {
-          "text": "handsome",
-          "role": "主语"
-        },
-        {
-          "text": "cars",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "Rolls-Royce",
-          "role": "宾语"
-        },
-        {
-          "text": "Silver",
-          "role": "宾语"
-        },
-        {
-          "text": "Ghost.",
-          "role": "宾语"
+          "text": "of the most handsome cars was a Rolls-Royce Silver Ghost.",
+          "role": "介词短语"
         }
       ]
     },
@@ -211,31 +135,31 @@
         },
         {
           "text": "most",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "unusual",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Benz",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -243,15 +167,15 @@
         },
         {
           "text": "only",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "three",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "wheels.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -266,40 +190,8 @@
           "role": "主语"
         },
         {
-          "text": "in",
+          "text": "in 1885, it was the oldest car taking part.",
           "role": "地点状语"
-        },
-        {
-          "text": "1885,",
-          "role": "地点状语"
-        },
-        {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "oldest",
-          "role": "宾语"
-        },
-        {
-          "text": "car",
-          "role": "宾语"
-        },
-        {
-          "text": "taking",
-          "role": "谓语"
-        },
-        {
-          "text": "part.",
-          "role": "宾语"
         }
       ]
     },
@@ -310,40 +202,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After a great many loud explosions, the race began.",
           "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "great",
-          "role": "时间状语"
-        },
-        {
-          "text": "many",
-          "role": "时间状语"
-        },
-        {
-          "text": "loud",
-          "role": "主语"
-        },
-        {
-          "text": "explosions,",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "race",
-          "role": "宾语"
-        },
-        {
-          "text": "began.",
-          "role": "谓语"
         }
       ]
     },
@@ -358,36 +218,12 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of the cars broke",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "down on the course",
           "role": "介词短语"
-        },
-        {
-          "text": "cars",
-          "role": "介词短语"
-        },
-        {
-          "text": "broke",
-          "role": "介词短语"
-        },
-        {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "course",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -414,28 +250,12 @@
           "role": "宾语"
         },
         {
-          "text": "under",
-          "role": "介词短语"
+          "text": "under their cars than",
+          "role": "地点状语"
         },
         {
-          "text": "their",
-          "role": "介词短语"
-        },
-        {
-          "text": "cars",
-          "role": "介词短语"
-        },
-        {
-          "text": "than",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "them!",
-          "role": "介词短语"
+          "text": "in them!",
+          "role": "地点状语"
         }
       ]
     },
@@ -451,15 +271,15 @@
         },
         {
           "text": "few",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "cars,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "however,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "completed",
@@ -506,55 +326,11 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of forty miles an hour -- much faster than any",
           "role": "介词短语"
         },
         {
-          "text": "forty",
-          "role": "介词短语"
-        },
-        {
-          "text": "miles",
-          "role": "介词短语"
-        },
-        {
-          "text": "an",
-          "role": "介词短语"
-        },
-        {
-          "text": "hour",
-          "role": "介词短语"
-        },
-        {
-          "text": "--",
-          "role": "介词短语"
-        },
-        {
-          "text": "much",
-          "role": "宾语"
-        },
-        {
-          "text": "faster",
-          "role": "宾语"
-        },
-        {
-          "text": "than",
-          "role": "宾语"
-        },
-        {
-          "text": "any",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "its",
-          "role": "介词短语"
-        },
-        {
-          "text": "rivals.",
+          "text": "of its rivals.",
           "role": "介词短语"
         }
       ]
@@ -578,28 +354,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the end",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "end",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "race",
-          "role": "地点状语"
+          "text": "of the race",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -626,27 +386,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "of trouble trying",
+          "role": "介词短语"
         },
         {
-          "text": "trouble",
-          "role": "宾语"
-        },
-        {
-          "text": "trying",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "stop",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to stop it.",
           "role": "地点状语"
         }
       ]
@@ -663,7 +407,7 @@
         },
         {
           "text": "race",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "gave",
@@ -686,12 +430,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "pleasure.",
-          "role": "宾语"
+          "text": "of pleasure.",
+          "role": "介词短语"
         }
       ]
     },
@@ -718,19 +458,7 @@
           "role": "表语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "modern",
-          "role": "地点状语"
-        },
-        {
-          "text": "car",
-          "role": "地点状语"
-        },
-        {
-          "text": "races",
+          "text": "from modern car races",
           "role": "地点状语"
         },
         {

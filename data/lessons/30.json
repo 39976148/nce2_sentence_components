@@ -15,23 +15,23 @@
         },
         {
           "text": "Wayle",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "small",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "river",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "that",
@@ -39,31 +39,23 @@
         },
         {
           "text": "cuts",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "across",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "park",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "near",
-          "role": "表语"
-        },
-        {
-          "text": "my",
-          "role": "表语"
-        },
-        {
-          "text": "home.",
-          "role": "表语"
+          "text": "near my home.",
+          "role": "地点状语"
         }
       ]
     },
@@ -86,28 +78,12 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by the Wayle",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Wayle",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "fine",
-          "role": "介词短语"
-        },
-        {
-          "text": "afternoons.",
-          "role": "介词短语"
+          "text": "on fine afternoons.",
+          "role": "地点状语"
         }
       ]
     },
@@ -130,11 +106,7 @@
           "role": "表语"
         },
         {
-          "text": "last",
-          "role": "表语"
-        },
-        {
-          "text": "Sunday,",
+          "text": "last Sunday,",
           "role": "表语"
         },
         {
@@ -158,19 +130,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "river",
-          "role": "地点状语"
-        },
-        {
-          "text": "bank",
+          "text": "on the river bank",
           "role": "地点状语"
         },
         {
@@ -191,15 +151,15 @@
       "tokens": [
         {
           "text": "Some",
-          "role": "主语"
+          "role": "时间状语"
         },
         {
           "text": "children",
-          "role": "宾语"
+          "role": "主语"
         },
         {
           "text": "were",
-          "role": "谓语"
+          "role": "系动词"
         },
         {
           "text": "playing",
@@ -207,18 +167,10 @@
         },
         {
           "text": "games",
-          "role": "宾语"
+          "role": "表语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bank",
+          "text": "on the bank",
           "role": "地点状语"
         },
         {
@@ -227,7 +179,7 @@
         },
         {
           "text": "there",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "were",
@@ -235,26 +187,18 @@
         },
         {
           "text": "some",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "people",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "rowing",
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "river.",
+          "text": "on the river.",
           "role": "地点状语"
         }
       ]
@@ -274,36 +218,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the children kicked a ball very hard",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "children",
-          "role": "介词短语"
-        },
-        {
-          "text": "kicked",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "ball",
-          "role": "宾语"
-        },
-        {
-          "text": "very",
-          "role": "宾语"
-        },
-        {
-          "text": "hard",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -343,54 +259,22 @@
       "tokens": [
         {
           "text": "Some",
-          "role": "主语"
+          "role": "时间状语"
         },
         {
           "text": "people",
-          "role": "宾语"
+          "role": "主语"
         },
         {
-          "text": "on",
+          "text": "on the bank called out",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to the man",
           "role": "地点状语"
         },
         {
-          "text": "bank",
-          "role": "地点状语"
-        },
-        {
-          "text": "called",
-          "role": "谓语"
-        },
-        {
-          "text": "out",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "man",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "boat,",
+          "text": "in the boat,",
           "role": "地点状语"
         },
         {
@@ -431,23 +315,23 @@
         },
         {
           "text": "ball",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "struck",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "him",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "so",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "hard",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "that",
@@ -466,15 +350,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "water.",
+          "text": "into the water.",
           "role": "地点状语"
         }
       ]
@@ -494,23 +370,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to look",
           "role": "地点状语"
         },
         {
-          "text": "look",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "children,",
+          "text": "at the children,",
           "role": "地点状语"
         },
         {
@@ -534,32 +398,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in sight: they had all run away!",
           "role": "地点状语"
-        },
-        {
-          "text": "sight:",
-          "role": "地点状语"
-        },
-        {
-          "text": "they",
-          "role": "地点状语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "all",
-          "role": "宾语"
-        },
-        {
-          "text": "run",
-          "role": "宾语"
-        },
-        {
-          "text": "away!",
-          "role": "宾语"
         }
       ]
     },
@@ -575,7 +415,7 @@
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "laughed",
@@ -626,15 +466,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "children",
+          "text": "to the children",
           "role": "地点状语"
         },
         {
@@ -658,16 +490,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "bank.",
-          "role": "宾语"
+          "text": "to the bank.",
+          "role": "地点状语"
         }
       ]
     }

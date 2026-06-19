@@ -15,11 +15,11 @@
         },
         {
           "text": "Olympic",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Games",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -34,32 +34,12 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in our country",
           "role": "地点状语"
         },
         {
-          "text": "our",
+          "text": "in four years' time.",
           "role": "地点状语"
-        },
-        {
-          "text": "country",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "four",
-          "role": "地点状语"
-        },
-        {
-          "text": "years'",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
-          "role": "宾语"
         }
       ]
     },
@@ -243,7 +223,7 @@
         },
         {
           "text": "Games",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -346,27 +326,11 @@
           "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "end",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
+          "text": "by the end",
           "role": "介词短语"
         },
         {
-          "text": "this",
-          "role": "介词短语"
-        },
-        {
-          "text": "year.",
+          "text": "of this year.",
           "role": "介词短语"
         }
       ]
@@ -378,63 +342,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
+          "text": "By the end",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "of next year, they will have finished work",
           "role": "介词短语"
         },
         {
-          "text": "end",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "next",
-          "role": "介词短语"
-        },
-        {
-          "text": "year,",
-          "role": "介词短语"
-        },
-        {
-          "text": "they",
-          "role": "宾语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "finished",
-          "role": "谓语"
-        },
-        {
-          "text": "work",
-          "role": "谓语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "stadium.",
+          "text": "on the new stadium.",
           "role": "地点状语"
         }
       ]
@@ -451,15 +367,15 @@
         },
         {
           "text": "fantastic",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "modern",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "buildings",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "have",
@@ -474,15 +390,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "Kurt",
-          "role": "介词短语"
-        },
-        {
-          "text": "Gunter.",
+          "text": "by Kurt Gunter.",
           "role": "介词短语"
         }
       ]
@@ -582,19 +490,7 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Olympic",
-          "role": "地点状语"
-        },
-        {
-          "text": "Games",
+          "text": "to the Olympic Games",
           "role": "地点状语"
         },
         {
@@ -622,19 +518,7 @@
           "role": "表语"
         },
         {
-          "text": "before",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "this",
-          "role": "介词短语"
-        },
-        {
-          "text": "country.",
+          "text": "before in this country.",
           "role": "介词短语"
         }
       ]

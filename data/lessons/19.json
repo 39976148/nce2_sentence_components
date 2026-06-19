@@ -26,24 +26,8 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at any moment,' I said.",
           "role": "地点状语"
-        },
-        {
-          "text": "any",
-          "role": "地点状语"
-        },
-        {
-          "text": "moment,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -98,19 +82,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ticket",
-          "role": "地点状语"
-        },
-        {
-          "text": "office.",
+          "text": "to the ticket office.",
           "role": "地点状语"
         }
       ]
@@ -258,19 +230,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ticket",
-          "role": "地点状语"
-        },
-        {
-          "text": "office.",
+          "text": "to the ticket office.",
           "role": "地点状语"
         }
       ]
@@ -358,27 +318,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to the ticket office",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ticket",
-          "role": "地点状语"
-        },
-        {
-          "text": "office",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "once.",
+          "text": "at once.",
           "role": "地点状语"
         }
       ]
@@ -462,19 +406,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "next",
-          "role": "介词短语"
-        },
-        {
-          "text": "Wednesday's",
-          "role": "介词短语"
-        },
-        {
-          "text": "performance.",
+          "text": "for next Wednesday's performance.",
           "role": "介词短语"
         }
       ]

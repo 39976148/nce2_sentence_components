@@ -10,96 +10,24 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In 1858, a French engineer, Aime Thome de Gamond, arrived",
           "role": "时间状语"
         },
         {
-          "text": "1858,",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "French",
-          "role": "时间状语"
-        },
-        {
-          "text": "engineer,",
-          "role": "主语"
-        },
-        {
-          "text": "Aime",
-          "role": "宾语"
-        },
-        {
-          "text": "Thome",
-          "role": "宾语"
-        },
-        {
-          "text": "de",
-          "role": "宾语"
-        },
-        {
-          "text": "Gamond,",
-          "role": "宾语"
-        },
-        {
-          "text": "arrived",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
+          "text": "in England",
           "role": "地点状语"
         },
         {
-          "text": "England",
+          "text": "with a plan",
+          "role": "介词短语"
+        },
+        {
+          "text": "for a twenty-one-mile tunnel",
+          "role": "介词短语"
+        },
+        {
+          "text": "under the English Channel.",
           "role": "地点状语"
-        },
-        {
-          "text": "with",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "plan",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "twenty-one-mile",
-          "role": "宾语"
-        },
-        {
-          "text": "tunnel",
-          "role": "宾语"
-        },
-        {
-          "text": "under",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "English",
-          "role": "宾语"
-        },
-        {
-          "text": "Channel.",
-          "role": "宾语"
         }
       ]
     },
@@ -138,43 +66,15 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to build a platform",
           "role": "地点状语"
         },
         {
-          "text": "build",
+          "text": "in the centre",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "platform",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "centre",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Channel.",
+          "text": "of the Channel.",
           "role": "介词短语"
         }
       ]
@@ -191,11 +91,11 @@
         },
         {
           "text": "platform",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "would",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "serve",
@@ -243,7 +143,7 @@
         },
         {
           "text": "tunnel",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "would",
@@ -298,55 +198,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In 1860, a better plan was put forward",
           "role": "时间状语"
         },
         {
-          "text": "1860,",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "better",
-          "role": "时间状语"
-        },
-        {
-          "text": "plan",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "put",
-          "role": "谓语"
-        },
-        {
-          "text": "forward",
-          "role": "表语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "an",
-          "role": "介词短语"
-        },
-        {
-          "text": "Englishman,",
-          "role": "介词短语"
-        },
-        {
-          "text": "William",
-          "role": "介词短语"
-        },
-        {
-          "text": "Low.",
+          "text": "by an Englishman, William Low.",
           "role": "介词短语"
         }
       ]
@@ -422,16 +278,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "ventilation,",
-          "role": "宾语"
+          "text": "of ventilation,",
+          "role": "介词短语"
         },
         {
           "text": "for",
-          "role": "宾语"
+          "role": "介词短语"
         },
         {
           "text": "if",
@@ -470,24 +322,16 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "fresh",
-          "role": "地点状语"
-        },
-        {
-          "text": "air",
+          "text": "in fresh air",
           "role": "地点状语"
         },
         {
           "text": "behind",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it.",
-          "role": "地点状语"
+          "role": "宾语"
         }
       ]
     },
@@ -542,59 +386,7 @@
           "role": "主语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "time,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "British",
-          "role": "地点状语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "feared",
-          "role": "谓语"
-        },
-        {
-          "text": "invasion,",
-          "role": "宾语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "completed.",
+          "text": "at the time, the British had not feared invasion, it would have been completed.",
           "role": "谓语"
         }
       ]
@@ -611,50 +403,18 @@
         },
         {
           "text": "world",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to wait almost another 100 years",
           "role": "地点状语"
         },
         {
-          "text": "wait",
-          "role": "地点状语"
-        },
-        {
-          "text": "almost",
-          "role": "地点状语"
-        },
-        {
-          "text": "another",
-          "role": "地点状语"
-        },
-        {
-          "text": "100",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "Channel",
-          "role": "介词短语"
-        },
-        {
-          "text": "Tunnel.",
+          "text": "for the Channel Tunnel.",
           "role": "介词短语"
         }
       ]
@@ -682,43 +442,11 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on March 7,1994, finally connecting Britain",
           "role": "地点状语"
         },
         {
-          "text": "March",
-          "role": "地点状语"
-        },
-        {
-          "text": "7,1994,",
-          "role": "地点状语"
-        },
-        {
-          "text": "finally",
-          "role": "地点状语"
-        },
-        {
-          "text": "connecting",
-          "role": "谓语"
-        },
-        {
-          "text": "Britain",
-          "role": "表语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "European",
-          "role": "地点状语"
-        },
-        {
-          "text": "continent.",
+          "text": "to the European continent.",
           "role": "地点状语"
         }
       ]

@@ -26,35 +26,11 @@
           "role": "谓语"
         },
         {
-          "text": "for",
+          "text": "for a driving licence",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "driving",
-          "role": "谓语"
-        },
-        {
-          "text": "licence",
-          "role": "表语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "third",
-          "role": "介词短语"
-        },
-        {
-          "text": "time.",
+          "text": "for the third time.",
           "role": "介词短语"
         }
       ]
@@ -82,23 +58,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to drive",
           "role": "地点状语"
         },
         {
-          "text": "drive",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "heavy",
-          "role": "地点状语"
-        },
-        {
-          "text": "traffic",
+          "text": "in heavy traffic",
           "role": "地点状语"
         },
         {
@@ -130,59 +94,19 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After having been instructed",
           "role": "时间状语"
         },
         {
-          "text": "having",
-          "role": "主语"
-        },
-        {
-          "text": "been",
-          "role": "系动词"
-        },
-        {
-          "text": "instructed",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to drive out",
           "role": "地点状语"
         },
         {
-          "text": "drive",
-          "role": "地点状语"
+          "text": "of town, I began",
+          "role": "介词短语"
         },
         {
-          "text": "out",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "town,",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "began",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "acquire",
-          "role": "地点状语"
-        },
-        {
-          "text": "confidence.",
+          "text": "to acquire confidence.",
           "role": "地点状语"
         }
       ]
@@ -230,19 +154,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "enjoy",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "test.",
+          "text": "to enjoy my test.",
           "role": "地点状语"
         }
       ]
@@ -259,7 +171,7 @@
         },
         {
           "text": "examiner",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "must",
@@ -278,15 +190,7 @@
           "role": "谓语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "performance,",
+          "text": "with my performance,",
           "role": "介词短语"
         },
         {
@@ -295,7 +199,7 @@
         },
         {
           "text": "he",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "smiled",
@@ -386,20 +290,16 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "front",
+          "text": "in front",
           "role": "地点状语"
         },
         {
           "text": "of",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "you.",
-          "role": "地点状语"
+          "role": "宾语"
         }
       ]
     },
@@ -430,144 +330,20 @@
           "role": "宾语"
         },
         {
-          "text": "on",
+          "text": "on the window, you must stop within five feet.' I continued driving",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "window,",
-          "role": "地点状语"
-        },
-        {
-          "text": "you",
-          "role": "地点状语"
-        },
-        {
-          "text": "must",
-          "role": "谓语"
-        },
-        {
-          "text": "stop",
-          "role": "宾语"
-        },
-        {
-          "text": "within",
-          "role": "宾语"
-        },
-        {
-          "text": "five",
-          "role": "宾语"
-        },
-        {
-          "text": "feet.'",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "continued",
-          "role": "谓语"
-        },
-        {
-          "text": "driving",
-          "role": "谓语"
         },
         {
           "text": "and",
           "role": "连词"
         },
         {
-          "text": "after",
+          "text": "after some time, the examiner tapped loudly, Though the sound could be heard clearly, it took me a long time",
           "role": "介词短语"
         },
         {
-          "text": "some",
-          "role": "介词短语"
-        },
-        {
-          "text": "time,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "examiner",
-          "role": "介词短语"
-        },
-        {
-          "text": "tapped",
-          "role": "谓语"
-        },
-        {
-          "text": "loudly,",
-          "role": "状语"
-        },
-        {
-          "text": "Though",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "sound",
-          "role": "宾语"
-        },
-        {
-          "text": "could",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "heard",
-          "role": "谓语"
-        },
-        {
-          "text": "clearly,",
-          "role": "宾语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "took",
-          "role": "谓语"
-        },
-        {
-          "text": "me",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "long",
-          "role": "宾语"
-        },
-        {
-          "text": "time",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "react.",
-          "role": "宾语"
+          "text": "to react.",
+          "role": "地点状语"
         }
       ]
     },
@@ -639,22 +415,14 @@
         },
         {
           "text": "examiner",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "looked",
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "me",
-          "role": "地点状语"
-        },
-        {
-          "text": "sadly.",
+          "text": "at me sadly.",
           "role": "地点状语"
         }
       ]
@@ -678,36 +446,8 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in a mournful voice, 'you have just killed",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "mournful",
-          "role": "地点状语"
-        },
-        {
-          "text": "voice,",
-          "role": "地点状语"
-        },
-        {
-          "text": "'you",
-          "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "just",
-          "role": "宾语"
-        },
-        {
-          "text": "killed",
-          "role": "谓语"
         },
         {
           "text": "that",

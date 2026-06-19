@@ -47,15 +47,11 @@
         },
         {
           "text": "you",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "answer.",
-          "role": "介词短语"
+          "text": "to answer.",
+          "role": "地点状语"
         }
       ]
     },
@@ -71,7 +67,7 @@
         },
         {
           "text": "dentist",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -94,15 +90,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "teeth",
+          "text": "of my teeth",
           "role": "介词短语"
         },
         {
@@ -122,20 +110,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to rest",
           "role": "地点状语"
         },
         {
-          "text": "rest",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
+          "text": "for a",
+          "role": "介词短语"
         },
         {
           "text": "while.",
@@ -158,16 +138,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to say something,",
           "role": "地点状语"
-        },
-        {
-          "text": "say",
-          "role": "地点状语"
-        },
-        {
-          "text": "something,",
-          "role": "谓语"
         },
         {
           "text": "but",
@@ -190,15 +162,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "cotton",
-          "role": "介词短语"
-        },
-        {
-          "text": "wool.",
+          "text": "of cotton wool.",
           "role": "介词短语"
         }
       ]
@@ -334,12 +298,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "London.",
-          "role": "宾语"
+          "text": "in London.",
+          "role": "地点状语"
         }
       ]
     },
@@ -350,35 +310,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In answer",
           "role": "时间状语"
         },
         {
-          "text": "answer",
-          "role": "时间状语"
-        },
-        {
-          "text": "to",
-          "role": "时间状语"
-        },
-        {
-          "text": "these",
-          "role": "时间状语"
-        },
-        {
-          "text": "questions",
-          "role": "主语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "either",
-          "role": "宾语"
-        },
-        {
-          "text": "nodded",
+          "text": "to these questions I either nodded",
           "role": "谓语"
         },
         {
@@ -519,23 +455,19 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "dentist",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "时间状语"
-        },
-        {
-          "text": "last",
-          "role": "主语"
+          "text": "at last",
+          "role": "地点状语"
         },
         {
           "text": "removed",
@@ -554,39 +486,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "mouth,",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "able",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "from my mouth, I was able",
           "role": "地点状语"
         },
         {
-          "text": "tell",
-          "role": "地点状语"
-        },
-        {
-          "text": "him",
+          "text": "to tell him",
           "role": "地点状语"
         },
         {

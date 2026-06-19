@@ -22,15 +22,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "country,",
+          "text": "in the country,",
           "role": "地点状语"
         },
         {
@@ -82,19 +74,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "地点状语"
-        },
-        {
-          "text": "excursion",
-          "role": "地点状语"
-        },
-        {
-          "text": "recently,",
+          "text": "on an excursion recently,",
           "role": "地点状语"
         },
         {
@@ -154,35 +134,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to Woodford Green,' I said",
           "role": "地点状语"
         },
         {
-          "text": "Woodford",
-          "role": "地点状语"
-        },
-        {
-          "text": "Green,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "conductor",
+          "text": "to the conductor",
           "role": "地点状语"
         },
         {
@@ -198,92 +154,12 @@
           "role": "谓语"
         },
         {
-          "text": "on",
+          "text": "on the bus, 'but I do not know where it is.' 'I will tell you where",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to get off.' answered the conductor.",
           "role": "地点状语"
-        },
-        {
-          "text": "bus,",
-          "role": "地点状语"
-        },
-        {
-          "text": "'but",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "do",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "表语"
-        },
-        {
-          "text": "know",
-          "role": "谓语"
-        },
-        {
-          "text": "where",
-          "role": "表语"
-        },
-        {
-          "text": "it",
-          "role": "表语"
-        },
-        {
-          "text": "is.'",
-          "role": "表语"
-        },
-        {
-          "text": "'I",
-          "role": "表语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "tell",
-          "role": "谓语"
-        },
-        {
-          "text": "you",
-          "role": "表语"
-        },
-        {
-          "text": "where",
-          "role": "表语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "off.'",
-          "role": "地点状语"
-        },
-        {
-          "text": "answered",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "conductor.",
-          "role": "表语"
         }
       ]
     },
@@ -302,60 +178,20 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the front",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "of the bus",
+          "role": "介词短语"
+        },
+        {
+          "text": "to get a good view",
           "role": "地点状语"
         },
         {
-          "text": "front",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bus",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "good",
-          "role": "地点状语"
-        },
-        {
-          "text": "view",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "countryside.",
-          "role": "宾语"
+          "text": "of the countryside.",
+          "role": "介词短语"
         }
       ]
     },
@@ -366,28 +202,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After some time, the bus stopped.",
           "role": "时间状语"
-        },
-        {
-          "text": "some",
-          "role": "时间状语"
-        },
-        {
-          "text": "time,",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "bus",
-          "role": "主语"
-        },
-        {
-          "text": "stopped.",
-          "role": "谓语"
         }
       ]
     },
@@ -407,22 +223,14 @@
         },
         {
           "text": "I",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "realized",
           "role": "谓语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "shock",
+          "text": "with a shock",
           "role": "介词短语"
         },
         {
@@ -454,15 +262,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bus.",
+          "text": "on the bus.",
           "role": "地点状语"
         }
       ]
@@ -486,32 +286,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to get",
           "role": "地点状语"
         },
         {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "off",
-          "role": "地点状语"
-        },
-        {
-          "text": "here,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "conductor",
-          "role": "地点状语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
+          "text": "off here,' the conductor said.",
+          "role": "介词短语"
         }
       ]
     },
@@ -622,44 +402,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to put you off.' 'It does not matter,' I said.",
           "role": "地点状语"
-        },
-        {
-          "text": "put",
-          "role": "地点状语"
-        },
-        {
-          "text": "you",
-          "role": "地点状语"
-        },
-        {
-          "text": "off.'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'It",
-          "role": "地点状语"
-        },
-        {
-          "text": "does",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "matter,'",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -682,44 +426,8 @@
           "role": "谓语"
         },
         {
-          "text": "off",
+          "text": "off here.' 'we are going back now,' said the conductor.",
           "role": "介词短语"
-        },
-        {
-          "text": "here.'",
-          "role": "介词短语"
-        },
-        {
-          "text": "'we",
-          "role": "介词短语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "going",
-          "role": "谓语"
-        },
-        {
-          "text": "back",
-          "role": "宾语"
-        },
-        {
-          "text": "now,'",
-          "role": "宾语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "conductor.",
-          "role": "宾语"
         }
       ]
     },
@@ -734,52 +442,16 @@
           "role": "主语"
         },
         {
-          "text": "in",
+          "text": "in that case, I prefer",
           "role": "地点状语"
         },
         {
-          "text": "that",
-          "role": "连词"
-        },
-        {
-          "text": "case,",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "prefer",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to stay",
           "role": "地点状语"
         },
         {
-          "text": "stay",
+          "text": "on the bus,' I answered.",
           "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bus,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "answered.",
-          "role": "谓语"
         }
       ]
     }

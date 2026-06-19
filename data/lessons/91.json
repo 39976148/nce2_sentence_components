@@ -15,7 +15,7 @@
         },
         {
           "text": "pilot",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "noticed",
@@ -38,44 +38,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to be making",
           "role": "地点状语"
         },
         {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "making",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
+          "text": "for a Royal Air Force Station nearby.",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "Royal",
-          "role": "介词短语"
-        },
-        {
-          "text": "Air",
-          "role": "介词短语"
-        },
-        {
-          "text": "Force",
-          "role": "介词短语"
-        },
-        {
-          "text": "Station",
-          "role": "介词短语"
-        },
-        {
-          "text": "nearby.",
-          "role": "宾语"
         }
       ]
     },
@@ -102,12 +70,8 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "宾语"
-        },
-        {
-          "text": "once,",
-          "role": "宾语"
+          "text": "at once,",
+          "role": "地点状语"
         },
         {
           "text": "but",
@@ -134,19 +98,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "explain",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mystery.",
+          "text": "to explain the mystery.",
           "role": "地点状语"
         }
       ]
@@ -163,35 +115,11 @@
         },
         {
           "text": "officer",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "主语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "control",
-          "role": "主语"
-        },
-        {
-          "text": "tower",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "very",
-          "role": "状语"
-        },
-        {
-          "text": "angry",
-          "role": "表语"
+          "text": "in the control tower was very angry",
+          "role": "地点状语"
         },
         {
           "text": "when",
@@ -199,7 +127,7 @@
         },
         {
           "text": "he",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "heard",
@@ -207,11 +135,11 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "news,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "because",
@@ -219,7 +147,7 @@
         },
         {
           "text": "balloons",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "can",
@@ -231,23 +159,19 @@
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "great",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "danger",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "表语"
-        },
-        {
-          "text": "aircraft.",
-          "role": "表语"
+          "text": "to aircraft.",
+          "role": "地点状语"
         }
       ]
     },
@@ -286,15 +210,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "station",
+          "text": "on the station",
           "role": "地点状语"
         },
         {
@@ -318,32 +234,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to keep track",
           "role": "地点状语"
         },
         {
-          "text": "keep",
-          "role": "地点状语"
-        },
-        {
-          "text": "track",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "strange",
-          "role": "地点状语"
-        },
-        {
-          "text": "object.",
-          "role": "宾语"
+          "text": "of the strange object.",
+          "role": "介词短语"
         }
       ]
     },
@@ -359,39 +255,19 @@
         },
         {
           "text": "pilot",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "managed",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to circle the balloon",
           "role": "地点状语"
         },
         {
-          "text": "circle",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "balloon",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
-          "role": "宾语"
+          "text": "for some time.",
+          "role": "介词短语"
         }
       ]
     },
@@ -426,24 +302,16 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "basket",
+          "text": "in a basket",
           "role": "地点状语"
         },
         {
           "text": "under",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -454,36 +322,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of them was holding a pair",
           "role": "介词短语"
         },
         {
-          "text": "them",
+          "text": "of binoculars.",
           "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "holding",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "pair",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "binoculars.",
-          "role": "宾语"
         }
       ]
     },
@@ -495,67 +339,27 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "balloon",
-          "role": "时间状语"
-        },
-        {
-          "text": "was",
           "role": "主语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
           "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "station,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "pilot",
-          "role": "介词短语"
-        },
-        {
-          "text": "saw",
-          "role": "谓语"
-        },
-        {
-          "text": "one",
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
+          "text": "balloon",
+          "role": "宾语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "men",
-          "role": "介词短语"
-        },
-        {
-          "text": "taking",
+          "text": "was",
           "role": "谓语"
         },
         {
-          "text": "photographs.",
-          "role": "宾语"
+          "text": "over the station, the pilot saw one",
+          "role": "地点状语"
+        },
+        {
+          "text": "of the men taking photographs.",
+          "role": "介词短语"
         }
       ]
     },
@@ -567,30 +371,26 @@
       "tokens": [
         {
           "text": "Soon",
-          "role": "时间状语"
-        },
-        {
-          "text": "afterwards,",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "balloon",
-          "role": "时间状语"
-        },
-        {
-          "text": "began",
           "role": "主语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
+          "text": "afterwards,",
+          "role": "宾语"
         },
         {
-          "text": "descend",
+          "text": "the",
+          "role": "宾语"
+        },
+        {
+          "text": "balloon",
+          "role": "宾语"
+        },
+        {
+          "text": "began",
+          "role": "谓语"
+        },
+        {
+          "text": "to descend",
           "role": "地点状语"
         },
         {
@@ -606,15 +406,7 @@
           "role": "谓语"
         },
         {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "地点状语"
-        },
-        {
-          "text": "airfield.",
+          "text": "near an airfield.",
           "role": "地点状语"
         }
       ]
@@ -631,11 +423,11 @@
         },
         {
           "text": "police",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "called",
@@ -643,7 +435,7 @@
         },
         {
           "text": "in,",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -651,7 +443,7 @@
         },
         {
           "text": "they",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "could",
@@ -659,46 +451,22 @@
         },
         {
           "text": "not",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "arrest",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "anyone,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for the basket contained two Members",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "basket",
-          "role": "介词短语"
-        },
-        {
-          "text": "contained",
-          "role": "谓语"
-        },
-        {
-          "text": "two",
-          "role": "表语"
-        },
-        {
-          "text": "Members",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "Parliament",
+          "text": "of Parliament",
           "role": "介词短语"
         },
         {
@@ -707,7 +475,7 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Commanding",
@@ -715,18 +483,10 @@
         },
         {
           "text": "Officer",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "station!",
+          "text": "of the station!",
           "role": "介词短语"
         }
       ]
@@ -770,52 +530,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the station did not know what the other half was doing!",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "station",
-          "role": "介词短语"
-        },
-        {
-          "text": "did",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "know",
-          "role": "谓语"
-        },
-        {
-          "text": "what",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "other",
-          "role": "宾语"
-        },
-        {
-          "text": "half",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "doing!",
-          "role": "谓语"
         }
       ]
     }

@@ -38,15 +38,7 @@
           "role": "宾语"
         },
         {
-          "text": "about",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "experiences",
+          "text": "about his experiences",
           "role": "介词短语"
         },
         {
@@ -75,11 +67,11 @@
       "tokens": [
         {
           "text": "Before",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "retired,",
@@ -102,28 +94,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "very",
-          "role": "宾语"
-        },
-        {
-          "text": "large",
-          "role": "宾语"
-        },
-        {
-          "text": "business",
-          "role": "宾语"
-        },
-        {
-          "text": "company,",
-          "role": "宾语"
+          "text": "of a very large business company,",
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -150,27 +122,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to work",
           "role": "地点状语"
         },
         {
-          "text": "work",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "small",
-          "role": "地点状语"
-        },
-        {
-          "text": "shop.",
+          "text": "in a small shop.",
           "role": "地点状语"
         }
       ]
@@ -198,63 +154,19 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "表语"
-        },
-        {
-          "text": "repair",
-          "role": "表语"
-        },
-        {
-          "text": "bicycles",
-          "role": "表语"
+          "text": "to repair bicycles",
+          "role": "地点状语"
         },
         {
           "text": "and",
           "role": "连词"
         },
         {
-          "text": "at",
+          "text": "at that time he used",
           "role": "地点状语"
         },
         {
-          "text": "that",
-          "role": "连词"
-        },
-        {
-          "text": "time",
-          "role": "表语"
-        },
-        {
-          "text": "he",
-          "role": "表语"
-        },
-        {
-          "text": "used",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "work",
-          "role": "地点状语"
-        },
-        {
-          "text": "fourteen",
-          "role": "地点状语"
-        },
-        {
-          "text": "hours",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "day.",
+          "text": "to work fourteen hours a day.",
           "role": "地点状语"
         }
       ]
@@ -278,11 +190,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "years",
+          "text": "for years",
           "role": "介词短语"
         },
         {
@@ -290,43 +198,11 @@
           "role": "连词"
         },
         {
-          "text": "in",
+          "text": "in 1958 he bought a small workshop",
           "role": "地点状语"
         },
         {
-          "text": "1958",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "bought",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "small",
-          "role": "地点状语"
-        },
-        {
-          "text": "workshop",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "own.",
+          "text": "of his own.",
           "role": "介词短语"
         }
       ]
@@ -338,48 +214,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In his twenties Frank used",
           "role": "时间状语"
         },
         {
-          "text": "his",
-          "role": "时间状语"
-        },
-        {
-          "text": "twenties",
-          "role": "时间状语"
-        },
-        {
-          "text": "Frank",
-          "role": "时间状语"
-        },
-        {
-          "text": "used",
-          "role": "主语"
-        },
-        {
-          "text": "to",
+          "text": "to make spare parts",
           "role": "地点状语"
         },
         {
-          "text": "make",
-          "role": "地点状语"
-        },
-        {
-          "text": "spare",
-          "role": "地点状语"
-        },
-        {
-          "text": "parts",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "aeroplanes.",
-          "role": "地点状语"
+          "text": "for aeroplanes.",
+          "role": "介词短语"
         }
       ]
     },
@@ -390,32 +234,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At that time he had two helpers.",
           "role": "时间状语"
-        },
-        {
-          "text": "that",
-          "role": "时间状语"
-        },
-        {
-          "text": "time",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "two",
-          "role": "宾语"
-        },
-        {
-          "text": "helpers.",
-          "role": "宾语"
         }
       ]
     },
@@ -426,72 +246,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In a few years the small workshop had become a large factory which employed seven hundred",
           "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "few",
-          "role": "时间状语"
-        },
-        {
-          "text": "years",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "small",
-          "role": "主语"
-        },
-        {
-          "text": "workshop",
-          "role": "主语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "become",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "large",
-          "role": "宾语"
-        },
-        {
-          "text": "factory",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "employed",
-          "role": "谓语"
-        },
-        {
-          "text": "seven",
-          "role": "宾语"
-        },
-        {
-          "text": "hundred",
-          "role": "谓语"
         },
         {
           "text": "and",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "twenty-eight",
@@ -562,12 +322,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "success.",
-          "role": "宾语"
+          "text": "to success.",
+          "role": "地点状语"
         }
       ]
     },
@@ -627,7 +383,7 @@
         },
         {
           "text": "in.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -650,23 +406,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "repair",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "grandson's",
-          "role": "地点状语"
-        },
-        {
-          "text": "bicycle!",
+          "text": "to repair their grandson's bicycle!",
           "role": "地点状语"
         }
       ]

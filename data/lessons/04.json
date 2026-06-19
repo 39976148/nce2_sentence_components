@@ -34,20 +34,8 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "brother,",
-          "role": "宾语"
-        },
-        {
-          "text": "Tim.",
-          "role": "宾语"
+          "text": "from my brother, Tim.",
+          "role": "地点状语"
         }
       ]
     },
@@ -66,11 +54,7 @@
           "role": "系动词"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Australia.",
+          "text": "in Australia.",
           "role": "地点状语"
         }
       ]
@@ -98,15 +82,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "six",
-          "role": "介词短语"
-        },
-        {
-          "text": "months.",
+          "text": "for six months.",
           "role": "介词短语"
         }
       ]
@@ -154,19 +130,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "big",
-          "role": "介词短语"
-        },
-        {
-          "text": "firm",
+          "text": "for a big firm",
           "role": "介词短语"
         },
         {
@@ -202,23 +166,11 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
+          "text": "of different places",
+          "role": "介词短语"
         },
         {
-          "text": "different",
-          "role": "表语"
-        },
-        {
-          "text": "places",
-          "role": "表语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Australia.",
+          "text": "in Australia.",
           "role": "地点状语"
         }
       ]
@@ -270,48 +222,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to Alice springs, a small town",
           "role": "地点状语"
         },
         {
-          "text": "Alice",
+          "text": "in the centre",
           "role": "地点状语"
         },
         {
-          "text": "springs,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "small",
-          "role": "地点状语"
-        },
-        {
-          "text": "town",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "centre",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "Australia.",
-          "role": "地点状语"
+          "text": "of Australia.",
+          "role": "介词短语"
         }
       ]
     },
@@ -350,31 +270,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "From",
+          "text": "From there, he will fly",
           "role": "地点状语"
         },
         {
-          "text": "there,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "fly",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Perth.",
+          "text": "to Perth.",
           "role": "地点状语"
         }
       ]
@@ -391,7 +291,7 @@
         },
         {
           "text": "brother",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -439,7 +339,7 @@
         },
         {
           "text": "very",
-          "role": "宾语"
+          "role": "状语"
         },
         {
           "text": "exciting.",

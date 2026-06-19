@@ -15,47 +15,19 @@
         },
         {
           "text": "woman",
-          "role": "主语"
-        },
-        {
-          "text": "in",
-          "role": "主语"
-        },
-        {
-          "text": "jeans",
-          "role": "主语"
-        },
-        {
-          "text": "stood",
-          "role": "主语"
-        },
-        {
-          "text": "at",
-          "role": "主语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "window",
-          "role": "宾语"
+          "text": "in jeans stood",
+          "role": "地点状语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "at the window",
+          "role": "地点状语"
         },
         {
-          "text": "an",
-          "role": "宾语"
-        },
-        {
-          "text": "expensive",
-          "role": "宾语"
-        },
-        {
-          "text": "shop.",
-          "role": "宾语"
+          "text": "of an expensive shop.",
+          "role": "介词短语"
         }
       ]
     },
@@ -78,32 +50,12 @@
           "role": "谓语"
         },
         {
-          "text": "for",
+          "text": "for a moment, she finally went",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "moment,",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "finally",
-          "role": "介词短语"
-        },
-        {
-          "text": "went",
-          "role": "谓语"
         },
         {
           "text": "in",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -114,19 +66,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "dress",
+          "text": "to see a dress",
           "role": "地点状语"
         },
         {
@@ -138,15 +78,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "window.",
+          "text": "in the window.",
           "role": "地点状语"
         }
       ]
@@ -163,11 +95,11 @@
         },
         {
           "text": "assistant",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "who",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "served",
@@ -222,28 +154,8 @@
           "role": "主语"
         },
         {
-          "text": "at",
+          "text": "at her scornfully, he told her",
           "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "scornfully,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "her",
-          "role": "宾语"
         },
         {
           "text": "that",
@@ -279,7 +191,7 @@
         },
         {
           "text": "woman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "walked",
@@ -290,19 +202,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "shop",
-          "role": "介词短语"
-        },
-        {
-          "text": "angrily",
+          "text": "of the shop angrily",
           "role": "介词短语"
         },
         {
@@ -314,27 +214,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "punish",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "assistant",
-          "role": "地点状语"
-        },
-        {
-          "text": "next",
-          "role": "地点状语"
-        },
-        {
-          "text": "day.",
+          "text": "to punish the assistant next day.",
           "role": "地点状语"
         }
       ]
@@ -354,71 +234,19 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the shop the following morning dressed",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "in a fur coat,",
           "role": "地点状语"
         },
         {
-          "text": "shop",
-          "role": "地点状语"
+          "text": "with a handbag",
+          "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "following",
-          "role": "谓语"
-        },
-        {
-          "text": "morning",
-          "role": "谓语"
-        },
-        {
-          "text": "dressed",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "fur",
-          "role": "地点状语"
-        },
-        {
-          "text": "coat,",
-          "role": "地点状语"
-        },
-        {
-          "text": "with",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "handbag",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "hand",
+          "text": "in one hand",
           "role": "地点状语"
         },
         {
@@ -438,16 +266,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "other.",
-          "role": "宾语"
+          "text": "in the other.",
+          "role": "地点状语"
         }
       ]
     },
@@ -458,51 +278,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After seeking out the rude assistant, she asked",
           "role": "时间状语"
         },
         {
-          "text": "seeking",
-          "role": "主语"
-        },
-        {
-          "text": "out",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "rude",
-          "role": "宾语"
-        },
-        {
-          "text": "assistant,",
-          "role": "宾语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "same",
-          "role": "介词短语"
-        },
-        {
-          "text": "dress.",
+          "text": "for the same dress.",
           "role": "介词短语"
         }
       ]
@@ -550,23 +330,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "serve",
-          "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "time.",
+          "text": "to serve her this time.",
           "role": "地点状语"
         }
       ]
@@ -578,56 +342,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "With",
-          "role": "介词短语"
-        },
-        {
-          "text": "great",
-          "role": "介词短语"
-        },
-        {
-          "text": "difficulty,",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "climbed",
+          "text": "With great difficulty, he climbed",
           "role": "谓语"
         },
         {
-          "text": "into",
+          "text": "into the shop window",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to get the dress.",
           "role": "地点状语"
-        },
-        {
-          "text": "shop",
-          "role": "地点状语"
-        },
-        {
-          "text": "window",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "dress.",
-          "role": "宾语"
         }
       ]
     },
@@ -738,52 +462,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the window",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "window",
-          "role": "地点状语"
-        },
-        {
-          "text": "before",
-          "role": "地点状语"
-        },
-        {
-          "text": "finally",
-          "role": "地点状语"
-        },
-        {
-          "text": "buying",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "dress",
-          "role": "宾语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "first",
-          "role": "宾语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
+          "text": "before finally buying the dress she had first asked",
+          "role": "介词短语"
         },
         {
           "text": "for.",

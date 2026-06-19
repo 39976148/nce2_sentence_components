@@ -11,66 +11,34 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "a",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "light",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "passenger",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "plane",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "flew",
           "role": "宾语"
         },
         {
-          "text": "off",
+          "text": "off course some time ago, it crashed",
           "role": "介词短语"
         },
         {
-          "text": "course",
-          "role": "介词短语"
-        },
-        {
-          "text": "some",
-          "role": "介词短语"
-        },
-        {
-          "text": "time",
-          "role": "介词短语"
-        },
-        {
-          "text": "ago,",
-          "role": "介词短语"
-        },
-        {
-          "text": "it",
-          "role": "介词短语"
-        },
-        {
-          "text": "crashed",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mountains",
+          "text": "in the mountains",
           "role": "地点状语"
         },
         {
@@ -107,23 +75,23 @@
         },
         {
           "text": "only",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "passengers,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "young",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "woman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -178,12 +146,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "winter.",
-          "role": "表语"
+          "text": "of winter.",
+          "role": "介词短语"
         }
       ]
     },
@@ -206,15 +170,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ground.",
+          "text": "on the ground.",
           "role": "地点状语"
         }
       ]
@@ -231,7 +187,7 @@
         },
         {
           "text": "woman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "knew",
@@ -275,11 +231,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "it",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "grew",
@@ -306,16 +262,8 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "bed",
-          "role": "宾语"
+          "text": "into a bed",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -350,32 +298,8 @@
           "role": "宾语"
         },
         {
-          "text": "with",
+          "text": "with all the clothes she could find.",
           "role": "介词短语"
-        },
-        {
-          "text": "all",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "clothes",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "could",
-          "role": "谓语"
-        },
-        {
-          "text": "find.",
-          "role": "谓语"
         }
       ]
     },
@@ -387,19 +311,19 @@
       "tokens": [
         {
           "text": "During",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "night,",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "it",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "got",
@@ -427,7 +351,7 @@
         },
         {
           "text": "woman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "kept",
@@ -439,7 +363,7 @@
         },
         {
           "text": "near",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "as",
@@ -454,15 +378,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "children",
+          "text": "to the children",
           "role": "地点状语"
         },
         {
@@ -478,27 +394,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to get",
           "role": "地点状语"
         },
         {
-          "text": "get",
-          "role": "地点状语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "case",
-          "role": "地点状语"
-        },
-        {
-          "text": "herself,",
+          "text": "into the case herself,",
           "role": "地点状语"
         },
         {
@@ -534,11 +434,7 @@
           "role": "主语"
         },
         {
-          "text": "next",
-          "role": "宾语"
-        },
-        {
-          "text": "morning,",
+          "text": "next morning,",
           "role": "谓语"
         },
         {
@@ -603,11 +499,11 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -654,16 +550,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "snow.",
-          "role": "宾语"
+          "text": "in the snow.",
+          "role": "地点状语"
         }
       ]
     },
@@ -714,28 +602,12 @@
           "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "宾语"
+          "text": "by radio",
+          "role": "介词短语"
         },
         {
-          "text": "radio",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "nearest",
-          "role": "宾语"
-        },
-        {
-          "text": "town.",
-          "role": "宾语"
+          "text": "to the nearest town.",
+          "role": "地点状语"
         }
       ]
     },
@@ -762,63 +634,19 @@
           "role": "表语"
         },
         {
-          "text": "before",
+          "text": "before a helicopter arrived",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "helicopter",
-          "role": "介词短语"
-        },
-        {
-          "text": "arrived",
-          "role": "谓语"
-        },
-        {
-          "text": "on",
+          "text": "on the scene",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to rescue the survivors",
           "role": "地点状语"
         },
         {
-          "text": "scene",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "rescue",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "survivors",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "plane",
-          "role": "介词短语"
-        },
-        {
-          "text": "crash.",
+          "text": "of the plane crash.",
           "role": "介词短语"
         }
       ]

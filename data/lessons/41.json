@@ -42,15 +42,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "wife.",
+          "text": "to my wife.",
           "role": "地点状语"
         }
       ]
@@ -86,24 +78,8 @@
           "role": "宾语"
         },
         {
-          "text": "about",
+          "text": "about it,' my wife answered",
           "role": "介词短语"
-        },
-        {
-          "text": "it,'",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "wife",
-          "role": "介词短语"
-        },
-        {
-          "text": "answered",
-          "role": "谓语"
         },
         {
           "text": "as",
@@ -118,23 +94,11 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at herself",
           "role": "地点状语"
         },
         {
-          "text": "herself",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mirror.",
+          "text": "in the mirror.",
           "role": "地点状语"
         }
       ]
@@ -154,39 +118,15 @@
           "role": "谓语"
         },
         {
-          "text": "down",
+          "text": "down on one",
           "role": "介词短语"
         },
         {
-          "text": "on",
+          "text": "of those modern chairs",
           "role": "介词短语"
         },
         {
-          "text": "one",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "those",
-          "role": "介词短语"
-        },
-        {
-          "text": "modern",
-          "role": "介词短语"
-        },
-        {
-          "text": "chairs",
-          "role": "宾语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "holes",
+          "text": "with holes",
           "role": "介词短语"
         },
         {
@@ -195,7 +135,7 @@
         },
         {
           "text": "it",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -226,36 +166,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the hat shop",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "hat",
-          "role": "地点状语"
-        },
-        {
-          "text": "shop",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "half",
-          "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "宾语"
-        },
-        {
-          "text": "hour",
-          "role": "宾语"
+          "text": "for half an hour",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -278,24 +194,12 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in front",
           "role": "地点状语"
         },
         {
-          "text": "front",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mirror.",
-          "role": "地点状语"
+          "text": "of the mirror.",
+          "role": "介词短语"
         }
       ]
     },
@@ -382,11 +286,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "once.",
+          "text": "at once.",
           "role": "地点状语"
         }
       ]
@@ -462,56 +362,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of that terrible tie you bought yesterday.' 'I find it beautiful,' I said.",
           "role": "介词短语"
-        },
-        {
-          "text": "that",
-          "role": "连词"
-        },
-        {
-          "text": "terrible",
-          "role": "宾语"
-        },
-        {
-          "text": "tie",
-          "role": "宾语"
-        },
-        {
-          "text": "you",
-          "role": "宾语"
-        },
-        {
-          "text": "bought",
-          "role": "宾语"
-        },
-        {
-          "text": "yesterday.'",
-          "role": "宾语"
-        },
-        {
-          "text": "'I",
-          "role": "宾语"
-        },
-        {
-          "text": "find",
-          "role": "谓语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "beautiful,'",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -630,19 +482,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "shop",
-          "role": "介词短语"
-        },
-        {
-          "text": "together.",
+          "text": "of the shop together.",
           "role": "介词短语"
         }
       ]
@@ -659,11 +499,11 @@
         },
         {
           "text": "wife",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "wearing",
@@ -671,11 +511,11 @@
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "hat",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "that",
@@ -691,11 +531,11 @@
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "lighthouse!",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     }

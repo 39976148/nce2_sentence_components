@@ -15,47 +15,15 @@
         },
         {
           "text": "Festival",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "主语"
+          "text": "for the Dead is held once a year",
+          "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "Dead",
-          "role": "主语"
-        },
-        {
-          "text": "is",
-          "role": "系动词"
-        },
-        {
-          "text": "held",
-          "role": "表语"
-        },
-        {
-          "text": "once",
-          "role": "表语"
-        },
-        {
-          "text": "a",
-          "role": "表语"
-        },
-        {
-          "text": "year",
-          "role": "表语"
-        },
-        {
-          "text": "in",
-          "role": "表语"
-        },
-        {
-          "text": "Japan.",
-          "role": "表语"
+          "text": "in Japan.",
+          "role": "地点状语"
         }
       ]
     },
@@ -71,74 +39,34 @@
         },
         {
           "text": "festival",
-          "role": "时间状语"
-        },
-        {
-          "text": "is",
           "role": "主语"
         },
         {
+          "text": "is",
+          "role": "系动词"
+        },
+        {
           "text": "a",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "cheerful",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "occasion,",
-          "role": "宾语"
+          "role": "表语"
         },
         {
-          "text": "for",
-          "role": "宾语"
+          "text": "for on this day, the dead are said",
+          "role": "介词短语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "day,",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "dead",
-          "role": "宾语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to return",
           "role": "地点状语"
         },
         {
-          "text": "return",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "homes",
+          "text": "to their homes",
           "role": "地点状语"
         },
         {
@@ -147,7 +75,7 @@
         },
         {
           "text": "they",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "are",
@@ -158,16 +86,8 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by the living.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "living.",
-          "role": "谓语"
         }
       ]
     },
@@ -194,55 +114,15 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to be hungry",
           "role": "地点状语"
         },
         {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "hungry",
-          "role": "地点状语"
-        },
-        {
-          "text": "after",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "long",
-          "role": "地点状语"
-        },
-        {
-          "text": "journey,",
-          "role": "宾语"
-        },
-        {
-          "text": "food",
-          "role": "宾语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "laid",
-          "role": "宾语"
-        },
-        {
-          "text": "out",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
+          "text": "after their long journey, food is laid out",
           "role": "介词短语"
         },
         {
-          "text": "them.",
+          "text": "for them.",
           "role": "介词短语"
         }
       ]
@@ -282,36 +162,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to help the dead",
           "role": "地点状语"
         },
         {
-          "text": "help",
+          "text": "to find their way.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "dead",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "谓语"
-        },
-        {
-          "text": "their",
-          "role": "宾语"
-        },
-        {
-          "text": "way.",
-          "role": "宾语"
         }
       ]
     },
@@ -358,32 +214,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In the early morning, the food",
           "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "early",
-          "role": "时间状语"
-        },
-        {
-          "text": "morning,",
-          "role": "主语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "food",
-          "role": "宾语"
         },
         {
           "text": "that",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "had",
@@ -402,35 +238,11 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for the dead is thrown",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "dead",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "thrown",
-          "role": "宾语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "river",
+          "text": "into a river",
           "role": "地点状语"
         },
         {
@@ -438,15 +250,7 @@
           "role": "连词"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "sea",
+          "text": "into the sea",
           "role": "地点状语"
         },
         {
@@ -470,27 +274,11 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for anyone living",
           "role": "介词短语"
         },
         {
-          "text": "anyone",
-          "role": "介词短语"
-        },
-        {
-          "text": "living",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "eat",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to eat it.",
           "role": "地点状语"
         }
       ]
@@ -502,103 +290,31 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
-          "role": "时间状语"
-        },
-        {
-          "text": "towns",
+          "text": "In towns",
           "role": "时间状语"
         },
         {
           "text": "that",
-          "role": "时间状语"
-        },
-        {
-          "text": "are",
           "role": "主语"
         },
         {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "sea,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "tiny",
-          "role": "地点状语"
-        },
-        {
-          "text": "lanterns",
-          "role": "地点状语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "hung",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "streets",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "night",
-          "role": "地点状语"
-        },
-        {
-          "text": "before,",
-          "role": "地点状语"
-        },
-        {
           "text": "are",
-          "role": "谓语"
+          "role": "系动词"
         },
         {
-          "text": "placed",
-          "role": "谓语"
-        },
-        {
-          "text": "into",
+          "text": "near the sea, the tiny lanterns which had been hung",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "in the streets the night",
           "role": "地点状语"
         },
         {
-          "text": "water",
+          "text": "before, are placed",
+          "role": "介词短语"
+        },
+        {
+          "text": "into the water",
           "role": "地点状语"
         },
         {
@@ -607,11 +323,11 @@
         },
         {
           "text": "the",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "festival",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "is",
@@ -634,75 +350,19 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of lanterns slowly drift out",
           "role": "介词短语"
         },
         {
-          "text": "lanterns",
-          "role": "介词短语"
-        },
-        {
-          "text": "slowly",
-          "role": "介词短语"
-        },
-        {
-          "text": "drift",
-          "role": "介词短语"
-        },
-        {
-          "text": "out",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "sea",
-          "role": "宾语"
-        },
-        {
-          "text": "guiding",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "dead",
-          "role": "宾语"
-        },
-        {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "their",
-          "role": "宾语"
-        },
-        {
-          "text": "return",
-          "role": "宾语"
-        },
-        {
-          "text": "journey",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to sea guiding the dead",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "on their return journey",
           "role": "地点状语"
         },
         {
-          "text": "other",
-          "role": "地点状语"
-        },
-        {
-          "text": "world.",
+          "text": "to the other world.",
           "role": "地点状语"
         }
       ]
@@ -734,84 +394,16 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for crowds",
           "role": "介词短语"
         },
         {
-          "text": "crowds",
+          "text": "of people stand",
           "role": "介词短语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "people",
-          "role": "介词短语"
-        },
-        {
-          "text": "stand",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "shore",
-          "role": "宾语"
-        },
-        {
-          "text": "watching",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "lanterns",
-          "role": "宾语"
-        },
-        {
-          "text": "drifting",
-          "role": "谓语"
-        },
-        {
-          "text": "away",
-          "role": "宾语"
-        },
-        {
-          "text": "until",
-          "role": "宾语"
-        },
-        {
-          "text": "they",
-          "role": "宾语"
-        },
-        {
-          "text": "can",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "seen",
-          "role": "宾语"
-        },
-        {
-          "text": "no",
-          "role": "宾语"
-        },
-        {
-          "text": "more.",
-          "role": "宾语"
+          "text": "on the shore watching the lanterns drifting away until they can be seen no more.",
+          "role": "地点状语"
         }
       ]
     }

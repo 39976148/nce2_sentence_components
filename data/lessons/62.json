@@ -34,20 +34,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "nearly",
-          "role": "宾语"
-        },
-        {
-          "text": "three",
-          "role": "宾语"
-        },
-        {
-          "text": "weeks",
-          "role": "宾语"
+          "text": "for nearly three weeks",
+          "role": "介词短语"
         },
         {
           "text": "before",
@@ -55,7 +43,7 @@
         },
         {
           "text": "they",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "could",
@@ -70,12 +58,8 @@
           "role": "宾语"
         },
         {
-          "text": "under",
-          "role": "介词短语"
-        },
-        {
-          "text": "control.",
-          "role": "介词短语"
+          "text": "under control.",
+          "role": "地点状语"
         }
       ]
     },
@@ -91,51 +75,23 @@
         },
         {
           "text": "short",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "time",
-          "role": "主语"
-        },
-        {
-          "text": "before,",
-          "role": "主语"
-        },
-        {
-          "text": "great",
-          "role": "主语"
-        },
-        {
-          "text": "trees",
-          "role": "主语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "covered",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "countryside",
-          "role": "宾语"
+          "text": "before, great trees had covered the countryside",
+          "role": "介词短语"
         },
         {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "miles",
-          "role": "宾语"
+          "text": "for miles",
+          "role": "介词短语"
         },
         {
           "text": "around.",
-          "role": "宾语"
+          "role": "介词短语"
         }
       ]
     },
@@ -147,55 +103,27 @@
       "tokens": [
         {
           "text": "Now,",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "smoke",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "still",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "rose",
-          "role": "时间状语"
-        },
-        {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "warm",
-          "role": "介词短语"
-        },
-        {
-          "text": "ground",
-          "role": "介词短语"
-        },
-        {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "desolate",
-          "role": "宾语"
+          "text": "up from the warm ground",
+          "role": "介词短语"
         },
         {
-          "text": "hills.",
-          "role": "宾语"
+          "text": "over the desolate hills.",
+          "role": "地点状语"
         }
       ]
     },
@@ -219,7 +147,7 @@
         },
         {
           "text": "on",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -250,52 +178,12 @@
           "role": "表语"
         },
         {
-          "text": "with",
+          "text": "with destruction,",
           "role": "介词短语"
         },
         {
-          "text": "destruction,",
+          "text": "for heavy rain would not only wash away the soil",
           "role": "介词短语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "heavy",
-          "role": "介词短语"
-        },
-        {
-          "text": "rain",
-          "role": "介词短语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "表语"
-        },
-        {
-          "text": "only",
-          "role": "表语"
-        },
-        {
-          "text": "wash",
-          "role": "表语"
-        },
-        {
-          "text": "away",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "soil",
-          "role": "表语"
         },
         {
           "text": "but",
@@ -335,26 +223,22 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "fire",
-          "role": "时间状语"
-        },
-        {
-          "text": "had",
           "role": "主语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
+          "text": "the",
+          "role": "宾语"
         },
         {
-          "text": "last",
+          "text": "fire",
+          "role": "宾语"
+        },
+        {
+          "text": "had",
+          "role": "谓语"
+        },
+        {
+          "text": "at last",
           "role": "地点状语"
         },
         {
@@ -394,44 +278,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of a special type",
           "role": "介词短语"
         },
         {
-          "text": "a",
+          "text": "of grass-seed which would grow quickly.",
           "role": "介词短语"
-        },
-        {
-          "text": "special",
-          "role": "介词短语"
-        },
-        {
-          "text": "type",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "grass-seed",
-          "role": "谓语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "would",
-          "role": "谓语"
-        },
-        {
-          "text": "grow",
-          "role": "宾语"
-        },
-        {
-          "text": "quickly.",
-          "role": "状语"
         }
       ]
     },
@@ -458,35 +310,15 @@
           "role": "谓语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
+          "text": "over the ground",
+          "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
+          "text": "in huge quantities",
+          "role": "地点状语"
         },
         {
-          "text": "ground",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "huge",
-          "role": "介词短语"
-        },
-        {
-          "text": "quantities",
-          "role": "介词短语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "aeroplanes.",
+          "text": "by aeroplanes.",
           "role": "介词短语"
         }
       ]
@@ -503,7 +335,7 @@
         },
         {
           "text": "planes",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -522,19 +354,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "nearly",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "month",
+          "text": "for nearly a month",
           "role": "介词短语"
         },
         {
@@ -550,11 +370,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "rain.",
+          "text": "to rain.",
           "role": "地点状语"
         }
       ]
@@ -566,52 +382,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
+          "text": "By then, however,",
           "role": "介词短语"
         },
         {
-          "text": "then,",
-          "role": "介词短语"
-        },
-        {
-          "text": "however,",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "many",
-          "role": "介词短语"
-        },
-        {
-          "text": "places",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "grass",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "already",
-          "role": "宾语"
-        },
-        {
-          "text": "taken",
-          "role": "宾语"
-        },
-        {
-          "text": "root.",
-          "role": "宾语"
+          "text": "in many places the grass had already taken root.",
+          "role": "地点状语"
         }
       ]
     },
@@ -622,100 +398,28 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In place",
           "role": "时间状语"
         },
         {
-          "text": "place",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "great",
-          "role": "主语"
-        },
-        {
-          "text": "trees",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "growing",
-          "role": "谓语"
-        },
-        {
-          "text": "there",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
+          "text": "of the great trees which had been growing there",
           "role": "介词短语"
         },
         {
-          "text": "centuries",
+          "text": "for centuries patches",
           "role": "介词短语"
         },
         {
-          "text": "patches",
+          "text": "of green had begun",
           "role": "介词短语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "green",
-          "role": "介词短语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "begun",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to appear",
           "role": "地点状语"
         },
         {
-          "text": "appear",
+          "text": "in the blackened soil.",
           "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "blackened",
-          "role": "谓语"
-        },
-        {
-          "text": "soil.",
-          "role": "宾语"
         }
       ]
     }

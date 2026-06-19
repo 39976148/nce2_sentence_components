@@ -11,11 +11,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -42,35 +42,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
+          "text": "of war quickly dragged him",
+          "role": "介词短语"
         },
         {
-          "text": "war",
-          "role": "宾语"
-        },
-        {
-          "text": "quickly",
-          "role": "状语"
-        },
-        {
-          "text": "dragged",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "bushes.",
+          "text": "into the bushes.",
           "role": "地点状语"
         }
       ]
@@ -90,47 +66,11 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in the darkness, he soon changed",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "darkness,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "soon",
-          "role": "地点状语"
-        },
-        {
-          "text": "changed",
-          "role": "谓语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "dead",
-          "role": "地点状语"
-        },
-        {
-          "text": "man's",
-          "role": "地点状语"
-        },
-        {
-          "text": "clothes.",
+          "text": "into the dead man's clothes.",
           "role": "地点状语"
         }
       ]
@@ -143,26 +83,14 @@
       "tokens": [
         {
           "text": "Now,",
-          "role": "时间状语"
-        },
-        {
-          "text": "dressed",
           "role": "主语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
+          "text": "dressed",
+          "role": "谓语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "blue",
-          "role": "地点状语"
-        },
-        {
-          "text": "uniform",
+          "text": "in a blue uniform",
           "role": "地点状语"
         },
         {
@@ -170,44 +98,12 @@
           "role": "连词"
         },
         {
-          "text": "with",
+          "text": "with a rifle",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "rifle",
-          "role": "介词短语"
-        },
-        {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "shoulder,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "prisoner",
-          "role": "宾语"
-        },
-        {
-          "text": "marched",
-          "role": "谓语"
-        },
-        {
-          "text": "boldly",
-          "role": "宾语"
+          "text": "over his shoulder, the prisoner marched boldly",
+          "role": "地点状语"
         },
         {
           "text": "up",
@@ -218,27 +114,11 @@
           "role": "连词"
         },
         {
-          "text": "down",
+          "text": "down in front",
           "role": "介词短语"
         },
         {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "front",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "camp.",
+          "text": "of the camp.",
           "role": "介词短语"
         }
       ]
@@ -266,19 +146,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "camp",
-          "role": "地点状语"
-        },
-        {
-          "text": "itself.",
+          "text": "in the camp itself.",
           "role": "地点状语"
         }
       ]
@@ -374,71 +242,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At that moment, a large black car",
           "role": "时间状语"
         },
         {
-          "text": "that",
-          "role": "时间状语"
-        },
-        {
-          "text": "moment,",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "large",
-          "role": "主语"
-        },
-        {
-          "text": "black",
-          "role": "宾语"
-        },
-        {
-          "text": "car",
-          "role": "宾语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "four",
-          "role": "介词短语"
-        },
-        {
-          "text": "officers",
-          "role": "介词短语"
-        },
-        {
-          "text": "inside",
-          "role": "介词短语"
-        },
-        {
-          "text": "it,",
-          "role": "介词短语"
-        },
-        {
-          "text": "stopped",
+          "text": "with four officers inside it, stopped",
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "camp",
-          "role": "地点状语"
-        },
-        {
-          "text": "gates.",
+          "text": "at the camp gates.",
           "role": "地点状语"
         }
       ]
@@ -455,7 +267,7 @@
         },
         {
           "text": "officers",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "got",
@@ -482,12 +294,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "attention",
-          "role": "宾语"
+          "text": "to attention",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -519,11 +327,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "they",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -542,28 +350,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "car",
-          "role": "宾语"
-        },
-        {
-          "text": "came",
-          "role": "谓语"
-        },
-        {
-          "text": "towards",
-          "role": "宾语"
-        },
-        {
-          "text": "him.",
-          "role": "宾语"
+          "text": "of the car came towards him.",
+          "role": "介词短语"
         }
       ]
     },
@@ -579,22 +367,18 @@
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "obviously",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "wanted",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "talk.",
+          "text": "to talk.",
           "role": "地点状语"
         }
       ]
@@ -622,15 +406,7 @@
           "role": "表语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "grey",
-          "role": "介词短语"
-        },
-        {
-          "text": "hair",
+          "text": "with grey hair",
           "role": "介词短语"
         },
         {
@@ -663,23 +439,19 @@
         },
         {
           "text": "prisoner",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "felt",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "sorry",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "主语"
-        },
-        {
-          "text": "him,",
-          "role": "主语"
+          "text": "for him,",
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -738,52 +510,16 @@
           "role": "谓语"
         },
         {
-          "text": "near,",
+          "text": "near, the prisoner knocked him",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to the ground",
           "role": "地点状语"
         },
         {
-          "text": "prisoner",
-          "role": "地点状语"
-        },
-        {
-          "text": "knocked",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "ground",
-          "role": "地点状语"
-        },
-        {
-          "text": "with",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "sharp",
-          "role": "地点状语"
-        },
-        {
-          "text": "blow.",
-          "role": "宾语"
+          "text": "with a sharp blow.",
+          "role": "介词短语"
         }
       ]
     },
@@ -795,35 +531,19 @@
       "tokens": [
         {
           "text": "Then,",
-          "role": "时间状语"
-        },
-        {
-          "text": "jumping",
           "role": "主语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
+          "text": "jumping",
+          "role": "谓语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "car,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "drove",
+          "text": "into the car, he drove",
           "role": "地点状语"
         },
         {
           "text": "off",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "as",

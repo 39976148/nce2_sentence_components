@@ -26,51 +26,15 @@
           "role": "谓语"
         },
         {
-          "text": "before",
+          "text": "before the girl was able",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "girl",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "able",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to explain what had happened",
           "role": "地点状语"
         },
         {
-          "text": "explain",
-          "role": "地点状语"
-        },
-        {
-          "text": "what",
-          "role": "地点状语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "happened",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "her.",
+          "text": "to her.",
           "role": "地点状语"
         }
       ]
@@ -82,11 +46,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "One",
-          "role": "时间状语"
-        },
-        {
-          "text": "afternoon",
+          "text": "One afternoon",
           "role": "时间状语"
         },
         {
@@ -102,32 +62,12 @@
           "role": "宾语"
         },
         {
-          "text": "from",
+          "text": "from the coast",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "in a small boat",
           "role": "地点状语"
-        },
-        {
-          "text": "coast",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "small",
-          "role": "地点状语"
-        },
-        {
-          "text": "boat",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -142,15 +82,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "storm.",
+          "text": "in a storm.",
           "role": "地点状语"
         }
       ]
@@ -206,15 +138,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "sea.",
+          "text": "into the sea.",
           "role": "地点状语"
         }
       ]
@@ -227,59 +151,27 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "swam",
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to the shore",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "after spending the whole night",
+          "role": "介词短语"
+        },
+        {
+          "text": "in the water.",
           "role": "地点状语"
-        },
-        {
-          "text": "shore",
-          "role": "地点状语"
-        },
-        {
-          "text": "after",
-          "role": "地点状语"
-        },
-        {
-          "text": "spending",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "whole",
-          "role": "宾语"
-        },
-        {
-          "text": "night",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "water.",
-          "role": "宾语"
         }
       ]
     },
@@ -291,19 +183,19 @@
       "tokens": [
         {
           "text": "During",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "that",
-          "role": "时间状语"
+          "role": "连词"
         },
         {
           "text": "time",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "she",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "covered",
@@ -318,16 +210,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "eight",
-          "role": "宾语"
-        },
-        {
-          "text": "miles.",
-          "role": "宾语"
+          "text": "of eight miles.",
+          "role": "介词短语"
         }
       ]
     },
@@ -342,11 +226,7 @@
           "role": "主语"
         },
         {
-          "text": "next",
-          "role": "宾语"
-        },
-        {
-          "text": "morning,",
+          "text": "next morning,",
           "role": "谓语"
         },
         {
@@ -394,15 +274,7 @@
           "role": "谓语"
         },
         {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "shore",
+          "text": "near the shore",
           "role": "地点状语"
         },
         {
@@ -426,19 +298,7 @@
           "role": "宾语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "cliffs.",
+          "text": "up on the cliffs.",
           "role": "介词短语"
         }
       ]
@@ -450,72 +310,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On arriving",
           "role": "时间状语"
         },
         {
-          "text": "arriving",
-          "role": "主语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "shore,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "girl",
-          "role": "地点状语"
-        },
-        {
-          "text": "struggled",
+          "text": "at the shore, the girl struggled",
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up the cliff towards the light she had seen.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "cliff",
-          "role": "介词短语"
-        },
-        {
-          "text": "towards",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "light",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "seen.",
-          "role": "宾语"
         }
       ]
     },
@@ -527,19 +331,19 @@
       "tokens": [
         {
           "text": "That",
-          "role": "时间状语"
-        },
-        {
-          "text": "was",
           "role": "主语"
         },
         {
+          "text": "was",
+          "role": "系动词"
+        },
+        {
           "text": "all",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "she",
-          "role": "宾语"
+          "role": "表语"
         },
         {
           "text": "remembered.",
@@ -555,50 +359,22 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "woke",
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up a day later, she found herself",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "day",
-          "role": "介词短语"
-        },
-        {
-          "text": "later,",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "found",
-          "role": "谓语"
-        },
-        {
-          "text": "herself",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "hospital.",
+          "text": "in hospital.",
           "role": "地点状语"
         }
       ]

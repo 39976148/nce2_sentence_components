@@ -26,19 +26,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "house",
+          "text": "into a new house",
           "role": "地点状语"
         },
         {
@@ -98,32 +86,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to get my new room",
           "role": "地点状语"
         },
         {
-          "text": "get",
+          "text": "in order.",
           "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "room",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "order.",
-          "role": "宾语"
         }
       ]
     },
@@ -166,20 +134,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "thousand",
-          "role": "介词短语"
-        },
-        {
-          "text": "books.",
-          "role": "介词短语"
+          "text": "over a thousand books.",
+          "role": "地点状语"
         }
       ]
     },
@@ -190,40 +146,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "To",
+          "text": "To make matters worse, the room is rather small,",
           "role": "地点状语"
-        },
-        {
-          "text": "make",
-          "role": "地点状语"
-        },
-        {
-          "text": "matters",
-          "role": "地点状语"
-        },
-        {
-          "text": "worse,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "room",
-          "role": "地点状语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "rather",
-          "role": "宾语"
-        },
-        {
-          "text": "small,",
-          "role": "宾语"
         },
         {
           "text": "so",
@@ -254,16 +178,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "floor.",
-          "role": "宾语"
+          "text": "on the floor.",
+          "role": "地点状语"
         }
       ]
     },
@@ -274,43 +190,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At the moment, they cover every inch",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "moment,",
-          "role": "时间状语"
-        },
-        {
-          "text": "they",
-          "role": "主语"
-        },
-        {
-          "text": "cover",
-          "role": "宾语"
-        },
-        {
-          "text": "every",
-          "role": "宾语"
-        },
-        {
-          "text": "inch",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "floor",
-          "role": "介词短语"
-        },
-        {
-          "text": "space",
+          "text": "of floor space",
           "role": "介词短语"
         },
         {
@@ -330,32 +214,20 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to walk",
           "role": "地点状语"
         },
         {
-          "text": "walk",
+          "text": "on them",
           "role": "地点状语"
         },
         {
-          "text": "on",
+          "text": "to get",
           "role": "地点状语"
-        },
-        {
-          "text": "them",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
         },
         {
           "text": "in",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "or",
@@ -366,15 +238,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "room.",
+          "text": "of the room.",
           "role": "介词短语"
         }
       ]
@@ -391,23 +255,23 @@
         },
         {
           "text": "short",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "while",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "ago,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "sister",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "helped",
@@ -418,43 +282,15 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to carry one",
           "role": "地点状语"
         },
         {
-          "text": "carry",
-          "role": "地点状语"
-        },
-        {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "old",
-          "role": "地点状语"
-        },
-        {
-          "text": "bookcases",
-          "role": "宾语"
-        },
-        {
-          "text": "up",
+          "text": "of my old bookcases",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "stairs.",
+          "text": "up the stairs.",
           "role": "介词短语"
         }
       ]
@@ -474,15 +310,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "room",
+          "text": "into my room",
           "role": "地点状语"
         },
         {
@@ -530,15 +358,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "floor.",
+          "text": "on the floor.",
           "role": "地点状语"
         }
       ]
@@ -611,58 +431,18 @@
         },
         {
           "text": "at",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "time",
-          "role": "地点状语"
-        },
-        {
-          "text": "then",
-          "role": "地点状语"
-        },
-        {
-          "text": "added,",
-          "role": "谓语"
-        },
-        {
-          "text": "'You",
           "role": "宾语"
         },
         {
-          "text": "do",
-          "role": "谓语"
+          "text": "for some time then added, 'You do not need bookcases",
+          "role": "介词短语"
         },
         {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "need",
-          "role": "谓语"
-        },
-        {
-          "text": "bookcases",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all.",
+          "text": "at all.",
           "role": "地点状语"
         }
       ]
@@ -690,19 +470,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "your",
-          "role": "地点状语"
-        },
-        {
-          "text": "spare",
-          "role": "地点状语"
-        },
-        {
-          "text": "time",
+          "text": "in your spare time",
           "role": "地点状语"
         },
         {

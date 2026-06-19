@@ -14,119 +14,43 @@
           "role": "时间状语"
         },
         {
-          "text": "of",
-          "role": "时间状语"
+          "text": "of the most famous monuments",
+          "role": "介词短语"
+        },
+        {
+          "text": "in the world,",
+          "role": "地点状语"
         },
         {
           "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "most",
-          "role": "时间状语"
-        },
-        {
-          "text": "famous",
-          "role": "主语"
-        },
-        {
-          "text": "monuments",
           "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "world,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
         },
         {
           "text": "Statue",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "Liberty,",
           "role": "宾语"
         },
         {
-          "text": "was",
-          "role": "谓语"
+          "text": "of Liberty, was presented",
+          "role": "介词短语"
         },
         {
-          "text": "presented",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to the United States",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "of America",
+          "role": "介词短语"
+        },
+        {
+          "text": "in the nineteenth century",
           "role": "地点状语"
         },
         {
-          "text": "United",
-          "role": "谓语"
-        },
-        {
-          "text": "States",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
+          "text": "by the people",
           "role": "介词短语"
         },
         {
-          "text": "America",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "nineteenth",
-          "role": "介词短语"
-        },
-        {
-          "text": "century",
-          "role": "介词短语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "people",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "France.",
+          "text": "of France.",
           "role": "介词短语"
         }
       ]
@@ -143,62 +67,30 @@
         },
         {
           "text": "great",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "statue,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "designed",
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by the sculptor Auguste Bartholdi, took ten years",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "sculptor",
-          "role": "介词短语"
-        },
-        {
-          "text": "Auguste",
-          "role": "介词短语"
-        },
-        {
-          "text": "Bartholdi,",
-          "role": "介词短语"
-        },
-        {
-          "text": "took",
-          "role": "谓语"
-        },
-        {
-          "text": "ten",
-          "role": "表语"
-        },
-        {
-          "text": "years",
-          "role": "表语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "complete.",
+          "text": "to complete.",
           "role": "地点状语"
         }
       ]
@@ -215,74 +107,30 @@
         },
         {
           "text": "actual",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "figure",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "made",
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of copper supported",
           "role": "介词短语"
         },
         {
-          "text": "copper",
+          "text": "by a metal framework which had been especially constructed",
           "role": "介词短语"
         },
         {
-          "text": "supported",
-          "role": "谓语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "metal",
-          "role": "介词短语"
-        },
-        {
-          "text": "framework",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "especially",
-          "role": "表语"
-        },
-        {
-          "text": "constructed",
-          "role": "谓语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "Eiffel.",
+          "text": "by Eiffel.",
           "role": "介词短语"
         }
       ]
@@ -295,11 +143,11 @@
       "tokens": [
         {
           "text": "Before",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "could",
@@ -314,44 +162,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the United States, a site had",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to be found",
           "role": "地点状语"
-        },
-        {
-          "text": "United",
-          "role": "谓语"
-        },
-        {
-          "text": "States,",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "site",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "found",
-          "role": "谓语"
         },
         {
           "text": "for",
@@ -359,7 +175,7 @@
         },
         {
           "text": "it",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -378,15 +194,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "built.",
+          "text": "to be built.",
           "role": "地点状语"
         }
       ]
@@ -403,50 +211,30 @@
         },
         {
           "text": "site",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "chosen",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "an",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "island",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "表语"
+          "text": "at the entrance",
+          "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "entrance",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "New",
-          "role": "介词短语"
-        },
-        {
-          "text": "York",
-          "role": "介词短语"
-        },
-        {
-          "text": "Harbour.",
+          "text": "of New York Harbour.",
           "role": "介词短语"
         }
       ]
@@ -458,59 +246,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
-          "role": "介词短语"
-        },
-        {
-          "text": "1884,",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "statue",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
+          "text": "By 1884, a statue which was 151 feet tall had been erected",
           "role": "谓语"
         },
         {
-          "text": "151",
-          "role": "宾语"
-        },
-        {
-          "text": "feet",
-          "role": "宾语"
-        },
-        {
-          "text": "tall",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "erected",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "Paris.",
+          "text": "in Paris.",
           "role": "地点状语"
         }
       ]
@@ -546,11 +286,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "pieces",
+          "text": "to pieces",
           "role": "地点状语"
         },
         {
@@ -562,11 +298,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "America.",
+          "text": "to America.",
           "role": "地点状语"
         }
       ]
@@ -578,56 +310,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
+          "text": "By the end",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "of October 1886, the statue had been put together again",
           "role": "介词短语"
-        },
-        {
-          "text": "end",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "October",
-          "role": "介词短语"
-        },
-        {
-          "text": "1886,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "statue",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "put",
-          "role": "谓语"
-        },
-        {
-          "text": "together",
-          "role": "宾语"
-        },
-        {
-          "text": "again",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -650,28 +338,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the American people",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "American",
-          "role": "地点状语"
-        },
-        {
-          "text": "people",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "Bartholdi.",
-          "role": "地点状语"
+          "text": "by Bartholdi.",
+          "role": "介词短语"
         }
       ]
     },
@@ -722,84 +394,28 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "liberty",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "millions",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "people",
-          "role": "宾语"
-        },
-        {
-          "text": "who",
-          "role": "宾语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "passed",
-          "role": "谓语"
-        },
-        {
-          "text": "through",
+          "text": "of liberty",
           "role": "介词短语"
         },
         {
-          "text": "New",
+          "text": "for the millions",
           "role": "介词短语"
         },
         {
-          "text": "York",
+          "text": "of people who have passed",
           "role": "介词短语"
         },
         {
-          "text": "Harbour",
+          "text": "through New York Harbour",
           "role": "介词短语"
         },
         {
-          "text": "to",
-          "role": "介词短语"
+          "text": "to make their homes",
+          "role": "地点状语"
         },
         {
-          "text": "make",
-          "role": "谓语"
-        },
-        {
-          "text": "their",
-          "role": "宾语"
-        },
-        {
-          "text": "homes",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "America.",
-          "role": "宾语"
+          "text": "in America.",
+          "role": "地点状语"
         }
       ]
     }

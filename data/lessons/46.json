@@ -11,87 +11,31 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "plane",
-          "role": "时间状语"
-        },
-        {
-          "text": "from",
-          "role": "时间状语"
-        },
-        {
-          "text": "London",
           "role": "主语"
         },
         {
-          "text": "arrived",
-          "role": "谓语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "Sydney",
-          "role": "地点状语"
-        },
-        {
-          "text": "airport,",
-          "role": "地点状语"
-        },
-        {
-          "text": "workers",
-          "role": "地点状语"
-        },
-        {
-          "text": "began",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "unload",
-          "role": "地点状语"
-        },
-        {
           "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "number",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "wooden",
-          "role": "地点状语"
-        },
-        {
-          "text": "boxes",
           "role": "宾语"
         },
         {
-          "text": "which",
+          "text": "plane",
           "role": "宾语"
         },
         {
-          "text": "contained",
-          "role": "谓语"
+          "text": "from London arrived",
+          "role": "地点状语"
         },
         {
-          "text": "clothing.",
-          "role": "谓语"
+          "text": "at Sydney airport, workers began",
+          "role": "地点状语"
+        },
+        {
+          "text": "to unload a number",
+          "role": "地点状语"
+        },
+        {
+          "text": "of wooden boxes which contained clothing.",
+          "role": "介词短语"
         }
       ]
     },
@@ -118,15 +62,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "fact",
+          "text": "for the fact",
           "role": "介词短语"
         },
         {
@@ -138,28 +74,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the boxes was extremely heavy.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "boxes",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "extremely",
-          "role": "宾语"
-        },
-        {
-          "text": "heavy.",
-          "role": "宾语"
         }
       ]
     },
@@ -182,43 +98,19 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to one",
           "role": "地点状语"
         },
         {
-          "text": "one",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "workers",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "open",
-          "role": "宾语"
-        },
-        {
-          "text": "up",
+          "text": "of the workers",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
+          "text": "to open",
+          "role": "地点状语"
         },
         {
-          "text": "box.",
+          "text": "up the box.",
           "role": "介词短语"
         }
       ]
@@ -242,20 +134,8 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at what he found.",
           "role": "地点状语"
-        },
-        {
-          "text": "what",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "found.",
-          "role": "谓语"
         }
       ]
     },
@@ -271,59 +151,31 @@
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "lying",
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the box",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "on top",
           "role": "地点状语"
         },
         {
-          "text": "box",
-          "role": "地点状语"
+          "text": "of a pile",
+          "role": "介词短语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "top",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "表语"
-        },
-        {
-          "text": "pile",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "woolen",
-          "role": "表语"
-        },
-        {
-          "text": "goods.",
-          "role": "表语"
+          "text": "of woolen goods.",
+          "role": "介词短语"
         }
       ]
     },
@@ -350,16 +202,8 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at being discovered",
           "role": "地点状语"
-        },
-        {
-          "text": "being",
-          "role": "地点状语"
-        },
-        {
-          "text": "discovered",
-          "role": "谓语"
         },
         {
           "text": "that",
@@ -386,15 +230,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "run",
-          "role": "地点状语"
-        },
-        {
-          "text": "away.",
+          "text": "to run away.",
           "role": "地点状语"
         }
       ]
@@ -407,15 +243,15 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "arrested,",
@@ -423,11 +259,11 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "man",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "admitted",
@@ -438,36 +274,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the box",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "box",
-          "role": "地点状语"
-        },
-        {
-          "text": "before",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "plane",
-          "role": "地点状语"
-        },
-        {
-          "text": "left",
-          "role": "谓语"
-        },
-        {
-          "text": "London.",
-          "role": "表语"
+          "text": "before the plane left London.",
+          "role": "介词短语"
         }
       ]
     },
@@ -515,7 +327,7 @@
         },
         {
           "text": "he",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -530,36 +342,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the wooden box",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "wooden",
-          "role": "地点状语"
-        },
-        {
-          "text": "box",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "eighteen",
-          "role": "宾语"
-        },
-        {
-          "text": "hours.",
-          "role": "宾语"
+          "text": "for over eighteen hours.",
+          "role": "介词短语"
         }
       ]
     },
@@ -575,50 +363,26 @@
         },
         {
           "text": "man",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "ordered",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to pay $3,500",
           "role": "地点状语"
         },
         {
-          "text": "pay",
-          "role": "地点状语"
-        },
-        {
-          "text": "$3,500",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "cost",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
+          "text": "for the cost",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "trip.",
+          "text": "of the trip.",
           "role": "介词短语"
         }
       ]
@@ -635,31 +399,15 @@
         },
         {
           "text": "normal",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "price",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "主语"
-        },
-        {
-          "text": "a",
-          "role": "主语"
-        },
-        {
-          "text": "ticket",
-          "role": "主语"
-        },
-        {
-          "text": "is",
-          "role": "系动词"
-        },
-        {
-          "text": "$2,000!",
-          "role": "表语"
+          "text": "of a ticket is $2,000!",
+          "role": "介词短语"
         }
       ]
     }

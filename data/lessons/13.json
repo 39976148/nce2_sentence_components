@@ -15,35 +15,27 @@
         },
         {
           "text": "Greenwood",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Boys",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "are",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "group",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "pop",
-          "role": "表语"
-        },
-        {
-          "text": "singers.",
-          "role": "表语"
+          "text": "of pop singers.",
+          "role": "介词短语"
         }
       ]
     },
@@ -54,43 +46,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At present, they are visiting all parts",
           "role": "时间状语"
         },
         {
-          "text": "present,",
-          "role": "时间状语"
-        },
-        {
-          "text": "they",
-          "role": "主语"
-        },
-        {
-          "text": "are",
-          "role": "系动词"
-        },
-        {
-          "text": "visiting",
-          "role": "谓语"
-        },
-        {
-          "text": "all",
-          "role": "表语"
-        },
-        {
-          "text": "parts",
-          "role": "表语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "country.",
+          "text": "of the country.",
           "role": "介词短语"
         }
       ]
@@ -150,11 +110,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "train",
+          "text": "by train",
           "role": "介词短语"
         },
         {
@@ -166,59 +122,15 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the young people",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "young",
-          "role": "介词短语"
-        },
-        {
-          "text": "people",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "town",
-          "role": "宾语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "meeting",
-          "role": "谓语"
-        },
-        {
-          "text": "them",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
+          "text": "in the town will be meeting them",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "station.",
+          "text": "at the station.",
           "role": "地点状语"
         }
       ]
@@ -254,19 +166,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Workers'",
-          "role": "地点状语"
-        },
-        {
-          "text": "Club.",
+          "text": "at the Workers' Club.",
           "role": "地点状语"
         }
       ]
@@ -283,11 +183,11 @@
         },
         {
           "text": "Greenwood",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Boys",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -302,15 +202,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "five",
-          "role": "介词短语"
-        },
-        {
-          "text": "days.",
+          "text": "for five days.",
           "role": "介词短语"
         }
       ]
@@ -323,19 +215,15 @@
       "tokens": [
         {
           "text": "During",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
-          "text": "this",
-          "role": "时间状语"
-        },
-        {
-          "text": "time,",
-          "role": "时间状语"
+          "text": "this time,",
+          "role": "宾语"
         },
         {
           "text": "they",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -422,15 +310,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "keep",
-          "role": "地点状语"
-        },
-        {
-          "text": "order.",
+          "text": "to keep order.",
           "role": "地点状语"
         }
       ]
@@ -462,16 +342,8 @@
           "role": "表语"
         },
         {
-          "text": "on",
-          "role": "表语"
-        },
-        {
-          "text": "these",
-          "role": "表语"
-        },
-        {
-          "text": "occasions.",
-          "role": "表语"
+          "text": "on these occasions.",
+          "role": "地点状语"
         }
       ]
     }

@@ -50,12 +50,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "pictures.",
-          "role": "表语"
+          "text": "of pictures.",
+          "role": "介词短语"
         }
       ]
     },
@@ -150,35 +146,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Of",
-          "role": "介词短语"
-        },
-        {
-          "text": "course,",
-          "role": "介词短语"
-        },
-        {
-          "text": "many",
-          "role": "介词短语"
-        },
-        {
-          "text": "pictures",
-          "role": "介词短语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "'about'",
-          "role": "宾语"
-        },
-        {
-          "text": "anything.",
+          "text": "Of course, many pictures are not 'about' anything.",
           "role": "谓语"
         }
       ]
@@ -230,19 +198,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "same",
-          "role": "地点状语"
-        },
-        {
-          "text": "way",
+          "text": "in the same way",
           "role": "地点状语"
         },
         {
@@ -363,19 +319,19 @@
         },
         {
           "text": "sister",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "only",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "seven,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "but",
@@ -383,7 +339,7 @@
         },
         {
           "text": "she",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "always",
@@ -391,23 +347,23 @@
         },
         {
           "text": "tells",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "me",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "whether",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "my",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "pictures",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "are",
@@ -415,7 +371,7 @@
         },
         {
           "text": "good",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "or",
@@ -423,7 +379,7 @@
         },
         {
           "text": "not.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -442,19 +398,7 @@
           "role": "谓语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "my",
-          "role": "地点状语"
-        },
-        {
-          "text": "room",
-          "role": "地点状语"
-        },
-        {
-          "text": "yesterday.",
+          "text": "into my room yesterday.",
           "role": "地点状语"
         }
       ]
@@ -518,24 +462,8 @@
           "role": "表语"
         },
         {
-          "text": "on",
-          "role": "表语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "wall,'",
-          "role": "表语"
-        },
-        {
-          "text": "I",
-          "role": "表语"
-        },
-        {
-          "text": "answered.",
-          "role": "谓语"
+          "text": "on the wall,' I answered.",
+          "role": "地点状语"
         }
       ]
     },
@@ -599,27 +527,19 @@
         },
         {
           "text": "at",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "critically",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "moment.",
-          "role": "地点状语"
+          "text": "for a moment.",
+          "role": "介词短语"
         }
       ]
     },
@@ -687,15 +607,15 @@
         },
         {
           "text": "at",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
+          "role": "表语"
         },
         {
           "text": "again.",
-          "role": "地点状语"
+          "role": "表语"
         }
       ]
     },

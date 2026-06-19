@@ -30,11 +30,7 @@
           "role": "宾语"
         },
         {
-          "text": "last",
-          "role": "宾语"
-        },
-        {
-          "text": "year.",
+          "text": "last year.",
           "role": "宾语"
         }
       ]
@@ -47,11 +43,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -74,52 +70,16 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
+          "text": "in the south",
+          "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "south",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
+          "text": "of France, I drove",
           "role": "介词短语"
         },
         {
-          "text": "France,",
-          "role": "介词短语"
-        },
-        {
-          "text": "I",
-          "role": "介词短语"
-        },
-        {
-          "text": "drove",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "next",
-          "role": "宾语"
-        },
-        {
-          "text": "town.",
-          "role": "宾语"
+          "text": "on to the next town.",
+          "role": "地点状语"
         }
       ]
     },
@@ -130,39 +90,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On the way, a young man waved",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "way,",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "young",
-          "role": "主语"
-        },
-        {
-          "text": "man",
-          "role": "宾语"
-        },
-        {
-          "text": "waved",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "me.",
+          "text": "to me.",
           "role": "地点状语"
         }
       ]
@@ -198,15 +130,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "lift.",
+          "text": "for a lift.",
           "role": "介词短语"
         }
       ]
@@ -242,47 +166,15 @@
           "role": "谓语"
         },
         {
-          "text": "into",
+          "text": "into the car, I said good morning",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "to him",
           "role": "地点状语"
         },
         {
-          "text": "car,",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "good",
-          "role": "宾语"
-        },
-        {
-          "text": "morning",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "him",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "French",
+          "text": "in French",
           "role": "地点状语"
         },
         {
@@ -298,19 +190,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "same",
-          "role": "地点状语"
-        },
-        {
-          "text": "language.",
+          "text": "in the same language.",
           "role": "地点状语"
         }
       ]
@@ -326,51 +206,11 @@
           "role": "主语"
         },
         {
-          "text": "from",
+          "text": "from a few words, I do not know any French",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "few",
-          "role": "地点状语"
-        },
-        {
-          "text": "words,",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "do",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "know",
-          "role": "谓语"
-        },
-        {
-          "text": "any",
-          "role": "宾语"
-        },
-        {
-          "text": "French",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all.",
+          "text": "at all.",
           "role": "地点状语"
         }
       ]
@@ -386,28 +226,8 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of us spoke during the journey.",
           "role": "介词短语"
-        },
-        {
-          "text": "us",
-          "role": "介词短语"
-        },
-        {
-          "text": "spoke",
-          "role": "介词短语"
-        },
-        {
-          "text": "during",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "journey.",
-          "role": "宾语"
         }
       ]
     },

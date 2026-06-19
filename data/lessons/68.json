@@ -26,20 +26,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "avoid",
-          "role": "宾语"
-        },
-        {
-          "text": "meeting",
-          "role": "谓语"
-        },
-        {
-          "text": "him,",
-          "role": "宾语"
+          "text": "to avoid meeting him,",
+          "role": "地点状语"
         },
         {
           "text": "but",
@@ -142,11 +130,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "him.",
+          "text": "to him.",
           "role": "地点状语"
         }
       ]
@@ -206,11 +190,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "do.",
+          "text": "to do.",
           "role": "地点状语"
         }
       ]
@@ -258,20 +238,16 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "coming",
+          "text": "on coming",
           "role": "地点状语"
         },
         {
           "text": "with",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "you.",
-          "role": "地点状语"
+          "role": "宾语"
         }
       ]
     },
@@ -290,60 +266,24 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to think",
           "role": "地点状语"
         },
         {
-          "text": "think",
+          "text": "of a way",
+          "role": "介词短语"
+        },
+        {
+          "text": "of preventing him",
+          "role": "介词短语"
+        },
+        {
+          "text": "from following me",
           "role": "地点状语"
         },
         {
-          "text": "of",
+          "text": "around all morning.",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "way",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "preventing",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "following",
-          "role": "地点状语"
-        },
-        {
-          "text": "me",
-          "role": "地点状语"
-        },
-        {
-          "text": "around",
-          "role": "地点状语"
-        },
-        {
-          "text": "all",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning.",
-          "role": "谓语"
         }
       ]
     },
@@ -438,40 +378,8 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to spend the morning -- until I saw you.",
           "role": "地点状语"
-        },
-        {
-          "text": "spend",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning",
-          "role": "谓语"
-        },
-        {
-          "text": "--",
-          "role": "表语"
-        },
-        {
-          "text": "until",
-          "role": "表语"
-        },
-        {
-          "text": "I",
-          "role": "表语"
-        },
-        {
-          "text": "saw",
-          "role": "谓语"
-        },
-        {
-          "text": "you.",
-          "role": "表语"
         }
       ]
     },
@@ -522,20 +430,8 @@
           "role": "表语"
         },
         {
-          "text": "at",
+          "text": "at all,' I answered.",
           "role": "地点状语"
-        },
-        {
-          "text": "all,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "answered.",
-          "role": "谓语"
         }
       ]
     },
@@ -582,20 +478,8 @@
           "role": "谓语"
         },
         {
-          "text": "with",
+          "text": "with you?' he asked,",
           "role": "介词短语"
-        },
-        {
-          "text": "you?'",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "asked,",
-          "role": "谓语"
         },
         {
           "text": "before",
@@ -603,7 +487,7 @@
         },
         {
           "text": "I",
-          "role": "介词短语"
+          "role": "表语"
         },
         {
           "text": "had",
@@ -630,80 +514,16 @@
           "role": "主语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "lied,",
+          "text": "at all,' I lied, 'but I am going",
           "role": "谓语"
         },
         {
-          "text": "'but",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "am",
-          "role": "谓语"
-        },
-        {
-          "text": "going",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to the dentist.' 'Then I will come",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "dentist.'",
-          "role": "地点状语"
-        },
-        {
-          "text": "'Then",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "come",
-          "role": "谓语"
-        },
-        {
-          "text": "with",
+          "text": "with you,' he answered.",
           "role": "介词短语"
-        },
-        {
-          "text": "you,'",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "answered.",
-          "role": "谓语"
         }
       ]
     },
@@ -730,28 +550,12 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to read",
           "role": "地点状语"
         },
         {
-          "text": "read",
+          "text": "in the waiting room!",
           "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "waiting",
-          "role": "谓语"
-        },
-        {
-          "text": "room!",
-          "role": "表语"
         }
       ]
     }

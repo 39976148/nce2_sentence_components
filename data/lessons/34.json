@@ -46,11 +46,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
-          "role": "时间状语"
-        },
-        {
-          "text": "Tuesday",
+          "text": "Last Tuesday",
           "role": "时间状语"
         },
         {
@@ -70,20 +66,8 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "local",
-          "role": "宾语"
-        },
-        {
-          "text": "police.",
-          "role": "宾语"
+          "text": "from the local police.",
+          "role": "地点状语"
         }
       ]
     },
@@ -94,47 +78,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In the letter he was asked",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "letter",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to call",
           "role": "地点状语"
         },
         {
-          "text": "call",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "station.",
+          "text": "at the station.",
           "role": "地点状语"
         }
       ]
@@ -170,15 +122,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "police,",
+          "text": "by the police,",
           "role": "介词短语"
         },
         {
@@ -194,19 +138,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "station",
-          "role": "地点状语"
-        },
-        {
-          "text": "yesterday",
+          "text": "to the station yesterday",
           "role": "地点状语"
         },
         {
@@ -246,44 +178,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At the station, he was told",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "station,",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "by",
+          "text": "by a smiling policeman",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "smiling",
-          "role": "谓语"
-        },
-        {
-          "text": "policeman",
-          "role": "表语"
         },
         {
           "text": "that",
@@ -291,11 +191,11 @@
         },
         {
           "text": "his",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "bicycle",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -362,40 +262,8 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up in a small village four hundred miles away.",
           "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "small",
-          "role": "介词短语"
-        },
-        {
-          "text": "village",
-          "role": "介词短语"
-        },
-        {
-          "text": "four",
-          "role": "介词短语"
-        },
-        {
-          "text": "hundred",
-          "role": "谓语"
-        },
-        {
-          "text": "miles",
-          "role": "宾语"
-        },
-        {
-          "text": "away.",
-          "role": "宾语"
         }
       ]
     },
@@ -426,24 +294,12 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to his home",
           "role": "地点状语"
         },
         {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "home",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "train.",
-          "role": "地点状语"
+          "text": "by train.",
+          "role": "介词短语"
         }
       ]
     },
@@ -538,16 +394,8 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "表语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "found.",
-          "role": "谓语"
+          "text": "to be found.",
+          "role": "地点状语"
         }
       ]
     },
@@ -602,12 +450,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "fifteen!",
-          "role": "表语"
+          "text": "of fifteen!",
+          "role": "介词短语"
         }
       ]
     }

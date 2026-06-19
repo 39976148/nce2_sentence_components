@@ -15,19 +15,19 @@
         },
         {
           "text": "neighbour,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Captain",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Charles",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Alison,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "will",
@@ -38,15 +38,7 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "Portsmouth",
-          "role": "地点状语"
-        },
-        {
-          "text": "tomorrow.",
+          "text": "from Portsmouth tomorrow.",
           "role": "地点状语"
         }
       ]
@@ -74,32 +66,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the harbour early",
           "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "in the morning.",
           "role": "地点状语"
-        },
-        {
-          "text": "harbour",
-          "role": "地点状语"
-        },
-        {
-          "text": "early",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning.",
-          "role": "谓语"
         }
       ]
     },
@@ -122,23 +94,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "small",
-          "role": "地点状语"
-        },
-        {
-          "text": "boat,",
-          "role": "地点状语"
-        },
-        {
-          "text": "Topsail.",
+          "text": "in his small boat, Topsail.",
           "role": "地点状语"
         }
       ]
@@ -242,15 +198,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "eight",
-          "role": "地点状语"
-        },
-        {
-          "text": "o'clock,",
+          "text": "at eight o'clock,",
           "role": "地点状语"
         },
         {
@@ -274,11 +222,7 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "time.",
+          "text": "of time.",
           "role": "介词短语"
         }
       ]
@@ -334,11 +278,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "him.",
+          "text": "to him.",
           "role": "地点状语"
         }
       ]
@@ -366,15 +306,7 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "months.",
+          "text": "for two months.",
           "role": "介词短语"
         }
       ]
@@ -402,11 +334,7 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "him.",
+          "text": "of him.",
           "role": "介词短语"
         }
       ]
@@ -434,32 +362,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in an important race across the Atlantic.",
           "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "地点状语"
-        },
-        {
-          "text": "important",
-          "role": "地点状语"
-        },
-        {
-          "text": "race",
-          "role": "地点状语"
-        },
-        {
-          "text": "across",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Atlantic.",
-          "role": "宾语"
         }
       ]
     }

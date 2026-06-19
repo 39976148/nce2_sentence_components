@@ -10,91 +10,19 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In 1963 a Lancaster bomber crashed",
           "role": "时间状语"
         },
         {
-          "text": "1963",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "Lancaster",
-          "role": "时间状语"
-        },
-        {
-          "text": "bomber",
-          "role": "主语"
-        },
-        {
-          "text": "crashed",
-          "role": "谓语"
-        },
-        {
-          "text": "on",
+          "text": "on Wallis Island, a remote place",
           "role": "地点状语"
         },
         {
-          "text": "Wallis",
+          "text": "in the South Pacific, a long way west",
           "role": "地点状语"
         },
         {
-          "text": "Island,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "remote",
-          "role": "地点状语"
-        },
-        {
-          "text": "place",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "South",
-          "role": "地点状语"
-        },
-        {
-          "text": "Pacific,",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "long",
-          "role": "地点状语"
-        },
-        {
-          "text": "way",
-          "role": "宾语"
-        },
-        {
-          "text": "west",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "Samoa.",
+          "text": "of Samoa.",
           "role": "介词短语"
         }
       ]
@@ -111,15 +39,15 @@
         },
         {
           "text": "plane",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "not",
-          "role": "状语"
+          "role": "宾语"
         },
         {
           "text": "too",
@@ -127,7 +55,7 @@
         },
         {
           "text": "badly",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "damaged,",
@@ -138,32 +66,8 @@
           "role": "连词"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "years,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "crash",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "forgotten",
-          "role": "表语"
+          "text": "over the years, the crash was forgotten",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -171,11 +75,11 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "wreck",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "remained",
@@ -195,83 +99,23 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
-        },
-        {
-          "text": "in",
-          "role": "时间状语"
-        },
-        {
-          "text": "1989,",
-          "role": "时间状语"
-        },
-        {
-          "text": "twenty-six",
-          "role": "时间状语"
-        },
-        {
-          "text": "years",
           "role": "主语"
         },
         {
-          "text": "after",
+          "text": "in 1989, twenty-six years",
+          "role": "地点状语"
+        },
+        {
+          "text": "after the crash, the plane was accidentally rediscovered",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "in an aerial survey",
+          "role": "地点状语"
+        },
+        {
+          "text": "of the island.",
           "role": "介词短语"
-        },
-        {
-          "text": "crash,",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "plane",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "accidentally",
-          "role": "宾语"
-        },
-        {
-          "text": "rediscovered",
-          "role": "谓语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "an",
-          "role": "地点状语"
-        },
-        {
-          "text": "aerial",
-          "role": "地点状语"
-        },
-        {
-          "text": "survey",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "island.",
-          "role": "宾语"
         }
       ]
     },
@@ -282,48 +126,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "By",
+          "text": "By this time, a Lancaster bomber",
           "role": "介词短语"
         },
         {
-          "text": "this",
-          "role": "介词短语"
-        },
-        {
-          "text": "time,",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "Lancaster",
-          "role": "介词短语"
-        },
-        {
-          "text": "bomber",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
+          "text": "in reasonable condition was rare",
           "role": "地点状语"
-        },
-        {
-          "text": "reasonable",
-          "role": "地点状语"
-        },
-        {
-          "text": "condition",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "rare",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -351,11 +159,11 @@
         },
         {
           "text": "French",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "authorities",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -382,23 +190,11 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in parts back",
           "role": "地点状语"
         },
         {
-          "text": "parts",
-          "role": "地点状语"
-        },
-        {
-          "text": "back",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "France.",
+          "text": "to France.",
           "role": "地点状语"
         }
       ]
@@ -411,51 +207,23 @@
       "tokens": [
         {
           "text": "Now",
-          "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "group",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "enthusiasts",
           "role": "主语"
         },
         {
-          "text": "are",
-          "role": "系动词"
+          "text": "a",
+          "role": "宾语"
         },
         {
-          "text": "going",
-          "role": "谓语"
+          "text": "group",
+          "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "of enthusiasts are going",
+          "role": "介词短语"
+        },
+        {
+          "text": "to have the plane restored.",
           "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "plane",
-          "role": "地点状语"
-        },
-        {
-          "text": "restored.",
-          "role": "谓语"
         }
       ]
     },
@@ -510,32 +278,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to have only three",
           "role": "地点状语"
         },
         {
-          "text": "have",
-          "role": "地点状语"
-        },
-        {
-          "text": "only",
-          "role": "地点状语"
-        },
-        {
-          "text": "three",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "them",
-          "role": "地点状语"
-        },
-        {
-          "text": "rebuilt.",
-          "role": "宾语"
+          "text": "of them rebuilt.",
+          "role": "介词短语"
         }
       ]
     },
@@ -642,15 +390,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "perfect",
-          "role": "地点状语"
-        },
-        {
-          "text": "condition.",
+          "text": "in perfect condition.",
           "role": "地点状语"
         }
       ]
@@ -667,43 +407,15 @@
         },
         {
           "text": "colony",
-          "role": "主语"
-        },
-        {
-          "text": "of",
-          "role": "主语"
-        },
-        {
-          "text": "bees",
-          "role": "主语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "turned",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "engine",
-          "role": "宾语"
+          "text": "of bees had turned the engine",
+          "role": "介词短语"
         },
         {
-          "text": "into",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "hive",
-          "role": "宾语"
+          "text": "into a hive",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -726,11 +438,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "beeswax!",
+          "text": "in beeswax!",
           "role": "地点状语"
         }
       ]

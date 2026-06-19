@@ -10,67 +10,19 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
+          "text": "Last week",
           "role": "时间状语"
         },
         {
-          "text": "week",
-          "role": "时间状语"
-        },
-        {
-          "text": "at",
+          "text": "at a dinner party, the hostess asked me",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "to sit next",
           "role": "地点状语"
         },
         {
-          "text": "dinner",
-          "role": "地点状语"
-        },
-        {
-          "text": "party,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "hostess",
-          "role": "地点状语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "me",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sit",
-          "role": "地点状语"
-        },
-        {
-          "text": "next",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Mrs.",
-          "role": "地点状语"
-        },
-        {
-          "text": "Rumbold.",
+          "text": "to Mrs. Rumbold.",
           "role": "地点状语"
         }
       ]
@@ -110,23 +62,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "tight",
-          "role": "地点状语"
-        },
-        {
-          "text": "black",
-          "role": "地点状语"
-        },
-        {
-          "text": "dress.",
+          "text": "in a tight black dress.",
           "role": "地点状语"
         }
       ]
@@ -203,26 +139,18 @@
         },
         {
           "text": "eyes",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "were",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "fixed",
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "plate",
+          "text": "on her plate",
           "role": "地点状语"
         },
         {
@@ -230,36 +158,8 @@
           "role": "连词"
         },
         {
-          "text": "in",
+          "text": "in a short time, she was busy eating.",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "short",
-          "role": "地点状语"
-        },
-        {
-          "text": "time,",
-          "role": "地点状语"
-        },
-        {
-          "text": "she",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "busy",
-          "role": "表语"
-        },
-        {
-          "text": "eating.",
-          "role": "谓语"
         }
       ]
     },
@@ -278,15 +178,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "make",
-          "role": "地点状语"
-        },
-        {
-          "text": "conversation.",
+          "text": "to make conversation.",
           "role": "地点状语"
         }
       ]
@@ -318,28 +210,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to \"The Globe\" soon,' I said.",
           "role": "地点状语"
-        },
-        {
-          "text": "\"The",
-          "role": "地点状语"
-        },
-        {
-          "text": "Globe\"",
-          "role": "地点状语"
-        },
-        {
-          "text": "soon,'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "said.",
-          "role": "谓语"
         }
       ]
     },
@@ -478,20 +350,8 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in England?' I asked.",
           "role": "地点状语"
-        },
-        {
-          "text": "England?'",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "asked.",
-          "role": "谓语"
         }
       ]
     },
@@ -522,48 +382,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In despair, I asked her whether she was enjoying her dinner.",
           "role": "时间状语"
-        },
-        {
-          "text": "despair,",
-          "role": "时间状语"
-        },
-        {
-          "text": "I",
-          "role": "主语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "her",
-          "role": "宾语"
-        },
-        {
-          "text": "whether",
-          "role": "宾语"
-        },
-        {
-          "text": "she",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "enjoying",
-          "role": "谓语"
-        },
-        {
-          "text": "her",
-          "role": "宾语"
-        },
-        {
-          "text": "dinner.",
-          "role": "宾语"
         }
       ]
     },

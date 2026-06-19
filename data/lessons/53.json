@@ -10,20 +10,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
-          "role": "时间状语"
-        },
-        {
-          "text": "last",
+          "text": "At last",
           "role": "时间状语"
         },
         {
           "text": "firemen",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "have",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "put",
@@ -50,12 +46,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "California.",
-          "role": "宾语"
+          "text": "in California.",
+          "role": "地点状语"
         }
       ]
     },
@@ -90,32 +82,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to find out how the fire began.",
           "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "地点状语"
-        },
-        {
-          "text": "out",
-          "role": "地点状语"
-        },
-        {
-          "text": "how",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "fire",
-          "role": "地点状语"
-        },
-        {
-          "text": "began.",
-          "role": "谓语"
         }
       ]
     },
@@ -146,15 +114,7 @@
           "role": "谓语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "broken",
-          "role": "介词短语"
-        },
-        {
-          "text": "glass",
+          "text": "by broken glass",
           "role": "介词短语"
         },
         {
@@ -162,36 +122,8 @@
           "role": "连词"
         },
         {
-          "text": "by",
+          "text": "by cigarette ends which people carelessly throw away.",
           "role": "介词短语"
-        },
-        {
-          "text": "cigarette",
-          "role": "介词短语"
-        },
-        {
-          "text": "ends",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "people",
-          "role": "介词短语"
-        },
-        {
-          "text": "carelessly",
-          "role": "介词短语"
-        },
-        {
-          "text": "throw",
-          "role": "宾语"
-        },
-        {
-          "text": "away.",
-          "role": "宾语"
         }
       ]
     },
@@ -246,23 +178,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "地点状语"
-        },
-        {
-          "text": "any",
-          "role": "地点状语"
-        },
-        {
-          "text": "broken",
-          "role": "地点状语"
-        },
-        {
-          "text": "glass.",
+          "text": "to find any broken glass.",
           "role": "地点状语"
         }
       ]
@@ -338,16 +254,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "This",
+          "text": "This morning,",
           "role": "时间状语"
         },
         {
-          "text": "morning,",
-          "role": "主语"
-        },
-        {
           "text": "however,",
-          "role": "宾语"
+          "role": "主语"
         },
         {
           "text": "a",
@@ -398,64 +310,16 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "snake",
-          "role": "宾语"
-        },
-        {
-          "text": "which",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "wound",
-          "role": "宾语"
-        },
-        {
-          "text": "round",
+          "text": "of a snake which was wound",
           "role": "介词短语"
         },
         {
-          "text": "the",
+          "text": "round the electric wires",
+          "role": "地点状语"
+        },
+        {
+          "text": "of a 16,000-volt power line.",
           "role": "介词短语"
-        },
-        {
-          "text": "electric",
-          "role": "介词短语"
-        },
-        {
-          "text": "wires",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "16,000-volt",
-          "role": "宾语"
-        },
-        {
-          "text": "power",
-          "role": "宾语"
-        },
-        {
-          "text": "line.",
-          "role": "宾语"
         }
       ]
     },
@@ -466,43 +330,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In this way, he was able",
           "role": "时间状语"
         },
         {
-          "text": "this",
-          "role": "时间状语"
-        },
-        {
-          "text": "way,",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "was",
-          "role": "系动词"
-        },
-        {
-          "text": "able",
-          "role": "表语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "solve",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "mystery.",
+          "text": "to solve the mystery.",
           "role": "地点状语"
         }
       ]
@@ -519,15 +351,15 @@
         },
         {
           "text": "explanation",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "simple",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "but",
@@ -539,7 +371,7 @@
         },
         {
           "text": "unusual.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -555,7 +387,7 @@
         },
         {
           "text": "bird",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -566,28 +398,12 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up the snake",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "snake",
-          "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "ground",
-          "role": "介词短语"
+          "text": "from the ground",
+          "role": "地点状语"
         },
         {
           "text": "and",
@@ -606,19 +422,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "wires.",
+          "text": "on to the wires.",
           "role": "地点状语"
         }
       ]
@@ -635,31 +439,23 @@
         },
         {
           "text": "snake",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "then",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "wound",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "itself",
-          "role": "主语"
-        },
-        {
-          "text": "round",
-          "role": "主语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "wires.",
-          "role": "宾语"
+          "text": "round the wires.",
+          "role": "地点状语"
         }
       ]
     },
@@ -671,11 +467,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "it",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "did",
@@ -698,19 +494,7 @@
           "role": "宾语"
         },
         {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "ground",
+          "text": "down to the ground",
           "role": "介词短语"
         },
         {

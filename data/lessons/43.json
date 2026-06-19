@@ -10,64 +10,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In 1929, three years",
           "role": "时间状语"
         },
         {
-          "text": "1929,",
-          "role": "时间状语"
-        },
-        {
-          "text": "three",
-          "role": "时间状语"
-        },
-        {
-          "text": "years",
-          "role": "时间状语"
-        },
-        {
-          "text": "after",
+          "text": "after his flight",
           "role": "介词短语"
         },
         {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "flight",
-          "role": "介词短语"
-        },
-        {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "North",
-          "role": "介词短语"
-        },
-        {
-          "text": "Pole,",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "American",
-          "role": "宾语"
-        },
-        {
-          "text": "explorer,",
-          "role": "宾语"
-        },
-        {
-          "text": "R.E.",
-          "role": "宾语"
+          "text": "over the North Pole, the American explorer, R.E.",
+          "role": "地点状语"
         }
       ]
     },
@@ -90,36 +42,12 @@
           "role": "宾语"
         },
         {
-          "text": "over",
+          "text": "over the South Pole",
+          "role": "地点状语"
+        },
+        {
+          "text": "for the first time.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "South",
-          "role": "介词短语"
-        },
-        {
-          "text": "Pole",
-          "role": "介词短语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "first",
-          "role": "宾语"
-        },
-        {
-          "text": "time.",
-          "role": "宾语"
         }
       ]
     },
@@ -134,16 +62,12 @@
           "role": "主语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "first,",
+          "text": "at first,",
           "role": "地点状语"
         },
         {
           "text": "Byrd",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -166,39 +90,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to take a great many photographs",
           "role": "地点状语"
         },
         {
-          "text": "take",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "great",
-          "role": "地点状语"
-        },
-        {
-          "text": "many",
-          "role": "地点状语"
-        },
-        {
-          "text": "photographs",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "mountains",
+          "text": "of the mountains",
           "role": "介词短语"
         },
         {
@@ -226,15 +122,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "serious",
-          "role": "地点状语"
-        },
-        {
-          "text": "trouble.",
+          "text": "into serious trouble.",
           "role": "地点状语"
         }
       ]
@@ -246,32 +134,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At one point, it seemed certain",
           "role": "时间状语"
-        },
-        {
-          "text": "one",
-          "role": "时间状语"
-        },
-        {
-          "text": "point,",
-          "role": "时间状语"
-        },
-        {
-          "text": "it",
-          "role": "主语"
-        },
-        {
-          "text": "seemed",
-          "role": "谓语"
-        },
-        {
-          "text": "certain",
-          "role": "宾语"
         },
         {
           "text": "that",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "their",
@@ -314,16 +182,8 @@
           "role": "谓语"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "mountains",
-          "role": "介词短语"
+          "text": "over the mountains",
+          "role": "地点状语"
         },
         {
           "text": "if",
@@ -338,15 +198,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "10,000",
-          "role": "地点状语"
-        },
-        {
-          "text": "feet.",
+          "text": "to 10,000 feet.",
           "role": "地点状语"
         }
       ]
@@ -362,11 +214,7 @@
           "role": "主语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "once",
+          "text": "at once",
           "role": "地点状语"
         },
         {
@@ -382,32 +230,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "throw",
-          "role": "宾语"
-        },
-        {
-          "text": "out",
-          "role": "宾语"
-        },
-        {
-          "text": "two",
-          "role": "宾语"
-        },
-        {
-          "text": "heavy",
-          "role": "宾语"
-        },
-        {
-          "text": "food",
-          "role": "宾语"
-        },
-        {
-          "text": "sacks.",
-          "role": "宾语"
+          "text": "to throw out two heavy food sacks.",
+          "role": "地点状语"
         }
       ]
     },
@@ -423,26 +247,22 @@
         },
         {
           "text": "plane",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "then",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "able",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "rise",
+          "text": "to rise",
           "role": "地点状语"
         },
         {
@@ -451,7 +271,7 @@
         },
         {
           "text": "it",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "cleared",
@@ -459,23 +279,15 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "mountains",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "表语"
-        },
-        {
-          "text": "400",
-          "role": "表语"
-        },
-        {
-          "text": "feet.",
-          "role": "表语"
+          "text": "by 400 feet.",
+          "role": "介词短语"
         }
       ]
     },
@@ -518,75 +330,15 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to reach the South Pole which was 300 miles away,",
           "role": "地点状语"
         },
         {
-          "text": "reach",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "South",
-          "role": "地点状语"
-        },
-        {
-          "text": "Pole",
-          "role": "地点状语"
-        },
-        {
-          "text": "which",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "300",
-          "role": "宾语"
-        },
-        {
-          "text": "miles",
-          "role": "宾语"
-        },
-        {
-          "text": "away,",
-          "role": "宾语"
-        },
-        {
-          "text": "for",
+          "text": "for there were no more mountains",
           "role": "介词短语"
         },
         {
-          "text": "there",
-          "role": "介词短语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "no",
-          "role": "宾语"
-        },
-        {
-          "text": "more",
-          "role": "宾语"
-        },
-        {
-          "text": "mountains",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "sight.",
+          "text": "in sight.",
           "role": "地点状语"
         }
       ]
@@ -603,51 +355,23 @@
         },
         {
           "text": "aircraft",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "able",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to fly",
           "role": "地点状语"
         },
         {
-          "text": "fly",
+          "text": "over the endless white plains without difficulty.",
           "role": "地点状语"
-        },
-        {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "endless",
-          "role": "地点状语"
-        },
-        {
-          "text": "white",
-          "role": "地点状语"
-        },
-        {
-          "text": "plains",
-          "role": "表语"
-        },
-        {
-          "text": "without",
-          "role": "表语"
-        },
-        {
-          "text": "difficulty.",
-          "role": "表语"
         }
       ]
     }

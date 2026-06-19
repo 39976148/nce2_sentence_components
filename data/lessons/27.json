@@ -14,63 +14,31 @@
           "role": "主语"
         },
         {
-          "text": "in",
+          "text": "in the afternoon,",
           "role": "地点状语"
         },
         {
           "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "afternoon,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "boys",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "put",
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up their tent",
           "role": "介词短语"
         },
         {
-          "text": "their",
-          "role": "介词短语"
+          "text": "in the middle",
+          "role": "地点状语"
         },
         {
-          "text": "tent",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "middle",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "field.",
+          "text": "of a field.",
           "role": "介词短语"
         }
       ]
@@ -122,20 +90,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "宾语"
-        },
-        {
-          "text": "an",
-          "role": "宾语"
-        },
-        {
-          "text": "open",
-          "role": "宾语"
-        },
-        {
-          "text": "fire.",
-          "role": "宾语"
+          "text": "over an open fire.",
+          "role": "地点状语"
         }
       ]
     },
@@ -190,36 +146,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After a wonderful meal, they told stories",
           "role": "时间状语"
-        },
-        {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "wonderful",
-          "role": "时间状语"
-        },
-        {
-          "text": "meal,",
-          "role": "时间状语"
-        },
-        {
-          "text": "they",
-          "role": "主语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "stories",
-          "role": "宾语"
         },
         {
           "text": "and",
-          "role": "连词"
+          "role": "主语"
         },
         {
           "text": "sang",
@@ -230,15 +162,7 @@
           "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "campfire.",
+          "text": "by the campfire.",
           "role": "介词短语"
         }
       ]
@@ -254,11 +178,7 @@
           "role": "主语"
         },
         {
-          "text": "some",
-          "role": "宾语"
-        },
-        {
-          "text": "time",
+          "text": "some time",
           "role": "宾语"
         },
         {
@@ -274,11 +194,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "rain.",
+          "text": "to rain.",
           "role": "地点状语"
         }
       ]
@@ -295,11 +211,11 @@
         },
         {
           "text": "boys",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "felt",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "tired",
@@ -338,15 +254,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "tent.",
+          "text": "into their tent.",
           "role": "地点状语"
         }
       ]
@@ -414,44 +322,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In the middle",
           "role": "时间状语"
         },
         {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "middle",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "night,",
-          "role": "主语"
-        },
-        {
-          "text": "two",
-          "role": "主语"
-        },
-        {
-          "text": "boys",
-          "role": "主语"
-        },
-        {
-          "text": "woke",
-          "role": "主语"
+          "text": "of the night, two boys woke",
+          "role": "介词短语"
         },
         {
           "text": "up",
-          "role": "主语"
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -479,22 +359,18 @@
         },
         {
           "text": "tent",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "full",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "water!",
+          "text": "of water!",
           "role": "介词短语"
         }
       ]
@@ -522,20 +398,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of their sleeping bags",
           "role": "介词短语"
-        },
-        {
-          "text": "their",
-          "role": "介词短语"
-        },
-        {
-          "text": "sleeping",
-          "role": "谓语"
-        },
-        {
-          "text": "bags",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -606,15 +470,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "field.",
+          "text": "in the field.",
           "role": "地点状语"
         }
       ]
@@ -631,23 +487,23 @@
         },
         {
           "text": "stream",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "wound",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "its",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "way",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "across",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "the",
@@ -674,16 +530,8 @@
           "role": "宾语"
         },
         {
-          "text": "under",
-          "role": "介词短语"
-        },
-        {
-          "text": "their",
-          "role": "介词短语"
-        },
-        {
-          "text": "tent!",
-          "role": "介词短语"
+          "text": "under their tent!",
+          "role": "地点状语"
         }
       ]
     }

@@ -46,60 +46,16 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "television",
-          "role": "宾语"
-        },
-        {
-          "text": "announcer,",
-          "role": "宾语"
-        },
-        {
-          "text": "'we",
-          "role": "宾语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "going",
-          "role": "谓语"
-        },
-        {
-          "text": "over",
+          "text": "of the television announcer, 'we are going",
           "role": "介词短语"
         },
         {
-          "text": "to",
-          "role": "介词短语"
+          "text": "over to the macaroni fields",
+          "role": "地点状语"
         },
         {
-          "text": "the",
+          "text": "of Calabria.",
           "role": "介词短语"
-        },
-        {
-          "text": "macaroni",
-          "role": "介词短语"
-        },
-        {
-          "text": "fields",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "Calabria.",
-          "role": "宾语"
         }
       ]
     },
@@ -126,36 +82,12 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in this area",
           "role": "地点状语"
         },
         {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "area",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "six",
-          "role": "地点状语"
-        },
-        {
-          "text": "hundred",
-          "role": "谓语"
-        },
-        {
-          "text": "years.",
-          "role": "宾语"
+          "text": "for over six hundred years.",
+          "role": "介词短语"
         }
       ]
     },
@@ -170,28 +102,8 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of the leading growers, Giuseppe Moldova",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "leading",
-          "role": "谓语"
-        },
-        {
-          "text": "growers,",
-          "role": "宾语"
-        },
-        {
-          "text": "Giuseppe",
-          "role": "宾语"
-        },
-        {
-          "text": "Moldova",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -246,11 +158,7 @@
           "role": "宾语"
         },
         {
-          "text": "this",
-          "role": "宾语"
-        },
-        {
-          "text": "year",
+          "text": "this year",
           "role": "宾语"
         },
         {
@@ -318,55 +226,11 @@
           "role": "宾语"
         },
         {
-          "text": "between",
+          "text": "between them, have just finished cutting three cartloads",
           "role": "介词短语"
         },
         {
-          "text": "them,",
-          "role": "介词短语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "just",
-          "role": "宾语"
-        },
-        {
-          "text": "finished",
-          "role": "谓语"
-        },
-        {
-          "text": "cutting",
-          "role": "谓语"
-        },
-        {
-          "text": "three",
-          "role": "宾语"
-        },
-        {
-          "text": "cartloads",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "golden",
-          "role": "介词短语"
-        },
-        {
-          "text": "brown",
-          "role": "介词短语"
-        },
-        {
-          "text": "macaroni",
-          "role": "介词短语"
-        },
-        {
-          "text": "stalks.",
+          "text": "of golden brown macaroni stalks.",
           "role": "介词短语"
         }
       ]
@@ -383,11 +247,11 @@
         },
         {
           "text": "whole",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "village",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -438,20 +302,8 @@
           "role": "宾语"
         },
         {
-          "text": "before",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "September",
-          "role": "宾语"
-        },
-        {
-          "text": "rains.",
-          "role": "宾语"
+          "text": "before the September rains.",
+          "role": "介词短语"
         }
       ]
     },
@@ -462,40 +314,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "On",
+          "text": "On the right, you can see Mrs. Brabante herself.",
           "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "right,",
-          "role": "时间状语"
-        },
-        {
-          "text": "you",
-          "role": "主语"
-        },
-        {
-          "text": "can",
-          "role": "谓语"
-        },
-        {
-          "text": "see",
-          "role": "谓语"
-        },
-        {
-          "text": "Mrs.",
-          "role": "宾语"
-        },
-        {
-          "text": "Brabante",
-          "role": "宾语"
-        },
-        {
-          "text": "herself.",
-          "role": "宾语"
         }
       ]
     },
@@ -530,20 +350,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "thirty",
-          "role": "宾语"
-        },
-        {
-          "text": "years",
-          "role": "宾语"
-        },
-        {
-          "text": "now.",
-          "role": "宾语"
+          "text": "for thirty years now.",
+          "role": "介词短语"
         }
       ]
     },
@@ -570,52 +378,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the manager",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "manager",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "local",
-          "role": "地点状语"
-        },
-        {
-          "text": "factory",
-          "role": "宾语"
-        },
-        {
-          "text": "where",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "crop",
-          "role": "宾语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "processed.",
-          "role": "谓语"
+          "text": "of the local factory where the crop is processed.",
+          "role": "介词短语"
         }
       ]
     },
@@ -631,19 +399,19 @@
         },
         {
           "text": "last",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "scene",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "shows",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "you",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "what",
@@ -658,48 +426,12 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the end",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "end",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "harvest:",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "famous",
-          "role": "宾语"
-        },
-        {
-          "text": "Calabrian",
-          "role": "宾语"
-        },
-        {
-          "text": "macaroni-eating",
-          "role": "谓语"
-        },
-        {
-          "text": "competition!",
-          "role": "宾语"
+          "text": "of the harvest: the famous Calabrian macaroni-eating competition!",
+          "role": "介词短语"
         }
       ]
     },
@@ -742,11 +474,7 @@
           "role": "宾语"
         },
         {
-          "text": "every",
-          "role": "宾语"
-        },
-        {
-          "text": "year",
+          "text": "every year",
           "role": "宾语"
         },
         {
@@ -790,24 +518,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "today,",
-          "role": "宾语"
-        },
-        {
-          "text": "Thursday,",
-          "role": "宾语"
-        },
-        {
-          "text": "April",
-          "role": "宾语"
-        },
-        {
-          "text": "lst.",
-          "role": "宾语"
+          "text": "for today, Thursday, April lst.",
+          "role": "介词短语"
         }
       ]
     },
@@ -838,15 +550,7 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "studio.'",
+          "text": "to the studio.'",
           "role": "地点状语"
         }
       ]

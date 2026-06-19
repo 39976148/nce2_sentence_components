@@ -26,32 +26,8 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to swim across the English Channel tomorrow.",
           "role": "地点状语"
-        },
-        {
-          "text": "swim",
-          "role": "地点状语"
-        },
-        {
-          "text": "across",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "English",
-          "role": "地点状语"
-        },
-        {
-          "text": "Channel",
-          "role": "地点状语"
-        },
-        {
-          "text": "tomorrow.",
-          "role": "宾语"
         }
       ]
     },
@@ -74,56 +50,20 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to set out",
           "role": "地点状语"
         },
         {
-          "text": "set",
+          "text": "from the French coast",
           "role": "地点状语"
         },
         {
-          "text": "out",
+          "text": "at five o'clock",
           "role": "地点状语"
         },
         {
-          "text": "from",
+          "text": "in the morning.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "French",
-          "role": "地点状语"
-        },
-        {
-          "text": "coast",
-          "role": "表语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "five",
-          "role": "地点状语"
-        },
-        {
-          "text": "o'clock",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning.",
-          "role": "谓语"
         }
       ]
     },
@@ -170,32 +110,12 @@
           "role": "表语"
         },
         {
-          "text": "to",
+          "text": "to set",
           "role": "地点状语"
         },
         {
-          "text": "set",
-          "role": "地点状语"
-        },
-        {
-          "text": "up",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "new",
-          "role": "地点状语"
-        },
-        {
-          "text": "world",
-          "role": "地点状语"
-        },
-        {
-          "text": "record.",
-          "role": "表语"
+          "text": "up a new world record.",
+          "role": "介词短语"
         }
       ]
     },
@@ -258,11 +178,7 @@
           "role": "表语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "succeed.",
+          "text": "to succeed.",
           "role": "地点状语"
         }
       ]
@@ -294,28 +210,12 @@
           "role": "宾语"
         },
         {
-          "text": "with",
+          "text": "with her",
           "role": "介词短语"
         },
         {
-          "text": "her",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "small",
-          "role": "介词短语"
-        },
-        {
-          "text": "boat.",
-          "role": "介词短语"
+          "text": "in a small boat.",
+          "role": "地点状语"
         }
       ]
     },
@@ -350,12 +250,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
-          "role": "宾语"
-        },
-        {
-          "text": "years.",
-          "role": "宾语"
+          "text": "for years.",
+          "role": "介词短语"
         }
       ]
     },
@@ -418,12 +314,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "England.",
-          "role": "宾语"
+          "text": "to England.",
+          "role": "地点状语"
         }
       ]
     },
@@ -442,32 +334,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to take short rests every two hours.",
           "role": "地点状语"
-        },
-        {
-          "text": "take",
-          "role": "地点状语"
-        },
-        {
-          "text": "short",
-          "role": "地点状语"
-        },
-        {
-          "text": "rests",
-          "role": "地点状语"
-        },
-        {
-          "text": "every",
-          "role": "地点状语"
-        },
-        {
-          "text": "two",
-          "role": "地点状语"
-        },
-        {
-          "text": "hours.",
-          "role": "宾语"
         }
       ]
     },
@@ -494,11 +362,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "drink",
+          "text": "to drink",
           "role": "地点状语"
         },
         {
@@ -546,56 +410,16 @@
           "role": "主语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "Debbie's",
-          "role": "介词短语"
-        },
-        {
-          "text": "school",
-          "role": "介词短语"
-        },
-        {
-          "text": "friends",
-          "role": "介词短语"
-        },
-        {
-          "text": "will",
+          "text": "of Debbie's school friends will be waiting",
           "role": "谓语"
         },
         {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "waiting",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
+          "text": "for her",
           "role": "介词短语"
         },
         {
-          "text": "her",
-          "role": "介词短语"
-        },
-        {
-          "text": "on",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "English",
-          "role": "介词短语"
-        },
-        {
-          "text": "coast.",
-          "role": "介词短语"
+          "text": "on the English coast.",
+          "role": "地点状语"
         }
       ]
     },
@@ -606,48 +430,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Among",
+          "text": "Among them will be Debbie's mother, who swam the Channel herself",
           "role": "介词短语"
-        },
-        {
-          "text": "them",
-          "role": "介词短语"
-        },
-        {
-          "text": "will",
-          "role": "谓语"
-        },
-        {
-          "text": "be",
-          "role": "谓语"
-        },
-        {
-          "text": "Debbie's",
-          "role": "宾语"
-        },
-        {
-          "text": "mother,",
-          "role": "宾语"
-        },
-        {
-          "text": "who",
-          "role": "宾语"
-        },
-        {
-          "text": "swam",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "Channel",
-          "role": "宾语"
-        },
-        {
-          "text": "herself",
-          "role": "宾语"
         },
         {
           "text": "when",

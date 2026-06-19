@@ -118,64 +118,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "my",
-          "role": "宾语"
-        },
-        {
-          "text": "room,'",
-          "role": "宾语"
-        },
-        {
-          "text": "I",
-          "role": "宾语"
-        },
-        {
-          "text": "said,",
-          "role": "谓语"
-        },
-        {
-          "text": "'and",
-          "role": "宾语"
-        },
-        {
-          "text": "it",
-          "role": "宾语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "there",
-          "role": "宾语"
-        },
-        {
-          "text": "now.'",
-          "role": "宾语"
-        },
-        {
-          "text": "The",
-          "role": "宾语"
-        },
-        {
-          "text": "manager",
-          "role": "宾语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "sympathetic,",
-          "role": "宾语"
+          "text": "in my room,' I said, 'and it is not there now.' The manager was sympathetic,",
+          "role": "地点状语"
         },
         {
           "text": "but",
@@ -250,28 +194,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to complain",
           "role": "地点状语"
         },
         {
-          "text": "complain",
-          "role": "地点状语"
-        },
-        {
-          "text": "about",
-          "role": "地点状语"
-        },
-        {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "wicked",
-          "role": "谓语"
-        },
-        {
-          "text": "world",
-          "role": "宾语"
+          "text": "about this wicked world",
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -286,28 +214,12 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by a knock",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "knock",
-          "role": "介词短语"
-        },
-        {
-          "text": "at",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "door.",
-          "role": "介词短语"
+          "text": "at the door.",
+          "role": "地点状语"
         }
       ]
     },
@@ -323,7 +235,7 @@
         },
         {
           "text": "girl",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "came",
@@ -331,7 +243,7 @@
         },
         {
           "text": "in",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -350,16 +262,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "desk.",
-          "role": "宾语"
+          "text": "on his desk.",
+          "role": "地点状语"
         }
       ]
     },
@@ -446,47 +350,11 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to the manager, 'there is still some honesty",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "manager,",
-          "role": "地点状语"
-        },
-        {
-          "text": "'there",
-          "role": "地点状语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "still",
-          "role": "宾语"
-        },
-        {
-          "text": "some",
-          "role": "宾语"
-        },
-        {
-          "text": "honesty",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "this",
-          "role": "地点状语"
-        },
-        {
-          "text": "world!'",
+          "text": "in this world!'",
           "role": "地点状语"
         }
       ]

@@ -15,15 +15,15 @@
         },
         {
           "text": "plane",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "late",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -31,7 +31,7 @@
         },
         {
           "text": "detectives",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "were",
@@ -42,24 +42,8 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at the airport all morning.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "airport",
-          "role": "地点状语"
-        },
-        {
-          "text": "all",
-          "role": "地点状语"
-        },
-        {
-          "text": "morning.",
-          "role": "谓语"
         }
       ]
     },
@@ -94,23 +78,11 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
+          "text": "of diamonds",
+          "role": "介词短语"
         },
         {
-          "text": "diamonds",
-          "role": "表语"
-        },
-        {
-          "text": "from",
-          "role": "地点状语"
-        },
-        {
-          "text": "South",
-          "role": "地点状语"
-        },
-        {
-          "text": "Africa.",
+          "text": "from South Africa.",
           "role": "地点状语"
         }
       ]
@@ -127,19 +99,19 @@
         },
         {
           "text": "few",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "hours",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "earlier,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "someone",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -174,19 +146,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "steal",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "diamonds.",
+          "text": "to steal the diamonds.",
           "role": "地点状语"
         }
       ]
@@ -199,59 +159,27 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "plane",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "arrived,",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "some",
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of the detectives were waiting inside the main building",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "detectives",
-          "role": "介词短语"
-        },
-        {
-          "text": "were",
-          "role": "谓语"
-        },
-        {
-          "text": "waiting",
-          "role": "谓语"
-        },
-        {
-          "text": "inside",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "main",
-          "role": "宾语"
-        },
-        {
-          "text": "building",
-          "role": "谓语"
         },
         {
           "text": "while",
@@ -270,15 +198,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "airfield.",
+          "text": "on the airfield.",
           "role": "地点状语"
         }
       ]
@@ -310,16 +230,8 @@
           "role": "宾语"
         },
         {
-          "text": "off",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "plane",
-          "role": "宾语"
+          "text": "off the plane",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -334,19 +246,7 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "Customs",
-          "role": "地点状语"
-        },
-        {
-          "text": "House.",
+          "text": "into the Customs House.",
           "role": "地点状语"
         }
       ]
@@ -382,36 +282,8 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at the door, two others opened the parcel.",
           "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "door,",
-          "role": "地点状语"
-        },
-        {
-          "text": "two",
-          "role": "地点状语"
-        },
-        {
-          "text": "others",
-          "role": "地点状语"
-        },
-        {
-          "text": "opened",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "parcel.",
-          "role": "宾语"
         }
       ]
     },
@@ -422,43 +294,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "To",
+          "text": "To their surprise, the precious parcel was full",
           "role": "地点状语"
         },
         {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "surprise,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "precious",
-          "role": "地点状语"
-        },
-        {
-          "text": "parcel",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "full",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "stones",
+          "text": "of stones",
           "role": "介词短语"
         },
         {

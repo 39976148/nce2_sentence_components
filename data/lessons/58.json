@@ -15,47 +15,19 @@
         },
         {
           "text": "tiny",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "village",
-          "role": "主语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "主语"
+          "text": "of Frinley is said",
+          "role": "介词短语"
         },
         {
-          "text": "Frinley",
-          "role": "主语"
-        },
-        {
-          "text": "is",
-          "role": "系动词"
-        },
-        {
-          "text": "said",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
+          "text": "to possess a 'cursed tree'.",
           "role": "地点状语"
-        },
-        {
-          "text": "possess",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "'cursed",
-          "role": "谓语"
-        },
-        {
-          "text": "tree'.",
-          "role": "表语"
         }
       ]
     },
@@ -86,52 +58,16 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in a newspaper, the number",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "of visitors",
+          "role": "介词短语"
+        },
+        {
+          "text": "to Frinley has now increased.",
           "role": "地点状语"
-        },
-        {
-          "text": "newspaper,",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "number",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "visitors",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Frinley",
-          "role": "地点状语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "now",
-          "role": "宾语"
-        },
-        {
-          "text": "increased.",
-          "role": "谓语"
         }
       ]
     },
@@ -147,38 +83,18 @@
         },
         {
           "text": "tree",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "planted",
           "role": "谓语"
         },
         {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "church",
-          "role": "地点状语"
-        },
-        {
-          "text": "fifty",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
-          "role": "地点状语"
-        },
-        {
-          "text": "ago,",
+          "text": "near the church fifty years ago,",
           "role": "地点状语"
         },
         {
@@ -187,7 +103,7 @@
         },
         {
           "text": "it",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "is",
@@ -195,18 +111,10 @@
         },
         {
           "text": "only",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "recent",
-          "role": "地点状语"
-        },
-        {
-          "text": "years",
+          "text": "in recent years",
           "role": "地点状语"
         },
         {
@@ -215,7 +123,7 @@
         },
         {
           "text": "it",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -227,15 +135,15 @@
         },
         {
           "text": "an",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "evil",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "reputation.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -386,12 +294,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "victims.",
-          "role": "宾语"
+          "text": "of victims.",
+          "role": "介词短语"
         }
       ]
     },
@@ -407,7 +311,7 @@
         },
         {
           "text": "vicar",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -422,28 +326,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "tree",
-          "role": "地点状语"
-        },
-        {
-          "text": "cut",
+          "text": "to have the tree cut",
           "role": "地点状语"
         },
         {
           "text": "down,",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -511,7 +399,7 @@
         },
         {
           "text": "down,",
-          "role": "宾语"
+          "role": "介词短语"
         },
         {
           "text": "but",
@@ -590,12 +478,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "income,",
-          "role": "宾语"
+          "text": "of income,",
+          "role": "介词短语"
         },
         {
           "text": "as",
@@ -618,39 +502,15 @@
           "role": "谓语"
         },
         {
-          "text": "from",
+          "text": "from all parts",
           "role": "地点状语"
         },
         {
-          "text": "all",
-          "role": "地点状语"
+          "text": "of the country",
+          "role": "介词短语"
         },
         {
-          "text": "parts",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "country",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "see",
-          "role": "地点状语"
-        },
-        {
-          "text": "it.",
+          "text": "to see it.",
           "role": "地点状语"
         }
       ]
@@ -662,24 +522,16 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In spite",
           "role": "时间状语"
         },
         {
-          "text": "spite",
-          "role": "时间状语"
-        },
-        {
-          "text": "of",
-          "role": "时间状语"
-        },
-        {
-          "text": "all",
-          "role": "时间状语"
+          "text": "of all",
+          "role": "介词短语"
         },
         {
           "text": "that",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "has",
@@ -734,16 +586,8 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "tree-trunk.",
-          "role": "宾语"
+          "text": "on the tree-trunk.",
+          "role": "地点状语"
         }
       ]
     },
@@ -770,39 +614,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of them has been struck",
           "role": "介词短语"
         },
         {
-          "text": "them",
-          "role": "介词短语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "struck",
-          "role": "宾语"
-        },
-        {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "sudden",
-          "role": "介词短语"
-        },
-        {
-          "text": "death!",
+          "text": "down by sudden death!",
           "role": "介词短语"
         }
       ]

@@ -30,32 +30,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to have seen monsters",
           "role": "地点状语"
         },
         {
-          "text": "have",
+          "text": "in the sea.",
           "role": "地点状语"
-        },
-        {
-          "text": "seen",
-          "role": "地点状语"
-        },
-        {
-          "text": "monsters",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "sea.",
-          "role": "宾语"
         }
       ]
     },
@@ -86,40 +66,12 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at stories told",
           "role": "地点状语"
         },
         {
-          "text": "stories",
-          "role": "地点状语"
-        },
-        {
-          "text": "told",
-          "role": "谓语"
-        },
-        {
-          "text": "by",
+          "text": "by seamen, it is now known",
           "role": "介词短语"
-        },
-        {
-          "text": "seamen,",
-          "role": "介词短语"
-        },
-        {
-          "text": "it",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "now",
-          "role": "宾语"
-        },
-        {
-          "text": "known",
-          "role": "宾语"
         },
         {
           "text": "that",
@@ -130,56 +82,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of these 'monsters' which have",
           "role": "介词短语"
         },
         {
-          "text": "these",
-          "role": "介词短语"
-        },
-        {
-          "text": "'monsters'",
-          "role": "介词短语"
-        },
-        {
-          "text": "which",
-          "role": "介词短语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "at",
+          "text": "at times been sighted are simply strange fish.",
           "role": "地点状语"
-        },
-        {
-          "text": "times",
-          "role": "地点状语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "sighted",
-          "role": "谓语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "simply",
-          "role": "宾语"
-        },
-        {
-          "text": "strange",
-          "role": "宾语"
-        },
-        {
-          "text": "fish.",
-          "role": "宾语"
         }
       ]
     },
@@ -210,15 +118,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "shore,",
+          "text": "to the shore,",
           "role": "地点状语"
         },
         {
@@ -246,11 +146,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "sea.",
+          "text": "at sea.",
           "role": "地点状语"
         }
       ]
@@ -262,16 +158,12 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Some",
-          "role": "主语"
-        },
-        {
-          "text": "time",
-          "role": "宾语"
+          "text": "Some time",
+          "role": "时间状语"
         },
         {
           "text": "ago,",
-          "role": "宾语"
+          "role": "主语"
         },
         {
           "text": "however,",
@@ -298,11 +190,7 @@
           "role": "宾语"
         },
         {
-          "text": "near",
-          "role": "地点状语"
-        },
-        {
-          "text": "Madagascar.",
+          "text": "near Madagascar.",
           "role": "地点状语"
         }
       ]
@@ -319,7 +207,7 @@
         },
         {
           "text": "small",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "fishing",
@@ -346,28 +234,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to sea",
           "role": "地点状语"
         },
         {
-          "text": "sea",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "powerful",
-          "role": "地点状语"
-        },
-        {
-          "text": "fish",
-          "role": "地点状语"
+          "text": "by the powerful fish",
+          "role": "介词短语"
         },
         {
           "text": "as",
@@ -382,15 +254,7 @@
           "role": "谓语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "line.",
+          "text": "on the line.",
           "role": "地点状语"
         }
       ]
@@ -454,27 +318,11 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to damage it",
           "role": "地点状语"
         },
         {
-          "text": "damage",
-          "role": "地点状语"
-        },
-        {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "any",
-          "role": "地点状语"
-        },
-        {
-          "text": "way.",
+          "text": "in any way.",
           "role": "地点状语"
         }
       ]
@@ -487,66 +335,34 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "it",
           "role": "主语"
         },
         {
+          "text": "it",
+          "role": "宾语"
+        },
+        {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "eventually",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "brought",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to shore, it was found",
           "role": "地点状语"
         },
         {
-          "text": "shore,",
+          "text": "to be",
           "role": "地点状语"
         },
         {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "found",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "be",
-          "role": "地点状语"
-        },
-        {
-          "text": "over",
-          "role": "地点状语"
-        },
-        {
-          "text": "thirteen",
-          "role": "地点状语"
-        },
-        {
-          "text": "feet",
-          "role": "地点状语"
-        },
-        {
-          "text": "long.",
+          "text": "over thirteen feet long.",
           "role": "地点状语"
         }
       ]
@@ -643,11 +459,11 @@
         },
         {
           "text": "fish,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "which",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -666,64 +482,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to a museum where it is being examined",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "museum",
-          "role": "地点状语"
-        },
-        {
-          "text": "where",
-          "role": "地点状语"
-        },
-        {
-          "text": "it",
-          "role": "地点状语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "being",
-          "role": "谓语"
-        },
-        {
-          "text": "examined",
-          "role": "谓语"
-        },
-        {
-          "text": "by",
+          "text": "by a scientist, is called an oarfish.",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "scientist,",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "called",
-          "role": "谓语"
-        },
-        {
-          "text": "an",
-          "role": "宾语"
-        },
-        {
-          "text": "oarfish.",
-          "role": "宾语"
         }
       ]
     },
@@ -762,11 +526,7 @@
           "role": "宾语"
         },
         {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "man",
+          "text": "by man",
           "role": "介词短语"
         },
         {
@@ -782,32 +542,12 @@
           "role": "谓语"
         },
         {
-          "text": "at",
+          "text": "at a depth",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "depth",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "six",
-          "role": "地点状语"
-        },
-        {
-          "text": "hundred",
-          "role": "谓语"
-        },
-        {
-          "text": "feet.",
-          "role": "宾语"
+          "text": "of six hundred feet.",
+          "role": "介词短语"
         }
       ]
     }

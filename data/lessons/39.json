@@ -26,64 +26,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in hospital, he asked his doctor",
           "role": "地点状语"
         },
         {
-          "text": "hospital,",
+          "text": "to tell him whether his operation had been successful,",
           "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "asked",
-          "role": "谓语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "doctor",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "tell",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "whether",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "operation",
-          "role": "宾语"
-        },
-        {
-          "text": "had",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "successful,",
-          "role": "宾语"
         },
         {
           "text": "but",
@@ -102,11 +50,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "do",
+          "text": "to do",
           "role": "地点状语"
         },
         {
@@ -146,19 +90,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "bedside",
-          "role": "介词短语"
-        },
-        {
-          "text": "telephone.",
+          "text": "for a bedside telephone.",
           "role": "介词短语"
         }
       ]
@@ -171,23 +103,23 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
           "role": "主语"
         },
         {
+          "text": "he",
+          "role": "宾语"
+        },
+        {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "alone,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "telephoned",
@@ -195,15 +127,15 @@
         },
         {
           "text": "the",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "hospital",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "exchange",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "and",
@@ -214,15 +146,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "Doctor",
-          "role": "介词短语"
-        },
-        {
-          "text": "Millington.",
+          "text": "for Doctor Millington.",
           "role": "介词短语"
         }
       ]
@@ -235,19 +159,19 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "doctor",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "answered",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "the",
@@ -282,36 +206,8 @@
           "role": "谓语"
         },
         {
-          "text": "about",
+          "text": "about a certain patient, a Mr. John Gilbert.",
           "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "certain",
-          "role": "介词短语"
-        },
-        {
-          "text": "patient,",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "Mr.",
-          "role": "介词短语"
-        },
-        {
-          "text": "John",
-          "role": "宾语"
-        },
-        {
-          "text": "Gilbert.",
-          "role": "宾语"
         }
       ]
     },
@@ -438,15 +334,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "go",
-          "role": "地点状语"
-        },
-        {
-          "text": "home",
+          "text": "to go home",
           "role": "地点状语"
         },
         {
@@ -486,36 +374,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to stay",
           "role": "地点状语"
         },
         {
-          "text": "stay",
+          "text": "in hosptial",
           "role": "地点状语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "hosptial",
-          "role": "地点状语"
-        },
-        {
-          "text": "for",
-          "role": "地点状语"
-        },
-        {
-          "text": "another",
-          "role": "地点状语"
-        },
-        {
-          "text": "two",
-          "role": "宾语"
-        },
-        {
-          "text": "weeks.",
-          "role": "宾语"
+          "text": "for another two weeks.",
+          "role": "介词短语"
         }
       ]
     },
@@ -527,19 +395,19 @@
       "tokens": [
         {
           "text": "Then",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "Dr.",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "Millington",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "asked",
-          "role": "主语"
+          "role": "谓语"
         },
         {
           "text": "the",
@@ -570,16 +438,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "patient.",
-          "role": "宾语"
+          "text": "of the patient.",
+          "role": "介词短语"
         }
       ]
     },

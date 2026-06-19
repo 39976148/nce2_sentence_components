@@ -42,32 +42,12 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in swimming",
           "role": "地点状语"
         },
         {
-          "text": "swimming",
+          "text": "at a very early age.",
           "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "very",
-          "role": "地点状语"
-        },
-        {
-          "text": "early",
-          "role": "地点状语"
-        },
-        {
-          "text": "age.",
-          "role": "宾语"
         }
       ]
     },
@@ -78,76 +58,20 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "At",
+          "text": "At a special swimming pool",
           "role": "时间状语"
         },
         {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "special",
-          "role": "时间状语"
-        },
-        {
-          "text": "swimming",
-          "role": "主语"
-        },
-        {
-          "text": "pool",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
+          "text": "in Los Angeles, children become expert",
           "role": "地点状语"
         },
         {
-          "text": "Los",
+          "text": "at holding their breath",
           "role": "地点状语"
         },
         {
-          "text": "Angeles,",
+          "text": "under water even",
           "role": "地点状语"
-        },
-        {
-          "text": "children",
-          "role": "地点状语"
-        },
-        {
-          "text": "become",
-          "role": "谓语"
-        },
-        {
-          "text": "expert",
-          "role": "宾语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "holding",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "breath",
-          "role": "地点状语"
-        },
-        {
-          "text": "under",
-          "role": "地点状语"
-        },
-        {
-          "text": "water",
-          "role": "地点状语"
-        },
-        {
-          "text": "even",
-          "role": "宾语"
         },
         {
           "text": "before",
@@ -155,7 +79,7 @@
         },
         {
           "text": "they",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "can",
@@ -178,60 +102,16 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of two months old do not appear",
           "role": "介词短语"
         },
         {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "months",
-          "role": "介词短语"
-        },
-        {
-          "text": "old",
-          "role": "介词短语"
-        },
-        {
-          "text": "do",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "appear",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to be reluctant",
           "role": "地点状语"
         },
         {
-          "text": "be",
+          "text": "to enter the water.",
           "role": "地点状语"
-        },
-        {
-          "text": "reluctant",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "enter",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "water.",
-          "role": "宾语"
         }
       ]
     },
@@ -263,7 +143,7 @@
         },
         {
           "text": "they",
-          "role": "介词短语"
+          "role": "表语"
         },
         {
           "text": "are",
@@ -278,11 +158,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "swimming",
+          "text": "to swimming",
           "role": "地点状语"
         },
         {
@@ -302,36 +178,16 @@
           "role": "表语"
         },
         {
-          "text": "up",
+          "text": "up weights",
           "role": "介词短语"
         },
         {
-          "text": "weights",
+          "text": "from the floor",
+          "role": "地点状语"
+        },
+        {
+          "text": "of the pool.",
           "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "floor",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "pool.",
-          "role": "表语"
         }
       ]
     },
@@ -347,15 +203,15 @@
         },
         {
           "text": "game",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "that",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "is",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "very",
@@ -363,43 +219,11 @@
         },
         {
           "text": "popular",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "with",
+          "text": "with these young swimmers is the underwater tricycle race.",
           "role": "介词短语"
-        },
-        {
-          "text": "these",
-          "role": "介词短语"
-        },
-        {
-          "text": "young",
-          "role": "介词短语"
-        },
-        {
-          "text": "swimmers",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "表语"
-        },
-        {
-          "text": "underwater",
-          "role": "表语"
-        },
-        {
-          "text": "tricycle",
-          "role": "表语"
-        },
-        {
-          "text": "race.",
-          "role": "表语"
         }
       ]
     },
@@ -422,48 +246,16 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up on the floor",
           "role": "介词短语"
         },
         {
-          "text": "on",
+          "text": "of the pool seven feet",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "floor",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "pool",
-          "role": "表语"
-        },
-        {
-          "text": "seven",
-          "role": "表语"
-        },
-        {
-          "text": "feet",
-          "role": "表语"
-        },
-        {
-          "text": "under",
-          "role": "介词短语"
-        },
-        {
-          "text": "water.",
-          "role": "介词短语"
+          "text": "under water.",
+          "role": "地点状语"
         }
       ]
     },
@@ -479,55 +271,31 @@
         },
         {
           "text": "children",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "compete",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "against",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "each",
-          "role": "主语"
-        },
-        {
-          "text": "other",
-          "role": "主语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "reach",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "other",
-          "role": "地点状语"
-        },
-        {
-          "text": "end",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
           "role": "宾语"
         },
         {
-          "text": "pool.",
+          "text": "other",
           "role": "宾语"
+        },
+        {
+          "text": "to reach the other end",
+          "role": "地点状语"
+        },
+        {
+          "text": "of the pool.",
+          "role": "介词短语"
         }
       ]
     },
@@ -562,24 +330,12 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of them prefer",
           "role": "介词短语"
         },
         {
-          "text": "them",
-          "role": "介词短语"
-        },
-        {
-          "text": "prefer",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "push",
-          "role": "介词短语"
+          "text": "to push",
+          "role": "地点状语"
         },
         {
           "text": "or",
@@ -603,11 +359,11 @@
       "tokens": [
         {
           "text": "Some",
-          "role": "主语"
+          "role": "时间状语"
         },
         {
           "text": "children",
-          "role": "宾语"
+          "role": "主语"
         },
         {
           "text": "can",
@@ -630,43 +386,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "pool",
-          "role": "宾语"
-        },
-        {
-          "text": "without",
-          "role": "宾语"
-        },
-        {
-          "text": "coming",
-          "role": "谓语"
-        },
-        {
-          "text": "up",
+          "text": "of the pool without coming",
           "role": "介词短语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "breath",
-          "role": "介词短语"
-        },
-        {
-          "text": "even",
-          "role": "介词短语"
-        },
-        {
-          "text": "once.",
+          "text": "up for breath even once.",
           "role": "介词短语"
         }
       ]
@@ -754,32 +478,8 @@
           "role": "宾语"
         },
         {
-          "text": "among",
+          "text": "among us who cannot swim five yards",
           "role": "介词短语"
-        },
-        {
-          "text": "us",
-          "role": "介词短语"
-        },
-        {
-          "text": "who",
-          "role": "介词短语"
-        },
-        {
-          "text": "cannot",
-          "role": "介词短语"
-        },
-        {
-          "text": "swim",
-          "role": "介词短语"
-        },
-        {
-          "text": "five",
-          "role": "介词短语"
-        },
-        {
-          "text": "yards",
-          "role": "宾语"
         },
         {
           "text": "before",
@@ -787,7 +487,7 @@
         },
         {
           "text": "they",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "are",
@@ -798,11 +498,7 @@
           "role": "谓语"
         },
         {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "air.",
+          "text": "for air.",
           "role": "介词短语"
         }
       ]

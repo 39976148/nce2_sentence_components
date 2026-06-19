@@ -50,24 +50,8 @@
           "role": "宾语"
         },
         {
-          "text": "for",
+          "text": "for hours without catching anything.",
           "role": "介词短语"
-        },
-        {
-          "text": "hours",
-          "role": "介词短语"
-        },
-        {
-          "text": "without",
-          "role": "介词短语"
-        },
-        {
-          "text": "catching",
-          "role": "谓语"
-        },
-        {
-          "text": "anything.",
-          "role": "谓语"
         }
       ]
     },
@@ -111,19 +95,19 @@
       "tokens": [
         {
           "text": "Some",
-          "role": "主语"
+          "role": "时间状语"
         },
         {
           "text": "fishermen",
-          "role": "宾语"
+          "role": "主语"
         },
         {
           "text": "are",
-          "role": "谓语"
+          "role": "系动词"
         },
         {
           "text": "unlucky.",
-          "role": "宾语"
+          "role": "表语"
         }
       ]
     },
@@ -138,32 +122,8 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of catching fish, they catch old boots",
           "role": "介词短语"
-        },
-        {
-          "text": "catching",
-          "role": "介词短语"
-        },
-        {
-          "text": "fish,",
-          "role": "介词短语"
-        },
-        {
-          "text": "they",
-          "role": "介词短语"
-        },
-        {
-          "text": "catch",
-          "role": "介词短语"
-        },
-        {
-          "text": "old",
-          "role": "介词短语"
-        },
-        {
-          "text": "boots",
-          "role": "宾语"
         },
         {
           "text": "and",
@@ -254,67 +214,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "After",
+          "text": "After having spent whole mornings",
           "role": "时间状语"
         },
         {
-          "text": "having",
-          "role": "主语"
-        },
-        {
-          "text": "spent",
-          "role": "宾语"
-        },
-        {
-          "text": "whole",
-          "role": "宾语"
-        },
-        {
-          "text": "mornings",
-          "role": "宾语"
-        },
-        {
-          "text": "on",
+          "text": "on the river, I always go home",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "river,",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "always",
-          "role": "地点状语"
-        },
-        {
-          "text": "go",
-          "role": "谓语"
-        },
-        {
-          "text": "home",
-          "role": "宾语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "an",
-          "role": "介词短语"
-        },
-        {
-          "text": "empty",
-          "role": "介词短语"
-        },
-        {
-          "text": "bag.",
+          "text": "with an empty bag.",
           "role": "介词短语"
         }
       ]
@@ -338,24 +246,8 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up fishing!' my friends say.",
           "role": "介词短语"
-        },
-        {
-          "text": "fishing!'",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "friends",
-          "role": "介词短语"
-        },
-        {
-          "text": "say.",
-          "role": "谓语"
         }
       ]
     },
@@ -382,12 +274,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
-        },
-        {
-          "text": "time.'",
-          "role": "表语"
+          "text": "of time.'",
+          "role": "介词短语"
         },
         {
           "text": "But",
@@ -450,11 +338,7 @@
           "role": "谓语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "fishing.",
+          "text": "in fishing.",
           "role": "地点状语"
         }
       ]
@@ -482,23 +366,11 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in sitting",
           "role": "地点状语"
         },
         {
-          "text": "sitting",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "boat",
+          "text": "in a boat",
           "role": "地点状语"
         },
         {
@@ -514,11 +386,7 @@
           "role": "谓语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "all!",
+          "text": "at all!",
           "role": "地点状语"
         }
       ]

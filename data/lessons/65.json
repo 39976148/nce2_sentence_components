@@ -15,19 +15,19 @@
         },
         {
           "text": "Christmas,",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "the",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "circus",
-          "role": "时间状语"
+          "role": "宾语"
         },
         {
           "text": "owner,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Jimmy",
@@ -42,36 +42,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to take some presents",
           "role": "地点状语"
         },
         {
-          "text": "take",
+          "text": "to a children's hospital.",
           "role": "地点状语"
-        },
-        {
-          "text": "some",
-          "role": "地点状语"
-        },
-        {
-          "text": "presents",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "children's",
-          "role": "宾语"
-        },
-        {
-          "text": "hospital.",
-          "role": "宾语"
         }
       ]
     },
@@ -110,104 +86,24 @@
           "role": "谓语"
         },
         {
-          "text": "by",
+          "text": "by a 'guard",
           "role": "介词短语"
         },
         {
-          "text": "a",
+          "text": "of honour'",
           "role": "介词短语"
         },
         {
-          "text": "'guard",
+          "text": "of six pretty girls, he set",
           "role": "介词短语"
         },
         {
-          "text": "of",
+          "text": "off down the main street",
           "role": "介词短语"
         },
         {
-          "text": "honour'",
+          "text": "of the city riding a baby elephant called Jumbo.",
           "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "six",
-          "role": "宾语"
-        },
-        {
-          "text": "pretty",
-          "role": "宾语"
-        },
-        {
-          "text": "girls,",
-          "role": "宾语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "set",
-          "role": "宾语"
-        },
-        {
-          "text": "off",
-          "role": "介词短语"
-        },
-        {
-          "text": "down",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "main",
-          "role": "介词短语"
-        },
-        {
-          "text": "street",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "city",
-          "role": "宾语"
-        },
-        {
-          "text": "riding",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "baby",
-          "role": "宾语"
-        },
-        {
-          "text": "elephant",
-          "role": "宾语"
-        },
-        {
-          "text": "called",
-          "role": "谓语"
-        },
-        {
-          "text": "Jumbo.",
-          "role": "宾语"
         }
       ]
     },
@@ -266,12 +162,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "thing.",
-          "role": "谓语"
+          "text": "of thing.",
+          "role": "介词短语"
         }
       ]
     },
@@ -287,7 +179,7 @@
         },
         {
           "text": "policeman",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "approached",
@@ -318,32 +210,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to have gone along a side street",
           "role": "地点状语"
-        },
-        {
-          "text": "have",
-          "role": "地点状语"
-        },
-        {
-          "text": "gone",
-          "role": "谓语"
-        },
-        {
-          "text": "along",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "side",
-          "role": "宾语"
-        },
-        {
-          "text": "street",
-          "role": "宾语"
         },
         {
           "text": "as",
@@ -362,15 +230,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "traffic.",
+          "text": "up the traffic.",
           "role": "介词短语"
         }
       ]
@@ -394,35 +254,23 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to go",
           "role": "地点状语"
         },
         {
-          "text": "go",
-          "role": "地点状语"
-        },
-        {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "once,",
+          "text": "at once,",
           "role": "地点状语"
         },
         {
           "text": "Jumbo",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "refused",
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "move.",
+          "text": "to move.",
           "role": "地点状语"
         }
       ]
@@ -446,47 +294,15 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to push very hard",
           "role": "地点状语"
         },
         {
-          "text": "push",
+          "text": "to get him",
           "role": "地点状语"
         },
         {
-          "text": "very",
-          "role": "地点状语"
-        },
-        {
-          "text": "hard",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "get",
-          "role": "谓语"
-        },
-        {
-          "text": "him",
-          "role": "宾语"
-        },
-        {
-          "text": "off",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "main",
-          "role": "介词短语"
-        },
-        {
-          "text": "street.",
+          "text": "off the main street.",
           "role": "介词短语"
         }
       ]
@@ -503,7 +319,7 @@
         },
         {
           "text": "police",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -626,15 +442,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "carry",
-          "role": "地点状语"
-        },
-        {
-          "text": "him.",
+          "text": "to carry him.",
           "role": "地点状语"
         }
       ]
@@ -646,28 +454,8 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Of",
+          "text": "Of course, we should arrest him,",
           "role": "介词短语"
-        },
-        {
-          "text": "course,",
-          "role": "介词短语"
-        },
-        {
-          "text": "we",
-          "role": "介词短语"
-        },
-        {
-          "text": "should",
-          "role": "谓语"
-        },
-        {
-          "text": "arrest",
-          "role": "宾语"
-        },
-        {
-          "text": "him,",
-          "role": "宾语"
         },
         {
           "text": "but",
@@ -714,15 +502,7 @@
           "role": "宾语"
         },
         {
-          "text": "off",
-          "role": "介词短语"
-        },
-        {
-          "text": "this",
-          "role": "介词短语"
-        },
-        {
-          "text": "time.'",
+          "text": "off this time.'",
           "role": "介词短语"
         }
       ]

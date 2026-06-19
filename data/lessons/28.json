@@ -26,39 +26,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of those rare people who believes",
           "role": "介词短语"
         },
         {
-          "text": "those",
-          "role": "介词短语"
-        },
-        {
-          "text": "rare",
-          "role": "介词短语"
-        },
-        {
-          "text": "people",
-          "role": "介词短语"
-        },
-        {
-          "text": "who",
-          "role": "介词短语"
-        },
-        {
-          "text": "believes",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "ancient",
-          "role": "地点状语"
-        },
-        {
-          "text": "myths.",
+          "text": "in ancient myths.",
           "role": "地点状语"
         }
       ]
@@ -98,16 +70,8 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "city,",
-          "role": "宾语"
+          "text": "in the city,",
+          "role": "地点状语"
         },
         {
           "text": "but",
@@ -131,11 +95,11 @@
         },
         {
           "text": "in,",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "he",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -150,11 +114,7 @@
           "role": "宾语"
         },
         {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "cars",
+          "text": "with cars",
           "role": "介词短语"
         },
         {
@@ -179,11 +139,11 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "returns",
@@ -194,24 +154,20 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "night,",
+          "text": "at night,",
           "role": "地点状语"
         },
         {
           "text": "he",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "always",
-          "role": "地点状语"
+          "role": "状语"
         },
         {
           "text": "finds",
-          "role": "地点状语"
+          "role": "宾语"
         },
         {
           "text": "that",
@@ -262,72 +218,16 @@
           "role": "主语"
         },
         {
-          "text": "of",
+          "text": "of this, he has not been able",
           "role": "介词短语"
         },
         {
-          "text": "this,",
-          "role": "介词短语"
-        },
-        {
-          "text": "he",
-          "role": "介词短语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "not",
-          "role": "宾语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "able",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
+          "text": "to get his own car",
           "role": "地点状语"
         },
         {
-          "text": "get",
+          "text": "into his garage even once.",
           "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "地点状语"
-        },
-        {
-          "text": "own",
-          "role": "地点状语"
-        },
-        {
-          "text": "car",
-          "role": "地点状语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "garage",
-          "role": "宾语"
-        },
-        {
-          "text": "even",
-          "role": "宾语"
-        },
-        {
-          "text": "once.",
-          "role": "宾语"
         }
       ]
     },
@@ -350,32 +250,8 @@
           "role": "谓语"
         },
         {
-          "text": "up",
+          "text": "up 'No Parking' signs outside his gate,",
           "role": "介词短语"
-        },
-        {
-          "text": "'No",
-          "role": "介词短语"
-        },
-        {
-          "text": "Parking'",
-          "role": "介词短语"
-        },
-        {
-          "text": "signs",
-          "role": "介词短语"
-        },
-        {
-          "text": "outside",
-          "role": "介词短语"
-        },
-        {
-          "text": "his",
-          "role": "介词短语"
-        },
-        {
-          "text": "gate,",
-          "role": "宾语"
         },
         {
           "text": "but",
@@ -415,11 +291,11 @@
       "tokens": [
         {
           "text": "Now",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "has",
@@ -446,16 +322,8 @@
           "role": "宾语"
         },
         {
-          "text": "over",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "gate.",
-          "role": "宾语"
+          "text": "over the gate.",
+          "role": "地点状语"
         }
       ]
     },
@@ -478,36 +346,8 @@
           "role": "表语"
         },
         {
-          "text": "of",
+          "text": "of the ugliest faces I have ever seen.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "ugliest",
-          "role": "介词短语"
-        },
-        {
-          "text": "faces",
-          "role": "介词短语"
-        },
-        {
-          "text": "I",
-          "role": "介词短语"
-        },
-        {
-          "text": "have",
-          "role": "谓语"
-        },
-        {
-          "text": "ever",
-          "role": "表语"
-        },
-        {
-          "text": "seen.",
-          "role": "表语"
         }
       ]
     },
@@ -630,12 +470,8 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "宾语"
-        },
-        {
-          "text": "stone.",
-          "role": "宾语"
+          "text": "to stone.",
+          "role": "地点状语"
         }
       ]
     },
@@ -654,35 +490,11 @@
           "role": "宾语"
         },
         {
-          "text": "of",
+          "text": "of them has been turned",
           "role": "介词短语"
         },
         {
-          "text": "them",
-          "role": "介词短语"
-        },
-        {
-          "text": "has",
-          "role": "谓语"
-        },
-        {
-          "text": "been",
-          "role": "谓语"
-        },
-        {
-          "text": "turned",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "stone",
-          "role": "地点状语"
-        },
-        {
-          "text": "yet!",
+          "text": "to stone yet!",
           "role": "地点状语"
         }
       ]

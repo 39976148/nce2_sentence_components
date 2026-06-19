@@ -22,19 +22,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "drive",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "taxi.",
+          "text": "to drive a taxi.",
           "role": "地点状语"
         }
       ]
@@ -51,23 +39,23 @@
         },
         {
           "text": "short",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "while",
-          "role": "主语"
+          "role": "连词"
         },
         {
           "text": "ago,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "however,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "became",
@@ -163,15 +151,15 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
           "role": "主语"
         },
         {
+          "text": "he",
+          "role": "宾语"
+        },
+        {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "driving",
@@ -179,23 +167,23 @@
         },
         {
           "text": "along",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Catford",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "Street",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "recently,",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "he",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "saw",
@@ -203,30 +191,22 @@
         },
         {
           "text": "two",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "thieves",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "rush",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "out",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "shop",
+          "text": "of a shop",
           "role": "介词短语"
         },
         {
@@ -235,15 +215,15 @@
         },
         {
           "text": "run",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "towards",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "a",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "waiting",
@@ -251,7 +231,7 @@
         },
         {
           "text": "car.",
-          "role": "表语"
+          "role": "宾语"
         }
       ]
     },
@@ -266,40 +246,12 @@
           "role": "时间状语"
         },
         {
-          "text": "of",
-          "role": "时间状语"
+          "text": "of them was carrying a bag full",
+          "role": "介词短语"
         },
         {
-          "text": "them",
-          "role": "时间状语"
-        },
-        {
-          "text": "was",
-          "role": "主语"
-        },
-        {
-          "text": "carrying",
-          "role": "谓语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "bag",
-          "role": "宾语"
-        },
-        {
-          "text": "full",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "money.",
-          "role": "宾语"
+          "text": "of money.",
+          "role": "介词短语"
         }
       ]
     },
@@ -342,16 +294,8 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "thieves.",
-          "role": "宾语"
+          "text": "at the thieves.",
+          "role": "地点状语"
         }
       ]
     },
@@ -367,35 +311,11 @@
         },
         {
           "text": "one",
-          "role": "主语"
-        },
-        {
-          "text": "with",
-          "role": "主语"
-        },
-        {
-          "text": "the",
-          "role": "主语"
-        },
-        {
-          "text": "money",
-          "role": "主语"
-        },
-        {
-          "text": "got",
-          "role": "谓语"
-        },
-        {
-          "text": "such",
           "role": "宾语"
         },
         {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "fright",
-          "role": "宾语"
+          "text": "with the money got such a fright",
+          "role": "介词短语"
         },
         {
           "text": "that",
@@ -446,56 +366,16 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to get away",
           "role": "地点状语"
         },
         {
-          "text": "get",
+          "text": "in their car, Roy drove his bus",
           "role": "地点状语"
         },
         {
-          "text": "away",
+          "text": "into the back",
           "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "their",
-          "role": "地点状语"
-        },
-        {
-          "text": "car,",
-          "role": "地点状语"
-        },
-        {
-          "text": "Roy",
-          "role": "宾语"
-        },
-        {
-          "text": "drove",
-          "role": "宾语"
-        },
-        {
-          "text": "his",
-          "role": "宾语"
-        },
-        {
-          "text": "bus",
-          "role": "宾语"
-        },
-        {
-          "text": "into",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "back",
-          "role": "宾语"
         },
         {
           "text": "of",
@@ -503,7 +383,7 @@
         },
         {
           "text": "it.",
-          "role": "介词短语"
+          "role": "宾语"
         }
       ]
     },
@@ -587,19 +467,19 @@
         },
         {
           "text": "thieves'",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "was",
-          "role": "系动词"
+          "role": "谓语"
         },
         {
           "text": "badly",
-          "role": "表语"
+          "role": "宾语"
         },
         {
           "text": "damaged",
@@ -611,14 +491,10 @@
         },
         {
           "text": "easy",
-          "role": "表语"
+          "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "recognize.",
+          "text": "to recognize.",
           "role": "地点状语"
         }
       ]

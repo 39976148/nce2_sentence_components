@@ -11,11 +11,11 @@
       "tokens": [
         {
           "text": "After",
-          "role": "时间状语"
+          "role": "介词短语"
         },
         {
           "text": "I",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "had",
@@ -30,39 +30,11 @@
           "role": "宾语"
         },
         {
-          "text": "at",
+          "text": "at a village pub, I looked",
           "role": "地点状语"
         },
         {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "village",
-          "role": "地点状语"
-        },
-        {
-          "text": "pub,",
-          "role": "地点状语"
-        },
-        {
-          "text": "I",
-          "role": "地点状语"
-        },
-        {
-          "text": "looked",
-          "role": "谓语"
-        },
-        {
-          "text": "for",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "bag.",
+          "text": "for my bag.",
           "role": "介词短语"
         }
       ]
@@ -90,27 +62,7 @@
           "role": "宾语"
         },
         {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "chair",
-          "role": "地点状语"
-        },
-        {
-          "text": "beside",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "door",
+          "text": "on a chair beside the door",
           "role": "地点状语"
         },
         {
@@ -167,15 +119,15 @@
         },
         {
           "text": "it,",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "landlord",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "came",
@@ -183,7 +135,7 @@
         },
         {
           "text": "in.",
-          "role": "地点状语"
+          "role": "介词短语"
         }
       ]
     },
@@ -350,39 +302,11 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In a few minutes he returned",
           "role": "时间状语"
         },
         {
-          "text": "a",
-          "role": "时间状语"
-        },
-        {
-          "text": "few",
-          "role": "时间状语"
-        },
-        {
-          "text": "minutes",
-          "role": "时间状语"
-        },
-        {
-          "text": "he",
-          "role": "主语"
-        },
-        {
-          "text": "returned",
-          "role": "谓语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "my",
-          "role": "介词短语"
-        },
-        {
-          "text": "bag",
+          "text": "with my bag",
           "role": "介词短语"
         },
         {
@@ -402,11 +326,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "me.",
+          "text": "to me.",
           "role": "地点状语"
         }
       ]
@@ -466,19 +386,7 @@
           "role": "宾语"
         },
         {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "garden.",
+          "text": "in into the garden.",
           "role": "地点状语"
         }
       ]

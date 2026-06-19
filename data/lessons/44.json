@@ -34,28 +34,8 @@
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of the risk she was taking",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "risk",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "was",
-          "role": "谓语"
-        },
-        {
-          "text": "taking",
-          "role": "谓语"
         },
         {
           "text": "when",
@@ -70,27 +50,11 @@
           "role": "宾语"
         },
         {
-          "text": "through",
+          "text": "through a forest",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "forest",
-          "role": "介词短语"
-        },
-        {
-          "text": "after",
-          "role": "介词短语"
-        },
-        {
-          "text": "two",
-          "role": "介词短语"
-        },
-        {
-          "text": "men.",
+          "text": "after two men.",
           "role": "介词短语"
         }
       ]
@@ -114,15 +78,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "to",
-          "role": "介词短语"
-        },
-        {
-          "text": "her",
+          "text": "up to her",
           "role": "介词短语"
         },
         {
@@ -150,39 +106,15 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "宾语"
+          "text": "at the edge",
+          "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "edge",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
+          "text": "of a forest",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "forest",
-          "role": "介词短语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "her",
-          "role": "介词短语"
-        },
-        {
-          "text": "children",
+          "text": "with her children",
           "role": "介词短语"
         },
         {
@@ -194,19 +126,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "steal",
-          "role": "地点状语"
-        },
-        {
-          "text": "her",
-          "role": "地点状语"
-        },
-        {
-          "text": "handbag.",
+          "text": "to steal her handbag.",
           "role": "地点状语"
         }
       ]
@@ -218,83 +138,23 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "In",
+          "text": "In the struggle, the strap broke",
           "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "struggle,",
-          "role": "时间状语"
-        },
-        {
-          "text": "the",
-          "role": "时间状语"
-        },
-        {
-          "text": "strap",
-          "role": "主语"
-        },
-        {
-          "text": "broke",
-          "role": "宾语"
         },
         {
           "text": "and,",
-          "role": "连词"
+          "role": "主语"
         },
         {
-          "text": "with",
+          "text": "with the bag",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
+          "text": "in their possession, both men started running",
+          "role": "地点状语"
         },
         {
-          "text": "bag",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "their",
-          "role": "介词短语"
-        },
-        {
-          "text": "possession,",
-          "role": "介词短语"
-        },
-        {
-          "text": "both",
-          "role": "宾语"
-        },
-        {
-          "text": "men",
-          "role": "宾语"
-        },
-        {
-          "text": "started",
-          "role": "谓语"
-        },
-        {
-          "text": "running",
-          "role": "谓语"
-        },
-        {
-          "text": "through",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "trees.",
+          "text": "through the trees.",
           "role": "介词短语"
         }
       ]
@@ -338,11 +198,7 @@
           "role": "宾语"
         },
         {
-          "text": "after",
-          "role": "介词短语"
-        },
-        {
-          "text": "them.",
+          "text": "after them.",
           "role": "介词短语"
         }
       ]
@@ -370,11 +226,7 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "breath,",
+          "text": "of breath,",
           "role": "介词短语"
         },
         {
@@ -390,11 +242,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "run.",
+          "text": "to run.",
           "role": "地点状语"
         }
       ]
@@ -407,35 +255,19 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "she",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "caught",
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up with them, she saw",
           "role": "介词短语"
-        },
-        {
-          "text": "with",
-          "role": "介词短语"
-        },
-        {
-          "text": "them,",
-          "role": "介词短语"
-        },
-        {
-          "text": "she",
-          "role": "介词短语"
-        },
-        {
-          "text": "saw",
-          "role": "谓语"
         },
         {
           "text": "that",
@@ -470,27 +302,11 @@
           "role": "谓语"
         },
         {
-          "text": "through",
+          "text": "through the contents",
           "role": "介词短语"
         },
         {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "contents",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "bag,",
+          "text": "of the bag,",
           "role": "介词短语"
         },
         {
@@ -510,11 +326,7 @@
           "role": "宾语"
         },
         {
-          "text": "at",
-          "role": "地点状语"
-        },
-        {
-          "text": "them.",
+          "text": "at them.",
           "role": "地点状语"
         }
       ]
@@ -531,7 +343,7 @@
         },
         {
           "text": "men",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "got",

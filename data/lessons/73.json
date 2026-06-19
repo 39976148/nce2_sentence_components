@@ -26,20 +26,8 @@
           "role": "宾语"
         },
         {
-          "text": "from",
+          "text": "from school are unimaginative.",
           "role": "地点状语"
-        },
-        {
-          "text": "school",
-          "role": "地点状语"
-        },
-        {
-          "text": "are",
-          "role": "谓语"
-        },
-        {
-          "text": "unimaginative.",
-          "role": "宾语"
         }
       ]
     },
@@ -55,11 +43,11 @@
         },
         {
           "text": "quiet",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "day's",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "fishing,",
@@ -78,56 +66,20 @@
           "role": "宾语"
         },
         {
-          "text": "in",
+          "text": "in a cinema seeing the same film",
           "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "cinema",
-          "role": "地点状语"
-        },
-        {
-          "text": "seeing",
-          "role": "谓语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "same",
-          "role": "宾语"
-        },
-        {
-          "text": "film",
-          "role": "宾语"
         },
         {
           "text": "over",
-          "role": "宾语"
+          "role": "介词短语"
         },
         {
           "text": "and",
           "role": "连词"
         },
         {
-          "text": "over",
-          "role": "介词短语"
-        },
-        {
-          "text": "again,",
-          "role": "介词短语"
-        },
-        {
-          "text": "is",
-          "role": "谓语"
-        },
-        {
-          "text": "usually",
-          "role": "宾语"
+          "text": "over again, is usually",
+          "role": "地点状语"
         },
         {
           "text": "as",
@@ -178,28 +130,12 @@
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to shame",
           "role": "地点状语"
         },
         {
-          "text": "shame",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "boy",
-          "role": "地点状语"
-        },
-        {
-          "text": "who,",
-          "role": "地点状语"
+          "text": "by a boy who,",
+          "role": "介词短语"
         },
         {
           "text": "while",
@@ -242,11 +178,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Dover",
+          "text": "to Dover",
           "role": "地点状语"
         },
         {
@@ -266,35 +198,15 @@
           "role": "谓语"
         },
         {
-          "text": "into",
+          "text": "into a boat",
           "role": "地点状语"
         },
         {
-          "text": "a",
+          "text": "to find somewhere",
           "role": "地点状语"
         },
         {
-          "text": "boat",
-          "role": "地点状语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "find",
-          "role": "谓语"
-        },
-        {
-          "text": "somewhere",
-          "role": "宾语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "sleep.",
+          "text": "to sleep.",
           "role": "地点状语"
         }
       ]
@@ -307,35 +219,19 @@
       "tokens": [
         {
           "text": "When",
-          "role": "时间状语"
+          "role": "主语"
         },
         {
           "text": "he",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "woke",
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up next morning, he discovered",
           "role": "介词短语"
-        },
-        {
-          "text": "next",
-          "role": "介词短语"
-        },
-        {
-          "text": "morning,",
-          "role": "谓语"
-        },
-        {
-          "text": "he",
-          "role": "宾语"
-        },
-        {
-          "text": "discovered",
-          "role": "谓语"
         },
         {
           "text": "that",
@@ -354,27 +250,11 @@
           "role": "谓语"
         },
         {
-          "text": "in",
+          "text": "in the meantime, travelled",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "meantime,",
-          "role": "地点状语"
-        },
-        {
-          "text": "travelled",
-          "role": "谓语"
-        },
-        {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "Calais.",
+          "text": "to Calais.",
           "role": "地点状语"
         }
       ]
@@ -430,39 +310,15 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "From",
-          "role": "地点状语"
-        },
-        {
-          "text": "there,",
-          "role": "地点状语"
-        },
-        {
-          "text": "he",
-          "role": "地点状语"
-        },
-        {
-          "text": "hitchhiked",
+          "text": "From there, he hitchhiked",
           "role": "谓语"
         },
         {
-          "text": "to",
+          "text": "to Paris",
           "role": "地点状语"
         },
         {
-          "text": "Paris",
-          "role": "地点状语"
-        },
-        {
-          "text": "in",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "lorry.",
+          "text": "in a lorry.",
           "role": "地点状语"
         }
       ]
@@ -479,7 +335,7 @@
         },
         {
           "text": "driver",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "gave",
@@ -514,12 +370,8 @@
           "role": "宾语"
         },
         {
-          "text": "of",
-          "role": "宾语"
-        },
-        {
-          "text": "coffee",
-          "role": "宾语"
+          "text": "of coffee",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -563,19 +415,19 @@
         },
         {
           "text": "next",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "car",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "the",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "boy",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "stopped",
@@ -598,24 +450,12 @@
           "role": "宾语"
         },
         {
-          "text": "into",
+          "text": "into the centre",
           "role": "地点状语"
         },
         {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "centre",
-          "role": "地点状语"
-        },
-        {
-          "text": "of",
-          "role": "地点状语"
-        },
-        {
-          "text": "Paris",
-          "role": "地点状语"
+          "text": "of Paris",
+          "role": "介词短语"
         },
         {
           "text": "as",
@@ -642,27 +482,11 @@
           "role": "连词"
         },
         {
-          "text": "to",
+          "text": "to Perpignan",
           "role": "地点状语"
         },
         {
-          "text": "Perpignan",
-          "role": "地点状语"
-        },
-        {
-          "text": "on",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "French-Spanish",
-          "role": "地点状语"
-        },
-        {
-          "text": "border.",
+          "text": "on the French-Spanish border.",
           "role": "地点状语"
         }
       ]
@@ -690,19 +514,7 @@
           "role": "谓语"
         },
         {
-          "text": "up",
-          "role": "介词短语"
-        },
-        {
-          "text": "by",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "policeman",
+          "text": "up by a policeman",
           "role": "介词短语"
         },
         {
@@ -718,28 +530,12 @@
           "role": "宾语"
         },
         {
-          "text": "to",
+          "text": "to England",
           "role": "地点状语"
         },
         {
-          "text": "England",
-          "role": "地点状语"
-        },
-        {
-          "text": "by",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "local",
-          "role": "地点状语"
-        },
-        {
-          "text": "authorities.",
-          "role": "地点状语"
+          "text": "by the local authorities.",
+          "role": "介词短语"
         }
       ]
     },
@@ -766,56 +562,20 @@
           "role": "宾语"
         },
         {
-          "text": "up",
+          "text": "up a record",
           "role": "介词短语"
         },
         {
-          "text": "a",
+          "text": "for the thousands",
           "role": "介词短语"
         },
         {
-          "text": "record",
+          "text": "of children who dream",
           "role": "介词短语"
         },
         {
-          "text": "for",
+          "text": "of evading school.",
           "role": "介词短语"
-        },
-        {
-          "text": "the",
-          "role": "介词短语"
-        },
-        {
-          "text": "thousands",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "children",
-          "role": "介词短语"
-        },
-        {
-          "text": "who",
-          "role": "介词短语"
-        },
-        {
-          "text": "dream",
-          "role": "介词短语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "evading",
-          "role": "谓语"
-        },
-        {
-          "text": "school.",
-          "role": "宾语"
         }
       ]
     }

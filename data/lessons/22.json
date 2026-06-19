@@ -15,71 +15,35 @@
         },
         {
           "text": "daughter,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "Jane,",
-          "role": "主语"
+          "role": "宾语"
         },
         {
           "text": "never",
-          "role": "主语"
+          "role": "状语"
         },
         {
           "text": "dreamed",
           "role": "谓语"
         },
         {
-          "text": "of",
+          "text": "of receiving a letter",
           "role": "介词短语"
         },
         {
-          "text": "receiving",
+          "text": "from a girl",
+          "role": "地点状语"
+        },
+        {
+          "text": "of her own age",
           "role": "介词短语"
         },
         {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "letter",
-          "role": "介词短语"
-        },
-        {
-          "text": "from",
-          "role": "介词短语"
-        },
-        {
-          "text": "a",
-          "role": "介词短语"
-        },
-        {
-          "text": "girl",
-          "role": "宾语"
-        },
-        {
-          "text": "of",
-          "role": "介词短语"
-        },
-        {
-          "text": "her",
-          "role": "介词短语"
-        },
-        {
-          "text": "own",
-          "role": "介词短语"
-        },
-        {
-          "text": "age",
-          "role": "介词短语"
-        },
-        {
-          "text": "in",
-          "role": "介词短语"
-        },
-        {
-          "text": "Holland.",
-          "role": "介词短语"
+          "text": "in Holland.",
+          "role": "地点状语"
         }
       ]
     },
@@ -90,11 +54,7 @@
       "has_contraction": false,
       "tokens": [
         {
-          "text": "Last",
-          "role": "时间状语"
-        },
-        {
-          "text": "year,",
+          "text": "Last year,",
           "role": "时间状语"
         },
         {
@@ -142,24 +102,12 @@
           "role": "表语"
         },
         {
-          "text": "of",
-          "role": "表语"
+          "text": "of paper",
+          "role": "介词短语"
         },
         {
-          "text": "paper",
-          "role": "表语"
-        },
-        {
-          "text": "with",
-          "role": "表语"
-        },
-        {
-          "text": "her",
-          "role": "表语"
-        },
-        {
-          "text": "name",
-          "role": "表语"
+          "text": "with her name",
+          "role": "介词短语"
         },
         {
           "text": "and",
@@ -171,22 +119,14 @@
         },
         {
           "text": "on",
-          "role": "地点状语"
+          "role": "介词短语"
         },
         {
           "text": "it",
-          "role": "地点状语"
+          "role": "表语"
         },
         {
-          "text": "into",
-          "role": "地点状语"
-        },
-        {
-          "text": "a",
-          "role": "地点状语"
-        },
-        {
-          "text": "bottle.",
+          "text": "into a bottle.",
           "role": "地点状语"
         }
       ]
@@ -214,16 +154,8 @@
           "role": "宾语"
         },
         {
-          "text": "into",
-          "role": "宾语"
-        },
-        {
-          "text": "the",
-          "role": "宾语"
-        },
-        {
-          "text": "sea.",
-          "role": "宾语"
+          "text": "into the sea.",
+          "role": "地点状语"
         }
       ]
     },
@@ -251,11 +183,11 @@
         },
         {
           "text": "it",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "again,",
-          "role": "介词短语"
+          "role": "宾语"
         },
         {
           "text": "but",
@@ -290,23 +222,11 @@
           "role": "宾语"
         },
         {
-          "text": "from",
-          "role": "宾语"
-        },
-        {
-          "text": "a",
-          "role": "宾语"
-        },
-        {
-          "text": "girl",
-          "role": "宾语"
-        },
-        {
-          "text": "in",
+          "text": "from a girl",
           "role": "地点状语"
         },
         {
-          "text": "Holland.",
+          "text": "in Holland.",
           "role": "地点状语"
         }
       ]
@@ -330,23 +250,7 @@
           "role": "宾语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "each",
-          "role": "地点状语"
-        },
-        {
-          "text": "other",
-          "role": "地点状语"
-        },
-        {
-          "text": "regularly",
-          "role": "地点状语"
-        },
-        {
-          "text": "now.",
+          "text": "to each other regularly now.",
           "role": "地点状语"
         }
       ]
@@ -374,23 +278,7 @@
           "role": "谓语"
         },
         {
-          "text": "to",
-          "role": "地点状语"
-        },
-        {
-          "text": "use",
-          "role": "地点状语"
-        },
-        {
-          "text": "the",
-          "role": "地点状语"
-        },
-        {
-          "text": "post",
-          "role": "地点状语"
-        },
-        {
-          "text": "office.",
+          "text": "to use the post office.",
           "role": "地点状语"
         }
       ]
